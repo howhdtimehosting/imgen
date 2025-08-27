@@ -1,0 +1,163 @@
+[
+  {
+    "team_a": "NXT",
+    "team_b": "NXT",
+    "event_name": "WWE NXT",
+    "poster_id": "NXT-NXT-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Vorskla Poltava",
+    "team_b": "WFC Lanchkhuti",
+    "event_name": "UEFA Women's Champions League",
+    "poster_id": "Vorskla-Poltava-WFC-Lanchkhuti-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Machida Zelvia",
+    "team_b": "Kashima Antlers",
+    "event_name": "Emperor Cup",
+    "poster_id": "Machida-Zelvia-Kashima-Antlers-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "BIIK Kazygurt",
+    "team_b": "GKS Katowice",
+    "event_name": "UEFA Women's Champions League",
+    "poster_id": "BIIK-Kazygurt-GKS-Katowice-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Trent Rockets Women",
+    "team_b": "Birmingham Phoenix Women",
+    "event_name": "The Hundred Women",
+    "poster_id": "Trent-Rockets-Women-Birmingham-Phoenix-Women-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Qatar",
+    "team_b": "Denmark",
+    "event_name": "ICC CWC Challenge League A",
+    "poster_id": "Qatar-Denmark-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Italy Women",
+    "team_b": "Ireland Women",
+    "event_name": "ICC Womenâs T20 World Cup Europe Qualifier Division 1",
+    "poster_id": "Italy-Women-Ireland-Women-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Papua New Guinea",
+    "team_b": "Kenya",
+    "event_name": "ICC CWC Challenge League A",
+    "poster_id": "Papua-New-Guinea-Kenya-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Canada",
+    "team_b": "Namibia",
+    "event_name": "ICC CWC League 2",
+    "poster_id": "Canada-Namibia-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Fulham",
+    "team_b": "Bristol City",
+    "event_name": "EFL Cup",
+    "poster_id": "Fulham-Bristol-City-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Trent Rockets",
+    "team_b": "Birmingham Phoenix",
+    "event_name": "The Hundred",
+    "poster_id": "Trent-Rockets-Birmingham-Phoenix-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "QarabaÄ",
+    "team_b": "FerencvÃ¡ros",
+    "event_name": "UEFA Champions League, Playoff Round",
+    "poster_id": "QarabaÄ-FerencvÃ¡ros-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Wehen",
+    "team_b": "Bayern",
+    "event_name": "DFB Pokal",
+    "poster_id": "Wehen-Bayern-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "KÃ¸benhavn",
+    "team_b": "Basel",
+    "event_name": "UEFA Champions League, Playoff Round",
+    "poster_id": "KÃ¸benhavn-Basel-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Oxford Utd",
+    "team_b": "Brighton",
+    "event_name": "EFL Cup",
+    "poster_id": "Oxford-Utd-Brighton-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Everton",
+    "team_b": "Mansfield",
+    "event_name": "EFL Cup",
+    "poster_id": "Everton-Mansfield-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Benfica",
+    "team_b": "FenerbahÃ§e",
+    "event_name": "UEFA Champions League, Playoff Round",
+    "poster_id": "Benfica-FenerbahÃ§e-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Club Brugge",
+    "team_b": "Rangers",
+    "event_name": "UEFA Champions League, Playoff Round",
+    "poster_id": "Club-Brugge-Rangers-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Celta",
+    "team_b": "Real Betis",
+    "event_name": "LaLiga",
+    "poster_id": "Celta-Real-Betis-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Grimsby",
+    "team_b": "Man Utd",
+    "event_name": "EFL Cup",
+    "poster_id": "Grimsby-Man-Utd-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "TNA iMPACT!",
+    "team_b": "TNA iMPACT!",
+    "event_name": "TNA iMPACT!",
+    "poster_id": "TNA-iMPACT!-TNA-iMPACT!-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Formula 1",
+    "team_b": "Formula 1",
+    "event_name": "Formula 1",
+    "poster_id": "Formula-1-Formula-1-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Friday Night Smackdown",
+    "team_b": "Friday Night Smackdown",
+    "event_name": "Friday Night Smackdown",
+    "poster_id": "Friday-Night-Smackdown-Friday-Night-Smackdown-30082025.png",
+    "match_type": "team_vs_team"
+  }
+]

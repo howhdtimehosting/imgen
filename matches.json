@@ -1,23 +1,16 @@
 [
   {
-    "team_a": "Italy Women",
-    "team_b": "Ireland Women",
-    "event_name": "ICC Womenâs T20 World Cup Europe Qualifier Division 1",
-    "poster_id": "Italy-Women-Ireland-Women-27082025.png",
+    "team_a": "Wehen",
+    "team_b": "Bayern",
+    "event_name": "Football",
+    "poster_id": "Wehen-Bayern-27082025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Fulham",
-    "team_b": "Bristol City",
-    "event_name": "EFL Cup",
-    "poster_id": "Fulham-Bristol-City-27082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Trent Rockets",
-    "team_b": "Birmingham Phoenix",
-    "event_name": "The Hundred",
-    "poster_id": "Trent-Rockets-Birmingham-Phoenix-27082025.png",
+    "team_a": "Canada",
+    "team_b": "Namibia",
+    "event_name": "ICC CWC League 2",
+    "poster_id": "Canada-Namibia-27082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -28,17 +21,17 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Wehen",
-    "team_b": "Bayern",
-    "event_name": "DFB Pokal",
-    "poster_id": "Wehen-Bayern-27082025.png",
+    "team_a": "Trent Rockets",
+    "team_b": "Birmingham Phoenix",
+    "event_name": "The Hundred",
+    "poster_id": "Trent-Rockets-Birmingham-Phoenix-27082025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "KÃ¸benhavn",
-    "team_b": "Basel",
-    "event_name": "UEFA Champions League, Playoff Round",
-    "poster_id": "KÃ¸benhavn-Basel-27082025.png",
+    "team_a": "Fulham",
+    "team_b": "Bristol City",
+    "event_name": "EFL Cup",
+    "poster_id": "Fulham-Bristol-City-27082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -56,10 +49,17 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Benfica",
-    "team_b": "FenerbahÃ§e",
+    "team_a": "Wehen",
+    "team_b": "Bayern",
+    "event_name": "DFB Pokal",
+    "poster_id": "Wehen-Bayern-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "KÃ¸benhavn",
+    "team_b": "Basel",
     "event_name": "UEFA Champions League, Playoff Round",
-    "poster_id": "Benfica-FenerbahÃ§e-27082025.png",
+    "poster_id": "KÃ¸benhavn-Basel-27082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -70,17 +70,24 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Celta",
-    "team_b": "Real Betis",
-    "event_name": "LaLiga",
-    "poster_id": "Celta-Real-Betis-27082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Grimsby",
     "team_b": "Man Utd",
     "event_name": "EFL Cup",
     "poster_id": "Grimsby-Man-Utd-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Benfica",
+    "team_b": "FenerbahÃ§e",
+    "event_name": "UEFA Champions League, Playoff Round",
+    "poster_id": "Benfica-FenerbahÃ§e-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Celta",
+    "team_b": "Real Betis",
+    "event_name": "LaLiga",
+    "poster_id": "Celta-Real-Betis-27082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -91,24 +98,17 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Formula 1",
-    "team_b": "Formula 1",
-    "event_name": "Formula 1",
-    "poster_id": "Formula-1-Formula-1-29082025.png",
+    "team_a": "Avenir Sportif De La Marsa",
+    "team_b": "US Monastir",
+    "event_name": "Tunisian Ligue Professionnelle 1",
+    "poster_id": "Avenir-Sportif-De-La-Marsa-US-Monastir-27082025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Friday Night Smackdown",
-    "team_b": "Friday Night Smackdown",
-    "event_name": "Friday Night Smackdown",
-    "poster_id": "Friday-Night-Smackdown-Friday-Night-Smackdown-30082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Inter U20",
-    "team_b": "Cagliari U20",
-    "event_name": "Supercoppa Primavera",
-    "poster_id": "Inter-U20-Cagliari-U20-27082025.png",
+    "team_a": "Follo",
+    "team_b": "Lyn FK",
+    "event_name": "NM Cup",
+    "poster_id": "Follo-Lyn-FK-27082025.png",
     "match_type": "team_vs_team"
   }
 ]

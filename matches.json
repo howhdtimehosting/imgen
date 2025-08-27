@@ -26,5 +26,19 @@
     "event_name": "NM Cup",
     "poster_id": "Follo-Lyn-FK-27082025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "QarabaÄ",
+    "team_b": "FerencvÃ¡ros",
+    "event_name": "UEFA Champions League, Playoff Round",
+    "poster_id": "QarabaÄ-FerencvÃ¡ros-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Trent Rockets",
+    "team_b": "Birmingham Phoenix",
+    "event_name": "The Hundred",
+    "poster_id": "Trent-Rockets-Birmingham-Phoenix-27082025.png",
+    "match_type": "team_vs_team"
   }
 ]

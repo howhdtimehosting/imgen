@@ -1,12 +1,5 @@
 [
   {
-    "team_a": "NXT",
-    "team_b": "NXT",
-    "event_name": "WWE NXT",
-    "poster_id": "NXT-NXT-27082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Vorskla Poltava",
     "team_b": "WFC Lanchkhuti",
     "event_name": "UEFA Women's Champions League",

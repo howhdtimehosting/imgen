@@ -1,58 +1,9 @@
 [
   {
-    "team_a": "Vorskla Poltava",
-    "team_b": "WFC Lanchkhuti",
-    "event_name": "UEFA Women's Champions League",
-    "poster_id": "Vorskla-Poltava-WFC-Lanchkhuti-27082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Machida Zelvia",
-    "team_b": "Kashima Antlers",
-    "event_name": "Emperor Cup",
-    "poster_id": "Machida-Zelvia-Kashima-Antlers-27082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "BIIK Kazygurt",
-    "team_b": "GKS Katowice",
-    "event_name": "UEFA Women's Champions League",
-    "poster_id": "BIIK-Kazygurt-GKS-Katowice-27082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Trent Rockets Women",
-    "team_b": "Birmingham Phoenix Women",
-    "event_name": "The Hundred Women",
-    "poster_id": "Trent-Rockets-Women-Birmingham-Phoenix-Women-27082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Qatar",
-    "team_b": "Denmark",
-    "event_name": "ICC CWC Challenge League A",
-    "poster_id": "Qatar-Denmark-27082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Italy Women",
     "team_b": "Ireland Women",
     "event_name": "ICC Womenâs T20 World Cup Europe Qualifier Division 1",
     "poster_id": "Italy-Women-Ireland-Women-27082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Papua New Guinea",
-    "team_b": "Kenya",
-    "event_name": "ICC CWC Challenge League A",
-    "poster_id": "Papua-New-Guinea-Kenya-27082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Canada",
-    "team_b": "Namibia",
-    "event_name": "ICC CWC League 2",
-    "poster_id": "Canada-Namibia-27082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -151,6 +102,13 @@
     "team_b": "Friday Night Smackdown",
     "event_name": "Friday Night Smackdown",
     "poster_id": "Friday-Night-Smackdown-Friday-Night-Smackdown-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Inter U20",
+    "team_b": "Cagliari U20",
+    "event_name": "Supercoppa Primavera",
+    "poster_id": "Inter-U20-Cagliari-U20-27082025.png",
     "match_type": "team_vs_team"
   }
 ]

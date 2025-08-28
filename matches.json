@@ -1,19 +1,5 @@
 [
   {
-    "team_a": "Canada",
-    "team_b": "Namibia",
-    "event_name": "ICC CWC League 2",
-    "poster_id": "Canada-Namibia-27082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "QarabaÄ",
-    "team_b": "FerencvÃ¡ros",
-    "event_name": "UEFA Champions League, Playoff Round",
-    "poster_id": "QarabaÄ-FerencvÃ¡ros-27082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Avenir Sportif De La Marsa",
     "team_b": "US Monastir",
     "event_name": "Tunisian Ligue Professionnelle 1",
@@ -21,94 +7,87 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Follo",
-    "team_b": "Lyn FK",
-    "event_name": "NM Cup",
-    "poster_id": "Follo-Lyn-FK-27082025.png",
+    "team_a": "UEFA Champions League Draw",
+    "team_b": "UEFA Champions League Draw",
+    "event_name": "UEFA Champions League Draw",
+    "poster_id": "UEFA-Champions-League-Draw-UEFA-Champions-League-Draw-28082025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "QarabaÄ",
-    "team_b": "FerencvÃ¡ros",
-    "event_name": "UEFA Champions League, Playoff Round",
-    "poster_id": "QarabaÄ-FerencvÃ¡ros-27082025.png",
+    "team_a": "Southern Brave Women",
+    "team_b": "Welsh Fire Women",
+    "event_name": "The Hundred Women",
+    "poster_id": "Southern-Brave-Women-Welsh-Fire-Women-28082025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Trent Rockets",
-    "team_b": "Birmingham Phoenix",
+    "team_a": "US Open",
+    "team_b": "US Open",
+    "event_name": "US Open - TV Broadcast",
+    "poster_id": "US-Open-US-Open-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Ettifaq",
+    "team_b": "Al-Kholood",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Ettifaq-Al-Kholood-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Southern Brave",
+    "team_b": "Welsh Fire",
     "event_name": "The Hundred",
-    "poster_id": "Trent-Rockets-Birmingham-Phoenix-27082025.png",
+    "poster_id": "Southern-Brave-Welsh-Fire-28082025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Fulham",
-    "team_b": "Bristol City",
-    "event_name": "EFL Cup",
-    "poster_id": "Fulham-Bristol-City-27082025.png",
+    "team_a": "Damac",
+    "team_b": "Al-Hazem",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Damac-Al-Hazem-28082025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Oxford Utd",
-    "team_b": "Brighton",
-    "event_name": "EFL Cup",
-    "poster_id": "Oxford-Utd-Brighton-27082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Everton",
-    "team_b": "Mansfield",
-    "event_name": "EFL Cup",
-    "poster_id": "Everton-Mansfield-27082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Wehen",
-    "team_b": "Bayern",
-    "event_name": "DFB Pokal",
-    "poster_id": "Wehen-Bayern-27082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Club Brugge",
-    "team_b": "Rangers",
-    "event_name": "UEFA Champions League, Playoff Round",
-    "poster_id": "Club-Brugge-Rangers-27082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "KÃ¸benhavn",
-    "team_b": "Basel",
-    "event_name": "UEFA Champions League, Playoff Round",
-    "poster_id": "KÃ¸benhavn-Basel-27082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Grimsby",
-    "team_b": "Man Utd",
-    "event_name": "EFL Cup",
-    "poster_id": "Grimsby-Man-Utd-27082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Benfica",
-    "team_b": "FenerbahÃ§e",
-    "event_name": "UEFA Champions League, Playoff Round",
-    "poster_id": "Benfica-FenerbahÃ§e-27082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Celta",
-    "team_b": "Real Betis",
-    "event_name": "LaLiga",
-    "poster_id": "Celta-Real-Betis-27082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Trinbago Knight Riders",
-    "team_b": "Antigua & Barbuda Falcons",
+    "team_a": "Saint Lucia Kings",
+    "team_b": "St Kitts and Nevis Patriots",
     "event_name": "Caribbean Premier League",
-    "poster_id": "Trinbago-Knight-Riders-Antigua-&-Barbuda-Falcons-27082025.png",
+    "poster_id": "Saint-Lucia-Kings-St-Kitts-and-Nevis-Patriots-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "TNA iMPACT!",
+    "team_b": "TNA iMPACT!",
+    "event_name": "TNA iMPACT!",
+    "poster_id": "TNA-iMPACT!-TNA-iMPACT!-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Ahli",
+    "team_b": "Neom SC",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Ahli-Neom-SC-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Friday Night Smackdown",
+    "team_b": "Friday Night Smackdown",
+    "event_name": "Friday Night Smackdown",
+    "poster_id": "Friday-Night-Smackdown-Friday-Night-Smackdown-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Formula 1",
+    "team_b": "Formula 1",
+    "event_name": "Formula 1",
+    "poster_id": "Formula-1-Formula-1-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Raw",
+    "team_b": "Raw",
+    "event_name": "Monday Night Raw",
+    "poster_id": "Raw-Raw-02092025.png",
     "match_type": "team_vs_team"
   }
 ]

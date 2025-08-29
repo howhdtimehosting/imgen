@@ -7,73 +7,31 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "UEFA Champions League Draw",
-    "team_b": "UEFA Champions League Draw",
-    "event_name": "UEFA Champions League Draw",
-    "poster_id": "UEFA-Champions-League-Draw-UEFA-Champions-League-Draw-28082025.png",
+    "team_a": "Wari Athletic Club",
+    "team_b": "United Sports Club",
+    "event_name": "Calcutta Premier Division",
+    "poster_id": "Wari-Athletic-Club-United-Sports-Club-29082025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Southern Brave Women",
-    "team_b": "Welsh Fire Women",
-    "event_name": "The Hundred Women",
-    "poster_id": "Southern-Brave-Women-Welsh-Fire-Women-28082025.png",
+    "team_a": "East Bengal FC",
+    "team_b": "Kalighat MS",
+    "event_name": "Calcutta Premier Division",
+    "poster_id": "East-Bengal-FC-Kalighat-MS-29082025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "US Open",
-    "team_b": "US Open",
-    "event_name": "US Open - TV Broadcast",
-    "poster_id": "US-Open-US-Open-28082025.png",
+    "team_a": "Measures Club",
+    "team_b": "George Telegraph",
+    "event_name": "Calcutta Premier Division",
+    "poster_id": "Measures-Club-George-Telegraph-29082025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Al-Ettifaq",
-    "team_b": "Al-Kholood",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Ettifaq-Al-Kholood-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Southern Brave",
-    "team_b": "Welsh Fire",
-    "event_name": "The Hundred",
-    "poster_id": "Southern-Brave-Welsh-Fire-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Damac",
-    "team_b": "Al-Hazem",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Damac-Al-Hazem-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Saint Lucia Kings",
-    "team_b": "St Kitts and Nevis Patriots",
-    "event_name": "Caribbean Premier League",
-    "poster_id": "Saint-Lucia-Kings-St-Kitts-and-Nevis-Patriots-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "TNA iMPACT!",
-    "team_b": "TNA iMPACT!",
-    "event_name": "TNA iMPACT!",
-    "poster_id": "TNA-iMPACT!-TNA-iMPACT!-29082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Ahli",
-    "team_b": "Neom SC",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Ahli-Neom-SC-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Friday Night Smackdown",
-    "team_b": "Friday Night Smackdown",
-    "event_name": "Friday Night Smackdown",
-    "poster_id": "Friday-Night-Smackdown-Friday-Night-Smackdown-30082025.png",
+    "team_a": "Namibia",
+    "team_b": "Scotland",
+    "event_name": "ICC CWC League 2",
+    "poster_id": "Namibia-Scotland-29082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -84,10 +42,171 @@
     "match_type": "team_vs_team"
   },
   {
+    "team_a": "Sudan",
+    "team_b": "Senegal",
+    "event_name": "African Nations Championship",
+    "poster_id": "Sudan-Senegal-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Hilal",
+    "team_b": "Al-Riyadh",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Hilal-Al-Riyadh-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Afghanistan",
+    "team_b": "Pakistan",
+    "event_name": "T20I Tri-Series in UAE",
+    "poster_id": "Afghanistan-Pakistan-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cremonese",
+    "team_b": "Sassuolo",
+    "event_name": "Serie A",
+    "poster_id": "Cremonese-Sassuolo-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Sociedad B ",
+    "team_b": "AlmerÃ­a",
+    "event_name": "LaLiga 2",
+    "poster_id": "Real-Sociedad-B-AlmerÃ­a-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "NÃ¼rnberg",
+    "team_b": "Paderborn",
+    "event_name": "2. Bundesliga",
+    "poster_id": "NÃ¼rnberg-Paderborn-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Hertha",
+    "team_b": "Elversberg",
+    "event_name": "2. Bundesliga",
+    "poster_id": "Hertha-Elversberg-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Shabab",
+    "team_b": "Al-Khaleej",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Shabab-Al-Khaleej-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Taawoun",
+    "team_b": "Al-Nassr",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Taawoun-Al-Nassr-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Elche",
+    "team_b": "Levante",
+    "event_name": "LaLiga",
+    "poster_id": "Elche-Levante-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Lens",
+    "team_b": "Brest",
+    "event_name": "Ligue 1",
+    "poster_id": "Lens-Brest-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Lecce",
+    "team_b": "Milan",
+    "event_name": "Serie A",
+    "poster_id": "Lecce-Milan-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "HSV",
+    "team_b": "St. Pauli",
+    "event_name": "Bundesliga",
+    "poster_id": "HSV-St.-Pauli-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Valencia",
+    "team_b": "Getafe",
+    "event_name": "LaLiga",
+    "poster_id": "Valencia-Getafe-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Gil Vicente",
+    "team_b": "Moreirense",
+    "event_name": "Liga Portugal Betclic",
+    "poster_id": "Gil-Vicente-Moreirense-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Leicester",
+    "team_b": "Birmingham",
+    "event_name": "Championship",
+    "poster_id": "Leicester-Birmingham-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Leicester",
+    "team_b": "Birmingham",
+    "event_name": "Championship",
+    "poster_id": "Leicester-Birmingham-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Northern Superchargers Women",
+    "team_b": "London Spirit Women",
+    "event_name": "The Hundred Women, Playoffs",
+    "poster_id": "Northern-Superchargers-Women-London-Spirit-Women-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Trinbago Knight Riders",
+    "team_b": "Barbados Royals",
+    "event_name": "Caribbean Premier League",
+    "poster_id": "Trinbago-Knight-Riders-Barbados-Royals-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sporting",
+    "team_b": "Cultural Leonesa",
+    "event_name": "LaLiga 2",
+    "poster_id": "Sporting-Cultural-Leonesa-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Friday Night Smackdown",
+    "team_b": "Friday Night Smackdown",
+    "event_name": "Friday Night Smackdown",
+    "poster_id": "Friday-Night-Smackdown-Friday-Night-Smackdown-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Madagascar",
+    "team_b": "Morocco",
+    "event_name": "African Nations Championship",
+    "poster_id": "Madagascar-Morocco-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
     "team_a": "Raw",
     "team_b": "Raw",
     "event_name": "Monday Night Raw",
     "poster_id": "Raw-Raw-02092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Trent Rockets",
+    "team_b": "Northern Superchargers",
+    "event_name": "The Hundred, Playoffs",
+    "poster_id": "Trent-Rockets-Northern-Superchargers-30082025.png",
     "match_type": "team_vs_team"
   }
 ]

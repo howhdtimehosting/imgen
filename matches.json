@@ -1,86 +1,9 @@
 [
   {
-    "team_a": "Avenir Sportif De La Marsa",
-    "team_b": "US Monastir",
-    "event_name": "Tunisian Ligue Professionnelle 1",
-    "poster_id": "Avenir-Sportif-De-La-Marsa-US-Monastir-27082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Namibia",
-    "team_b": "Scotland",
-    "event_name": "ICC CWC League 2",
-    "poster_id": "Namibia-Scotland-29082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Formula 1",
     "team_b": "Formula 1",
     "event_name": "Formula 1",
     "poster_id": "Formula-1-Formula-1-29082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sudan",
-    "team_b": "Senegal",
-    "event_name": "African Nations Championship",
-    "poster_id": "Sudan-Senegal-29082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Hilal",
-    "team_b": "Al-Riyadh",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Hilal-Al-Riyadh-29082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Afghanistan",
-    "team_b": "Pakistan",
-    "event_name": "T20I Tri-Series in UAE",
-    "poster_id": "Afghanistan-Pakistan-29082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Cremonese",
-    "team_b": "Sassuolo",
-    "event_name": "Serie A",
-    "poster_id": "Cremonese-Sassuolo-29082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Sociedad B ",
-    "team_b": "AlmerÃ­a",
-    "event_name": "LaLiga 2",
-    "poster_id": "Real-Sociedad-B-AlmerÃ­a-29082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "NÃ¼rnberg",
-    "team_b": "Paderborn",
-    "event_name": "2. Bundesliga",
-    "poster_id": "NÃ¼rnberg-Paderborn-29082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Hertha",
-    "team_b": "Elversberg",
-    "event_name": "2. Bundesliga",
-    "poster_id": "Hertha-Elversberg-29082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Shabab",
-    "team_b": "Al-Khaleej",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Shabab-Al-Khaleej-29082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Taawoun",
-    "team_b": "Al-Nassr",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Taawoun-Al-Nassr-29082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -91,17 +14,17 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Lens",
-    "team_b": "Brest",
-    "event_name": "Ligue 1",
-    "poster_id": "Lens-Brest-29082025.png",
+    "team_a": "Real Sociedad B ",
+    "team_b": "AlmerÃ­a",
+    "event_name": "LaLiga 2",
+    "poster_id": "Real-Sociedad-B-AlmerÃ­a-29082025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Lecce",
-    "team_b": "Milan",
-    "event_name": "Serie A",
-    "poster_id": "Lecce-Milan-29082025.png",
+    "team_a": "Al-Shabab",
+    "team_b": "Al-Khaleej",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Shabab-Al-Khaleej-29082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -112,10 +35,45 @@
     "match_type": "team_vs_team"
   },
   {
+    "team_a": "Lecce",
+    "team_b": "Milan",
+    "event_name": "Serie A",
+    "poster_id": "Lecce-Milan-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Taawoun",
+    "team_b": "Al-Nassr",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Taawoun-Al-Nassr-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Lens",
+    "team_b": "Brest",
+    "event_name": "Ligue 1",
+    "poster_id": "Lens-Brest-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
     "team_a": "Valencia",
     "team_b": "Getafe",
     "event_name": "LaLiga",
     "poster_id": "Valencia-Getafe-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "HEXAGONE MMA",
+    "team_b": "HEXAGONE MMA",
+    "event_name": "HEXAGONE MMA 33",
+    "poster_id": "HEXAGONE-MMA-HEXAGONE-MMA-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Leicester",
+    "team_b": "Birmingham",
+    "event_name": "Championship",
+    "poster_id": "Leicester-Birmingham-29082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -126,38 +84,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Leicester",
-    "team_b": "Birmingham",
-    "event_name": "Championship",
-    "poster_id": "Leicester-Birmingham-29082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Leicester",
-    "team_b": "Birmingham",
-    "event_name": "Championship",
-    "poster_id": "Leicester-Birmingham-29082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Northern Superchargers Women",
-    "team_b": "London Spirit Women",
-    "event_name": "The Hundred Women, Playoffs",
-    "poster_id": "Northern-Superchargers-Women-London-Spirit-Women-30082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Trinbago Knight Riders",
     "team_b": "Barbados Royals",
     "event_name": "Caribbean Premier League",
     "poster_id": "Trinbago-Knight-Riders-Barbados-Royals-30082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sporting",
-    "team_b": "Cultural Leonesa",
-    "event_name": "LaLiga 2",
-    "poster_id": "Sporting-Cultural-Leonesa-29082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -168,17 +98,24 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Madagascar",
-    "team_b": "Morocco",
-    "event_name": "African Nations Championship",
-    "poster_id": "Madagascar-Morocco-30082025.png",
+    "team_a": "Sporting",
+    "team_b": "Cultural Leonesa",
+    "event_name": "LaLiga 2",
+    "poster_id": "Sporting-Cultural-Leonesa-29082025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Raw",
-    "team_b": "Raw",
-    "event_name": "Monday Night Raw",
-    "poster_id": "Raw-Raw-02092025.png",
+    "team_a": "Formula 1",
+    "team_b": "Formula 1",
+    "event_name": "Formula 1",
+    "poster_id": "Formula-1-Formula-1-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Northern Superchargers Women",
+    "team_b": "London Spirit Women",
+    "event_name": "The Hundred Women, Playoffs",
+    "poster_id": "Northern-Superchargers-Women-London-Spirit-Women-30082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -186,6 +123,20 @@
     "team_b": "Northern Superchargers",
     "event_name": "The Hundred, Playoffs",
     "poster_id": "Trent-Rockets-Northern-Superchargers-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Madagascar",
+    "team_b": "Morocco",
+    "event_name": "African Nations Championship",
+    "poster_id": "Madagascar-Morocco-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Zimbabwe",
+    "team_b": "Sri Lanka",
+    "event_name": "Sri Lanka in Zimbabwe, 2 ODI Series",
+    "poster_id": "Zimbabwe-Sri-Lanka-31082025.png",
     "match_type": "team_vs_team"
   }
 ]

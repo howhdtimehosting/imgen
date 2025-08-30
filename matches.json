@@ -1,96 +1,5 @@
 [
   {
-    "team_a": "Formula 1",
-    "team_b": "Formula 1",
-    "event_name": "Formula 1",
-    "poster_id": "Formula-1-Formula-1-29082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Elche",
-    "team_b": "Levante",
-    "event_name": "LaLiga",
-    "poster_id": "Elche-Levante-29082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Sociedad B ",
-    "team_b": "AlmerÃ­a",
-    "event_name": "LaLiga 2",
-    "poster_id": "Real-Sociedad-B-AlmerÃ­a-29082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Shabab",
-    "team_b": "Al-Khaleej",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Shabab-Al-Khaleej-29082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "HSV",
-    "team_b": "St. Pauli",
-    "event_name": "Bundesliga",
-    "poster_id": "HSV-St.-Pauli-29082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Lecce",
-    "team_b": "Milan",
-    "event_name": "Serie A",
-    "poster_id": "Lecce-Milan-29082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Taawoun",
-    "team_b": "Al-Nassr",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Taawoun-Al-Nassr-29082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Lens",
-    "team_b": "Brest",
-    "event_name": "Ligue 1",
-    "poster_id": "Lens-Brest-29082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Valencia",
-    "team_b": "Getafe",
-    "event_name": "LaLiga",
-    "poster_id": "Valencia-Getafe-29082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "HEXAGONE MMA",
-    "team_b": "HEXAGONE MMA",
-    "event_name": "HEXAGONE MMA 33",
-    "poster_id": "HEXAGONE-MMA-HEXAGONE-MMA-29082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Leicester",
-    "team_b": "Birmingham",
-    "event_name": "Championship",
-    "poster_id": "Leicester-Birmingham-29082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Gil Vicente",
-    "team_b": "Moreirense",
-    "event_name": "Liga Portugal Betclic",
-    "poster_id": "Gil-Vicente-Moreirense-29082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Trinbago Knight Riders",
-    "team_b": "Barbados Royals",
-    "event_name": "Caribbean Premier League",
-    "poster_id": "Trinbago-Knight-Riders-Barbados-Royals-30082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Friday Night Smackdown",
     "team_b": "Friday Night Smackdown",
     "event_name": "Friday Night Smackdown",
@@ -98,45 +7,458 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Sporting",
-    "team_b": "Cultural Leonesa",
-    "event_name": "LaLiga 2",
-    "poster_id": "Sporting-Cultural-Leonesa-29082025.png",
+    "team_a": "PNG",
+    "team_b": "QAT",
+    "event_name": "Cricket",
+    "poster_id": "PNG-QAT-30082025.png",
     "match_type": "team_vs_team"
   },
   {
     "team_a": "Formula 1",
     "team_b": "Formula 1",
-    "event_name": "Formula 1",
+    "event_name": "Motorsport",
     "poster_id": "Formula-1-Formula-1-30082025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Northern Superchargers Women",
-    "team_b": "London Spirit Women",
-    "event_name": "The Hundred Women, Playoffs",
-    "poster_id": "Northern-Superchargers-Women-London-Spirit-Women-30082025.png",
+    "team_a": "KEN",
+    "team_b": "KUW",
+    "event_name": "Cricket",
+    "poster_id": "KEN-KUW-30082025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Trent Rockets",
-    "team_b": "Northern Superchargers",
-    "event_name": "The Hundred, Playoffs",
-    "poster_id": "Trent-Rockets-Northern-Superchargers-30082025.png",
+    "team_a": "Bochum",
+    "team_b": "Munster",
+    "event_name": "Football",
+    "poster_id": "Bochum-Munster-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Kiel",
+    "team_b": "Hannover",
+    "event_name": "Football",
+    "poster_id": "Kiel-Hannover-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Braunschweig",
+    "team_b": "Bielefeld",
+    "event_name": "Football",
+    "poster_id": "Braunschweig-Bielefeld-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Stoke",
+    "team_b": "West Brom",
+    "event_name": "Football",
+    "poster_id": "Stoke-West-Brom-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Chelsea",
+    "team_b": "Fulham",
+    "event_name": "Football",
+    "poster_id": "Chelsea-Fulham-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "QPR",
+    "team_b": "Charlton",
+    "event_name": "Football",
+    "poster_id": "QPR-Charlton-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "BAN",
+    "team_b": "NED",
+    "event_name": "Cricket",
+    "poster_id": "BAN-NED-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Middlesbrough",
+    "team_b": "Sheffield Utd",
+    "event_name": "Football",
+    "poster_id": "Middlesbrough-Sheffield-Utd-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "NOS-W",
+    "team_b": "LNS-W",
+    "event_name": "Cricket",
+    "poster_id": "NOS-W-LNS-W-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bremen",
+    "team_b": "Leverkusen",
+    "event_name": "Football",
+    "poster_id": "Bremen-Leverkusen-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Leipzig",
+    "team_b": "Heidenheim",
+    "event_name": "Football",
+    "poster_id": "Leipzig-Heidenheim-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Stuttgart",
+    "team_b": "Mgladbach",
+    "event_name": "Football",
+    "poster_id": "Stuttgart-Mgladbach-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sunderland",
+    "team_b": "Brentford",
+    "event_name": "Football",
+    "poster_id": "Sunderland-Brentford-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Wolves",
+    "team_b": "Everton",
+    "event_name": "Football",
+    "poster_id": "Wolves-Everton-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Hoffenheim",
+    "team_b": "Frankfurt",
+    "event_name": "Football",
+    "poster_id": "Hoffenheim-Frankfurt-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Tottenham ",
+    "team_b": "Bournemouth",
+    "event_name": "Football",
+    "poster_id": "Tottenham-Bournemouth-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Man Utd",
+    "team_b": "Burnley",
+    "event_name": "Football",
+    "poster_id": "Man-Utd-Burnley-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Watford",
+    "team_b": "Southampton",
+    "event_name": "Football",
+    "poster_id": "Watford-Southampton-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Millwall",
+    "team_b": "Wrexham",
+    "event_name": "Football",
+    "poster_id": "Millwall-Wrexham-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Blackburn",
+    "team_b": "Norwich",
+    "event_name": "Football",
+    "poster_id": "Blackburn-Norwich-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Oxford Utd",
+    "team_b": "Coventry",
+    "event_name": "Football",
+    "poster_id": "Oxford-Utd-Coventry-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sheffield Wed",
+    "team_b": "Swansea",
+    "event_name": "Football",
+    "poster_id": "Sheffield-Wed-Swansea-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Ipswich",
+    "team_b": "Derby",
+    "event_name": "Football",
+    "poster_id": "Ipswich-Derby-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Portsmouth",
+    "team_b": "Preston",
+    "event_name": "Football",
+    "poster_id": "Portsmouth-Preston-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Burton",
+    "team_b": "Luton",
+    "event_name": "Football",
+    "poster_id": "Burton-Luton-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bristol City",
+    "team_b": "Hull",
+    "event_name": "Football",
+    "poster_id": "Bristol-City-Hull-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Volendam",
+    "team_b": "Ajax",
+    "event_name": "Football",
+    "poster_id": "Volendam-Ajax-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "UAE",
+    "team_b": "PAK",
+    "event_name": "Cricket",
+    "poster_id": "UAE-PAK-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Casa Pia",
+    "team_b": "Nacional",
+    "event_name": "Football",
+    "poster_id": "Casa-Pia-Nacional-30082025.png",
     "match_type": "team_vs_team"
   },
   {
     "team_a": "Madagascar",
     "team_b": "Morocco",
-    "event_name": "African Nations Championship",
+    "event_name": "Football",
     "poster_id": "Madagascar-Morocco-30082025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Zimbabwe",
-    "team_b": "Sri Lanka",
-    "event_name": "Sri Lanka in Zimbabwe, 2 ODI Series",
-    "poster_id": "Zimbabwe-Sri-Lanka-31082025.png",
+    "team_a": "R. Racing Club",
+    "team_b": "AD Ceuta",
+    "event_name": "Football",
+    "poster_id": "R.-Racing-Club-AD-Ceuta-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Alaves",
+    "team_b": "Atl. Madrid",
+    "event_name": "Football",
+    "poster_id": "Alaves-Atl.-Madrid-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Lorient",
+    "team_b": "Lille",
+    "event_name": "Football",
+    "poster_id": "Lorient-Lille-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Fateh",
+    "team_b": "Al-Fayha",
+    "event_name": "Football",
+    "poster_id": "Al-Fateh-Al-Fayha-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Leeds",
+    "team_b": "Newcastle",
+    "event_name": "Football",
+    "poster_id": "Leeds-Newcastle-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Parma",
+    "team_b": "Atalanta",
+    "event_name": "Football",
+    "poster_id": "Parma-Atalanta-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bologna",
+    "team_b": "Como",
+    "event_name": "Football",
+    "poster_id": "Bologna-Como-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "TRT",
+    "team_b": "NOS",
+    "event_name": "Cricket",
+    "poster_id": "TRT-NOS-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Augsburg",
+    "team_b": "Bayern",
+    "event_name": "Football",
+    "poster_id": "Augsburg-Bayern-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Oviedo",
+    "team_b": "Real Sociedad",
+    "event_name": "Football",
+    "poster_id": "Real-Oviedo-Real-Sociedad-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Nantes",
+    "team_b": "Auxerre",
+    "event_name": "Football",
+    "poster_id": "Nantes-Auxerre-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Vitoria",
+    "team_b": "Arouca",
+    "event_name": "Football",
+    "poster_id": "Vitoria-Arouca-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Girona",
+    "team_b": "Sevilla",
+    "event_name": "Football",
+    "poster_id": "Girona-Sevilla-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "AVS",
+    "team_b": "Famalicao",
+    "event_name": "Football",
+    "poster_id": "AVS-Famalicao-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Valladolid",
+    "team_b": "Cordoba",
+    "event_name": "Football",
+    "poster_id": "Real-Valladolid-Cordoba-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "PSV",
+    "team_b": "Telstar",
+    "event_name": "Football",
+    "poster_id": "PSV-Telstar-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Qadsiah",
+    "team_b": "Al-Najma",
+    "event_name": "Football",
+    "poster_id": "Al-Qadsiah-Al-Najma-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Okhdood",
+    "team_b": "Al-Ittihad",
+    "event_name": "Football",
+    "poster_id": "Al-Okhdood-Al-Ittihad-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Galatasaray",
+    "team_b": "Rizespor",
+    "event_name": "Football",
+    "poster_id": "Galatasaray-Rizespor-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pisa",
+    "team_b": "Roma",
+    "event_name": "Football",
+    "poster_id": "Pisa-Roma-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Fortuna",
+    "team_b": "Karlsruhe",
+    "event_name": "Football",
+    "poster_id": "Fortuna-Karlsruhe-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Napoli",
+    "team_b": "Cagliari",
+    "event_name": "Football",
+    "poster_id": "Napoli-Cagliari-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Toulouse",
+    "team_b": "PSG",
+    "event_name": "Football",
+    "poster_id": "Toulouse-PSG-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Excelsior",
+    "team_b": "Twente",
+    "event_name": "Football",
+    "poster_id": "Excelsior-Twente-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Madrid",
+    "team_b": "Mallorca",
+    "event_name": "Football",
+    "poster_id": "Real-Madrid-Mallorca-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sporting",
+    "team_b": "Porto",
+    "event_name": "Football",
+    "poster_id": "Sporting-Porto-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Castellon",
+    "team_b": "Real Zaragoza",
+    "event_name": "Football",
+    "poster_id": "Castellon-Real-Zaragoza-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "ZIM",
+    "team_b": "SL",
+    "event_name": "Cricket",
+    "poster_id": "ZIM-SL-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cavalry",
+    "team_b": "Forge",
+    "event_name": "Football",
+    "poster_id": "Cavalry-Forge-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "WWE RAW",
+    "team_b": "WWE RAW",
+    "event_name": "WWE",
+    "poster_id": "WWE-RAW-WWE-RAW-02092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "WWE NXT",
+    "team_b": "WWE NXT",
+    "event_name": "WWE",
+    "poster_id": "WWE-NXT-WWE-NXT-03092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "TNA iMPACT!",
+    "team_b": "TNA iMPACT!",
+    "event_name": "Boxing",
+    "poster_id": "TNA-iMPACT!-TNA-iMPACT!-05092025.png",
     "match_type": "team_vs_team"
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "team_a": "Friday Night Smackdown",
-    "team_b": "Friday Night Smackdown",
-    "event_name": "Friday Night Smackdown",
-    "poster_id": "Friday-Night-Smackdown-Friday-Night-Smackdown-30082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "PNG",
     "team_b": "QAT",
     "event_name": "Cricket",
@@ -25,27 +18,6 @@
     "team_b": "KUW",
     "event_name": "Cricket",
     "poster_id": "KEN-KUW-30082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bochum",
-    "team_b": "Munster",
-    "event_name": "Football",
-    "poster_id": "Bochum-Munster-30082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Kiel",
-    "team_b": "Hannover",
-    "event_name": "Football",
-    "poster_id": "Kiel-Hannover-30082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Braunschweig",
-    "team_b": "Bielefeld",
-    "event_name": "Football",
-    "poster_id": "Braunschweig-Bielefeld-30082025.png",
     "match_type": "team_vs_team"
   },
   {

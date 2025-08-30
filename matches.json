@@ -460,5 +460,12 @@
     "event_name": "Boxing",
     "poster_id": "TNA-iMPACT!-TNA-iMPACT!-05092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Trinbago Knight Riders",
+    "team_b": "Guyana Amazon Warriors",
+    "event_name": "Caribbean Premier League",
+    "poster_id": "Trinbago-Knight-Riders-Guyana-Amazon-Warriors-30082025.png",
+    "match_type": "team_vs_team"
   }
 ]

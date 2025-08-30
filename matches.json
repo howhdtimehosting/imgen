@@ -1,26 +1,5 @@
 [
   {
-    "team_a": "Pisa",
-    "team_b": "Roma",
-    "event_name": "Football",
-    "poster_id": "Pisa-Roma-30082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Napoli",
-    "team_b": "Cagliari",
-    "event_name": "Football",
-    "poster_id": "Napoli-Cagliari-30082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Toulouse",
-    "team_b": "PSG",
-    "event_name": "Football",
-    "poster_id": "Toulouse-PSG-30082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Excelsior",
     "team_b": "Twente",
     "event_name": "Football",

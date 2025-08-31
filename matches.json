@@ -1,72 +1,345 @@
 [
   {
-    "team_a": "Excelsior",
-    "team_b": "Twente",
-    "event_name": "Football",
-    "poster_id": "Excelsior-Twente-30082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Madrid",
-    "team_b": "Mallorca",
-    "event_name": "Football",
-    "poster_id": "Real-Madrid-Mallorca-30082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sporting",
-    "team_b": "Porto",
-    "event_name": "Football",
-    "poster_id": "Sporting-Porto-30082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Castellon",
-    "team_b": "Real Zaragoza",
-    "event_name": "Football",
-    "poster_id": "Castellon-Real-Zaragoza-30082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "ZIM",
-    "team_b": "SL",
-    "event_name": "Cricket",
-    "poster_id": "ZIM-SL-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Cavalry",
-    "team_b": "Forge",
-    "event_name": "Football",
-    "poster_id": "Cavalry-Forge-30082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "WWE RAW",
-    "team_b": "WWE RAW",
-    "event_name": "WWE",
-    "poster_id": "WWE-RAW-WWE-RAW-02092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "WWE NXT",
-    "team_b": "WWE NXT",
-    "event_name": "WWE",
-    "poster_id": "WWE-NXT-WWE-NXT-03092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "TNA iMPACT!",
-    "team_b": "TNA iMPACT!",
-    "event_name": "Boxing",
-    "poster_id": "TNA-iMPACT!-TNA-iMPACT!-05092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Trinbago Knight Riders",
     "team_b": "Guyana Amazon Warriors",
     "event_name": "Caribbean Premier League",
     "poster_id": "Trinbago-Knight-Riders-Guyana-Amazon-Warriors-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Nigeria Women",
+    "team_b": "Sierra Leone Women",
+    "event_name": "ICC Women's T20 World Cup Africa Qualifier Division 1, Group A",
+    "poster_id": "Nigeria-Women-Sierra-Leone-Women-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Kenya Women",
+    "team_b": "Rwanda Women",
+    "event_name": "ICC Women's T20 World Cup Africa Qualifier Division 1, Group B",
+    "poster_id": "Kenya-Women-Rwanda-Women-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Toronto",
+    "team_b": "MontrÃ©al",
+    "event_name": "MLS",
+    "poster_id": "Toronto-MontrÃ©al-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Measures Club",
+    "team_b": "Kalighat MS",
+    "event_name": "Calcutta Premier Division",
+    "poster_id": "Measures-Club-Kalighat-MS-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Zimbabwe",
+    "team_b": "Sri Lanka",
+    "event_name": "Sri Lanka in Zimbabwe, 2 ODI Series",
+    "poster_id": "Zimbabwe-Sri-Lanka-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "BSS Sporting Club",
+    "team_b": "Railway FC",
+    "event_name": "Calcutta Premier Division",
+    "poster_id": "BSS-Sporting-Club-Railway-FC-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Jersey",
+    "team_b": "Qatar",
+    "event_name": "ICC CWC Challenge League A",
+    "poster_id": "Jersey-Qatar-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Denmark",
+    "team_b": "Kenya",
+    "event_name": "ICC CWC Challenge League A",
+    "poster_id": "Denmark-Kenya-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Dresden",
+    "team_b": "Schalke",
+    "event_name": "2. Bundesliga",
+    "poster_id": "Dresden-Schalke-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Zimbabwe Women",
+    "team_b": "Namibia Women",
+    "event_name": "ICC Women's T20 World Cup Africa Qualifier Division 1, Group A",
+    "poster_id": "Zimbabwe-Women-Namibia-Women-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Magdeburg",
+    "team_b": "FÃ¼rth",
+    "event_name": "2. Bundesliga",
+    "poster_id": "Magdeburg-FÃ¼rth-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Kaiserslautern",
+    "team_b": "Darmstadt",
+    "event_name": "2. Bundesliga",
+    "poster_id": "Kaiserslautern-Darmstadt-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Uganda Women",
+    "team_b": "Tanzania Women",
+    "event_name": "ICC Women's T20 World Cup Africa Qualifier Division 1, Group B",
+    "poster_id": "Uganda-Women-Tanzania-Women-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Brighton",
+    "team_b": "Man City",
+    "event_name": "Premier League",
+    "poster_id": "Brighton-Man-City-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sparta",
+    "team_b": "Feyenoord",
+    "event_name": "VriendenLoterij Eredivisie",
+    "poster_id": "Sparta-Feyenoord-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Forest",
+    "team_b": "West Ham",
+    "event_name": "Premier League",
+    "poster_id": "Forest-West-Ham-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Angers",
+    "team_b": "Rennes",
+    "event_name": "Ligue 1",
+    "poster_id": "Angers-Rennes-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Formula 1",
+    "team_b": "Formula 1",
+    "event_name": "Formula 1",
+    "poster_id": "Formula-1-Formula-1-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Canada",
+    "team_b": "Scotland",
+    "event_name": "ICC CWC League 2",
+    "poster_id": "Canada-Scotland-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Wolfsburg",
+    "team_b": "Mainz 05",
+    "event_name": "Bundesliga",
+    "poster_id": "Wolfsburg-Mainz-05-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Tondela",
+    "team_b": "Estoril",
+    "event_name": "Liga Portugal Betclic",
+    "poster_id": "Tondela-Estoril-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Andorra",
+    "team_b": "Burgos",
+    "event_name": "LaLiga 2",
+    "poster_id": "FC-Andorra-Burgos-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "NAC Breda",
+    "team_b": "AZ",
+    "event_name": "VriendenLoterij Eredivisie",
+    "poster_id": "NAC-Breda-AZ-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Celta",
+    "team_b": "Villarreal",
+    "event_name": "LaLiga",
+    "poster_id": "Celta-Villarreal-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "CÃ¡diz",
+    "team_b": "Albacete",
+    "event_name": "LaLiga 2",
+    "poster_id": "CÃ¡diz-Albacete-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Paris",
+    "team_b": "Metz",
+    "event_name": "Ligue 1",
+    "poster_id": "Paris-Metz-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "AS Monaco",
+    "team_b": "Strasbourg",
+    "event_name": "Ligue 1",
+    "poster_id": "AS-Monaco-Strasbourg-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Dortmund",
+    "team_b": "Union Berlin",
+    "event_name": "Bundesliga",
+    "poster_id": "Dortmund-Union-Berlin-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Le Havre",
+    "team_b": "Nice",
+    "event_name": "Ligue 1",
+    "poster_id": "Le-Havre-Nice-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Liverpool",
+    "team_b": "Arsenal",
+    "event_name": "Premier League",
+    "poster_id": "Liverpool-Arsenal-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Torino",
+    "team_b": "Fiorentina",
+    "event_name": "Serie A",
+    "poster_id": "Torino-Fiorentina-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "GenÃ§lerbirliÄi",
+    "team_b": "FenerbahÃ§e",
+    "event_name": "Trendyol SÃ¼per Lig",
+    "poster_id": "GenÃ§lerbirliÄi-FenerbahÃ§e-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "AL-Arabi (SA)",
+    "team_b": "Al-Ahli",
+    "event_name": "King's Cup",
+    "poster_id": "AL-Arabi-(SA)-Al-Ahli-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "KÃ¶ln",
+    "team_b": "Freiburg",
+    "event_name": "Bundesliga",
+    "poster_id": "KÃ¶ln-Freiburg-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Genoa",
+    "team_b": "Juventus",
+    "event_name": "Serie A",
+    "poster_id": "Genoa-Juventus-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Betis",
+    "team_b": "Athletic Club",
+    "event_name": "LaLiga",
+    "poster_id": "Real-Betis-Athletic-Club-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Espanyol",
+    "team_b": "Osasuna",
+    "event_name": "LaLiga",
+    "poster_id": "Espanyol-Osasuna-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Lyon",
+    "team_b": "Marseille",
+    "event_name": "Ligue 1",
+    "poster_id": "Lyon-Marseille-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Las Palmas",
+    "team_b": "MÃ¡laga",
+    "event_name": "LaLiga 2",
+    "poster_id": "Las-Palmas-MÃ¡laga-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Aston Villa",
+    "team_b": "Crystal Palace",
+    "event_name": "Premier League",
+    "poster_id": "Aston-Villa-Crystal-Palace-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Inter Milan",
+    "team_b": "Udinese",
+    "event_name": "Serie A",
+    "poster_id": "Inter-Milan-Udinese-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Rio Ave",
+    "team_b": "Braga",
+    "event_name": "Liga Portugal Betclic",
+    "poster_id": "Rio-Ave-Braga-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Lazio",
+    "team_b": "Verona",
+    "event_name": "Serie A",
+    "poster_id": "Lazio-Verona-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Santa Clara",
+    "team_b": "Estrela Amadora",
+    "event_name": "Liga Portugal Betclic",
+    "poster_id": "Santa-Clara-Estrela-Amadora-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Rayo Vallecano",
+    "team_b": "Barcelona",
+    "event_name": "LaLiga",
+    "poster_id": "Rayo-Vallecano-Barcelona-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Granada",
+    "team_b": "MirandÃ©s",
+    "event_name": "LaLiga 2",
+    "poster_id": "Granada-MirandÃ©s-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bangladesh",
+    "team_b": "Netherlands",
+    "event_name": "Netherlands in Bangladesh, 3 T20I Series",
+    "poster_id": "Bangladesh-Netherlands-01092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Afghanistan",
+    "team_b": "United Arab Emirates",
+    "event_name": "T20I Tri-Series in UAE",
+    "poster_id": "Afghanistan-United-Arab-Emirates-01092025.png",
     "match_type": "team_vs_team"
   }
 ]

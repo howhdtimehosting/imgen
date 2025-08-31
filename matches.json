@@ -1,10 +1,10 @@
 [
   {
     "team_a": "Trinbago Knight Riders",
-    "team_b": "Guyana Amazon Warriors",
+    "team_b": "",
     "event_name": "Caribbean Premier League",
-    "poster_id": "Trinbago-Knight-Riders-Guyana-Amazon-Warriors-30082025.png",
-    "match_type": "team_vs_team"
+    "poster_id": "Trinbago-Knight-Riders-30082025.png",
+    "match_type": "single_event"
   },
   {
     "team_a": "Nigeria Women",
@@ -18,13 +18,6 @@
     "team_b": "Rwanda Women",
     "event_name": "ICC Women's T20 World Cup Africa Qualifier Division 1, Group B",
     "poster_id": "Kenya-Women-Rwanda-Women-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Toronto",
-    "team_b": "MontrÃ©al",
-    "event_name": "MLS",
-    "poster_id": "Toronto-MontrÃ©al-30082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -340,6 +333,34 @@
     "team_b": "United Arab Emirates",
     "event_name": "T20I Tri-Series in UAE",
     "poster_id": "Afghanistan-United-Arab-Emirates-01092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Zimbabwe",
+    "team_b": "Sri Lanka",
+    "event_name": "2nd ODI",
+    "poster_id": "Zimbabwe-Sri-Lanka-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Team A",
+    "team_b": "Team B",
+    "event_name": "The Hundred: Men's Final",
+    "poster_id": "Team-A-Team-B-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Saint Lucia Zouks",
+    "team_b": "Antigua &amp; Barbuda Falcons",
+    "event_name": "Caribbean Premier League",
+    "poster_id": "Saint-Lucia-Zouks-Antigua-&amp;-Barbuda-Falcons-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Southern Brave",
+    "team_b": "TBC",
+    "event_name": "The Hundred Women's Final",
+    "poster_id": "Southern-Brave-TBC-31082025.png",
     "match_type": "team_vs_team"
   }
 ]

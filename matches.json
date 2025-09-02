@@ -1,149 +1,16 @@
 [
   {
-    "team_a": "Torino",
-    "team_b": "Fiorentina",
-    "event_name": "Serie A",
-    "poster_id": "Torino-Fiorentina-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "GenÃ§lerbirliÄi",
-    "team_b": "FenerbahÃ§e",
-    "event_name": "Trendyol SÃ¼per Lig",
-    "poster_id": "GenÃ§lerbirliÄi-FenerbahÃ§e-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "AL-Arabi (SA)",
-    "team_b": "Al-Ahli",
-    "event_name": "King's Cup",
-    "poster_id": "AL-Arabi-(SA)-Al-Ahli-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "KÃ¶ln",
-    "team_b": "Freiburg",
-    "event_name": "Bundesliga",
-    "poster_id": "KÃ¶ln-Freiburg-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Genoa",
-    "team_b": "Juventus",
-    "event_name": "Serie A",
-    "poster_id": "Genoa-Juventus-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Betis",
-    "team_b": "Athletic Club",
-    "event_name": "LaLiga",
-    "poster_id": "Real-Betis-Athletic-Club-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Espanyol",
-    "team_b": "Osasuna",
-    "event_name": "LaLiga",
-    "poster_id": "Espanyol-Osasuna-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Lyon",
-    "team_b": "Marseille",
-    "event_name": "Ligue 1",
-    "poster_id": "Lyon-Marseille-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Las Palmas",
-    "team_b": "MÃ¡laga",
-    "event_name": "LaLiga 2",
-    "poster_id": "Las-Palmas-MÃ¡laga-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Aston Villa",
-    "team_b": "Crystal Palace",
-    "event_name": "Premier League",
-    "poster_id": "Aston-Villa-Crystal-Palace-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Inter Milan",
-    "team_b": "Udinese",
-    "event_name": "Serie A",
-    "poster_id": "Inter-Milan-Udinese-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Rio Ave",
-    "team_b": "Braga",
-    "event_name": "Liga Portugal Betclic",
-    "poster_id": "Rio-Ave-Braga-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Lazio",
-    "team_b": "Verona",
-    "event_name": "Serie A",
-    "poster_id": "Lazio-Verona-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Santa Clara",
-    "team_b": "Estrela Amadora",
-    "event_name": "Liga Portugal Betclic",
-    "poster_id": "Santa-Clara-Estrela-Amadora-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Rayo Vallecano",
-    "team_b": "Barcelona",
-    "event_name": "LaLiga",
-    "poster_id": "Rayo-Vallecano-Barcelona-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Granada",
-    "team_b": "MirandÃ©s",
-    "event_name": "LaLiga 2",
-    "poster_id": "Granada-MirandÃ©s-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bangladesh",
-    "team_b": "Netherlands",
-    "event_name": "Netherlands in Bangladesh, 3 T20I Series",
-    "poster_id": "Bangladesh-Netherlands-01092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Afghanistan",
-    "team_b": "United Arab Emirates",
+    "team_b": "Pakistan",
     "event_name": "T20I Tri-Series in UAE",
-    "poster_id": "Afghanistan-United-Arab-Emirates-01092025.png",
+    "poster_id": "Afghanistan-Pakistan-02092025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Team A",
-    "team_b": "Team B",
-    "event_name": "The Hundred: Men's Final",
-    "poster_id": "Team-A-Team-B-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Liverpool",
-    "team_b": "Arsenal",
-    "event_name": "Premier League",
-    "poster_id": "Liverpool-Arsenal-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Dortmund",
-    "team_b": "Union Berlin",
-    "event_name": "Bundesliga",
-    "poster_id": "Dortmund-Union-Berlin-31082025.png",
+    "team_a": "England",
+    "team_b": "South Africa",
+    "event_name": "One Day International",
+    "poster_id": "England-South-Africa-02092025.png",
     "match_type": "team_vs_team"
   }
 ]

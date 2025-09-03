@@ -12,5 +12,201 @@
     "event_name": "One Day International",
     "poster_id": "England-South-Africa-02092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Lithuania",
+    "team_b": "Sweden",
+    "event_name": "European Championship, Men Group B",
+    "poster_id": "Lithuania-Sweden-03092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Czechia",
+    "team_b": "Latvia",
+    "event_name": "European Championship, Men Group A",
+    "poster_id": "Czechia-Latvia-03092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Seychelles",
+    "team_b": "Gabon",
+    "event_name": "FIFA World Cup, Qualification CAF",
+    "poster_id": "Seychelles-Gabon-03092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "GroÃaspach",
+    "team_b": "Stuttgart",
+    "event_name": "Club Friendly Games",
+    "poster_id": "GroÃaspach-Stuttgart-03092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "US Open",
+    "team_b": "US Open",
+    "event_name": "US Open - TV Broadcast",
+    "poster_id": "US-Open-US-Open-03092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Qatar",
+    "team_b": "Bahrain",
+    "event_name": "Int. Friendly Games",
+    "poster_id": "Qatar-Bahrain-03092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Washington Nationals",
+    "team_b": "Miami Marlins",
+    "event_name": "MLB",
+    "poster_id": "Washington-Nationals-Miami-Marlins-03092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Detroit Tigers",
+    "team_b": "New York Mets",
+    "event_name": "MLB",
+    "poster_id": "Detroit-Tigers-New-York-Mets-03092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Finland",
+    "team_b": "Germany",
+    "event_name": "European Championship, Men Group B",
+    "poster_id": "Finland-Germany-03092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Arizona Diamondbacks",
+    "team_b": "Texas Rangers",
+    "event_name": "MLB",
+    "poster_id": "Arizona-Diamondbacks-Texas-Rangers-03092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "San Diego Padres",
+    "team_b": "Baltimore Orioles",
+    "event_name": "MLB",
+    "poster_id": "San-Diego-Padres-Baltimore-Orioles-03092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "TÃ¼rkiye",
+    "team_b": "Serbia",
+    "event_name": "European Championship, Men Group A",
+    "poster_id": "TÃ¼rkiye-Serbia-03092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pittsburgh Pirates",
+    "team_b": "Los Angeles Dodgers",
+    "event_name": "MLB",
+    "poster_id": "Pittsburgh-Pirates-Los-Angeles-Dodgers-03092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cincinnati Reds",
+    "team_b": "Toronto Blue Jays",
+    "event_name": "MLB",
+    "poster_id": "Cincinnati-Reds-Toronto-Blue-Jays-03092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Trinbago Knight Riders",
+    "team_b": "Saint Lucia Kings",
+    "event_name": "Caribbean Premier League",
+    "poster_id": "Trinbago-Knight-Riders-Saint-Lucia-Kings-03092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "England",
+    "team_b": "South Africa",
+    "event_name": "South Africa in England, 3 ODI Series",
+    "poster_id": "England-South-Africa-04092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pakistan",
+    "team_b": "United Arab Emirates",
+    "event_name": "T20I Tri-Series in UAE",
+    "poster_id": "Pakistan-United-Arab-Emirates-04092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Uruguay",
+    "team_b": "Peru",
+    "event_name": "World Cup Qualification, CONMEBOL",
+    "poster_id": "Uruguay-Peru-04092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Argentina",
+    "team_b": "Venezuela",
+    "event_name": "World Cup Qualification, CONMEBOL",
+    "poster_id": "Argentina-Venezuela-04092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Colombia",
+    "team_b": "Bolivia",
+    "event_name": "World Cup Qualification, CONMEBOL",
+    "poster_id": "Colombia-Bolivia-04092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "TNA iMPACT!",
+    "team_b": "TNA iMPACT!",
+    "event_name": "TNA iMPACT!",
+    "poster_id": "TNA-iMPACT!-TNA-iMPACT!-05092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Brazil",
+    "team_b": "Chile",
+    "event_name": "World Cup Qualification, CONMEBOL",
+    "poster_id": "Brazil-Chile-05092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Paraguay",
+    "team_b": "Ecuador",
+    "event_name": "World Cup Qualification, CONMEBOL",
+    "poster_id": "Paraguay-Ecuador-04092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "MotoGP",
+    "team_b": "MotoGP",
+    "event_name": "MotoGP",
+    "poster_id": "MotoGP-MotoGP-05092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Friday Night Smackdown",
+    "team_b": "Friday Night Smackdown",
+    "event_name": "Friday Night Smackdown",
+    "poster_id": "Friday-Night-Smackdown-Friday-Night-Smackdown-06092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Nassourdine Imavov",
+    "team_b": "Caio Borralho",
+    "event_name": "UFC Fight Night Main Card",
+    "poster_id": "Nassourdine-Imavov-Caio-Borralho-06092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Friday Fights",
+    "team_b": "Friday Fights",
+    "event_name": "ONE Fighting Championship",
+    "poster_id": "Friday-Fights-Friday-Fights-05092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Raw",
+    "team_b": "Raw",
+    "event_name": "Monday Night Raw",
+    "poster_id": "Raw-Raw-09092025.png",
+    "match_type": "team_vs_team"
   }
 ]

@@ -1,33 +1,5 @@
 [
   {
-    "team_a": "Colombia",
-    "team_b": "Bolivia",
-    "event_name": "World Cup Qualification, CONMEBOL",
-    "poster_id": "Colombia-Bolivia-04092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "TNA iMPACT!",
-    "team_b": "TNA iMPACT!",
-    "event_name": "TNA iMPACT!",
-    "poster_id": "TNA-iMPACT!-TNA-iMPACT!-05092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Brazil",
-    "team_b": "Chile",
-    "event_name": "World Cup Qualification, CONMEBOL",
-    "poster_id": "Brazil-Chile-05092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Paraguay",
-    "team_b": "Ecuador",
-    "event_name": "World Cup Qualification, CONMEBOL",
-    "poster_id": "Paraguay-Ecuador-04092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "MotoGP",
     "team_b": "MotoGP",
     "event_name": "MotoGP",
@@ -60,13 +32,6 @@
     "team_b": "Raw",
     "event_name": "Monday Night Raw",
     "poster_id": "Raw-Raw-09092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Argentina",
-    "team_b": "Venezuela",
-    "event_name": "World Cup Qualification, CONMEBOL",
-    "poster_id": "Argentina-Venezuela-04092025.png",
     "match_type": "team_vs_team"
   }
 ]

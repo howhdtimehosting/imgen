@@ -29,9 +29,9 @@
   },
   {
     "team_a": "Raw",
-    "team_b": "",
+    "team_b": "Raw",
     "event_name": "Monday Night Raw",
-    "poster_id": "Raw-09092025.png",
-    "match_type": "single_event"
+    "poster_id": "Raw-Raw-09092025.png",
+    "match_type": "team_vs_team"
   }
 ]

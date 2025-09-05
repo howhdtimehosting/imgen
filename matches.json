@@ -1,47 +1,5 @@
 [
   {
-    "team_a": "Afghanistan",
-    "team_b": "Pakistan",
-    "event_name": "T20I Tri-Series in UAE",
-    "poster_id": "Afghanistan-Pakistan-02092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "England",
-    "team_b": "South Africa",
-    "event_name": "One Day International",
-    "poster_id": "England-South-Africa-02092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "England",
-    "team_b": "South Africa",
-    "event_name": "South Africa in England, 3 ODI Series",
-    "poster_id": "England-South-Africa-04092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Pakistan",
-    "team_b": "United Arab Emirates",
-    "event_name": "T20I Tri-Series in UAE",
-    "poster_id": "Pakistan-United-Arab-Emirates-04092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Uruguay",
-    "team_b": "Peru",
-    "event_name": "World Cup Qualification, CONMEBOL",
-    "poster_id": "Uruguay-Peru-04092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Argentina",
-    "team_b": "Venezuela",
-    "event_name": "World Cup Qualification, CONMEBOL",
-    "poster_id": "Argentina-Venezuela-04092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Colombia",
     "team_b": "Bolivia",
     "event_name": "World Cup Qualification, CONMEBOL",
@@ -102,6 +60,13 @@
     "team_b": "Raw",
     "event_name": "Monday Night Raw",
     "poster_id": "Raw-Raw-09092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Argentina",
+    "team_b": "Venezuela",
+    "event_name": "World Cup Qualification, CONMEBOL",
+    "poster_id": "Argentina-Venezuela-04092025.png",
     "match_type": "team_vs_team"
   }
 ]

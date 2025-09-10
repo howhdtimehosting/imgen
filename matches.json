@@ -1,233 +1,44 @@
 [
   {
-    "team_a": "Nassourdine Imavov",
-    "team_b": "Caio Borralho",
-    "event_name": "UFC Fight Night Main Card",
-    "poster_id": "Nassourdine-Imavov-Caio-Borralho-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Raw",
-    "team_b": "Raw",
-    "event_name": "Monday Night Raw",
-    "poster_id": "Raw-Raw-09092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Armenia",
-    "team_b": "Portugal",
-    "event_name": "World Cup Qual. UEFA F",
-    "poster_id": "Armenia-Portugal-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Nigeria",
-    "team_b": "Rwanda",
-    "event_name": "FIFA World Cup, Qualification CAF, Group C",
-    "poster_id": "Nigeria-Rwanda-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "England",
-    "team_b": "Andorra",
-    "event_name": "World Cup Qual. UEFA K",
-    "poster_id": "England-Andorra-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bromley",
-    "team_b": "Gillingham",
-    "event_name": "League Two",
-    "poster_id": "Bromley-Gillingham-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Armenia",
-    "team_b": "Portugal",
-    "event_name": "World Cup Qual. UEFA F",
-    "poster_id": "Armenia-Portugal-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Montreal Alouettes",
-    "team_b": "Hamilton Tiger-Cats",
-    "event_name": "CFL",
-    "poster_id": "Montreal-Alouettes-Hamilton-Tiger-Cats-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Egypt",
-    "team_b": "Tunisia",
-    "event_name": "Int. Friendly Games",
-    "poster_id": "Egypt-Tunisia-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Zaragoza",
-    "team_b": "Real Valladolid",
-    "event_name": "LaLiga 2",
-    "poster_id": "Real-Zaragoza-Real-Valladolid-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Serbia",
-    "team_b": "Finland",
-    "event_name": "European Championship, Final Round",
-    "poster_id": "Serbia-Finland-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Nassourdine Imavov",
-    "team_b": "Caio Borralho",
-    "event_name": "UFC Fight Night Main Card",
-    "poster_id": "Nassourdine-Imavov-Caio-Borralho-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Somerset",
-    "team_b": "Warwickshire",
-    "event_name": "Vitality Blast, Quarter Final",
-    "poster_id": "Somerset-Warwickshire-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "San Marino",
-    "team_b": "Bosnia & Herzegovina",
-    "event_name": "World Cup Qual. UEFA H",
-    "poster_id": "San-Marino-Bosnia-&-Herzegovina-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Ireland",
-    "team_b": "Hungary",
-    "event_name": "World Cup Qual. UEFA F",
-    "poster_id": "Ireland-Hungary-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Austria",
-    "team_b": "Cyprus",
-    "event_name": "World Cup Qual. UEFA H",
-    "poster_id": "Austria-Cyprus-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Austria",
-    "team_b": "Cyprus",
-    "event_name": "World Cup Qual. UEFA H",
-    "poster_id": "Austria-Cyprus-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "MÃ¡laga",
-    "team_b": "Granada",
-    "event_name": "LaLiga 2",
-    "poster_id": "MÃ¡laga-Granada-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "San Marino",
-    "team_b": "Bosnia & Herzegovina",
-    "event_name": "World Cup Qual. UEFA H",
-    "poster_id": "San-Marino-Bosnia-&-Herzegovina-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Edmonton Elks",
-    "team_b": "Calgary Stampeders",
-    "event_name": "CFL",
-    "poster_id": "Edmonton-Elks-Calgary-Stampeders-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Winnipeg Blue Bombers",
-    "team_b": "Saskatchewan Roughriders",
-    "event_name": "CFL",
-    "poster_id": "Winnipeg-Blue-Bombers-Saskatchewan-Roughriders-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "USA",
-    "team_b": "South Korea",
-    "event_name": "Int. Friendly Games",
-    "poster_id": "USA-South-Korea-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "NC Courage",
-    "team_b": "Utah Royals",
-    "event_name": "NWSL",
-    "poster_id": "NC-Courage-Utah-Royals-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Guyana Amazon Warriors",
-    "team_b": "Trinbago Knight Riders",
-    "event_name": "Caribbean Premier League",
-    "poster_id": "Guyana-Amazon-Warriors-Trinbago-Knight-Riders-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bay FC",
-    "team_b": "Kansas City",
-    "event_name": "NWSL",
-    "poster_id": "Bay-FC-Kansas-City-07092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Mexico",
-    "team_b": "Japan",
-    "event_name": "Int. Friendly Games",
-    "poster_id": "Mexico-Japan-07092025.png",
-    "match_type": "team_vs_team"
+    "team_a": "Asia Cup | ð§ð© BD ð HK ð­ð°",
+    "team_b": "",
+    "event_name": "Asia Cup 2025\u0016",
+    "poster_id": "Asia-Cup-ð§ð©-BD-ð-HK-ð­ð°-11092025.png",
+    "match_type": "single_event"
   },
   {
     "team_a": "England",
     "team_b": "South Africa",
-    "event_name": "South Africa in England, 3 ODI Series",
-    "poster_id": "England-South-Africa-07092025.png",
+    "event_name": "T20 International",
+    "poster_id": "England-South-Africa-12092025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "North Macedonia",
-    "team_b": "Liechtenstein",
-    "event_name": "World Cup Qual. UEFA J",
-    "poster_id": "North-Macedonia-Liechtenstein-07092025.png",
+    "team_a": "Eswatini",
+    "team_b": "Mozambique",
+    "event_name": "T20 International",
+    "poster_id": "Eswatini-Mozambique-13092025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Pakistan",
-    "team_b": "Afghanistan",
-    "event_name": "T20I Tri-Series in UAE, Final",
-    "poster_id": "Pakistan-Afghanistan-07092025.png",
+    "team_a": "Eswatini",
+    "team_b": "Mozambique",
+    "event_name": "T20 International",
+    "poster_id": "Eswatini-Mozambique-13092025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Lithuania",
-    "team_b": "Netherlands",
-    "event_name": "World Cup Qual. UEFA G",
-    "poster_id": "Lithuania-Netherlands-07092025.png",
+    "team_a": "Eswatini",
+    "team_b": "Mozambique",
+    "event_name": "T20 International",
+    "poster_id": "Eswatini-Mozambique-12092025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Raw",
-    "team_b": "Raw",
-    "event_name": "Monday Night Raw",
-    "poster_id": "Raw-Raw-09092025.png",
+    "team_a": "Lancashire",
+    "team_b": "Somerset",
+    "event_name": "T20 Blast",
+    "poster_id": "Lancashire-Somerset-13092025.png",
     "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "US Open",
-    "team_b": "US Open",
-    "event_name": "US Open - TV Broadcast",
-    "poster_id": "US-Open-US-Open-07092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Asia Cup | ð®ð³ IND ð UAE ð¦ðª",
-    "team_b": "",
-    "event_name": "Asia Cup 2025\u0016",
-    "poster_id": "Asia-Cup-ð®ð³-IND-ð-UAE-ð¦ðª-10092025.png",
-    "match_type": "single_event"
   }
 ]

@@ -306,5 +306,12 @@
     "event_name": "WWE NXT",
     "poster_id": "NXT-NXT-10092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Asia Cup | ð®ð³ IND ð UAE ð¦ðª",
+    "team_b": "",
+    "event_name": "Asia Cup 2025\u0016",
+    "poster_id": "Asia-Cup-ð®ð³-IND-ð-UAE-ð¦ðª-10092025.png",
+    "match_type": "single_event"
   }
 ]

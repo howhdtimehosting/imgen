@@ -40,5 +40,40 @@
     "event_name": "T20 Blast",
     "poster_id": "Lancashire-Somerset-13092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Barbados Royals",
+    "team_b": "Trinbago Knight Riders",
+    "event_name": "Caribbean Premier League Women",
+    "poster_id": "Barbados-Royals-Trinbago-Knight-Riders-10092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Guyana Amazon Warriors",
+    "team_b": "Antigua &amp; Barbuda Falcons",
+    "event_name": "Caribbean Premier League",
+    "poster_id": "Guyana-Amazon-Warriors-Antigua-&amp;-Barbuda-Falcons-10092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Rhode Island",
+    "team_b": "Sacramento Republic",
+    "event_name": "USL Cup",
+    "poster_id": "Rhode-Island-Sacramento-Republic-10092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Fluminense",
+    "team_b": "Bahia",
+    "event_name": "Copa do Brasil",
+    "poster_id": "Fluminense-Bahia-10092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Hartford Athletic",
+    "team_b": "Greenville Triumph",
+    "event_name": "USL Cup",
+    "poster_id": "Hartford-Athletic-Greenville-Triumph-10092025.png",
+    "match_type": "team_vs_team"
   }
 ]

@@ -14,76 +14,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Latvia",
-    "team_b": "Serbia",
-    "event_name": "World Cup Qual. UEFA K",
-    "poster_id": "Latvia-Serbia-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Wales",
-    "team_b": "Fiji",
-    "event_name": "World Cup, Women Pool B",
-    "poster_id": "Wales-Fiji-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Lancashire",
-    "team_b": "Kent",
-    "event_name": "Vitality Blast, Quarter Final",
-    "poster_id": "Lancashire-Kent-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Warrington Wolves",
-    "team_b": "Leigh Leopards",
-    "event_name": "Super League",
-    "poster_id": "Warrington-Wolves-Leigh-Leopards-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Doncaster",
-    "team_b": "Bradford",
-    "event_name": "League One",
-    "poster_id": "Doncaster-Bradford-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bolton",
-    "team_b": "Wimbledon",
-    "event_name": "League One",
-    "poster_id": "Bolton-Wimbledon-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Canada",
-    "team_b": "Scotland",
-    "event_name": "ICC CWC League 2",
-    "poster_id": "Canada-Scotland-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Deportivo",
-    "team_b": "Sporting",
-    "event_name": "LaLiga 2",
-    "poster_id": "Deportivo-Sporting-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Lithuania",
-    "team_b": "Latvia",
-    "event_name": "European Championship, Final Round",
-    "poster_id": "Lithuania-Latvia-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "England",
-    "team_b": "Australia",
-    "event_name": "World Cup, Women Pool A",
-    "poster_id": "England-Australia-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Armenia",
     "team_b": "Portugal",
     "event_name": "World Cup Qual. UEFA F",
@@ -259,13 +189,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Georgia",
-    "team_b": "Bulgaria",
-    "event_name": "World Cup Qual. UEFA E",
-    "poster_id": "Georgia-Bulgaria-07092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "North Macedonia",
     "team_b": "Liechtenstein",
     "event_name": "World Cup Qual. UEFA J",
@@ -298,13 +221,6 @@
     "team_b": "US Open",
     "event_name": "US Open - TV Broadcast",
     "poster_id": "US-Open-US-Open-07092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "NXT",
-    "team_b": "NXT",
-    "event_name": "WWE NXT",
-    "poster_id": "NXT-NXT-10092025.png",
     "match_type": "team_vs_team"
   },
   {

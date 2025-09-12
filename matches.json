@@ -1,9 +1,9 @@
 [
   {
-    "team_a": "Asia Cup | ð§ð© BD ð HK ð­ð°",
+    "team_a": "Asia Cup | ðµð° PK ð OMð´ð²",
     "team_b": "",
     "event_name": "Asia Cup 2025\u0016",
-    "poster_id": "Asia-Cup-ð§ð©-BD-ð-HK-ð­ð°-11092025.png",
+    "poster_id": "Asia-Cup-ðµð°-PK-ð-OMð´ð²-12092025.png",
     "match_type": "single_event"
   },
   {
@@ -28,52 +28,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Eswatini",
-    "team_b": "Mozambique",
-    "event_name": "T20 International",
-    "poster_id": "Eswatini-Mozambique-12092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Lancashire",
     "team_b": "Somerset",
     "event_name": "T20 Blast",
     "poster_id": "Lancashire-Somerset-13092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Barbados Royals",
-    "team_b": "Trinbago Knight Riders",
-    "event_name": "Caribbean Premier League Women",
-    "poster_id": "Barbados-Royals-Trinbago-Knight-Riders-10092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Guyana Amazon Warriors",
-    "team_b": "Antigua &amp; Barbuda Falcons",
-    "event_name": "Caribbean Premier League",
-    "poster_id": "Guyana-Amazon-Warriors-Antigua-&amp;-Barbuda-Falcons-10092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Rhode Island",
-    "team_b": "Sacramento Republic",
-    "event_name": "USL Cup",
-    "poster_id": "Rhode-Island-Sacramento-Republic-10092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Fluminense",
-    "team_b": "Bahia",
-    "event_name": "Copa do Brasil",
-    "poster_id": "Fluminense-Bahia-10092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Hartford Athletic",
-    "team_b": "Greenville Triumph",
-    "event_name": "USL Cup",
-    "poster_id": "Hartford-Athletic-Greenville-Triumph-10092025.png",
     "match_type": "team_vs_team"
   }
 ]

@@ -61,5 +61,208 @@
     "event_name": "Portugal - Liga 3",
     "poster_id": "AcadÃ©mica-CF-Os-Belenenses-13092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Go Ahead Eagles",
+    "team_b": "Volendam",
+    "event_name": "Netherlands - Eredivisie",
+    "poster_id": "Go-Ahead-Eagles-Volendam-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Krasnodar",
+    "team_b": "Akron",
+    "event_name": "Russia - Premier League",
+    "poster_id": "Krasnodar-Akron-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Huesca",
+    "team_b": "MÃ¡laga",
+    "event_name": "Spain - Segunda Division",
+    "poster_id": "Huesca-MÃ¡laga-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bnei Sakhnin",
+    "team_b": "Hapoel Haifa",
+    "event_name": "Israel - Ligat Ha'Al",
+    "poster_id": "Bnei-Sakhnin-Hapoel-Haifa-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "NEC",
+    "team_b": "PSV",
+    "event_name": "Netherlands - Eredivisie",
+    "poster_id": "NEC-PSV-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Go Ahead Eagles",
+    "team_b": "Volendam",
+    "event_name": "Netherlands - Eredivisie",
+    "poster_id": "Go-Ahead-Eagles-Volendam-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "North Carolina Courage",
+    "team_b": "Angel City",
+    "event_name": "NWSL",
+    "poster_id": "North-Carolina-Courage-Angel-City-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bnei Sakhnin",
+    "team_b": "Hapoel Haifa",
+    "event_name": "Israel - Ligat Ha'Al",
+    "poster_id": "Bnei-Sakhnin-Hapoel-Haifa-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "West Ham United",
+    "team_b": "Tottenham Hotspur",
+    "event_name": "England - Premier League",
+    "poster_id": "West-Ham-United-Tottenham-Hotspur-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al Hussein",
+    "team_b": "Al Faisaly",
+    "event_name": "Jordan - Jordan League",
+    "poster_id": "Al-Hussein-Al-Faisaly-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FUS Rabat",
+    "team_b": "Raja Casablanca",
+    "event_name": "Morocco - Botola Pro",
+    "poster_id": "FUS-Rabat-Raja-Casablanca-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Athletic Club",
+    "team_b": "Deportivo AlavÃ©s",
+    "event_name": "Spain - La Liga",
+    "poster_id": "Athletic-Club-Deportivo-AlavÃ©s-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bayern MÃ¼nchen",
+    "team_b": "Hamburger SV",
+    "event_name": "Bundesliga",
+    "poster_id": "Bayern-MÃ¼nchen-Hamburger-SV-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cove Rangers",
+    "team_b": "Inverness CT",
+    "event_name": "Scottish League 1",
+    "poster_id": "Cove-Rangers-Inverness-CT-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Go Ahead Eagles",
+    "team_b": "Volendam",
+    "event_name": "Netherlands - Eredivisie",
+    "poster_id": "Go-Ahead-Eagles-Volendam-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "North Carolina Courage",
+    "team_b": "Angel City",
+    "event_name": "NWSL",
+    "poster_id": "North-Carolina-Courage-Angel-City-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bnei Sakhnin",
+    "team_b": "Hapoel Haifa",
+    "event_name": "Israel - Ligat Ha'Al",
+    "poster_id": "Bnei-Sakhnin-Hapoel-Haifa-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "West Ham United",
+    "team_b": "Tottenham Hotspur",
+    "event_name": "England - Premier League",
+    "poster_id": "West-Ham-United-Tottenham-Hotspur-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al Hussein",
+    "team_b": "Al Faisaly",
+    "event_name": "Jordan - Jordan League",
+    "poster_id": "Al-Hussein-Al-Faisaly-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Athletic Club",
+    "team_b": "Deportivo AlavÃ©s",
+    "event_name": "Spain - La Liga",
+    "poster_id": "Athletic-Club-Deportivo-AlavÃ©s-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bayern MÃ¼nchen",
+    "team_b": "Hamburger SV",
+    "event_name": "Bundesliga",
+    "poster_id": "Bayern-MÃ¼nchen-Hamburger-SV-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cove Rangers",
+    "team_b": "Inverness CT",
+    "event_name": "Scottish League 1",
+    "poster_id": "Cove-Rangers-Inverness-CT-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Go Ahead Eagles",
+    "team_b": "Volendam",
+    "event_name": "Netherlands - Eredivisie",
+    "poster_id": "Go-Ahead-Eagles-Volendam-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "North Carolina Courage",
+    "team_b": "Angel City",
+    "event_name": "NWSL",
+    "poster_id": "North-Carolina-Courage-Angel-City-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bnei Sakhnin",
+    "team_b": "Hapoel Haifa",
+    "event_name": "Israel - Ligat Ha'Al",
+    "poster_id": "Bnei-Sakhnin-Hapoel-Haifa-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "West Ham United",
+    "team_b": "Tottenham Hotspur",
+    "event_name": "England - Premier League",
+    "poster_id": "West-Ham-United-Tottenham-Hotspur-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al Hussein",
+    "team_b": "Al Faisaly",
+    "event_name": "Jordan - Jordan League",
+    "poster_id": "Al-Hussein-Al-Faisaly-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Athletic Club",
+    "team_b": "Deportivo AlavÃ©s",
+    "event_name": "Spain - La Liga",
+    "poster_id": "Athletic-Club-Deportivo-AlavÃ©s-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bayern MÃ¼nchen",
+    "team_b": "Hamburger SV",
+    "event_name": "Bundesliga",
+    "poster_id": "Bayern-MÃ¼nchen-Hamburger-SV-13092025.png",
+    "match_type": "team_vs_team"
   }
 ]

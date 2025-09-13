@@ -1,10 +1,45 @@
 [
   {
-    "team_a": "Asia Cup | ðµð° PK ð OMð´ð²",
-    "team_b": "",
-    "event_name": "Asia Cup 2025\u0016",
-    "poster_id": "Asia-Cup-ðµð°-PK-ð-OMð´ð²-12092025.png",
-    "match_type": "single_event"
+    "team_a": "WWE NXT",
+    "team_b": "WWE NXT",
+    "event_name": "WWE NXT",
+    "poster_id": "WWE-NXT-WWE-NXT-17092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "RAW",
+    "team_b": "RAW",
+    "event_name": "Monday Night RAW",
+    "poster_id": "RAW-RAW-16092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "SmackDown",
+    "team_b": "SmackDown",
+    "event_name": "Friday Night SmackDown",
+    "poster_id": "SmackDown-SmackDown-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Formula 1",
+    "team_b": "Formula 1",
+    "event_name": "Formula 1",
+    "poster_id": "Formula-1-Formula-1-19092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "MotoGP",
+    "team_b": "MotoGP",
+    "event_name": "MotoGP",
+    "poster_id": "MotoGP-MotoGP-12092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "TNA iMPACT!",
+    "team_b": "TNA iMPACT!",
+    "event_name": "TNA iMPACT!",
+    "poster_id": "TNA-iMPACT!-TNA-iMPACT!-12092025.png",
+    "match_type": "team_vs_team"
   },
   {
     "team_a": "England",
@@ -14,24 +49,150 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Eswatini",
-    "team_b": "Mozambique",
-    "event_name": "T20 International",
-    "poster_id": "Eswatini-Mozambique-13092025.png",
+    "team_a": "Pakistan",
+    "team_b": "Oman",
+    "event_name": "Asia Cup",
+    "poster_id": "Pakistan-Oman-12092025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Eswatini",
-    "team_b": "Mozambique",
-    "event_name": "T20 International",
-    "poster_id": "Eswatini-Mozambique-13092025.png",
+    "team_a": "Diego Lopes",
+    "team_b": "Jean Silva",
+    "event_name": "UFC",
+    "poster_id": "Diego-Lopes-Jean-Silva-14092025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Lancashire",
-    "team_b": "Somerset",
-    "event_name": "T20 Blast",
-    "poster_id": "Lancashire-Somerset-13092025.png",
+    "team_a": "Crystal Palace",
+    "team_b": "Sunderland",
+    "event_name": "Premier League",
+    "poster_id": "Crystal-Palace-Sunderland-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Everton",
+    "team_b": "Aston Villa",
+    "event_name": "Premier League",
+    "poster_id": "Everton-Aston-Villa-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Newcastle United",
+    "team_b": "Wolverhampton",
+    "event_name": "Premier League",
+    "poster_id": "Newcastle-United-Wolverhampton-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sevilla",
+    "team_b": "Elche",
+    "event_name": "LaLiga",
+    "poster_id": "Sevilla-Elche-12092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Getafe",
+    "team_b": "Real Oviedo",
+    "event_name": "LaLiga",
+    "poster_id": "Getafe-Real-Oviedo-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cagliari",
+    "team_b": "Parma",
+    "event_name": "Serie A",
+    "poster_id": "Cagliari-Parma-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Arsenal",
+    "team_b": "Nottingham Forest",
+    "event_name": "Premier League",
+    "poster_id": "Arsenal-Nottingham-Forest-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bournemouth",
+    "team_b": "Brighton & Hove Albion",
+    "event_name": "Premier League",
+    "poster_id": "Bournemouth-Brighton-&-Hove-Albion-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Fulham",
+    "team_b": "Leeds United",
+    "event_name": "Premier League",
+    "poster_id": "Fulham-Leeds-United-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Brentford",
+    "team_b": "Chelsea",
+    "event_name": "Premier League",
+    "poster_id": "Brentford-Chelsea-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "West Ham United",
+    "team_b": "Tottenham Hotspur",
+    "event_name": "Premier League",
+    "poster_id": "West-Ham-United-Tottenham-Hotspur-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Fiorentina",
+    "team_b": "Napoli",
+    "event_name": "Serie A",
+    "poster_id": "Fiorentina-Napoli-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Athletic Club",
+    "team_b": "Deportivo Alavés",
+    "event_name": "LaLiga",
+    "poster_id": "Athletic-Club-Deportivo-Alavés-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Sociedad",
+    "team_b": "Real Madrid",
+    "event_name": "LaLiga",
+    "poster_id": "Real-Sociedad-Real-Madrid-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Atlético Madrid",
+    "team_b": "Villarreal",
+    "event_name": "LaLiga",
+    "poster_id": "Atlético-Madrid-Villarreal-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Juventus",
+    "team_b": "Inter",
+    "event_name": "Serie A",
+    "poster_id": "Juventus-Inter-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Barbados Royals",
+    "team_b": "Trinbago Knight Riders",
+    "event_name": "Caribbean Premier League",
+    "poster_id": "Barbados-Royals-Trinbago-Knight-Riders-12092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Green Bay Packers",
+    "team_b": "Washington Commanders",
+    "event_name": "NFL",
+    "poster_id": "Green-Bay-Packers-Washington-Commanders-12092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Barbados Royals",
+    "team_b": "St Kitts and Nevis Patriots",
+    "event_name": "Caribbean Premier League",
+    "poster_id": "Barbados-Royals-St-Kitts-and-Nevis-Patriots-11092025.png",
     "match_type": "team_vs_team"
   }
 ]

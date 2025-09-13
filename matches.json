@@ -7,31 +7,59 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "England",
-    "team_b": "South Africa",
-    "event_name": "T20 International",
-    "poster_id": "England-South-Africa-12092025.png",
+    "team_a": "Guyana Amazon Warriors W",
+    "team_b": "Trinbago Knight Riders W",
+    "event_name": "Caribbean Premier League Women",
+    "poster_id": "Guyana-Amazon-Warriors-W-Trinbago-Knight-Riders-W-13092025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Eswatini",
-    "team_b": "Mozambique",
-    "event_name": "T20 International",
-    "poster_id": "Eswatini-Mozambique-13092025.png",
+    "team_a": "Northamptonshire",
+    "team_b": "Hampshire",
+    "event_name": "T20 Blast 2025 - Semi Final 2",
+    "poster_id": "Northamptonshire-Hampshire-13092025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Eswatini",
-    "team_b": "Mozambique",
-    "event_name": "T20 International",
-    "poster_id": "Eswatini-Mozambique-13092025.png",
+    "team_a": "T20 Blast 2025 - TBC",
+    "team_b": "TBC - Final",
+    "event_name": "T20 Blast 2025 - TBC vs TBC - Final",
+    "poster_id": "T20-Blast-2025---TBC-TBC---Final-13092025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Lancashire",
-    "team_b": "Somerset",
-    "event_name": "T20 Blast",
-    "poster_id": "Lancashire-Somerset-13092025.png",
+    "team_a": "Ironi Kiryat Shmona",
+    "team_b": "Maccabi Bnei Raina",
+    "event_name": "Israel - Ligat Ha'Al",
+    "poster_id": "Ironi-Kiryat-Shmona-Maccabi-Bnei-Raina-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Hapoel Petah Tikva",
+    "team_b": "Maccabi Netanya",
+    "event_name": "Israel - Ligat Ha'Al",
+    "poster_id": "Hapoel-Petah-Tikva-Maccabi-Netanya-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Porto",
+    "team_b": "Nacional",
+    "event_name": "Portugal - Primeira Liga",
+    "poster_id": "Porto-Nacional-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Ironi Tiberias",
+    "team_b": "Maccabi Tel Aviv",
+    "event_name": "Israel - Ligat Ha'Al",
+    "poster_id": "Ironi-Tiberias-Maccabi-Tel-Aviv-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "AcadÃ©mica",
+    "team_b": "CF Os Belenenses",
+    "event_name": "Portugal - Liga 3",
+    "poster_id": "AcadÃ©mica-CF-Os-Belenenses-13092025.png",
     "match_type": "team_vs_team"
   }
 ]

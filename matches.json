@@ -47,5 +47,19 @@
     "event_name": "Asia Cup",
     "poster_id": "Bangladesh-Afghanistan-16092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Guyana Amazon Warriors",
+    "team_b": "Barbados Royals",
+    "event_name": "Caribbean Premier League",
+    "poster_id": "Guyana-Amazon-Warriors-Barbados-Royals-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Barbados Royals Women",
+    "team_b": "Guyana Amazon Warriors Women",
+    "event_name": "Women's Caribbean Premier League",
+    "poster_id": "Barbados-Royals-Women-Guyana-Amazon-Warriors-Women-14092025.png",
+    "match_type": "team_vs_team"
   }
 ]

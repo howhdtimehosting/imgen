@@ -56,52 +56,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Burnley",
-    "team_b": "Liverpool",
-    "event_name": "Premier League",
-    "poster_id": "Burnley-Liverpool-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Pisa",
-    "team_b": "Udinese",
-    "event_name": "Serie A",
-    "poster_id": "Pisa-Udinese-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Atalanta",
-    "team_b": "Lecce",
-    "event_name": "Serie A",
-    "poster_id": "Atalanta-Lecce-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Lille",
-    "team_b": "Toulouse",
-    "event_name": "Ligue 1",
-    "poster_id": "Lille-Toulouse-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "RB Bragantino",
     "team_b": "Sport Recife",
     "event_name": "Brazil - BrasileirÃ£o",
     "poster_id": "RB-Bragantino-Sport-Recife-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bahla",
-    "team_b": "Sur",
-    "event_name": "Oman - Omani League",
-    "poster_id": "Bahla-Sur-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Corinthians",
-    "team_b": "Cruzeiro",
-    "event_name": "Brazil - Brasileiro Feminino",
-    "poster_id": "Corinthians-Cruzeiro-14092025.png",
     "match_type": "team_vs_team"
   },
   {

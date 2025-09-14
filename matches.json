@@ -56,20 +56,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "RB Bragantino",
-    "team_b": "Sport Recife",
-    "event_name": "Brazil - BrasileirÃ£o",
-    "poster_id": "RB-Bragantino-Sport-Recife-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Racing Santander",
-    "team_b": "Cultural Leonesa",
-    "event_name": "Spain - Segunda Division",
-    "poster_id": "Racing-Santander-Cultural-Leonesa-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Torreense",
     "team_b": "PaÃ§os de Ferreira",
     "event_name": "Portugal - Segunda liga",
@@ -77,24 +63,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Porto II",
-    "team_b": "UniÃ£o de Leiria",
-    "event_name": "Portugal - Segunda liga",
-    "poster_id": "Porto-II-UniÃ£o-de-Leiria-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Estrela",
     "team_b": "VitÃ³ria GuimarÃ£es",
     "event_name": "Portugal - Primeira Liga",
     "poster_id": "Estrela-VitÃ³ria-GuimarÃ£es-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Eibar",
-    "team_b": "Levante Las Planas",
-    "event_name": "Spain - Primera DivisiÃ³n Femenina",
-    "poster_id": "Eibar-Levante-Las-Planas-14092025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -133,13 +105,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Eibar",
-    "team_b": "Levante Las Planas",
-    "event_name": "Spain - Primera DivisiÃ³n Femenina",
-    "poster_id": "Eibar-Levante-Las-Planas-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Aberdeen LFC",
     "team_b": "Celtic FC",
     "event_name": "Scotland - SWPL 1",
@@ -168,13 +133,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Eibar",
-    "team_b": "Levante Las Planas",
-    "event_name": "Spain - Primera DivisiÃ³n Femenina",
-    "poster_id": "Eibar-Levante-Las-Planas-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Al Salmiyah",
     "team_b": "Kazma",
     "event_name": "Kuwait - Premier League",
@@ -186,13 +144,6 @@
     "team_b": "Novara",
     "event_name": "Italy - Serie C",
     "poster_id": "Pro-Patria-Novara-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Eibar",
-    "team_b": "Levante Las Planas",
-    "event_name": "Spain - Primera DivisiÃ³n Femenina",
-    "poster_id": "Eibar-Levante-Las-Planas-14092025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -312,13 +263,6 @@
     "team_b": "Llaneros",
     "event_name": "Colombia - Primera A",
     "poster_id": "Deportivo-Pereira-Llaneros-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "India",
-    "team_b": "Pakistan",
-    "event_name": "Asia Cup",
-    "poster_id": "India-Pakistan-14092025.png",
     "match_type": "team_vs_team"
   }
 ]

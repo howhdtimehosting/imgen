@@ -63,13 +63,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Cercle Brugge",
-    "team_b": "Sporting Charleroi",
-    "event_name": "Belgium - Pro League",
-    "poster_id": "Cercle-Brugge-Sporting-Charleroi-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Racing Santander",
     "team_b": "Cultural Leonesa",
     "event_name": "Spain - Segunda Division",
@@ -207,13 +200,6 @@
     "team_b": "Manchester United",
     "event_name": "Premier League",
     "poster_id": "Manchester-City-Manchester-United-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Los Andes",
-    "team_b": "Almagro",
-    "event_name": "Argentina - Primera Nacional",
-    "poster_id": "Los-Andes-Almagro-14092025.png",
     "match_type": "team_vs_team"
   },
   {

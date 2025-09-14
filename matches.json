@@ -61,5 +61,26 @@
     "event_name": "Women's Caribbean Premier League",
     "poster_id": "Barbados-Royals-Women-Guyana-Amazon-Warriors-Women-14092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Burnley",
+    "team_b": "Liverpool",
+    "event_name": "Premier League",
+    "poster_id": "Burnley-Liverpool-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pisa",
+    "team_b": "Udinese",
+    "event_name": "Serie A",
+    "poster_id": "Pisa-Udinese-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Atalanta",
+    "team_b": "Lecce",
+    "event_name": "Serie A",
+    "poster_id": "Atalanta-Lecce-14092025.png",
+    "match_type": "team_vs_team"
   }
 ]

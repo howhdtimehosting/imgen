@@ -5,5 +5,47 @@
     "event_name": "Asia Cup 2025\u0016",
     "poster_id": "Asia-Cup-ð®ð³-INð-PKðµð°-14092025.png",
     "match_type": "single_event"
+  },
+  {
+    "team_a": "Sri Lanka",
+    "team_b": "Hong Kong C.",
+    "event_name": "Asia Cup",
+    "poster_id": "Sri-Lanka-Hong-Kong-C.-15092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pakistan Women",
+    "team_b": "South Africa Women",
+    "event_name": "One Day International Women",
+    "poster_id": "Pakistan-Women-South-Africa-Women-16092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Zimbabwe",
+    "team_b": "Namibia",
+    "event_name": "T20 International",
+    "poster_id": "Zimbabwe-Namibia-16092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "United Arab Emirates",
+    "team_b": "Oman",
+    "event_name": "Asia Cup",
+    "poster_id": "United-Arab-Emirates-Oman-15092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India Women",
+    "team_b": "Australia Women",
+    "event_name": "One Day International Women",
+    "poster_id": "India-Women-Australia-Women-17092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bangladesh",
+    "team_b": "Afghanistan",
+    "event_name": "Asia Cup",
+    "poster_id": "Bangladesh-Afghanistan-16092025.png",
+    "match_type": "team_vs_team"
   }
 ]

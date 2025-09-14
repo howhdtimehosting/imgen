@@ -1,12 +1,5 @@
 [
   {
-    "team_a": "Asia Cup |ð®ð³ INð PKðµð°",
-    "team_b": "",
-    "event_name": "Asia Cup 2025\u0016",
-    "poster_id": "Asia-Cup-ð®ð³-INð-PKðµð°-14092025.png",
-    "match_type": "single_event"
-  },
-  {
     "team_a": "Sri Lanka",
     "team_b": "Hong Kong C.",
     "event_name": "Asia Cup",
@@ -81,6 +74,307 @@
     "team_b": "Lecce",
     "event_name": "Serie A",
     "poster_id": "Atalanta-Lecce-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Lille",
+    "team_b": "Toulouse",
+    "event_name": "Ligue 1",
+    "poster_id": "Lille-Toulouse-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "RB Bragantino",
+    "team_b": "Sport Recife",
+    "event_name": "Brazil - BrasileirÃ£o",
+    "poster_id": "RB-Bragantino-Sport-Recife-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bahla",
+    "team_b": "Sur",
+    "event_name": "Oman - Omani League",
+    "poster_id": "Bahla-Sur-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Corinthians",
+    "team_b": "Cruzeiro",
+    "event_name": "Brazil - Brasileiro Feminino",
+    "poster_id": "Corinthians-Cruzeiro-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cercle Brugge",
+    "team_b": "Sporting Charleroi",
+    "event_name": "Belgium - Pro League",
+    "poster_id": "Cercle-Brugge-Sporting-Charleroi-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Racing Santander",
+    "team_b": "Cultural Leonesa",
+    "event_name": "Spain - Segunda Division",
+    "poster_id": "Racing-Santander-Cultural-Leonesa-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Torreense",
+    "team_b": "PaÃ§os de Ferreira",
+    "event_name": "Portugal - Segunda liga",
+    "poster_id": "Torreense-PaÃ§os-de-Ferreira-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Porto II",
+    "team_b": "UniÃ£o de Leiria",
+    "event_name": "Portugal - Segunda liga",
+    "poster_id": "Porto-II-UniÃ£o-de-Leiria-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Estrela",
+    "team_b": "VitÃ³ria GuimarÃ£es",
+    "event_name": "Portugal - Primeira Liga",
+    "poster_id": "Estrela-VitÃ³ria-GuimarÃ£es-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Eibar",
+    "team_b": "Levante Las Planas",
+    "event_name": "Spain - Primera DivisiÃ³n Femenina",
+    "poster_id": "Eibar-Levante-Las-Planas-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "NeftÃ§i",
+    "team_b": "Sabah",
+    "event_name": "Azerbaijan - Premier Liqa",
+    "poster_id": "NeftÃ§i-Sabah-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Telstar",
+    "team_b": "Fortuna Sittard",
+    "event_name": "Netherlands - Eredivisie",
+    "poster_id": "Telstar-Fortuna-Sittard-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Kifisia",
+    "team_b": "Panathinaikos",
+    "event_name": "Greece - Super League",
+    "poster_id": "Kifisia-Panathinaikos-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Asteras Tripolis",
+    "team_b": "Larissa",
+    "event_name": "Greece - Super League",
+    "poster_id": "Asteras-Tripolis-Larissa-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al Buqa'a",
+    "team_b": "Shabab Al Ordon",
+    "event_name": "Jordan - Jordan League",
+    "poster_id": "Al-Buqa'a-Shabab-Al-Ordon-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Eibar",
+    "team_b": "Levante Las Planas",
+    "event_name": "Spain - Primera DivisiÃ³n Femenina",
+    "poster_id": "Eibar-Levante-Las-Planas-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Aberdeen LFC",
+    "team_b": "Celtic FC",
+    "event_name": "Scotland - SWPL 1",
+    "poster_id": "Aberdeen-LFC-Celtic-FC-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Crvena Zvezda",
+    "team_b": "Å½elezniÄar PanÄevo",
+    "event_name": "Serbia - Super Liga",
+    "poster_id": "Crvena-Zvezda-Å½elezniÄar-PanÄevo-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "SÃ¼dtirol",
+    "team_b": "Palermo",
+    "event_name": "Italy - Serie B",
+    "poster_id": "SÃ¼dtirol-Palermo-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "2025",
+    "team_b": "Simulcast",
+    "event_name": "France - Ligue 1",
+    "poster_id": "2025-Simulcast-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Eibar",
+    "team_b": "Levante Las Planas",
+    "event_name": "Spain - Primera DivisiÃ³n Femenina",
+    "poster_id": "Eibar-Levante-Las-Planas-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al Salmiyah",
+    "team_b": "Kazma",
+    "event_name": "Kuwait - Premier League",
+    "poster_id": "Al-Salmiyah-Kazma-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pro Patria",
+    "team_b": "Novara",
+    "event_name": "Italy - Serie C",
+    "poster_id": "Pro-Patria-Novara-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Eibar",
+    "team_b": "Levante Las Planas",
+    "event_name": "Spain - Primera DivisiÃ³n Femenina",
+    "poster_id": "Eibar-Levante-Las-Planas-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Manchester City",
+    "team_b": "Manchester United",
+    "event_name": "Premier League",
+    "poster_id": "Manchester-City-Manchester-United-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Los Andes",
+    "team_b": "Almagro",
+    "event_name": "Argentina - Primera Nacional",
+    "poster_id": "Los-Andes-Almagro-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sassuolo",
+    "team_b": "Lazio",
+    "event_name": "Serie A",
+    "poster_id": "Sassuolo-Lazio-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Danubio",
+    "team_b": "Cerro",
+    "event_name": "Uruguay - Primera Division",
+    "poster_id": "Danubio-Cerro-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Chacarita Juniors",
+    "team_b": "Almirante Brown",
+    "event_name": "Argentina - Primera Nacional",
+    "poster_id": "Chacarita-Juniors-Almirante-Brown-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Salernitana",
+    "team_b": "Sorrento",
+    "event_name": "Italy - Serie C",
+    "poster_id": "Salernitana-Sorrento-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Ternana",
+    "team_b": "Athletic Carpi",
+    "event_name": "Italy - Serie C",
+    "poster_id": "Ternana-Athletic-Carpi-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "OFI",
+    "team_b": "PAOK",
+    "event_name": "Greece - Super League",
+    "poster_id": "OFI-PAOK-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Utah Royals",
+    "team_b": "Houston Dash",
+    "event_name": "NWSL",
+    "poster_id": "Utah-Royals-Houston-Dash-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Melgar",
+    "team_b": "Universitario",
+    "event_name": "Peru - Primera Division",
+    "poster_id": "Melgar-Universitario-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Deportivo Cali",
+    "team_b": "Deportivo Pasto",
+    "event_name": "Colombia - Primera A",
+    "poster_id": "Deportivo-Cali-Deportivo-Pasto-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Plaza Colonia",
+    "team_b": "Nacional",
+    "event_name": "Uruguay - Primera Division",
+    "poster_id": "Plaza-Colonia-Nacional-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Peru - Primera DivisionCusco",
+    "team_b": "Sporting Cristal",
+    "event_name": "Peru - Primera DivisionCusco vs Sporting Cristal",
+    "poster_id": "Peru---Primera-DivisionCusco-Sporting-Cristal-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "San MartÃ­n TucumÃ¡n",
+    "team_b": "Atlanta",
+    "event_name": "Argentina - Primera Nacional",
+    "poster_id": "San-MartÃ­n-TucumÃ¡n-Atlanta-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "QuerÃ©taro",
+    "team_b": "Monterrey",
+    "event_name": "Liga MX",
+    "poster_id": "QuerÃ©taro-Monterrey-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Defensa y Justicia",
+    "team_b": "Platense",
+    "event_name": "Argentina - Primera DivisiÃ³n",
+    "poster_id": "Defensa-y-Justicia-Platense-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Tigre",
+    "team_b": "Talleres CÃ³rdoba",
+    "event_name": "Argentina - Primera DivisiÃ³n",
+    "poster_id": "Tigre-Talleres-CÃ³rdoba-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Deportivo Pereira",
+    "team_b": "Llaneros",
+    "event_name": "Colombia - Primera A",
+    "poster_id": "Deportivo-Pereira-Llaneros-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India",
+    "team_b": "Pakistan",
+    "event_name": "Asia Cup",
+    "poster_id": "India-Pakistan-14092025.png",
     "match_type": "team_vs_team"
   }
 ]

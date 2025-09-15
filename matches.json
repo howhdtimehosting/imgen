@@ -49,27 +49,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Barbados Royals Women",
-    "team_b": "Guyana Amazon Warriors Women",
-    "event_name": "Women's Caribbean Premier League",
-    "poster_id": "Barbados-Royals-Women-Guyana-Amazon-Warriors-Women-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sassuolo",
-    "team_b": "Lazio",
-    "event_name": "Serie A",
-    "poster_id": "Sassuolo-Lazio-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Danubio",
-    "team_b": "Cerro",
-    "event_name": "Uruguay - Primera Division",
-    "poster_id": "Danubio-Cerro-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Chacarita Juniors",
     "team_b": "Almirante Brown",
     "event_name": "Argentina - Primera Nacional",

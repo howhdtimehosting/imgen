@@ -131,5 +131,26 @@
     "event_name": "Netherlands - Eerste Divisie",
     "poster_id": "Almere-City-Eindhoven-15092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pakistan",
+    "team_b": "United Arab Emirates",
+    "event_name": "Asia Cup",
+    "poster_id": "Pakistan-United-Arab-Emirates-17092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sri Lanka",
+    "team_b": "Afghanistan",
+    "event_name": "Asia Cup",
+    "poster_id": "Sri-Lanka-Afghanistan-18092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India",
+    "team_b": "Oman",
+    "event_name": "Asia Cup",
+    "poster_id": "India-Oman-19092025.png",
+    "match_type": "team_vs_team"
   }
 ]

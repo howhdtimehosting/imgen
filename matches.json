@@ -124,5 +124,26 @@
     "event_name": "One Day International",
     "poster_id": "Afghanistan-Bangladesh-08102025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sri Lanka",
+    "team_b": "Bangladesh",
+    "event_name": "Asia Cup",
+    "poster_id": "Sri-Lanka-Bangladesh-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India",
+    "team_b": "Bangladesh",
+    "event_name": "Asia Cup",
+    "poster_id": "India-Bangladesh-24092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pakistan",
+    "team_b": "Bangladesh",
+    "event_name": "Asia Cup",
+    "poster_id": "Pakistan-Bangladesh-25092025.png",
+    "match_type": "team_vs_team"
   }
 ]

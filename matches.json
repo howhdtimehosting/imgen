@@ -1,12 +1,5 @@
 [
   {
-    "team_a": "Sri Lanka",
-    "team_b": "Afghanistan",
-    "event_name": "Asia Cup",
-    "poster_id": "Sri-Lanka-Afghanistan-18092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "India",
     "team_b": "Oman",
     "event_name": "Asia Cup",
@@ -18,20 +11,6 @@
     "team_b": "Australia Women",
     "event_name": "One Day International Women",
     "poster_id": "India-Women-Australia-Women-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Pakistan Women",
-    "team_b": "South Africa Women",
-    "event_name": "One Day International Women",
-    "poster_id": "Pakistan-Women-South-Africa-Women-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Ireland",
-    "team_b": "England",
-    "event_name": "T20 International",
-    "poster_id": "Ireland-England-19092025.png",
     "match_type": "team_vs_team"
   },
   {

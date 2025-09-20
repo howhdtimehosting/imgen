@@ -1,12 +1,5 @@
 [
   {
-    "team_a": "India",
-    "team_b": "Oman",
-    "event_name": "Asia Cup",
-    "poster_id": "India-Oman-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "India Women",
     "team_b": "Australia Women",
     "event_name": "One Day International Women",

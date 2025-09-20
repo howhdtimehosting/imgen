@@ -1,12 +1,5 @@
 [
   {
-    "team_a": "India Women",
-    "team_b": "Australia Women",
-    "event_name": "One Day International Women",
-    "poster_id": "India-Women-Australia-Women-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "India",
     "team_b": "Pakistan",
     "event_name": "Asia Cup",
@@ -95,13 +88,6 @@
     "team_b": "Bangladesh",
     "event_name": "One Day International",
     "poster_id": "Afghanistan-Bangladesh-08102025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sri Lanka",
-    "team_b": "Bangladesh",
-    "event_name": "Asia Cup",
-    "poster_id": "Sri-Lanka-Bangladesh-20092025.png",
     "match_type": "team_vs_team"
   },
   {

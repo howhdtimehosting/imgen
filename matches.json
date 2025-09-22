@@ -1,12 +1,5 @@
 [
   {
-    "team_a": "Pakistan Women",
-    "team_b": "South Africa Women",
-    "event_name": "One Day International Women",
-    "poster_id": "Pakistan-Women-South-Africa-Women-22092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "India Women",
     "team_b": "England Women",
     "event_name": "ICC Women's World Cup Warm-up Matches",
@@ -95,13 +88,6 @@
     "team_b": "Sri Lanka",
     "event_name": "Asia Cup",
     "poster_id": "Pakistan-Sri-Lanka-23092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "India",
-    "team_b": "Pakistan",
-    "event_name": "Asia Cup",
-    "poster_id": "India-Pakistan-21092025.png",
     "match_type": "team_vs_team"
   }
 ]

@@ -82,12 +82,5 @@
     "event_name": "Asia Cup",
     "poster_id": "Pakistan-Bangladesh-25092025.png",
     "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Pakistan",
-    "team_b": "Sri Lanka",
-    "event_name": "Asia Cup",
-    "poster_id": "Pakistan-Sri-Lanka-23092025.png",
-    "match_type": "team_vs_team"
   }
 ]

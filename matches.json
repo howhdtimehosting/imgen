@@ -70,13 +70,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "India",
-    "team_b": "Bangladesh",
-    "event_name": "Asia Cup",
-    "poster_id": "India-Bangladesh-24092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Pakistan",
     "team_b": "Bangladesh",
     "event_name": "Asia Cup",

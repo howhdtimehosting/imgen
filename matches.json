@@ -1,26 +1,5 @@
 [
   {
-    "team_a": "India Women",
-    "team_b": "England Women",
-    "event_name": "ICC Women's World Cup Warm-up Matches",
-    "poster_id": "India-Women-England-Women-25092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bangladesh Women",
-    "team_b": "South Africa Women",
-    "event_name": "ICC Women's World Cup Warm-up Matches",
-    "poster_id": "Bangladesh-Women-South-Africa-Women-25092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sri Lanka Women",
-    "team_b": "Pakistan Women",
-    "event_name": "ICC Women's World Cup Warm-up Matches",
-    "poster_id": "Sri-Lanka-Women-Pakistan-Women-25092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Nepal",
     "team_b": "West Indies",
     "event_name": "T20 International",
@@ -70,10 +49,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Pakistan",
-    "team_b": "Bangladesh",
+    "team_a": "India",
+    "team_b": "Sri Lanka",
     "event_name": "Asia Cup",
-    "poster_id": "Pakistan-Bangladesh-25092025.png",
+    "poster_id": "India-Sri-Lanka-26092025.png",
     "match_type": "team_vs_team"
   }
 ]

@@ -42,17 +42,38 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Afghanistan",
-    "team_b": "Bangladesh",
-    "event_name": "One Day International",
-    "poster_id": "Afghanistan-Bangladesh-08102025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "India",
     "team_b": "Pakistan",
     "event_name": "Asia Cup",
     "poster_id": "India-Pakistan-27092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Friday Night Smackdown",
+    "team_b": "Friday Night Smackdown",
+    "event_name": "Friday Night Smackdown",
+    "poster_id": "Friday-Night-Smackdown-Friday-Night-Smackdown-04102025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Raw",
+    "team_b": "Raw",
+    "event_name": "Monday Night Raw",
+    "poster_id": "Raw-Raw-30092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "NXT",
+    "team_b": "NXT",
+    "event_name": "WWE NXT",
+    "poster_id": "NXT-NXT-01102025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Formula 1",
+    "team_b": "Formula 1",
+    "event_name": "Formula 1",
+    "poster_id": "Formula-1-Formula-1-03102025.png",
     "match_type": "team_vs_team"
   }
 ]

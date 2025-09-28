@@ -75,5 +75,12 @@
     "event_name": "Formula 1",
     "poster_id": "Formula-1-Formula-1-03102025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Aston Villa",
+    "team_b": "Fulham",
+    "event_name": "ð´ó §ó ¢ó ¥ó ®ó §ó ¿ Premier League",
+    "poster_id": "Aston-Villa-Fulham-28092025.png",
+    "match_type": "team_vs_team"
   }
 ]

@@ -43,10 +43,10 @@
   },
   {
     "team_a": "Friday Night Smackdown",
-    "team_b": "Friday Night Smackdown",
+    "team_b": "",
     "event_name": "Friday Night Smackdown",
-    "poster_id": "Friday-Night-Smackdown-Friday-Night-Smackdown-04102025.png",
-    "match_type": "team_vs_team"
+    "poster_id": "Friday-Night-Smackdown-04102025.png",
+    "match_type": "single_event"
   },
   {
     "team_a": "Raw",

@@ -35,13 +35,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Afghanistan",
-    "team_b": "Bangladesh",
-    "event_name": "T20 International",
-    "poster_id": "Afghanistan-Bangladesh-05102025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Friday Night Smackdown",
     "team_b": "",
     "event_name": "Friday Night Smackdown",
@@ -57,16 +50,30 @@
   },
   {
     "team_a": "NXT",
-    "team_b": "NXT",
-    "event_name": "WWE NXT",
-    "poster_id": "NXT-NXT-01102025.png",
-    "match_type": "team_vs_team"
+    "team_b": "",
+    "event_name": "NXT",
+    "poster_id": "NXT-05102025.png",
+    "match_type": "single_event"
   },
   {
     "team_a": "Formula 1",
     "team_b": "Formula 1",
     "event_name": "Formula 1",
     "poster_id": "Formula-1-Formula-1-03102025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New Zealand Women",
+    "team_b": "South Africa Women",
+    "event_name": "ICC Womens World Cup",
+    "poster_id": "New-Zealand-Women-South-Africa-Women-06102025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Afghanistan",
+    "team_b": "Bangladesh",
+    "event_name": "T20 International",
+    "poster_id": "Afghanistan-Bangladesh-05102025.png",
     "match_type": "team_vs_team"
   }
 ]

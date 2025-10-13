@@ -1,16 +1,23 @@
 [
   {
-    "team_a": "NXT",
-    "team_b": "",
-    "event_name": "NXT",
-    "poster_id": "NXT-05102025.png",
-    "match_type": "single_event"
-  },
-  {
     "team_a": "Belgium U21",
     "team_b": "Denmark U21",
     "event_name": "U21 Euro Qualification",
     "poster_id": "Belgium-U21-Denmark-U21-14102025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Afghanistan",
+    "team_b": "Bangladesh",
+    "event_name": "One Day International",
+    "poster_id": "Afghanistan-Bangladesh-14102025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Tasmania",
+    "team_b": "Western Australia",
+    "event_name": "Sheffield Shield",
+    "poster_id": "Tasmania-Western-Australia-14102025.png",
     "match_type": "team_vs_team"
   }
 ]

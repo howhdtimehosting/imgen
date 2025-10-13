@@ -1,54 +1,5 @@
 [
   {
-    "team_a": "Nepal",
-    "team_b": "West Indies",
-    "event_name": "T20 International",
-    "poster_id": "Nepal-West-Indies-28092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Nepal",
-    "team_b": "West Indies",
-    "event_name": "T20 International",
-    "poster_id": "Nepal-West-Indies-30092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "India",
-    "team_b": "West Indies",
-    "event_name": "ICC World Test Championship",
-    "poster_id": "India-West-Indies-02102025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Afghanistan",
-    "team_b": "Bangladesh",
-    "event_name": "T20 International",
-    "poster_id": "Afghanistan-Bangladesh-02102025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Afghanistan",
-    "team_b": "Bangladesh",
-    "event_name": "T20 International",
-    "poster_id": "Afghanistan-Bangladesh-03102025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Friday Night Smackdown",
-    "team_b": "",
-    "event_name": "Friday Night Smackdown",
-    "poster_id": "Friday-Night-Smackdown-04102025.png",
-    "match_type": "single_event"
-  },
-  {
-    "team_a": "Raw",
-    "team_b": "Raw",
-    "event_name": "Monday Night Raw",
-    "poster_id": "Raw-Raw-30092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "NXT",
     "team_b": "",
     "event_name": "NXT",
@@ -56,24 +7,10 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Formula 1",
-    "team_b": "Formula 1",
-    "event_name": "Formula 1",
-    "poster_id": "Formula-1-Formula-1-03102025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "New Zealand Women",
-    "team_b": "South Africa Women",
-    "event_name": "ICC Womens World Cup",
-    "poster_id": "New-Zealand-Women-South-Africa-Women-06102025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Afghanistan",
-    "team_b": "Bangladesh",
-    "event_name": "T20 International",
-    "poster_id": "Afghanistan-Bangladesh-05102025.png",
+    "team_a": "Belgium U21",
+    "team_b": "Denmark U21",
+    "event_name": "U21 Euro Qualification",
+    "poster_id": "Belgium-U21-Denmark-U21-14102025.png",
     "match_type": "team_vs_team"
   }
 ]

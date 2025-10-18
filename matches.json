@@ -1,23 +1,30 @@
 [
   {
-    "team_a": "Belgium U21",
-    "team_b": "Denmark U21",
-    "event_name": "U21 Euro Qualification",
-    "poster_id": "Belgium-U21-Denmark-U21-14102025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Afghanistan",
-    "team_b": "Bangladesh",
-    "event_name": "One Day International",
-    "poster_id": "Afghanistan-Bangladesh-14102025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Tasmania",
     "team_b": "Western Australia",
     "event_name": "Sheffield Shield",
     "poster_id": "Tasmania-Western-Australia-14102025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Lokomotiv",
+    "team_b": "CSKA",
+    "event_name": "Premier League, RUSSIA",
+    "poster_id": "Lokomotiv-CSKA-18102025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Atromitos",
+    "team_b": "Levadiakos",
+    "event_name": "Stoiximan Super League",
+    "poster_id": "Atromitos-Levadiakos-18102025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Utrecht",
+    "team_b": "Volendam",
+    "event_name": "VriendenLoterij Eredivisie",
+    "poster_id": "Utrecht-Volendam-18102025.png",
     "match_type": "team_vs_team"
   }
 ]

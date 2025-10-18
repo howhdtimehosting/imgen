@@ -138,5 +138,26 @@
     "event_name": "LaLiga",
     "poster_id": "Atl.-Madrid-Osasuna-18102025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Croatia",
+    "team_b": "Denmark",
+    "event_name": "Rugby Europe Trophy",
+    "poster_id": "Croatia-Denmark-31102025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Clifton",
+    "team_b": "Rams RFC",
+    "event_name": "National One",
+    "poster_id": "Clifton-Rams-RFC-18102025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cetransa El Salvador",
+    "team_b": "Ampo Ordizia RE",
+    "event_name": "Division de Honor",
+    "poster_id": "Cetransa-El-Salvador-Ampo-Ordizia-RE-02112025.png",
+    "match_type": "team_vs_team"
   }
 ]

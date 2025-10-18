@@ -54,5 +54,12 @@
     "event_name": "Persian Gulf Pro League",
     "poster_id": "Esteghlal-FC-Aluminium-Arak-31102025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Perth Glory",
+    "team_b": "Melbourne Victory",
+    "event_name": "A-League Men",
+    "poster_id": "Perth-Glory-Melbourne-Victory-31102025.png",
+    "match_type": "team_vs_team"
   }
 ]

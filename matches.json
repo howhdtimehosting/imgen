@@ -21,73 +21,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "St. Louis Blues",
-    "team_b": "Dallas Stars",
-    "event_name": "NHL",
-    "poster_id": "St.-Louis-Blues-Dallas-Stars-18102025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "NAC Breda",
     "team_b": "Zwolle",
     "event_name": "VriendenLoterij Eredivisie",
     "poster_id": "NAC-Breda-Zwolle-18102025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Columbus Blue Jackets",
-    "team_b": "Tampa Bay Lightning",
-    "event_name": "NHL",
-    "poster_id": "Columbus-Blue-Jackets-Tampa-Bay-Lightning-18102025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Reinier de Ridder",
-    "team_b": "Brendan Allen",
-    "event_name": "UFC Fight Night Main Card",
-    "poster_id": "Reinier-de-Ridder-Brendan-Allen-19102025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Marseille",
-    "team_b": "Le Havre",
-    "event_name": "Ligue 1",
-    "poster_id": "Marseille-Le-Havre-18102025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Philadelphia Flyers",
-    "team_b": "Minnesota Wild",
-    "event_name": "NHL",
-    "poster_id": "Philadelphia-Flyers-Minnesota-Wild-18102025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Los Angeles Kings",
-    "team_b": "Carolina Hurricanes",
-    "event_name": "NHL",
-    "poster_id": "Los-Angeles-Kings-Carolina-Hurricanes-19102025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Nashville",
-    "team_b": "Inter Miami",
-    "event_name": "MLS",
-    "poster_id": "Nashville-Inter-Miami-18102025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Winnipeg Jets",
-    "team_b": "Nashville Predators",
-    "event_name": "NHL",
-    "poster_id": "Winnipeg-Jets-Nashville-Predators-18102025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "MotoGP",
-    "team_b": "MotoGP",
-    "event_name": "MotoGP",
-    "poster_id": "MotoGP-MotoGP-19102025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -98,55 +35,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Ajax",
-    "team_b": "AZ",
-    "event_name": "VriendenLoterij Eredivisie",
-    "poster_id": "Ajax-AZ-18102025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "MontrÃ©al Canadiens",
-    "team_b": "New York Rangers",
-    "event_name": "NHL",
-    "poster_id": "MontrÃ©al-Canadiens-New-York-Rangers-18102025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Vegas Golden Knights",
-    "team_b": "Calgary Flames",
-    "event_name": "NHL",
-    "poster_id": "Vegas-Golden-Knights-Calgary-Flames-19102025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "New Jersey Devils",
-    "team_b": "Edmonton Oilers",
-    "event_name": "NHL",
-    "poster_id": "New-Jersey-Devils-Edmonton-Oilers-18102025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Colorado Avalanche",
-    "team_b": "Boston Bruins",
-    "event_name": "NHL",
-    "poster_id": "Colorado-Avalanche-Boston-Bruins-19102025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Atl. Madrid",
-    "team_b": "Osasuna",
-    "event_name": "LaLiga",
-    "poster_id": "Atl.-Madrid-Osasuna-18102025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Croatia",
-    "team_b": "Denmark",
-    "event_name": "Rugby Europe Trophy",
-    "poster_id": "Croatia-Denmark-31102025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Clifton",
     "team_b": "Rams RFC",
     "event_name": "National One",
@@ -154,10 +42,17 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Cetransa El Salvador",
-    "team_b": "Ampo Ordizia RE",
-    "event_name": "Division de Honor",
-    "poster_id": "Cetransa-El-Salvador-Ampo-Ordizia-RE-02112025.png",
+    "team_a": "England",
+    "team_b": "Australia",
+    "event_name": "Int. Friendly Games",
+    "poster_id": "England-Australia-01112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Esteghlal FC",
+    "team_b": "Aluminium Arak",
+    "event_name": "Persian Gulf Pro League",
+    "poster_id": "Esteghlal-FC-Aluminium-Arak-31102025.png",
     "match_type": "team_vs_team"
   }
 ]

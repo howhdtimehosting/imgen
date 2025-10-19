@@ -89,5 +89,12 @@
     "event_name": "National Cricket League",
     "poster_id": "Sylhet-Division-Dhaka-Division-01112025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "ECSTATIC",
+    "team_b": "SPARTA",
+    "event_name": "Winline Insight",
+    "poster_id": "ECSTATIC-SPARTA-21102025.png",
+    "match_type": "team_vs_team"
   }
 ]

@@ -82,5 +82,12 @@
     "event_name": "Super League, Women",
     "poster_id": "Lada-Togliatti-Kuban-Krasnodar-04112025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sylhet Division",
+    "team_b": "Dhaka Division",
+    "event_name": "National Cricket League",
+    "poster_id": "Sylhet-Division-Dhaka-Division-01112025.png",
+    "match_type": "team_vs_team"
   }
 ]

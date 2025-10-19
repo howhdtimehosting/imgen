@@ -61,5 +61,26 @@
     "event_name": "A-League Men",
     "poster_id": "Perth-Glory-Melbourne-Victory-31102025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "ML Vitebsk",
+    "team_b": "FC Isloch Minsk Region",
+    "event_name": "Vysshaya Liga",
+    "poster_id": "ML-Vitebsk-FC-Isloch-Minsk-Region-31102025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bodo/Glimt U19",
+    "team_b": "AS Monaco U19",
+    "event_name": "UEFA Youth League",
+    "poster_id": "BodoGlimt-U19-AS-Monaco-U19-04112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Lada Togliatti",
+    "team_b": "Kuban Krasnodar",
+    "event_name": "Super League, Women",
+    "poster_id": "Lada-Togliatti-Kuban-Krasnodar-04112025.png",
+    "match_type": "team_vs_team"
   }
 ]

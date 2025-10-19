@@ -117,5 +117,12 @@
     "event_name": "Super League",
     "poster_id": "Viktor-Stavropol-Dinamo-Astrakhan-06112025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Khulna Division",
+    "team_b": "Rajshahi Division",
+    "event_name": "National Cricket League",
+    "poster_id": "Khulna-Division-Rajshahi-Division-03112025.png",
+    "match_type": "team_vs_team"
   }
 ]

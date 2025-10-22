@@ -124,5 +124,19 @@
     "event_name": "National Cricket League",
     "poster_id": "Khulna-Division-Rajshahi-Division-03112025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Mikkelin Jukurit",
+    "team_b": "KalPa Kuopio",
+    "event_name": "Liiga",
+    "poster_id": "Mikkelin-Jukurit-KalPa-Kuopio-22102025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Swift Current Broncos",
+    "team_b": "Red Deer Rebels",
+    "event_name": "WHL",
+    "poster_id": "Swift-Current-Broncos-Red-Deer-Rebels-23102025.png",
+    "match_type": "team_vs_team"
   }
 ]

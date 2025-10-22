@@ -1,12 +1,5 @@
 [
   {
-    "team_a": "Tasmania",
-    "team_b": "Western Australia",
-    "event_name": "Sheffield Shield",
-    "poster_id": "Tasmania-Western-Australia-14102025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Atromitos",
     "team_b": "Levadiakos",
     "event_name": "Stoiximan Super League",

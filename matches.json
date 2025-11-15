@@ -285,5 +285,229 @@
     "event_name": "NBA",
     "poster_id": "Milwaukee-Bucks-Los-Angeles-Lakers-16112025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pakistan",
+    "team_b": "Sri Lanka",
+    "event_name": "One Day International",
+    "poster_id": "Pakistan-Sri-Lanka-16112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bangladesh",
+    "team_b": "Ireland",
+    "event_name": "Test Series",
+    "poster_id": "Bangladesh-Ireland-19112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "West Indies Under-19",
+    "team_b": "England Under-19",
+    "event_name": "One Day International U19",
+    "poster_id": "West-Indies-Under-19-England-Under-19-19112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sri Lanka",
+    "team_b": "Zimbabwe",
+    "event_name": "T20I Tri-series in Pakistan",
+    "poster_id": "Sri-Lanka-Zimbabwe-20112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pakistan",
+    "team_b": "Sri Lanka",
+    "event_name": "T20I Tri-series in Pakistan",
+    "poster_id": "Pakistan-Sri-Lanka-22112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pakistan",
+    "team_b": "Zimbabwe",
+    "event_name": "T20I Tri-series in Pakistan",
+    "poster_id": "Pakistan-Zimbabwe-23112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Australia",
+    "team_b": "England",
+    "event_name": "Ashes Series",
+    "poster_id": "Australia-England-21112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India",
+    "team_b": "South Africa",
+    "event_name": "Freedom Trophy",
+    "poster_id": "India-South-Africa-22112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sri Lanka",
+    "team_b": "Zimbabwe",
+    "event_name": "T20I Tri-series in Pakistan",
+    "poster_id": "Sri-Lanka-Zimbabwe-25112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Miami Dolphins",
+    "team_b": "Washington Commanders",
+    "event_name": "NFL",
+    "poster_id": "Miami-Dolphins-Washington-Commanders-16112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Buffalo Bills",
+    "team_b": "Tampa Bay Buccaneers",
+    "event_name": "NFL",
+    "poster_id": "Buffalo-Bills-Tampa-Bay-Buccaneers-16112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Atlanta Falcons",
+    "team_b": "Carolina Panthers",
+    "event_name": "NFL",
+    "poster_id": "Atlanta-Falcons-Carolina-Panthers-16112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Minnesota Vikings",
+    "team_b": "Chicago Bears",
+    "event_name": "NFL",
+    "poster_id": "Minnesota-Vikings-Chicago-Bears-16112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New York Giants",
+    "team_b": "Green Bay Packers",
+    "event_name": "NFL",
+    "poster_id": "New-York-Giants-Green-Bay-Packers-16112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Jacksonville Jaguars",
+    "team_b": "Los Angeles Chargers",
+    "event_name": "NFL",
+    "poster_id": "Jacksonville-Jaguars-Los-Angeles-Chargers-16112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Arizona Cardinals",
+    "team_b": "San Francisco 49ers",
+    "event_name": "NFL",
+    "poster_id": "Arizona-Cardinals-San-Francisco-49ers-16112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Tennessee Titans",
+    "team_b": "Houston Texans",
+    "event_name": "NFL",
+    "poster_id": "Tennessee-Titans-Houston-Texans-16112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pittsburgh Steelers",
+    "team_b": "Cincinnati Bengals",
+    "event_name": "NFL",
+    "poster_id": "Pittsburgh-Steelers-Cincinnati-Bengals-16112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cleveland Browns",
+    "team_b": "Baltimore Ravens",
+    "event_name": "NFL",
+    "poster_id": "Cleveland-Browns-Baltimore-Ravens-16112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Denver Broncos",
+    "team_b": "Kansas City Chiefs",
+    "event_name": "NFL",
+    "poster_id": "Denver-Broncos-Kansas-City-Chiefs-16112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Los Angeles Rams",
+    "team_b": "Seattle Seahawks",
+    "event_name": "NFL",
+    "poster_id": "Los-Angeles-Rams-Seattle-Seahawks-16112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Las Vegas Raiders",
+    "team_b": "Dallas Cowboys",
+    "event_name": "NFL",
+    "poster_id": "Las-Vegas-Raiders-Dallas-Cowboys-18112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Philadelphia Eagles",
+    "team_b": "Detroit Lions",
+    "event_name": "NFL",
+    "poster_id": "Philadelphia-Eagles-Detroit-Lions-17112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "MINLATE",
+    "team_b": "illwill",
+    "event_name": "DraculaN",
+    "poster_id": "MINLATE-illwill-20112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Tricked",
+    "team_b": "ASTRAL",
+    "event_name": "DraculaN",
+    "poster_id": "Tricked-ASTRAL-20112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "UNiTY esports",
+    "team_b": "Acend",
+    "event_name": "DraculaN",
+    "poster_id": "UNiTY-esports-Acend-20112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "WOPA Esport",
+    "team_b": "G2 Ares",
+    "event_name": "DraculaN",
+    "poster_id": "WOPA-Esport-G2-Ares-20112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Omar Tugarev",
+    "team_b": "Omiel Brown",
+    "event_name": "Cage Warriors",
+    "poster_id": "Omar-Tugarev-Omiel-Brown-22112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Shay Ingram",
+    "team_b": "Ermil Xhaferi",
+    "event_name": "Cage Warriors",
+    "poster_id": "Shay-Ingram-Ermil-Xhaferi-22112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Ryan Hewitt",
+    "team_b": "Matthew Friel",
+    "event_name": "Cage Warriors",
+    "poster_id": "Ryan-Hewitt-Matthew-Friel-22112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Tim Wilde",
+    "team_b": "Oscar Ownsworth",
+    "event_name": "Cage Warriors",
+    "poster_id": "Tim-Wilde-Oscar-Ownsworth-22112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India",
+    "team_b": "South Africa",
+    "event_name": "Freedom Trophy",
+    "poster_id": "India-South-Africa-14112025.png",
+    "match_type": "team_vs_team"
   }
 ]

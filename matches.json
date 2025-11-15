@@ -42,34 +42,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "TÃ¼rkiye",
-    "team_b": "Bulgaria",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "TÃ¼rkiye-Bulgaria-15112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Georgia",
-    "team_b": "Spain",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Georgia-Spain-15112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Cyprus",
-    "team_b": "Austria",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Cyprus-Austria-15112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Liechtenstein",
-    "team_b": "Wales",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Liechtenstein-Wales-15112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Slovenia",
     "team_b": "Kosovo",
     "event_name": "World Cup Qual. UEFA",
@@ -102,20 +74,6 @@
     "team_b": "Romania",
     "event_name": "World Cup Qual. UEFA",
     "poster_id": "Bosnia-&-Herzegovina-Romania-15112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Dominica",
-    "team_b": "Sint Maarten",
-    "event_name": "International Friendly Games",
-    "poster_id": "Dominica-Sint-Maarten-15112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Barbados",
-    "team_b": "Aruba",
-    "event_name": "International Friendly Games",
-    "poster_id": "Barbados-Aruba-15112025.png",
     "match_type": "team_vs_team"
   },
   {

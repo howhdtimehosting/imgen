@@ -467,5 +467,12 @@
     "event_name": "Freedom Trophy",
     "poster_id": "India-South-Africa-16112025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Jack Della Maddalena",
+    "team_b": "Islam Makhachev",
+    "event_name": "UFC",
+    "poster_id": "Jack-Della-Maddalena-Islam-Makhachev-16112025.png",
+    "match_type": "team_vs_team"
   }
 ]

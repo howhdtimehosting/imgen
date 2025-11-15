@@ -42,13 +42,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Brazil",
-    "team_b": "Senegal",
-    "event_name": "International Friendly Games",
-    "poster_id": "Brazil-Senegal-15112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "TÃ¼rkiye",
     "team_b": "Bulgaria",
     "event_name": "World Cup Qual. UEFA",
@@ -487,13 +480,6 @@
     "team_b": "South Africa",
     "event_name": "Freedom Trophy",
     "poster_id": "India-South-Africa-16112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FÃºtbol Club Barcelona",
-    "team_b": "Real Madrid",
-    "event_name": "Liga F Moeve",
-    "poster_id": "FÃºtbol-Club-Barcelona-Real-Madrid-15112025.png",
     "match_type": "team_vs_team"
   }
 ]

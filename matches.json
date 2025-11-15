@@ -509,5 +509,12 @@
     "event_name": "Freedom Trophy",
     "poster_id": "India-South-Africa-16112025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FÃºtbol Club Barcelona",
+    "team_b": "Real Madrid",
+    "event_name": "Liga F Moeve",
+    "poster_id": "FÃºtbol-Club-Barcelona-Real-Madrid-15112025.png",
+    "match_type": "team_vs_team"
   }
 ]

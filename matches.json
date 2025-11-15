@@ -42,24 +42,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Kazakhstan",
-    "team_b": "Belgium",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Kazakhstan-Belgium-15112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Brazil",
     "team_b": "Senegal",
     "event_name": "International Friendly Games",
     "poster_id": "Brazil-Senegal-15112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Costa Rica U20",
-    "team_b": "USA U20",
-    "event_name": "U20 Friendly Games",
-    "poster_id": "Costa-Rica-U20-USA-U20-15112025.png",
     "match_type": "team_vs_team"
   },
   {

@@ -224,13 +224,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Pakistan",
-    "team_b": "Sri Lanka",
-    "event_name": "One Day International",
-    "poster_id": "Pakistan-Sri-Lanka-16112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "New Zealand",
     "team_b": "West Indies",
     "event_name": "One Day International",
@@ -256,13 +249,6 @@
     "team_b": "Los Angeles Lakers",
     "event_name": "NBA",
     "poster_id": "Milwaukee-Bucks-Los-Angeles-Lakers-16112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Pakistan",
-    "team_b": "Sri Lanka",
-    "event_name": "One Day International",
-    "poster_id": "Pakistan-Sri-Lanka-16112025.png",
     "match_type": "team_vs_team"
   },
   {

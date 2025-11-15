@@ -1,135 +1,289 @@
 [
   {
-    "team_a": "Atromitos",
-    "team_b": "Levadiakos",
-    "event_name": "Stoiximan Super League",
-    "poster_id": "Atromitos-Levadiakos-18102025.png",
+    "team_a": "MotoGP",
+    "team_b": "",
+    "event_name": "MotoGP",
+    "poster_id": "MotoGP-20072025.png",
+    "match_type": "single_event"
+  },
+  {
+    "team_a": "Raw",
+    "team_b": "Raw",
+    "event_name": "Monday Night Raw",
+    "poster_id": "Raw-Raw-09092025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Utrecht",
-    "team_b": "Volendam",
-    "event_name": "VriendenLoterij Eredivisie",
-    "poster_id": "Utrecht-Volendam-18102025.png",
+    "team_a": "TNA iMPACT!",
+    "team_b": "TNA iMPACT!",
+    "event_name": "TNA iMPACT!",
+    "poster_id": "TNA-iMPACT!-TNA-iMPACT!-12092025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "NAC Breda",
-    "team_b": "Zwolle",
-    "event_name": "VriendenLoterij Eredivisie",
-    "poster_id": "NAC-Breda-Zwolle-18102025.png",
+    "team_a": "Friday Night Smackdown",
+    "team_b": "Friday Night Smackdown",
+    "event_name": "Friday Night Smackdown",
+    "poster_id": "Friday-Night-Smackdown-Friday-Night-Smackdown-13092025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Real Sociedad B",
-    "team_b": "Huesca",
-    "event_name": "LaLiga 2",
-    "poster_id": "Real-Sociedad-B-Huesca-18102025.png",
+    "team_a": "NXT",
+    "team_b": "NXT",
+    "event_name": "WWE NXT",
+    "poster_id": "NXT-NXT-10092025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Clifton",
-    "team_b": "Rams RFC",
-    "event_name": "National One",
-    "poster_id": "Clifton-Rams-RFC-18102025.png",
+    "team_a": "MotoGP",
+    "team_b": "MotoGP",
+    "event_name": "MotoGP",
+    "poster_id": "MotoGP-MotoGP-12092025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "England",
-    "team_b": "Australia",
-    "event_name": "Int. Friendly Games",
-    "poster_id": "England-Australia-01112025.png",
+    "team_a": "Kazakhstan",
+    "team_b": "Belgium",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Kazakhstan-Belgium-15112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Esteghlal FC",
-    "team_b": "Aluminium Arak",
-    "event_name": "Persian Gulf Pro League",
-    "poster_id": "Esteghlal-FC-Aluminium-Arak-31102025.png",
+    "team_a": "Russia",
+    "team_b": "Chile",
+    "event_name": "International Friendly Games",
+    "poster_id": "Russia-Chile-15112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Perth Glory",
-    "team_b": "Melbourne Victory",
-    "event_name": "A-League Men",
-    "poster_id": "Perth-Glory-Melbourne-Victory-31102025.png",
+    "team_a": "Brazil",
+    "team_b": "Senegal",
+    "event_name": "International Friendly Games",
+    "poster_id": "Brazil-Senegal-15112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "ML Vitebsk",
-    "team_b": "FC Isloch Minsk Region",
-    "event_name": "Vysshaya Liga",
-    "poster_id": "ML-Vitebsk-FC-Isloch-Minsk-Region-31102025.png",
+    "team_a": "Costa Rica U20",
+    "team_b": "USA U20",
+    "event_name": "U20 Friendly Games",
+    "poster_id": "Costa-Rica-U20-USA-U20-15112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Bodo/Glimt U19",
-    "team_b": "AS Monaco U19",
-    "event_name": "UEFA Youth League",
-    "poster_id": "BodoGlimt-U19-AS-Monaco-U19-04112025.png",
+    "team_a": "TÃ¼rkiye",
+    "team_b": "Bulgaria",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "TÃ¼rkiye-Bulgaria-15112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Lada Togliatti",
-    "team_b": "Kuban Krasnodar",
-    "event_name": "Super League, Women",
-    "poster_id": "Lada-Togliatti-Kuban-Krasnodar-04112025.png",
+    "team_a": "Georgia",
+    "team_b": "Spain",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Georgia-Spain-15112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Sylhet Division",
-    "team_b": "Dhaka Division",
-    "event_name": "National Cricket League",
-    "poster_id": "Sylhet-Division-Dhaka-Division-01112025.png",
+    "team_a": "Cyprus",
+    "team_b": "Austria",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Cyprus-Austria-15112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "ECSTATIC",
-    "team_b": "SPARTA",
-    "event_name": "Winline Insight",
-    "poster_id": "ECSTATIC-SPARTA-21102025.png",
+    "team_a": "Liechtenstein",
+    "team_b": "Wales",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Liechtenstein-Wales-15112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Austria",
+    "team_a": "Slovenia",
+    "team_b": "Kosovo",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Slovenia-Kosovo-15112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Switzerland",
+    "team_b": "Sweden",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Switzerland-Sweden-15112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Denmark",
+    "team_b": "Belarus",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Denmark-Belarus-15112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Greece",
+    "team_b": "Scotland",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Greece-Scotland-15112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bosnia & Herzegovina",
+    "team_b": "Romania",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Bosnia-&-Herzegovina-Romania-15112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Dominica",
+    "team_b": "Sint Maarten",
+    "event_name": "International Friendly Games",
+    "poster_id": "Dominica-Sint-Maarten-15112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Barbados",
+    "team_b": "Aruba",
+    "event_name": "International Friendly Games",
+    "poster_id": "Barbados-Aruba-15112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Colombia",
+    "team_b": "New Zealand",
+    "event_name": "International Friendly Games",
+    "poster_id": "Colombia-New-Zealand-16112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Hungary",
+    "team_b": "Ireland",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Hungary-Ireland-16112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Portugal",
+    "team_b": "Armenia",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Portugal-Armenia-16112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Azerbaijan",
+    "team_b": "France",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Azerbaijan-France-16112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Serbia",
+    "team_b": "Latvia",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Serbia-Latvia-16112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Ukraine",
+    "team_b": "Iceland",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Ukraine-Iceland-16112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Albania",
+    "team_b": "England",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Albania-England-16112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Israel",
+    "team_b": "Moldova",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Israel-Moldova-16112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Italy",
+    "team_b": "Norway",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Italy-Norway-16112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Malta",
+    "team_b": "Poland",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Malta-Poland-17112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Germany",
     "team_b": "Slovakia",
-    "event_name": "Deutschland Cup",
-    "poster_id": "Austria-Slovakia-06112025.png",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Germany-Slovakia-17112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Avto Yekaterinburg U20",
-    "team_b": "Irbis Kazan U20",
-    "event_name": "MHL",
-    "poster_id": "Avto-Yekaterinburg-U20-Irbis-Kazan-U20-06112025.png",
+    "team_a": "Northern Ireland",
+    "team_b": "Luxembourg",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Northern-Ireland-Luxembourg-17112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Viktor Stavropol",
-    "team_b": "Dinamo Astrakhan",
-    "event_name": "Super League",
-    "poster_id": "Viktor-Stavropol-Dinamo-Astrakhan-06112025.png",
+    "team_a": "Czechia",
+    "team_b": "Gibraltar",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Czechia-Gibraltar-17112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Khulna Division",
-    "team_b": "Rajshahi Division",
-    "event_name": "National Cricket League",
-    "poster_id": "Khulna-Division-Rajshahi-Division-03112025.png",
+    "team_a": "Montenegro",
+    "team_b": "Croatia",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Montenegro-Croatia-17112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Mikkelin Jukurit",
-    "team_b": "KalPa Kuopio",
-    "event_name": "Liiga",
-    "poster_id": "Mikkelin-Jukurit-KalPa-Kuopio-22102025.png",
+    "team_a": "Netherlands",
+    "team_b": "Lithuania",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Netherlands-Lithuania-17112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Swift Current Broncos",
-    "team_b": "Red Deer Rebels",
-    "event_name": "WHL",
-    "poster_id": "Swift-Current-Broncos-Red-Deer-Rebels-23102025.png",
+    "team_a": "Pakistan",
+    "team_b": "Sri Lanka",
+    "event_name": "One Day International",
+    "poster_id": "Pakistan-Sri-Lanka-16112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New Zealand",
+    "team_b": "West Indies",
+    "event_name": "One Day International",
+    "poster_id": "New-Zealand-West-Indies-16112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cleveland Cavaliers",
+    "team_b": "Memphis Grizzlies",
+    "event_name": "NBA",
+    "poster_id": "Cleveland-Cavaliers-Memphis-Grizzlies-15112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Minnesota Timberwolves",
+    "team_b": "Denver Nuggets",
+    "event_name": "NBA",
+    "poster_id": "Minnesota-Timberwolves-Denver-Nuggets-16112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Milwaukee Bucks",
+    "team_b": "Los Angeles Lakers",
+    "event_name": "NBA",
+    "poster_id": "Milwaukee-Bucks-Los-Angeles-Lakers-16112025.png",
     "match_type": "team_vs_team"
   }
 ]

@@ -77,20 +77,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Hungary",
-    "team_b": "Ireland",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Hungary-Ireland-16112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Portugal",
-    "team_b": "Armenia",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Portugal-Armenia-16112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Azerbaijan",
     "team_b": "France",
     "event_name": "World Cup Qual. UEFA",

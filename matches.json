@@ -425,5 +425,12 @@
     "event_name": "UFC",
     "poster_id": "Jack-Della-Maddalena-Islam-Makhachev-16112025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pakistan",
+    "team_b": "Sri Lanka",
+    "event_name": "One Day International",
+    "poster_id": "Pakistan-Sri-Lanka-16112025.png",
+    "match_type": "team_vs_team"
   }
 ]

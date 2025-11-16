@@ -77,34 +77,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Azerbaijan",
-    "team_b": "France",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Azerbaijan-France-16112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Serbia",
-    "team_b": "Latvia",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Serbia-Latvia-16112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Ukraine",
-    "team_b": "Iceland",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Ukraine-Iceland-16112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Albania",
-    "team_b": "England",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Albania-England-16112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Israel",
     "team_b": "Moldova",
     "event_name": "World Cup Qual. UEFA",

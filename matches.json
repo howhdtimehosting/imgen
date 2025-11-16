@@ -217,13 +217,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Miami Dolphins",
-    "team_b": "Washington Commanders",
-    "event_name": "NFL",
-    "poster_id": "Miami-Dolphins-Washington-Commanders-16112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Buffalo Bills",
     "team_b": "Tampa Bay Buccaneers",
     "event_name": "NFL",
@@ -273,24 +266,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Pittsburgh Steelers",
-    "team_b": "Cincinnati Bengals",
-    "event_name": "NFL",
-    "poster_id": "Pittsburgh-Steelers-Cincinnati-Bengals-16112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Cleveland Browns",
     "team_b": "Baltimore Ravens",
     "event_name": "NFL",
     "poster_id": "Cleveland-Browns-Baltimore-Ravens-16112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Denver Broncos",
-    "team_b": "Kansas City Chiefs",
-    "event_name": "NFL",
-    "poster_id": "Denver-Broncos-Kansas-City-Chiefs-16112025.png",
     "match_type": "team_vs_team"
   },
   {

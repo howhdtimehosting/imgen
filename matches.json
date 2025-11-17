@@ -210,13 +210,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Sri Lanka",
-    "team_b": "Zimbabwe",
-    "event_name": "T20I Tri-series in Pakistan",
-    "poster_id": "Sri-Lanka-Zimbabwe-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Buffalo Bills",
     "team_b": "Tampa Bay Buccaneers",
     "event_name": "NFL",
@@ -256,13 +249,6 @@
     "team_b": "San Francisco 49ers",
     "event_name": "NFL",
     "poster_id": "Arizona-Cardinals-San-Francisco-49ers-16112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Tennessee Titans",
-    "team_b": "Houston Texans",
-    "event_name": "NFL",
-    "poster_id": "Tennessee-Titans-Houston-Texans-16112025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -326,13 +312,6 @@
     "team_b": "Omiel Brown",
     "event_name": "Cage Warriors",
     "poster_id": "Omar-Tugarev-Omiel-Brown-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Shay Ingram",
-    "team_b": "Ermil Xhaferi",
-    "event_name": "Cage Warriors",
-    "poster_id": "Shay-Ingram-Ermil-Xhaferi-22112025.png",
     "match_type": "team_vs_team"
   },
   {

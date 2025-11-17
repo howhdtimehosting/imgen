@@ -42,59 +42,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Switzerland",
-    "team_b": "Sweden",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Switzerland-Sweden-15112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Denmark",
-    "team_b": "Belarus",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Denmark-Belarus-15112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Greece",
-    "team_b": "Scotland",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Greece-Scotland-15112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bosnia & Herzegovina",
-    "team_b": "Romania",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Bosnia-&-Herzegovina-Romania-15112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Colombia",
-    "team_b": "New Zealand",
-    "event_name": "International Friendly Games",
-    "poster_id": "Colombia-New-Zealand-16112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Israel",
-    "team_b": "Moldova",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Israel-Moldova-16112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Italy",
-    "team_b": "Norway",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Italy-Norway-16112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Malta",
-    "team_b": "Poland",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Malta-Poland-17112025.png",
+    "team_a": "Bangladesh",
+    "team_b": "India",
+    "event_name": "AFC Asian Cup Qual.",
+    "poster_id": "Bangladesh-India-18112025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -105,10 +56,24 @@
     "match_type": "team_vs_team"
   },
   {
+    "team_a": "Malta",
+    "team_b": "Poland",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Malta-Poland-17112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
     "team_a": "Northern Ireland",
     "team_b": "Luxembourg",
     "event_name": "World Cup Qual. UEFA",
     "poster_id": "Northern-Ireland-Luxembourg-17112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Netherlands",
+    "team_b": "Lithuania",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Netherlands-Lithuania-17112025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -126,38 +91,129 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Netherlands",
-    "team_b": "Lithuania",
+    "team_a": "Hong Kong",
+    "team_b": "Singapore",
+    "event_name": "AFC Asian Cup Qual.",
+    "poster_id": "Hong-Kong-Singapore-18112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Uzbekistan",
+    "team_b": "Iran",
+    "event_name": "International Friendly Games",
+    "poster_id": "Uzbekistan-Iran-18112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sweden",
+    "team_b": "Slovenia",
     "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Netherlands-Lithuania-17112025.png",
+    "poster_id": "Sweden-Slovenia-18112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Brazil",
+    "team_b": "Tunisia",
+    "event_name": "International Friendly Games",
+    "poster_id": "Brazil-Tunisia-18112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Kosovo",
+    "team_b": "Switzerland",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Kosovo-Switzerland-18112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Scotland",
+    "team_b": "Denmark",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Scotland-Denmark-18112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bulgaria",
+    "team_b": "Georgia",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Bulgaria-Georgia-18112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Belarus",
+    "team_b": "Greece",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Belarus-Greece-18112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Spain",
+    "team_b": "TÃ¼rkiye",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Spain-TÃ¼rkiye-18112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Romania",
+    "team_b": "San Marino",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Romania-San-Marino-18112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Austria",
+    "team_b": "Bosnia & Herzegovina",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Austria-Bosnia-&-Herzegovina-18112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Wales",
+    "team_b": "North Macedonia",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Wales-North-Macedonia-18112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Belgium",
+    "team_b": "Liechtenstein",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Belgium-Liechtenstein-18112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Colombia",
+    "team_b": "Australia",
+    "event_name": "International Friendly Games",
+    "poster_id": "Colombia-Australia-19112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Mexico",
+    "team_b": "Paraguay",
+    "event_name": "International Friendly Games",
+    "poster_id": "Mexico-Paraguay-19112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pakistan",
+    "team_b": "Zimbabwe",
+    "event_name": "T20I Tri-series in Pakistan",
+    "poster_id": "Pakistan-Zimbabwe-18112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Indonesia",
+    "team_b": "Bahrain",
+    "event_name": "T20 International",
+    "poster_id": "Indonesia-Bahrain-19112025.png",
     "match_type": "team_vs_team"
   },
   {
     "team_a": "New Zealand",
     "team_b": "West Indies",
     "event_name": "One Day International",
-    "poster_id": "New-Zealand-West-Indies-16112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Cleveland Cavaliers",
-    "team_b": "Memphis Grizzlies",
-    "event_name": "NBA",
-    "poster_id": "Cleveland-Cavaliers-Memphis-Grizzlies-15112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Minnesota Timberwolves",
-    "team_b": "Denver Nuggets",
-    "event_name": "NBA",
-    "poster_id": "Minnesota-Timberwolves-Denver-Nuggets-16112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Milwaukee Bucks",
-    "team_b": "Los Angeles Lakers",
-    "event_name": "NBA",
-    "poster_id": "Milwaukee-Bucks-Los-Angeles-Lakers-16112025.png",
+    "poster_id": "New-Zealand-West-Indies-19112025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -168,10 +224,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "West Indies Under-19",
-    "team_b": "England Under-19",
-    "event_name": "One Day International U19",
-    "poster_id": "West-Indies-Under-19-England-Under-19-19112025.png",
+    "team_a": "Bangladesh",
+    "team_b": "Ireland",
+    "event_name": "Test Series",
+    "poster_id": "Bangladesh-Ireland-19112025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -179,6 +235,20 @@
     "team_b": "Zimbabwe",
     "event_name": "T20I Tri-series in Pakistan",
     "poster_id": "Sri-Lanka-Zimbabwe-20112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New Zealand",
+    "team_b": "West Indies",
+    "event_name": "One Day International",
+    "poster_id": "New-Zealand-West-Indies-22112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India",
+    "team_b": "South Africa",
+    "event_name": "Freedom Trophy",
+    "poster_id": "India-South-Africa-22112025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -196,73 +266,66 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Australia",
-    "team_b": "England",
-    "event_name": "Ashes Series",
-    "poster_id": "Australia-England-21112025.png",
+    "team_a": "Cleveland Cavaliers",
+    "team_b": "Milwaukee Bucks",
+    "event_name": "NBA",
+    "poster_id": "Cleveland-Cavaliers-Milwaukee-Bucks-18112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "India",
-    "team_b": "South Africa",
-    "event_name": "Freedom Trophy",
-    "poster_id": "India-South-Africa-22112025.png",
+    "team_a": "Detroit Pistons",
+    "team_b": "Indiana Pacers",
+    "event_name": "NBA",
+    "poster_id": "Detroit-Pistons-Indiana-Pacers-18112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Buffalo Bills",
-    "team_b": "Tampa Bay Buccaneers",
-    "event_name": "NFL",
-    "poster_id": "Buffalo-Bills-Tampa-Bay-Buccaneers-16112025.png",
+    "team_a": "Philadelphia 76ers",
+    "team_b": "Los Angeles Clippers",
+    "event_name": "NBA",
+    "poster_id": "Philadelphia-76ers-Los-Angeles-Clippers-18112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Atlanta Falcons",
-    "team_b": "Carolina Panthers",
-    "event_name": "NFL",
-    "poster_id": "Atlanta-Falcons-Carolina-Panthers-16112025.png",
+    "team_a": "Toronto Raptors",
+    "team_b": "Charlotte Hornets",
+    "event_name": "NBA",
+    "poster_id": "Toronto-Raptors-Charlotte-Hornets-18112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Minnesota Vikings",
-    "team_b": "Chicago Bears",
-    "event_name": "NFL",
-    "poster_id": "Minnesota-Vikings-Chicago-Bears-16112025.png",
+    "team_a": "Miami Heat",
+    "team_b": "New York Knicks",
+    "event_name": "NBA",
+    "poster_id": "Miami-Heat-New-York-Knicks-18112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "New York Giants",
-    "team_b": "Green Bay Packers",
-    "event_name": "NFL",
-    "poster_id": "New-York-Giants-Green-Bay-Packers-16112025.png",
+    "team_a": "Minnesota Timberwolves",
+    "team_b": "Dallas Mavericks",
+    "event_name": "NBA",
+    "poster_id": "Minnesota-Timberwolves-Dallas-Mavericks-18112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Jacksonville Jaguars",
-    "team_b": "Los Angeles Chargers",
-    "event_name": "NFL",
-    "poster_id": "Jacksonville-Jaguars-Los-Angeles-Chargers-16112025.png",
+    "team_a": "New Orleans Pelicans",
+    "team_b": "Oklahoma City Thunder",
+    "event_name": "NBA",
+    "poster_id": "New-Orleans-Pelicans-Oklahoma-City-Thunder-18112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Arizona Cardinals",
-    "team_b": "San Francisco 49ers",
-    "event_name": "NFL",
-    "poster_id": "Arizona-Cardinals-San-Francisco-49ers-16112025.png",
+    "team_a": "Denver Nuggets",
+    "team_b": "Chicago Bulls",
+    "event_name": "NBA",
+    "poster_id": "Denver-Nuggets-Chicago-Bulls-18112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Cleveland Browns",
-    "team_b": "Baltimore Ravens",
-    "event_name": "NFL",
-    "poster_id": "Cleveland-Browns-Baltimore-Ravens-16112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Los Angeles Rams",
-    "team_b": "Seattle Seahawks",
-    "event_name": "NFL",
-    "poster_id": "Los-Angeles-Rams-Seattle-Seahawks-16112025.png",
+    "team_a": "San Antonio Spurs",
+    "team_b": "Memphis Grizzlies",
+    "event_name": "NBA",
+    "poster_id": "San-Antonio-Spurs-Memphis-Grizzlies-19112025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -273,80 +336,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Philadelphia Eagles",
-    "team_b": "Detroit Lions",
+    "team_a": "Houston Texans",
+    "team_b": "Buffalo Bills",
     "event_name": "NFL",
-    "poster_id": "Philadelphia-Eagles-Detroit-Lions-17112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "MINLATE",
-    "team_b": "illwill",
-    "event_name": "DraculaN",
-    "poster_id": "MINLATE-illwill-20112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Tricked",
-    "team_b": "ASTRAL",
-    "event_name": "DraculaN",
-    "poster_id": "Tricked-ASTRAL-20112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "UNiTY esports",
-    "team_b": "Acend",
-    "event_name": "DraculaN",
-    "poster_id": "UNiTY-esports-Acend-20112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "WOPA Esport",
-    "team_b": "G2 Ares",
-    "event_name": "DraculaN",
-    "poster_id": "WOPA-Esport-G2-Ares-20112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Omar Tugarev",
-    "team_b": "Omiel Brown",
-    "event_name": "Cage Warriors",
-    "poster_id": "Omar-Tugarev-Omiel-Brown-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Ryan Hewitt",
-    "team_b": "Matthew Friel",
-    "event_name": "Cage Warriors",
-    "poster_id": "Ryan-Hewitt-Matthew-Friel-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Tim Wilde",
-    "team_b": "Oscar Ownsworth",
-    "event_name": "Cage Warriors",
-    "poster_id": "Tim-Wilde-Oscar-Ownsworth-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "India",
-    "team_b": "South Africa",
-    "event_name": "Freedom Trophy",
-    "poster_id": "India-South-Africa-16112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Jack Della Maddalena",
-    "team_b": "Islam Makhachev",
-    "event_name": "UFC",
-    "poster_id": "Jack-Della-Maddalena-Islam-Makhachev-16112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Pakistan",
-    "team_b": "Sri Lanka",
-    "event_name": "One Day International",
-    "poster_id": "Pakistan-Sri-Lanka-16112025.png",
+    "poster_id": "Houston-Texans-Buffalo-Bills-21112025.png",
     "match_type": "team_vs_team"
   }
 ]

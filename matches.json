@@ -84,13 +84,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Romania",
-    "team_b": "San Marino",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Romania-San-Marino-18112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Bangladesh",
     "team_b": "Ireland",
     "event_name": "Test Series",
@@ -158,6 +151,27 @@
     "team_b": "New Jersey Devils",
     "event_name": "NHL",
     "poster_id": "Tampa-Bay-Lightning-New-Jersey-Devils-19112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Dallas Stars",
+    "team_b": "New York Islanders",
+    "event_name": "NHL",
+    "poster_id": "Dallas-Stars-New-York-Islanders-19112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Winnipeg Jets",
+    "team_b": "Columbus Blue Jackets",
+    "event_name": "NHL",
+    "poster_id": "Winnipeg-Jets-Columbus-Blue-Jackets-19112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Chicago Blackhawks",
+    "team_b": "Calgary Flames",
+    "event_name": "NHL",
+    "poster_id": "Chicago-Blackhawks-Calgary-Flames-19112025.png",
     "match_type": "team_vs_team"
   }
 ]

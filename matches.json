@@ -91,13 +91,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Hong Kong",
-    "team_b": "Singapore",
-    "event_name": "AFC Asian Cup Qual.",
-    "poster_id": "Hong-Kong-Singapore-18112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Uzbekistan",
     "team_b": "Iran",
     "event_name": "International Friendly Games",
@@ -308,31 +301,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "New Orleans Pelicans",
-    "team_b": "Oklahoma City Thunder",
-    "event_name": "NBA",
-    "poster_id": "New-Orleans-Pelicans-Oklahoma-City-Thunder-18112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Denver Nuggets",
-    "team_b": "Chicago Bulls",
-    "event_name": "NBA",
-    "poster_id": "Denver-Nuggets-Chicago-Bulls-18112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "San Antonio Spurs",
     "team_b": "Memphis Grizzlies",
     "event_name": "NBA",
     "poster_id": "San-Antonio-Spurs-Memphis-Grizzlies-19112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Las Vegas Raiders",
-    "team_b": "Dallas Cowboys",
-    "event_name": "NFL",
-    "poster_id": "Las-Vegas-Raiders-Dallas-Cowboys-18112025.png",
     "match_type": "team_vs_team"
   },
   {

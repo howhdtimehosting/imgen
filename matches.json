@@ -89,5 +89,75 @@
     "event_name": "World Cup Qual. UEFA",
     "poster_id": "Romania-San-Marino-18112025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bangladesh",
+    "team_b": "Ireland",
+    "event_name": "Test Series",
+    "poster_id": "Bangladesh-Ireland-19112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New Zealand",
+    "team_b": "West Indies",
+    "event_name": "One Day International",
+    "poster_id": "New-Zealand-West-Indies-19112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Orlando Magic",
+    "team_b": "Golden State Warriors",
+    "event_name": "NBA",
+    "poster_id": "Orlando-Magic-Golden-State-Warriors-19112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Brooklyn Nets",
+    "team_b": "Boston Celtics",
+    "event_name": "NBA",
+    "poster_id": "Brooklyn-Nets-Boston-Celtics-19112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Atlanta Hawks",
+    "team_b": "Detroit Pistons",
+    "event_name": "NBA",
+    "poster_id": "Atlanta-Hawks-Detroit-Pistons-19112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "San Antonio Spurs",
+    "team_b": "Memphis Grizzlies",
+    "event_name": "NBA",
+    "poster_id": "San-Antonio-Spurs-Memphis-Grizzlies-19112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Portland Trail Blazers",
+    "team_b": "Phoenix Suns",
+    "event_name": "NBA",
+    "poster_id": "Portland-Trail-Blazers-Phoenix-Suns-19112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Toronto Maple Leafs",
+    "team_b": "St. Louis Blues",
+    "event_name": "NHL",
+    "poster_id": "Toronto-Maple-Leafs-St.-Louis-Blues-19112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Detroit Red Wings",
+    "team_b": "Seattle Kraken",
+    "event_name": "NHL",
+    "poster_id": "Detroit-Red-Wings-Seattle-Kraken-19112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Tampa Bay Lightning",
+    "team_b": "New Jersey Devils",
+    "event_name": "NHL",
+    "poster_id": "Tampa-Bay-Lightning-New-Jersey-Devils-19112025.png",
+    "match_type": "team_vs_team"
   }
 ]

@@ -42,11 +42,11 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Bangladesh",
-    "team_b": "India",
+    "team_a": "Bangladesh vs India",
+    "team_b": "",
     "event_name": "AFC Asian Cup Qual.",
-    "poster_id": "Bangladesh-India-18112025.png",
-    "match_type": "team_vs_team"
+    "poster_id": "Bangladesh-vs-India-18112025.png",
+    "match_type": "single_event"
   },
   {
     "team_a": "Germany",

@@ -138,5 +138,40 @@
     "event_name": "NHL",
     "poster_id": "Tampa-Bay-Lightning-New-Jersey-Devils-19112025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "VÃ¥lerenga",
+    "team_b": "SKN St. PÃ¶lten",
+    "event_name": "UEFA Women's Champions League",
+    "poster_id": "VÃ¥lerenga-SKN-St.-PÃ¶lten-19112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Paris FC",
+    "team_b": "Benfica",
+    "event_name": "UEFA Women's Champions League",
+    "poster_id": "Paris-FC-Benfica-19112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Arsenal",
+    "team_b": "Real Madrid",
+    "event_name": "UEFA Women's Champions League",
+    "poster_id": "Arsenal-Real-Madrid-19112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Juventus",
+    "team_b": "OL Lyonnes",
+    "event_name": "UEFA Women's Champions League",
+    "poster_id": "Juventus-OL-Lyonnes-19112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "VfL Wolfsburg",
+    "team_b": "Manchester United",
+    "event_name": "UEFA Women's Champions League",
+    "poster_id": "VfL-Wolfsburg-Manchester-United-19112025.png",
+    "match_type": "team_vs_team"
   }
 ]

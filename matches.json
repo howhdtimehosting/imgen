@@ -77,13 +77,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "New Zealand",
-    "team_b": "West Indies",
-    "event_name": "One Day International",
-    "poster_id": "New-Zealand-West-Indies-19112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Orlando Magic",
     "team_b": "Golden State Warriors",
     "event_name": "NBA",

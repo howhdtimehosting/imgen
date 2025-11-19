@@ -166,5 +166,12 @@
     "event_name": "UEFA Women's Champions League",
     "poster_id": "VfL-Wolfsburg-Manchester-United-19112025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sri Lanka A",
+    "team_b": "Bangladesh A",
+    "event_name": "Asia Cup Rising",
+    "poster_id": "Sri-Lanka-A-Bangladesh-A-19112025.png",
+    "match_type": "team_vs_team"
   }
 ]

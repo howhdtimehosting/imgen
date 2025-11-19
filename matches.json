@@ -73,7 +73,7 @@
     "team_a": "Bangladesh",
     "team_b": "Ireland",
     "event_name": "Test Series",
-    "poster_id": "Bangladesh-Ireland-19112025.png",
+    "poster_id": "Bangladesh-Ireland-20112025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -133,13 +133,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "VÃ¥lerenga",
-    "team_b": "SKN St. PÃ¶lten",
-    "event_name": "UEFA Women's Champions League",
-    "poster_id": "VÃ¥lerenga-SKN-St.-PÃ¶lten-19112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Paris FC",
     "team_b": "Benfica",
     "event_name": "UEFA Women's Champions League",
@@ -168,10 +161,59 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Sri Lanka A",
-    "team_b": "Bangladesh A",
-    "event_name": "Asia Cup Rising",
-    "poster_id": "Sri-Lanka-A-Bangladesh-A-19112025.png",
+    "team_a": "San Antonio Spurs",
+    "team_b": "Atlanta Hawks",
+    "event_name": "NBA",
+    "poster_id": "San-Antonio-Spurs-Atlanta-Hawks-21112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Milwaukee Bucks",
+    "team_b": "Philadelphia 76ers",
+    "event_name": "NBA",
+    "poster_id": "Milwaukee-Bucks-Philadelphia-76ers-21112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Memphis Grizzlies",
+    "team_b": "Sacramento Kings",
+    "event_name": "NBA",
+    "poster_id": "Memphis-Grizzlies-Sacramento-Kings-21112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Chelsea FC",
+    "team_b": "FÃºtbol Club Barcelona",
+    "event_name": "UEFA Women's Champions League",
+    "poster_id": "Chelsea-FC-FÃºtbol-Club-Barcelona-20112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Paris Saint-Germain",
+    "team_b": "FC Bayern MÃ¼nchen",
+    "event_name": "UEFA Women's Champions League",
+    "poster_id": "Paris-Saint-Germain-FC-Bayern-MÃ¼nchen-20112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Oud-Heverlee Leuven",
+    "team_b": "AS Roma",
+    "event_name": "UEFA Women's Champions League",
+    "poster_id": "Oud-Heverlee-Leuven-AS-Roma-20112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Twente Vrouwen",
+    "team_b": "Club AtlÃ©tico de Madrid",
+    "event_name": "UEFA Women's Champions League",
+    "poster_id": "FC-Twente-Vrouwen-Club-AtlÃ©tico-de-Madrid-20112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Houston Texans",
+    "team_b": "Buffalo Bills",
+    "event_name": "NFL",
+    "poster_id": "Houston-Texans-Buffalo-Bills-21112025.png",
     "match_type": "team_vs_team"
   }
 ]

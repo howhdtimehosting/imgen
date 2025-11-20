@@ -75,5 +75,19 @@
     "event_name": "Abu Dhabi T10 League",
     "poster_id": "Team-A-Team-B-20112025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sri Lanka",
+    "team_b": "Zimbabwe",
+    "event_name": "T20I Tri-series in Pakistan",
+    "poster_id": "Sri-Lanka-Zimbabwe-20112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Australia",
+    "team_b": "England",
+    "event_name": "Ashes Series",
+    "poster_id": "Australia-England-21112025.png",
+    "match_type": "team_vs_team"
   }
 ]

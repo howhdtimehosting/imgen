@@ -1,75 +1,5 @@
 [
   {
-    "team_a": "Avto Yekaterinburg U20",
-    "team_b": "Irbis Kazan U20",
-    "event_name": "MHL",
-    "poster_id": "Avto-Yekaterinburg-U20-Irbis-Kazan-U20-06112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Viktor Stavropol",
-    "team_b": "Dinamo Astrakhan",
-    "event_name": "Super League",
-    "poster_id": "Viktor-Stavropol-Dinamo-Astrakhan-06112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Kosovo",
-    "team_b": "Switzerland",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Kosovo-Switzerland-18112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Brazil",
-    "team_b": "Tunisia",
-    "event_name": "International Friendly Games",
-    "poster_id": "Brazil-Tunisia-18112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sweden",
-    "team_b": "Slovenia",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Sweden-Slovenia-18112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Scotland",
-    "team_b": "Denmark",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Scotland-Denmark-18112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Belarus",
-    "team_b": "Greece",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Belarus-Greece-18112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bulgaria",
-    "team_b": "Georgia",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Bulgaria-Georgia-18112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Spain",
-    "team_b": "TÃ¼rkiye",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Spain-TÃ¼rkiye-18112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Austria",
-    "team_b": "Bosnia & Herzegovina",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Austria-Bosnia-&-Herzegovina-18112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Bangladesh",
     "team_b": "Ireland",
     "event_name": "Test Series",
@@ -77,87 +7,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Orlando Magic",
-    "team_b": "Golden State Warriors",
-    "event_name": "NBA",
-    "poster_id": "Orlando-Magic-Golden-State-Warriors-19112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Brooklyn Nets",
-    "team_b": "Boston Celtics",
-    "event_name": "NBA",
-    "poster_id": "Brooklyn-Nets-Boston-Celtics-19112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Atlanta Hawks",
-    "team_b": "Detroit Pistons",
-    "event_name": "NBA",
-    "poster_id": "Atlanta-Hawks-Detroit-Pistons-19112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "San Antonio Spurs",
-    "team_b": "Memphis Grizzlies",
-    "event_name": "NBA",
-    "poster_id": "San-Antonio-Spurs-Memphis-Grizzlies-19112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Portland Trail Blazers",
-    "team_b": "Phoenix Suns",
-    "event_name": "NBA",
-    "poster_id": "Portland-Trail-Blazers-Phoenix-Suns-19112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Toronto Maple Leafs",
-    "team_b": "St. Louis Blues",
-    "event_name": "NHL",
-    "poster_id": "Toronto-Maple-Leafs-St.-Louis-Blues-19112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Detroit Red Wings",
-    "team_b": "Seattle Kraken",
-    "event_name": "NHL",
-    "poster_id": "Detroit-Red-Wings-Seattle-Kraken-19112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Tampa Bay Lightning",
-    "team_b": "New Jersey Devils",
-    "event_name": "NHL",
-    "poster_id": "Tampa-Bay-Lightning-New-Jersey-Devils-19112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Paris FC",
     "team_b": "Benfica",
     "event_name": "UEFA Women's Champions League",
     "poster_id": "Paris-FC-Benfica-19112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Arsenal",
-    "team_b": "Real Madrid",
-    "event_name": "UEFA Women's Champions League",
-    "poster_id": "Arsenal-Real-Madrid-19112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Juventus",
-    "team_b": "OL Lyonnes",
-    "event_name": "UEFA Women's Champions League",
-    "poster_id": "Juventus-OL-Lyonnes-19112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "VfL Wolfsburg",
-    "team_b": "Manchester United",
-    "event_name": "UEFA Women's Champions League",
-    "poster_id": "VfL-Wolfsburg-Manchester-United-19112025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -214,6 +67,13 @@
     "team_b": "Buffalo Bills",
     "event_name": "NFL",
     "poster_id": "Houston-Texans-Buffalo-Bills-21112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Team A ",
+    "team_b": "Team B",
+    "event_name": "Abu Dhabi T10 League",
+    "poster_id": "Team-A-Team-B-20112025.png",
     "match_type": "team_vs_team"
   }
 ]

@@ -133,10 +133,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Friday Fight",
+    "team_a": "ONE Championship|Friday Fight",
     "team_b": "",
     "event_name": "ONE Fight Championship",
-    "poster_id": "Friday-Fight-21112025.png",
+    "poster_id": "ONE-ChampionshipFriday-Fight-21112025.png",
     "match_type": "single_event"
   }
 ]

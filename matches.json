@@ -12,5 +12,117 @@
     "event_name": "Ashes Series",
     "poster_id": "Australia-England-21112025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Las Palmas",
+    "team_b": "Albacete BalompiÃ©",
+    "event_name": "LaLiga 2",
+    "poster_id": "Las-Palmas-Albacete-BalompiÃ©-21112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "1. FSV Mainz 05",
+    "team_b": "TSG Hoffenheim",
+    "event_name": "Bundesliga",
+    "poster_id": "1.-FSV-Mainz-05-TSG-Hoffenheim-21112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Nice",
+    "team_b": "Olympique de Marseille",
+    "event_name": "Ligue 1",
+    "poster_id": "Nice-Olympique-de-Marseille-21112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Valencia",
+    "team_b": "Levante UD",
+    "event_name": "LaLiga",
+    "poster_id": "Valencia-Levante-UD-21112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Olympique de Marseille",
+    "team_b": "RC Lens",
+    "event_name": "PremiÃ¨re Ligue, FÃ©minine",
+    "poster_id": "Olympique-de-Marseille-RC-Lens-21112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cleveland Cavaliers",
+    "team_b": "Indiana Pacers",
+    "event_name": "NBA",
+    "poster_id": "Cleveland-Cavaliers-Indiana-Pacers-22112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Boston Celtics",
+    "team_b": "Brooklyn Nets",
+    "event_name": "NBA",
+    "poster_id": "Boston-Celtics-Brooklyn-Nets-22112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Toronto Raptors",
+    "team_b": "Washington Wizards",
+    "event_name": "NBA",
+    "poster_id": "Toronto-Raptors-Washington-Wizards-22112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Chicago Bulls",
+    "team_b": "Miami Heat",
+    "event_name": "NBA",
+    "poster_id": "Chicago-Bulls-Miami-Heat-22112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Dallas Mavericks",
+    "team_b": "New Orleans Pelicans",
+    "event_name": "NBA",
+    "poster_id": "Dallas-Mavericks-New-Orleans-Pelicans-22112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Houston Rockets",
+    "team_b": "Denver Nuggets",
+    "event_name": "NBA",
+    "poster_id": "Houston-Rockets-Denver-Nuggets-22112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Utah Jazz",
+    "team_b": "Oklahoma City Thunder",
+    "event_name": "NBA",
+    "poster_id": "Utah-Jazz-Oklahoma-City-Thunder-22112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Golden State Warriors",
+    "team_b": "Portland Trail Blazers",
+    "event_name": "NBA",
+    "poster_id": "Golden-State-Warriors-Portland-Trail-Blazers-22112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Los Angeles Kings",
+    "team_b": "Boston Bruins",
+    "event_name": "NHL",
+    "poster_id": "Los-Angeles-Kings-Boston-Bruins-22112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Buffalo Sabres",
+    "team_b": "Chicago Blackhawks",
+    "event_name": "NHL",
+    "poster_id": "Buffalo-Sabres-Chicago-Blackhawks-22112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pittsburgh Penguins",
+    "team_b": "Minnesota Wild",
+    "event_name": "NHL",
+    "poster_id": "Pittsburgh-Penguins-Minnesota-Wild-22112025.png",
+    "match_type": "team_vs_team"
   }
 ]

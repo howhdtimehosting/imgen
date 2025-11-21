@@ -124,5 +124,61 @@
     "event_name": "NHL",
     "poster_id": "Pittsburgh-Penguins-Minnesota-Wild-22112025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bangladesh A",
+    "team_b": "India A",
+    "event_name": "Asia Cup Rising",
+    "poster_id": "Bangladesh-A-India-A-21112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Morocco U17",
+    "team_b": "Brazil U17",
+    "event_name": "U17 World Championship",
+    "poster_id": "Morocco-U17-Brazil-U17-21112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Ittihad",
+    "team_b": "Al-Riyadh",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Ittihad-Al-Riyadh-21112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Portugal U17",
+    "team_b": "Switzerland U17",
+    "event_name": "U17 World Championship",
+    "poster_id": "Portugal-U17-Switzerland-U17-21112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New Zealand",
+    "team_b": "West Indies",
+    "event_name": "One Day International",
+    "poster_id": "New-Zealand-West-Indies-22112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India",
+    "team_b": "South Africa",
+    "event_name": "Freedom Trophy",
+    "poster_id": "India-South-Africa-22112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "VfL Bochum 1848",
+    "team_b": "SG Dynamo Dresden",
+    "event_name": "2. Bundesliga",
+    "poster_id": "VfL-Bochum-1848-SG-Dynamo-Dresden-21112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Hertha BSC",
+    "team_b": "Eintracht Braunschweig",
+    "event_name": "2. Bundesliga",
+    "poster_id": "Hertha-BSC-Eintracht-Braunschweig-21112025.png",
+    "match_type": "team_vs_team"
   }
 ]

@@ -112,17 +112,17 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Bangladesh A",
-    "team_b": "India A",
-    "event_name": "Asia Cup Rising",
-    "poster_id": "Bangladesh-A-India-A-21112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "ONE Championship|Friday Fight",
     "team_b": "",
     "event_name": "ONE Fight Championship",
     "poster_id": "ONE-ChampionshipFriday-Fight-21112025.png",
     "match_type": "single_event"
+  },
+  {
+    "team_a": "Pakistan A",
+    "team_b": "Sri Lanka A",
+    "event_name": "Asia Cup Rising",
+    "poster_id": "Pakistan-A-Sri-Lanka-A-21112025.png",
+    "match_type": "team_vs_team"
   }
 ]

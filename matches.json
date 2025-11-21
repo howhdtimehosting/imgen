@@ -1,19 +1,5 @@
 [
   {
-    "team_a": "Bangladesh",
-    "team_b": "Ireland",
-    "event_name": "Test Series",
-    "poster_id": "Bangladesh-Ireland-21112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Australia",
-    "team_b": "England",
-    "event_name": "Ashes Series",
-    "poster_id": "Australia-England-21112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Las Palmas",
     "team_b": "Albacete BalompiÃ©",
     "event_name": "LaLiga 2",

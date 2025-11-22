@@ -35,13 +35,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Los Angeles Kings",
-    "team_b": "Boston Bruins",
-    "event_name": "NHL",
-    "poster_id": "Los-Angeles-Kings-Boston-Bruins-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Buffalo Sabres",
     "team_b": "Chicago Blackhawks",
     "event_name": "NHL",
@@ -53,13 +46,6 @@
     "team_b": "Minnesota Wild",
     "event_name": "NHL",
     "poster_id": "Pittsburgh-Penguins-Minnesota-Wild-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bangladesh A",
-    "team_b": "India A",
-    "event_name": "Asia Cup Rising",
-    "poster_id": "Bangladesh-A-India-A-22112025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -77,31 +63,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Boston Celtics",
-    "team_b": "Brooklyn Nets",
-    "event_name": "NBA",
-    "poster_id": "Boston-Celtics-Brooklyn-Nets-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Chicago Bulls",
     "team_b": "Miami Heat",
     "event_name": "NBA",
     "poster_id": "Chicago-Bulls-Miami-Heat-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Dallas Mavericks",
-    "team_b": "New Orleans Pelicans",
-    "event_name": "NBA",
-    "poster_id": "Dallas-Mavericks-New-Orleans-Pelicans-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Phoenix Suns",
-    "team_b": "Minnesota Timberwolves",
-    "event_name": "NBA",
-    "poster_id": "Phoenix-Suns-Minnesota-Timberwolves-22112025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -112,115 +77,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Utah Jazz",
-    "team_b": "Oklahoma City Thunder",
-    "event_name": "NBA",
-    "poster_id": "Utah-Jazz-Oklahoma-City-Thunder-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Golden State Warriors",
     "team_b": "Portland Trail Blazers",
     "event_name": "NBA",
     "poster_id": "Golden-State-Warriors-Portland-Trail-Blazers-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "PreuÃen MÃ¼nster",
-    "team_b": "FC Schalke 04",
-    "event_name": "2. Bundesliga",
-    "poster_id": "PreuÃen-MÃ¼nster-FC-Schalke-04-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "SC Paderborn 07",
-    "team_b": "Hannover 96",
-    "event_name": "2. Bundesliga",
-    "poster_id": "SC-Paderborn-07-Hannover-96-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Fortuna DÃ¼sseldorf",
-    "team_b": "1. FC Magdeburg",
-    "event_name": "2. Bundesliga",
-    "poster_id": "Fortuna-DÃ¼sseldorf-1.-FC-Magdeburg-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Burnley",
-    "team_b": "Chelsea",
-    "event_name": "Premier League",
-    "poster_id": "Burnley-Chelsea-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Deportivo AlavÃ©s",
-    "team_b": "Celta Vigo",
-    "event_name": "LaLiga",
-    "poster_id": "Deportivo-AlavÃ©s-Celta-Vigo-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Cagliari",
-    "team_b": "Genoa",
-    "event_name": "Serie A",
-    "poster_id": "Cagliari-Genoa-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Udinese",
-    "team_b": "Bologna",
-    "event_name": "Serie A",
-    "poster_id": "Udinese-Bologna-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Ettifaq",
-    "team_b": "Al-Fayha",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Ettifaq-Al-Fayha-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Borussia Dortmund",
-    "team_b": "VfB Stuttgart",
-    "event_name": "Bundesliga",
-    "poster_id": "Borussia-Dortmund-VfB-Stuttgart-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FC Augsburg",
-    "team_b": "Hamburger SV",
-    "event_name": "Bundesliga",
-    "poster_id": "FC-Augsburg-Hamburger-SV-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "1. FC Heidenheim",
-    "team_b": "Borussia M'gladbach",
-    "event_name": "Bundesliga",
-    "poster_id": "1.-FC-Heidenheim-Borussia-M'gladbach-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "VfL Wolfsburg",
-    "team_b": "Bayer 04 Leverkusen",
-    "event_name": "Bundesliga",
-    "poster_id": "VfL-Wolfsburg-Bayer-04-Leverkusen-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FC Bayern MÃ¼nchen",
-    "team_b": "SC Freiburg",
-    "event_name": "Bundesliga",
-    "poster_id": "FC-Bayern-MÃ¼nchen-SC-Freiburg-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Hilal",
-    "team_b": "Al-Fateh",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Hilal-Al-Fateh-22112025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -378,24 +238,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "New Zealand",
-    "team_b": "West Indies",
-    "event_name": "One Day International",
-    "poster_id": "New-Zealand-West-Indies-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "India",
     "team_b": "South Africa",
     "event_name": "Freedom Trophy",
     "poster_id": "India-South-Africa-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Australia",
-    "team_b": "England",
-    "event_name": "Ashes Series",
-    "poster_id": "Australia-England-22112025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -420,20 +266,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Boston Celtics",
-    "team_b": "Brooklyn Nets",
-    "event_name": "NBA",
-    "poster_id": "Boston-Celtics-Brooklyn-Nets-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Toronto Raptors",
-    "team_b": "Washington Wizards",
-    "event_name": "NBA",
-    "poster_id": "Toronto-Raptors-Washington-Wizards-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Chicago Bulls",
     "team_b": "Miami Heat",
     "event_name": "NBA",
@@ -452,27 +284,6 @@
     "team_b": "Minnesota Timberwolves",
     "event_name": "NBA",
     "poster_id": "Phoenix-Suns-Minnesota-Timberwolves-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Houston Rockets",
-    "team_b": "Denver Nuggets",
-    "event_name": "NBA",
-    "poster_id": "Houston-Rockets-Denver-Nuggets-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Golden State Warriors",
-    "team_b": "Portland Trail Blazers",
-    "event_name": "NBA",
-    "poster_id": "Golden-State-Warriors-Portland-Trail-Blazers-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Utah Jazz",
-    "team_b": "Oklahoma City Thunder",
-    "event_name": "NBA",
-    "poster_id": "Utah-Jazz-Oklahoma-City-Thunder-22112025.png",
     "match_type": "team_vs_team"
   },
   {

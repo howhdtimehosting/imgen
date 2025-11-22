@@ -404,5 +404,12 @@
     "event_name": "Abu Dhabi T10 League",
     "poster_id": "Abu-Dhabi-T10-League-22112025.png",
     "match_type": "single_event"
+  },
+  {
+    "team_a": "AEW Full Gear 2025",
+    "team_b": "",
+    "event_name": "AEW Full Gear 2025",
+    "poster_id": "AEW-Full-Gear-2025-23112025.png",
+    "match_type": "single_event"
   }
 ]

@@ -402,7 +402,7 @@
     "team_a": "India",
     "team_b": "South Africa",
     "event_name": "Freedom Trophy",
-    "poster_id": "India-South-Africa-22112025.png",
+    "poster_id": "India-South-Africa-23112025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -411,5 +411,12 @@
     "event_name": "Ashes Series",
     "poster_id": "Australia-England-22112025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Abu Dhabi T10 League",
+    "team_b": "",
+    "event_name": "Abu Dhabi T10 League",
+    "poster_id": "Abu-Dhabi-T10-League-22112025.png",
+    "match_type": "single_event"
   }
 ]

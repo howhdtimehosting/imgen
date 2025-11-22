@@ -154,20 +154,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Port Vale",
-    "team_b": "Plymouth Argyle",
-    "event_name": "League One",
-    "poster_id": "Port-Vale-Plymouth-Argyle-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Gillingham",
-    "team_b": "Barnet",
-    "event_name": "League Two",
-    "poster_id": "Gillingham-Barnet-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Deportivo AlavÃ©s",
     "team_b": "Celta Vigo",
     "event_name": "LaLiga",

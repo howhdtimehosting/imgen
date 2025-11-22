@@ -7,55 +7,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "RC Lens",
-    "team_b": "RC Strasbourg",
-    "event_name": "Ligue 1",
-    "poster_id": "RC-Lens-RC-Strasbourg-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Fiorentina",
-    "team_b": "Juventus",
-    "event_name": "Serie A",
-    "poster_id": "Fiorentina-Juventus-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Osasuna",
-    "team_b": "Real Sociedad",
-    "event_name": "LaLiga",
-    "poster_id": "Osasuna-Real-Sociedad-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "1. FC KÃ¶ln",
-    "team_b": "Eintracht Frankfurt",
-    "event_name": "Bundesliga",
-    "poster_id": "1.-FC-KÃ¶ln-Eintracht-Frankfurt-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Newcastle United",
-    "team_b": "Manchester City",
-    "event_name": "Premier League",
-    "poster_id": "Newcastle-United-Manchester-City-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Eibar",
-    "team_b": "Real Zaragoza",
-    "event_name": "LaLiga 2",
-    "poster_id": "Eibar-Real-Zaragoza-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Stade Rennais",
-    "team_b": "AS Monaco",
-    "event_name": "Ligue 1",
-    "poster_id": "Stade-Rennais-AS-Monaco-22112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Villarreal",
     "team_b": "Mallorca",
     "event_name": "LaLiga",
@@ -228,6 +179,41 @@
     "team_b": "Dallas Stars",
     "event_name": "NHL",
     "poster_id": "Calgary-Flames-Dallas-Stars-23112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bangladesh",
+    "team_b": "Ireland",
+    "event_name": "Test Series",
+    "poster_id": "Bangladesh-Ireland-23112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pakistan",
+    "team_b": "Zimbabwe",
+    "event_name": "T20I Tri-series in Pakistan",
+    "poster_id": "Pakistan-Zimbabwe-23112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Ajman Titans",
+    "team_b": "Royal Champs",
+    "event_name": "Abu Dhabi T10 League",
+    "poster_id": "Ajman-Titans-Royal-Champs-23112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Quetta Qavalry",
+    "team_b": "Aspin Stallions",
+    "event_name": "Abu Dhabi T10 League",
+    "poster_id": "Quetta-Qavalry-Aspin-Stallions-23112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Northern Warriors",
+    "team_b": "Vista Riders",
+    "event_name": "Abu Dhabi T10 League",
+    "poster_id": "Northern-Warriors-Vista-Riders-23112025.png",
     "match_type": "team_vs_team"
   }
 ]

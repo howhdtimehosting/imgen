@@ -140,13 +140,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Al-Taawoun",
-    "team_b": "Neom SC",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Taawoun-Neom-SC-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Al-Nassr",
     "team_b": "Al-Khaleej",
     "event_name": "Saudi Pro League",
@@ -305,6 +298,90 @@
     "team_b": "Pakistan A",
     "event_name": "Asia Cup Rising, Final",
     "poster_id": "Bangladesh-A-Pakistan-A-23112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Baltimore Ravens",
+    "team_b": "New York Jets",
+    "event_name": "NFL",
+    "poster_id": "Baltimore-Ravens-New-York-Jets-23112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cincinnati Bengals",
+    "team_b": "New England Patriots",
+    "event_name": "NFL",
+    "poster_id": "Cincinnati-Bengals-New-England-Patriots-23112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Chicago Bears",
+    "team_b": "Pittsburgh Steelers",
+    "event_name": "NFL",
+    "poster_id": "Chicago-Bears-Pittsburgh-Steelers-23112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Green Bay Packers",
+    "team_b": "Minnesota Vikings",
+    "event_name": "NFL",
+    "poster_id": "Green-Bay-Packers-Minnesota-Vikings-23112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Detroit Lions",
+    "team_b": "New York Giants",
+    "event_name": "NFL",
+    "poster_id": "Detroit-Lions-New-York-Giants-23112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Kansas City Chiefs",
+    "team_b": "Indianapolis Colts",
+    "event_name": "NFL",
+    "poster_id": "Kansas-City-Chiefs-Indianapolis-Colts-23112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Tennessee Titans",
+    "team_b": "Seattle Seahawks",
+    "event_name": "NFL",
+    "poster_id": "Tennessee-Titans-Seattle-Seahawks-23112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Arizona Cardinals",
+    "team_b": "Jacksonville Jaguars",
+    "event_name": "NFL",
+    "poster_id": "Arizona-Cardinals-Jacksonville-Jaguars-23112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Las Vegas Raiders",
+    "team_b": "Cleveland Browns",
+    "event_name": "NFL",
+    "poster_id": "Las-Vegas-Raiders-Cleveland-Browns-23112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Dallas Cowboys",
+    "team_b": "Philadelphia Eagles",
+    "event_name": "NFL",
+    "poster_id": "Dallas-Cowboys-Philadelphia-Eagles-23112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New Orleans Saints",
+    "team_b": "Atlanta Falcons",
+    "event_name": "NFL",
+    "poster_id": "New-Orleans-Saints-Atlanta-Falcons-23112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Los Angeles Rams",
+    "team_b": "Tampa Bay Buccaneers",
+    "event_name": "NFL",
+    "poster_id": "Los-Angeles-Rams-Tampa-Bay-Buccaneers-24112025.png",
     "match_type": "team_vs_team"
   }
 ]

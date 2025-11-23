@@ -10,7 +10,7 @@
     "team_a": "India",
     "team_b": "South Africa",
     "event_name": "Freedom Trophy",
-    "poster_id": "India-South-Africa-23112025.png",
+    "poster_id": "India-South-Africa-24112025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -35,24 +35,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Ajman Titans",
-    "team_b": "Royal Champs",
-    "event_name": "Abu Dhabi T10 League",
-    "poster_id": "Ajman-Titans-Royal-Champs-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Northern Warriors",
     "team_b": "Vista Riders",
     "event_name": "Abu Dhabi T10 League",
     "poster_id": "Northern-Warriors-Vista-Riders-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Hellas Verona",
-    "team_b": "Parma",
-    "event_name": "Serie A",
-    "poster_id": "Hellas-Verona-Parma-23112025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -368,6 +354,13 @@
     "team_b": "MANA eSports",
     "event_name": "United21",
     "poster_id": "GANK-Esports-MANA-eSports-24112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bangladesh A",
+    "team_b": "Pakistan A",
+    "event_name": "Asia Cup Rising, Final",
+    "poster_id": "Bangladesh-A-Pakistan-A-23112025.png",
     "match_type": "team_vs_team"
   }
 ]

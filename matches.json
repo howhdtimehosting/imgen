@@ -28,62 +28,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Pakistan",
-    "team_b": "Zimbabwe",
-    "event_name": "T20I Tri-series in Pakistan",
-    "poster_id": "Pakistan-Zimbabwe-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Cremonese",
-    "team_b": "Roma",
-    "event_name": "Serie A",
-    "poster_id": "Cremonese-Roma-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Auxerre",
-    "team_b": "Olympique Lyonnais",
-    "event_name": "Ligue 1",
-    "poster_id": "Auxerre-Olympique-Lyonnais-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Leeds United",
-    "team_b": "Aston Villa",
-    "event_name": "Premier League",
-    "poster_id": "Leeds-United-Aston-Villa-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "RB Leipzig",
-    "team_b": "SV Werder Bremen",
-    "event_name": "Bundesliga",
-    "poster_id": "RB-Leipzig-SV-Werder-Bremen-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Betis",
-    "team_b": "Girona FC",
-    "event_name": "LaLiga",
-    "poster_id": "Real-Betis-Girona-FC-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "CÃ¡diz",
-    "team_b": "Cultural Leonesa",
-    "event_name": "LaLiga 2",
-    "poster_id": "CÃ¡diz-Cultural-Leonesa-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Huesca",
-    "team_b": "Sporting GijÃ³n",
-    "event_name": "LaLiga 2",
-    "poster_id": "Huesca-Sporting-GijÃ³n-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Toulouse",
     "team_b": "Angers",
     "event_name": "Ligue 1",

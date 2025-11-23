@@ -28,76 +28,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Toulouse",
-    "team_b": "Angers",
-    "event_name": "Ligue 1",
-    "poster_id": "Toulouse-Angers-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Stade Brestois",
-    "team_b": "Metz",
-    "event_name": "Ligue 1",
-    "poster_id": "Stade-Brestois-Metz-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Nantes",
-    "team_b": "Lorient",
-    "event_name": "Ligue 1",
-    "poster_id": "Nantes-Lorient-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Arsenal",
-    "team_b": "Tottenham Hotspur",
-    "event_name": "Premier League",
-    "poster_id": "Arsenal-Tottenham-Hotspur-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FC St. Pauli",
-    "team_b": "1. FC Union Berlin",
-    "event_name": "Bundesliga",
-    "poster_id": "FC-St.-Pauli-1.-FC-Union-Berlin-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Ãaykur Rizespor",
-    "team_b": "FenerbahÃ§e",
-    "event_name": "Trendyol SÃ¼per Lig",
-    "poster_id": "Ãaykur-Rizespor-FenerbahÃ§e-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Lazio",
-    "team_b": "Lecce",
-    "event_name": "Serie A",
-    "poster_id": "Lazio-Lecce-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Getafe",
-    "team_b": "AtlÃ©tico Madrid",
-    "event_name": "LaLiga",
-    "poster_id": "Getafe-AtlÃ©tico-Madrid-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Nassr",
-    "team_b": "Al-Khaleej",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Nassr-Al-Khaleej-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Burgos Club de FÃºtbol",
-    "team_b": "Real Racing Club",
-    "event_name": "LaLiga 2",
-    "poster_id": "Burgos-Club-de-FÃºtbol-Real-Racing-Club-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Lille",
     "team_b": "Paris FC",
     "event_name": "Ligue 1",
@@ -189,13 +119,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Buffalo Sabres",
-    "team_b": "Carolina Hurricanes",
-    "event_name": "NHL",
-    "poster_id": "Buffalo-Sabres-Carolina-Hurricanes-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "New York Islanders",
     "team_b": "Seattle Kraken",
     "event_name": "NHL",
@@ -235,13 +158,6 @@
     "team_b": "MANA eSports",
     "event_name": "United21",
     "poster_id": "GANK-Esports-MANA-eSports-24112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bangladesh A",
-    "team_b": "Pakistan A",
-    "event_name": "Asia Cup Rising, Final",
-    "poster_id": "Bangladesh-A-Pakistan-A-23112025.png",
     "match_type": "team_vs_team"
   },
   {

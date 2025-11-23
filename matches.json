@@ -35,48 +35,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Northern Warriors",
-    "team_b": "Vista Riders",
-    "event_name": "Abu Dhabi T10 League",
-    "poster_id": "Northern-Warriors-Vista-Riders-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "1. FC Kaiserslautern",
-    "team_b": "Holstein Kiel",
-    "event_name": "2. Bundesliga",
-    "poster_id": "1.-FC-Kaiserslautern-Holstein-Kiel-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "1. FC NÃ¼rnberg",
-    "team_b": "Arminia Bielefeld",
-    "event_name": "2. Bundesliga",
-    "poster_id": "1.-FC-NÃ¼rnberg-Arminia-Bielefeld-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Karlsruher SC",
-    "team_b": "SV 07 Elversberg",
-    "event_name": "2. Bundesliga",
-    "poster_id": "Karlsruher-SC-SV-07-Elversberg-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Oviedo",
-    "team_b": "Rayo Vallecano",
-    "event_name": "LaLiga",
-    "poster_id": "Real-Oviedo-Rayo-Vallecano-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Deportivo La CoruÃ±a",
-    "team_b": "AD Ceuta",
-    "event_name": "LaLiga 2",
-    "poster_id": "Deportivo-La-CoruÃ±a-AD-Ceuta-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Cremonese",
     "team_b": "Roma",
     "event_name": "Serie A",

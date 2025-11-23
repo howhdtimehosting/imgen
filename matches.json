@@ -98,20 +98,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Alanyaspor",
-    "team_b": "KasÄ±mpaÅa",
-    "event_name": "Trendyol SÃ¼per Lig",
-    "poster_id": "Alanyaspor-KasÄ±mpaÅa-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "BeÅiktaÅ JK",
-    "team_b": "Samsunspor",
-    "event_name": "Trendyol SÃ¼per Lig",
-    "poster_id": "BeÅiktaÅ-JK-Samsunspor-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "RB Leipzig",
     "team_b": "SV Werder Bremen",
     "event_name": "Bundesliga",

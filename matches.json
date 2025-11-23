@@ -63,13 +63,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Boca Juniors",
-    "team_b": "Talleres",
-    "event_name": "Liga Profesional de FÃºtbol",
-    "poster_id": "Boca-Juniors-Talleres-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Atlanta Hawks",
     "team_b": "Charlotte Hornets",
     "event_name": "NBA",
@@ -133,13 +126,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Vancouver Canucks",
-    "team_b": "Calgary Flames",
-    "event_name": "NHL",
-    "poster_id": "Vancouver-Canucks-Calgary-Flames-24112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "San Jose Sharks",
     "team_b": "Boston Bruins",
     "event_name": "NHL",
@@ -158,55 +144,6 @@
     "team_b": "MANA eSports",
     "event_name": "United21",
     "poster_id": "GANK-Esports-MANA-eSports-24112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Baltimore Ravens",
-    "team_b": "New York Jets",
-    "event_name": "NFL",
-    "poster_id": "Baltimore-Ravens-New-York-Jets-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Cincinnati Bengals",
-    "team_b": "New England Patriots",
-    "event_name": "NFL",
-    "poster_id": "Cincinnati-Bengals-New-England-Patriots-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Chicago Bears",
-    "team_b": "Pittsburgh Steelers",
-    "event_name": "NFL",
-    "poster_id": "Chicago-Bears-Pittsburgh-Steelers-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Green Bay Packers",
-    "team_b": "Minnesota Vikings",
-    "event_name": "NFL",
-    "poster_id": "Green-Bay-Packers-Minnesota-Vikings-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Detroit Lions",
-    "team_b": "New York Giants",
-    "event_name": "NFL",
-    "poster_id": "Detroit-Lions-New-York-Giants-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Kansas City Chiefs",
-    "team_b": "Indianapolis Colts",
-    "event_name": "NFL",
-    "poster_id": "Kansas-City-Chiefs-Indianapolis-Colts-23112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Tennessee Titans",
-    "team_b": "Seattle Seahawks",
-    "event_name": "NFL",
-    "poster_id": "Tennessee-Titans-Seattle-Seahawks-23112025.png",
     "match_type": "team_vs_team"
   },
   {

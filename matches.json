@@ -84,13 +84,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Stade de Reims",
-    "team_b": "Montpellier",
-    "event_name": "Ligue 2",
-    "poster_id": "Stade-de-Reims-Montpellier-24112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Manchester United",
     "team_b": "Everton",
     "event_name": "Premier League",

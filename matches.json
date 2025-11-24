@@ -56,20 +56,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Konyaspor",
-    "team_b": "Antalyaspor",
-    "event_name": "Trendyol SÃ¼per Lig",
-    "poster_id": "Konyaspor-Antalyaspor-24112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "BaÅakÅehir FK",
-    "team_b": "Trabzonspor",
-    "event_name": "Trendyol SÃ¼per Lig",
-    "poster_id": "BaÅakÅehir-FK-Trabzonspor-24112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Torino",
     "team_b": "Como",
     "event_name": "Serie A",

@@ -42,13 +42,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Al Duhail",
-    "team_b": "Al-Ittihad",
-    "event_name": "AFC Champions League Elite",
-    "poster_id": "Al-Duhail-Al-Ittihad-24112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Portugal U17",
     "team_b": "Brazil U17",
     "event_name": "U17 World Championship",
@@ -63,24 +56,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Real Sociedad B U21",
-    "team_b": "Real Valladolid",
-    "event_name": "LaLiga 2",
-    "poster_id": "Real-Sociedad-B-U21-Real-Valladolid-24112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Espanyol",
     "team_b": "Sevilla",
     "event_name": "LaLiga",
     "poster_id": "Espanyol-Sevilla-24112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sassuolo",
-    "team_b": "Pisa",
-    "event_name": "Serie A",
-    "poster_id": "Sassuolo-Pisa-24112025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -105,20 +84,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "New Orleans Pelicans",
-    "team_b": "Chicago Bulls",
-    "event_name": "NBA",
-    "poster_id": "New-Orleans-Pelicans-Chicago-Bulls-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Milwaukee Bucks",
-    "team_b": "Portland Trail Blazers",
-    "event_name": "NBA",
-    "poster_id": "Milwaukee-Bucks-Portland-Trail-Blazers-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Memphis Grizzlies",
     "team_b": "Denver Nuggets",
     "event_name": "NBA",
@@ -140,24 +105,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Golden State Warriors",
-    "team_b": "Utah Jazz",
-    "event_name": "NBA",
-    "poster_id": "Golden-State-Warriors-Utah-Jazz-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Utah Mammoth",
     "team_b": "Vegas Golden Knights",
     "event_name": "NHL",
     "poster_id": "Utah-Mammoth-Vegas-Golden-Knights-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Los Angeles Kings",
-    "team_b": "Ottawa Senators",
-    "event_name": "NHL",
-    "poster_id": "Los-Angeles-Kings-Ottawa-Senators-25112025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -168,38 +119,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Chelsea U19",
-    "team_b": "Barcelona U19",
-    "event_name": "UEFA Youth League",
-    "poster_id": "Chelsea-U19-Barcelona-U19-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Ahal FK",
     "team_b": "Mohun Bagan Super Giant",
     "event_name": "AFC Champions League Two",
     "poster_id": "Ahal-FK-Mohun-Bagan-Super-Giant-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Wahda FC",
-    "team_b": "Al-Sadd",
-    "event_name": "AFC Champions League Elite",
-    "poster_id": "Al-Wahda-FC-Al-Sadd-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Galatasaray",
-    "team_b": "Royale Union Saint-Gilloise",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Galatasaray-Royale-Union-Saint-Gilloise-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "AFC Ajax",
-    "team_b": "Benfica",
-    "event_name": "UEFA Champions League",
-    "poster_id": "AFC-Ajax-Benfica-25112025.png",
     "match_type": "team_vs_team"
   },
   {

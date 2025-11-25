@@ -105,34 +105,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Indiana Pacers",
-    "team_b": "Detroit Pistons",
-    "event_name": "NBA",
-    "poster_id": "Indiana-Pacers-Detroit-Pistons-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Toronto Raptors",
-    "team_b": "Cleveland Cavaliers",
-    "event_name": "NBA",
-    "poster_id": "Toronto-Raptors-Cleveland-Cavaliers-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Brooklyn Nets",
-    "team_b": "New York Knicks",
-    "event_name": "NBA",
-    "poster_id": "Brooklyn-Nets-New-York-Knicks-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Miami Heat",
-    "team_b": "Dallas Mavericks",
-    "event_name": "NBA",
-    "poster_id": "Miami-Heat-Dallas-Mavericks-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "New Orleans Pelicans",
     "team_b": "Chicago Bulls",
     "event_name": "NBA",
@@ -193,27 +165,6 @@
     "team_b": "Florida Panthers",
     "event_name": "NHL",
     "poster_id": "Nashville-Predators-Florida-Panthers-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "New York Rangers",
-    "team_b": "St. Louis Blues",
-    "event_name": "NHL",
-    "poster_id": "New-York-Rangers-St.-Louis-Blues-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Washington Capitals",
-    "team_b": "Columbus Blue Jackets",
-    "event_name": "NHL",
-    "poster_id": "Washington-Capitals-Columbus-Blue-Jackets-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Tampa Bay Lightning",
-    "team_b": "Philadelphia Flyers",
-    "event_name": "NHL",
-    "poster_id": "Tampa-Bay-Lightning-Philadelphia-Flyers-25112025.png",
     "match_type": "team_vs_team"
   }
 ]

@@ -327,5 +327,12 @@
     "event_name": "Maia, Portugal, Doubles",
     "poster_id": "Liutarevich-I-Ricca-G-Cervantes-Huegun-I-Pichler-D-26112025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sri Lanka",
+    "team_b": "Zimbabwe",
+    "event_name": "T20I Tri-series in Pakistan",
+    "poster_id": "Sri-Lanka-Zimbabwe-25112025.png",
+    "match_type": "team_vs_team"
   }
 ]

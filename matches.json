@@ -166,5 +166,166 @@
     "event_name": "NHL",
     "poster_id": "Nashville-Predators-Florida-Panthers-25112025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Chelsea U19",
+    "team_b": "Barcelona U19",
+    "event_name": "UEFA Youth League",
+    "poster_id": "Chelsea-U19-Barcelona-U19-25112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Ahal FK",
+    "team_b": "Mohun Bagan Super Giant",
+    "event_name": "AFC Champions League Two",
+    "poster_id": "Ahal-FK-Mohun-Bagan-Super-Giant-25112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Wahda FC",
+    "team_b": "Al-Sadd",
+    "event_name": "AFC Champions League Elite",
+    "poster_id": "Al-Wahda-FC-Al-Sadd-25112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Galatasaray",
+    "team_b": "Royale Union Saint-Gilloise",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Galatasaray-Royale-Union-Saint-Gilloise-25112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "AFC Ajax",
+    "team_b": "Benfica",
+    "event_name": "UEFA Champions League",
+    "poster_id": "AFC-Ajax-Benfica-25112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Hilal",
+    "team_b": "Al-Shorta",
+    "event_name": "AFC Champions League Elite",
+    "poster_id": "Al-Hilal-Al-Shorta-25112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Borussia Dortmund",
+    "team_b": "Villarreal",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Borussia-Dortmund-Villarreal-25112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "BodÃ¸/Glimt",
+    "team_b": "Juventus",
+    "event_name": "UEFA Champions League",
+    "poster_id": "BodÃ¸Glimt-Juventus-25112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Chelsea",
+    "team_b": "Barcelona",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Chelsea-Barcelona-25112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Olympique de Marseille",
+    "team_b": "Newcastle United",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Olympique-de-Marseille-Newcastle-United-25112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Napoli",
+    "team_b": "QarabaÄ FK",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Napoli-QarabaÄ-FK-25112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Manchester City",
+    "team_b": "Bayer 04 Leverkusen",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Manchester-City-Bayer-04-Leverkusen-25112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "SK Slavia Praha",
+    "team_b": "Athletic Club",
+    "event_name": "UEFA Champions League",
+    "poster_id": "SK-Slavia-Praha-Athletic-Club-25112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "GrÃªmio",
+    "team_b": "Palmeiras",
+    "event_name": "BrasileirÃ£o Betano",
+    "poster_id": "GrÃªmio-Palmeiras-26112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "AtlÃ©tico Mineiro",
+    "team_b": "Flamengo",
+    "event_name": "BrasileirÃ£o Betano",
+    "poster_id": "AtlÃ©tico-Mineiro-Flamengo-26112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Washington Wizards",
+    "team_b": "Atlanta Hawks",
+    "event_name": "NBA",
+    "poster_id": "Washington-Wizards-Atlanta-Hawks-26112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Philadelphia 76ers",
+    "team_b": "Orlando Magic",
+    "event_name": "NBA",
+    "poster_id": "Philadelphia-76ers-Orlando-Magic-26112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Los Angeles Lakers",
+    "team_b": "Los Angeles Clippers",
+    "event_name": "NBA",
+    "poster_id": "Los-Angeles-Lakers-Los-Angeles-Clippers-26112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Yuki  Toyota",
+    "team_b": "Kosuke .",
+    "event_name": "K-1",
+    "poster_id": "Yuki-Toyota-Kosuke-.-29112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Yukito  Iwagami",
+    "team_b": "Ryoma  Kitagawara",
+    "event_name": "K-1",
+    "poster_id": "Yukito-Iwagami-Ryoma-Kitagawara-29112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Yutaka  Egawa",
+    "team_b": "Tsubasa  Horii",
+    "event_name": "K-1",
+    "poster_id": "Yutaka-Egawa-Tsubasa-Horii-29112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Teixeira J / Valdoleiros G",
+    "team_b": "Mansilla Diez M / Pujol Navarro B",
+    "event_name": "Maia, Portugal, Doubles",
+    "poster_id": "Teixeira-J-Valdoleiros-G-Mansilla-Diez-M-Pujol-Navarro-B-26112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Liutarevich I / Ricca G",
+    "team_b": "Cervantes Huegun I / Pichler D",
+    "event_name": "Maia, Portugal, Doubles",
+    "poster_id": "Liutarevich-I-Ricca-G-Cervantes-Huegun-I-Pichler-D-26112025.png",
+    "match_type": "team_vs_team"
   }
 ]

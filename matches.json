@@ -131,5 +131,33 @@
     "event_name": "International Friendly Games Women",
     "poster_id": "Bangladesh-Malaysia-26112025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Arsenal U19",
+    "team_b": "Bayern MÃ¼nchen U19",
+    "event_name": "UEFA Youth League",
+    "poster_id": "Arsenal-U19-Bayern-MÃ¼nchen-U19-26112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Paris Saint-Germain U19",
+    "team_b": "Tottenham U19",
+    "event_name": "UEFA Youth League",
+    "poster_id": "Paris-Saint-Germain-U19-Tottenham-U19-26112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Istiklol",
+    "team_b": "Al-Nassr",
+    "event_name": "AFC Champions League Two",
+    "poster_id": "FC-Istiklol-Al-Nassr-26112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "AtlÃ©tico Madrid U19",
+    "team_b": "Inter U19",
+    "event_name": "UEFA Youth League",
+    "poster_id": "AtlÃ©tico-Madrid-U19-Inter-U19-26112025.png",
+    "match_type": "team_vs_team"
   }
 ]

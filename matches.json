@@ -10,7 +10,7 @@
     "team_a": "Abu Dhabi T10 League",
     "team_b": "",
     "event_name": "Abu Dhabi T10 League",
-    "poster_id": "Abu-Dhabi-T10-League-25112025.png",
+    "poster_id": "Abu-Dhabi-T10-League-26112025.png",
     "match_type": "single_event"
   },
   {
@@ -19,174 +19,6 @@
     "event_name": "AEW Full Gear 2025",
     "poster_id": "AEW-Full-Gear-2025-23112025.png",
     "match_type": "single_event"
-  },
-  {
-    "team_a": "Austria U17",
-    "team_b": "Italy U17",
-    "event_name": "U17 World Championship",
-    "poster_id": "Austria-U17-Italy-U17-24112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Shabab Al-Ahli Dubai",
-    "team_b": "Al-Gharafa",
-    "event_name": "AFC Champions League Elite",
-    "poster_id": "Shabab-Al-Ahli-Dubai-Al-Gharafa-24112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Portugal U17",
-    "team_b": "Brazil U17",
-    "event_name": "U17 World Championship",
-    "poster_id": "Portugal-U17-Brazil-U17-24112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Torino",
-    "team_b": "Como",
-    "event_name": "Serie A",
-    "poster_id": "Torino-Como-24112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Espanyol",
-    "team_b": "Sevilla",
-    "event_name": "LaLiga",
-    "poster_id": "Espanyol-Sevilla-24112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Manchester United",
-    "team_b": "Everton",
-    "event_name": "Premier League",
-    "poster_id": "Manchester-United-Everton-24112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Mirassol",
-    "team_b": "CearÃ¡",
-    "event_name": "BrasileirÃ£o Betano",
-    "poster_id": "Mirassol-CearÃ¡-24112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Adelaide Strikers Women",
-    "team_b": "Brisbane Heat Women",
-    "event_name": "Women's Big Bash League",
-    "poster_id": "Adelaide-Strikers-Women-Brisbane-Heat-Women-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Memphis Grizzlies",
-    "team_b": "Denver Nuggets",
-    "event_name": "NBA",
-    "poster_id": "Memphis-Grizzlies-Denver-Nuggets-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Phoenix Suns",
-    "team_b": "Houston Rockets",
-    "event_name": "NBA",
-    "poster_id": "Phoenix-Suns-Houston-Rockets-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sacramento Kings",
-    "team_b": "Minnesota Timberwolves",
-    "event_name": "NBA",
-    "poster_id": "Sacramento-Kings-Minnesota-Timberwolves-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Utah Mammoth",
-    "team_b": "Vegas Golden Knights",
-    "event_name": "NHL",
-    "poster_id": "Utah-Mammoth-Vegas-Golden-Knights-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Nashville Predators",
-    "team_b": "Florida Panthers",
-    "event_name": "NHL",
-    "poster_id": "Nashville-Predators-Florida-Panthers-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Ahal FK",
-    "team_b": "Mohun Bagan Super Giant",
-    "event_name": "AFC Champions League Two",
-    "poster_id": "Ahal-FK-Mohun-Bagan-Super-Giant-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Hilal",
-    "team_b": "Al-Shorta",
-    "event_name": "AFC Champions League Elite",
-    "poster_id": "Al-Hilal-Al-Shorta-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Borussia Dortmund",
-    "team_b": "Villarreal",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Borussia-Dortmund-Villarreal-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "BodÃ¸/Glimt",
-    "team_b": "Juventus",
-    "event_name": "UEFA Champions League",
-    "poster_id": "BodÃ¸Glimt-Juventus-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Chelsea",
-    "team_b": "Barcelona",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Chelsea-Barcelona-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Olympique de Marseille",
-    "team_b": "Newcastle United",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Olympique-de-Marseille-Newcastle-United-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Napoli",
-    "team_b": "QarabaÄ FK",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Napoli-QarabaÄ-FK-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Manchester City",
-    "team_b": "Bayer 04 Leverkusen",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Manchester-City-Bayer-04-Leverkusen-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Washington Wizards",
-    "team_b": "Atlanta Hawks",
-    "event_name": "NBA",
-    "poster_id": "Washington-Wizards-Atlanta-Hawks-26112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Philadelphia 76ers",
-    "team_b": "Orlando Magic",
-    "event_name": "NBA",
-    "poster_id": "Philadelphia-76ers-Orlando-Magic-26112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Los Angeles Lakers",
-    "team_b": "Los Angeles Clippers",
-    "event_name": "NBA",
-    "poster_id": "Los-Angeles-Lakers-Los-Angeles-Clippers-26112025.png",
-    "match_type": "team_vs_team"
   },
   {
     "team_a": "Yuki  Toyota",
@@ -221,13 +53,6 @@
     "team_b": "Cervantes Huegun I / Pichler D",
     "event_name": "Maia, Portugal, Doubles",
     "poster_id": "Liutarevich-I-Ricca-G-Cervantes-Huegun-I-Pichler-D-26112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sri Lanka",
-    "team_b": "Zimbabwe",
-    "event_name": "T20I Tri-series in Pakistan",
-    "poster_id": "Sri-Lanka-Zimbabwe-25112025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -298,6 +123,13 @@
     "team_b": "Club Brugge KV",
     "event_name": "UEFA Champions League",
     "poster_id": "Sporting-CP-Club-Brugge-KV-26112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bangladesh",
+    "team_b": "Malaysia",
+    "event_name": "International Friendly Games Women",
+    "poster_id": "Bangladesh-Malaysia-26112025.png",
     "match_type": "team_vs_team"
   }
 ]

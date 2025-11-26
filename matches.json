@@ -7,13 +7,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "India",
-    "team_b": "South Africa",
-    "event_name": "Freedom Trophy",
-    "poster_id": "India-South-Africa-26112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Abu Dhabi T10 League",
     "team_b": "",
     "event_name": "Abu Dhabi T10 League",
@@ -172,27 +165,6 @@
     "team_b": "Bayer 04 Leverkusen",
     "event_name": "UEFA Champions League",
     "poster_id": "Manchester-City-Bayer-04-Leverkusen-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "SK Slavia Praha",
-    "team_b": "Athletic Club",
-    "event_name": "UEFA Champions League",
-    "poster_id": "SK-Slavia-Praha-Athletic-Club-25112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "GrÃªmio",
-    "team_b": "Palmeiras",
-    "event_name": "BrasileirÃ£o Betano",
-    "poster_id": "GrÃªmio-Palmeiras-26112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "AtlÃ©tico Mineiro",
-    "team_b": "Flamengo",
-    "event_name": "BrasileirÃ£o Betano",
-    "poster_id": "AtlÃ©tico-Mineiro-Flamengo-26112025.png",
     "match_type": "team_vs_team"
   },
   {

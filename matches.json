@@ -10,7 +10,7 @@
     "team_a": "India",
     "team_b": "South Africa",
     "event_name": "Freedom Trophy",
-    "poster_id": "India-South-Africa-25112025.png",
+    "poster_id": "India-South-Africa-26112025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -256,6 +256,76 @@
     "team_b": "Zimbabwe",
     "event_name": "T20I Tri-series in Pakistan",
     "poster_id": "Sri-Lanka-Zimbabwe-25112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC KÃ¸benhavn",
+    "team_b": "Kairat Almaty",
+    "event_name": "UEFA Champions League",
+    "poster_id": "FC-KÃ¸benhavn-Kairat-Almaty-26112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pafos FC",
+    "team_b": "AS Monaco",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Pafos-FC-AS-Monaco-26112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sheffield United",
+    "team_b": "Portsmouth",
+    "event_name": "Championship",
+    "poster_id": "Sheffield-United-Portsmouth-26112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "AtlÃ©tico Madrid",
+    "team_b": "Inter",
+    "event_name": "UEFA Champions League",
+    "poster_id": "AtlÃ©tico-Madrid-Inter-26112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Arsenal",
+    "team_b": "FC Bayern MÃ¼nchen",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Arsenal-FC-Bayern-MÃ¼nchen-26112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Eintracht Frankfurt",
+    "team_b": "Atalanta",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Eintracht-Frankfurt-Atalanta-26112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Liverpool",
+    "team_b": "PSV Eindhoven",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Liverpool-PSV-Eindhoven-26112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Paris Saint-Germain",
+    "team_b": "Tottenham Hotspur",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Paris-Saint-Germain-Tottenham-Hotspur-26112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Olympiacos FC",
+    "team_b": "Real Madrid",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Olympiacos-FC-Real-Madrid-26112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sporting CP",
+    "team_b": "Club Brugge KV",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Sporting-CP-Club-Brugge-KV-26112025.png",
     "match_type": "team_vs_team"
   }
 ]

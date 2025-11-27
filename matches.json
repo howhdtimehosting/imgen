@@ -182,13 +182,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Fiorentina",
-    "team_b": "AEK Athens",
-    "event_name": "UEFA Conference League",
-    "poster_id": "Fiorentina-AEK-Athens-27112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Legia Warszawa",
     "team_b": "AC Sparta Praha",
     "event_name": "UEFA Conference League",

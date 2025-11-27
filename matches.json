@@ -201,5 +201,26 @@
     "event_name": "UEFA Conference League",
     "poster_id": "RC-Strasbourg-Crystal-Palace-27112025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Dallas Cowboys",
+    "team_b": "Kansas City Chiefs",
+    "event_name": "NFL",
+    "poster_id": "Dallas-Cowboys-Kansas-City-Chiefs-27112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Detroit Lions",
+    "team_b": "Green Bay Packers",
+    "event_name": "NFL",
+    "poster_id": "Detroit-Lions-Green-Bay-Packers-27112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Baltimore Ravens",
+    "team_b": "Cincinnati Bengals",
+    "event_name": "NFL",
+    "poster_id": "Baltimore-Ravens-Cincinnati-Bengals-28112025.png",
+    "match_type": "team_vs_team"
   }
 ]

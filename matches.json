@@ -10,7 +10,7 @@
     "team_a": "Abu Dhabi T10 League",
     "team_b": "",
     "event_name": "Abu Dhabi T10 League",
-    "poster_id": "Abu-Dhabi-T10-League-26112025.png",
+    "poster_id": "Abu-Dhabi-T10-League-27112025.png",
     "match_type": "single_event"
   },
   {
@@ -42,101 +42,206 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Teixeira J / Valdoleiros G",
-    "team_b": "Mansilla Diez M / Pujol Navarro B",
-    "event_name": "Maia, Portugal, Doubles",
-    "poster_id": "Teixeira-J-Valdoleiros-G-Mansilla-Diez-M-Pujol-Navarro-B-26112025.png",
+    "team_a": "Pakistan",
+    "team_b": "Sri Lanka",
+    "event_name": "T20I Tri-series in Pakistan",
+    "poster_id": "Pakistan-Sri-Lanka-27112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Liutarevich I / Ricca G",
-    "team_b": "Cervantes Huegun I / Pichler D",
-    "event_name": "Maia, Portugal, Doubles",
-    "poster_id": "Liutarevich-I-Ricca-G-Cervantes-Huegun-I-Pichler-D-26112025.png",
+    "team_a": "Bangladesh",
+    "team_b": "Ireland",
+    "event_name": "T20 International",
+    "poster_id": "Bangladesh-Ireland-27112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "FC KÃ¸benhavn",
-    "team_b": "Kairat Almaty",
-    "event_name": "UEFA Champions League",
-    "poster_id": "FC-KÃ¸benhavn-Kairat-Almaty-26112025.png",
+    "team_a": "Namibia Women",
+    "team_b": "Papua New Guinea Women",
+    "event_name": "Womens Emerging Nations Trophy",
+    "poster_id": "Namibia-Women-Papua-New-Guinea-Women-28112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Pafos FC",
-    "team_b": "AS Monaco",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Pafos-FC-AS-Monaco-26112025.png",
+    "team_a": "Scotland Women",
+    "team_b": "Netherlands Women",
+    "event_name": "Womens Emerging Nations Trophy",
+    "poster_id": "Scotland-Women-Netherlands-Women-28112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Sheffield United",
-    "team_b": "Portsmouth",
-    "event_name": "Championship",
-    "poster_id": "Sheffield-United-Portsmouth-26112025.png",
+    "team_a": "Brazil U17",
+    "team_b": "Italy U17",
+    "event_name": "U17 World Championship",
+    "poster_id": "Brazil-U17-Italy-U17-27112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "AtlÃ©tico Madrid",
-    "team_b": "Inter",
-    "event_name": "UEFA Champions League",
-    "poster_id": "AtlÃ©tico-Madrid-Inter-26112025.png",
+    "team_a": "Portugal U17",
+    "team_b": "Austria U17",
+    "event_name": "U17 World Championship",
+    "poster_id": "Portugal-U17-Austria-U17-27112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Arsenal",
-    "team_b": "FC Bayern MÃ¼nchen",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Arsenal-FC-Bayern-MÃ¼nchen-26112025.png",
+    "team_a": "FenerbahÃ§e",
+    "team_b": "FerencvÃ¡ros TC",
+    "event_name": "UEFA Europa League",
+    "poster_id": "FenerbahÃ§e-FerencvÃ¡ros-TC-27112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Eintracht Frankfurt",
-    "team_b": "Atalanta",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Eintracht-Frankfurt-Atalanta-26112025.png",
+    "team_a": "Feyenoord",
+    "team_b": "Celtic",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Feyenoord-Celtic-27112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Liverpool",
-    "team_b": "PSV Eindhoven",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Liverpool-PSV-Eindhoven-26112025.png",
+    "team_a": "Lille",
+    "team_b": "GNK Dinamo Zagreb",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Lille-GNK-Dinamo-Zagreb-27112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Paris Saint-Germain",
-    "team_b": "Tottenham Hotspur",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Paris-Saint-Germain-Tottenham-Hotspur-26112025.png",
+    "team_a": "FC Porto",
+    "team_b": "Nice",
+    "event_name": "UEFA Europa League",
+    "poster_id": "FC-Porto-Nice-27112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Olympiacos FC",
-    "team_b": "Real Madrid",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Olympiacos-FC-Real-Madrid-26112025.png",
+    "team_a": "Aston Villa",
+    "team_b": "Young Boys",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Aston-Villa-Young-Boys-27112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Sporting CP",
-    "team_b": "Club Brugge KV",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Sporting-CP-Club-Brugge-KV-26112025.png",
+    "team_a": "PAOK",
+    "team_b": "SK Brann",
+    "event_name": "UEFA Europa League",
+    "poster_id": "PAOK-SK-Brann-27112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "FC Istiklol",
-    "team_b": "Al-Nassr",
-    "event_name": "AFC Champions League Two",
-    "poster_id": "FC-Istiklol-Al-Nassr-26112025.png",
+    "team_a": "Ludogorets",
+    "team_b": "Celta Vigo",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Ludogorets-Celta-Vigo-27112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "AtlÃ©tico Madrid U19",
-    "team_b": "Inter U19",
-    "event_name": "UEFA Youth League",
-    "poster_id": "AtlÃ©tico-Madrid-U19-Inter-U19-26112025.png",
+    "team_a": "Roma",
+    "team_b": "FC Midtjylland",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Roma-FC-Midtjylland-27112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "AZ Alkmaar",
+    "team_b": "Shelbourne",
+    "event_name": "UEFA Conference League",
+    "poster_id": "AZ-Alkmaar-Shelbourne-27112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Viktoria PlzeÅ",
+    "team_b": "SC Freiburg",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Viktoria-PlzeÅ-SC-Freiburg-27112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Universitatea Craiova",
+    "team_b": "1. FSV Mainz 05",
+    "event_name": "UEFA Conference League",
+    "poster_id": "Universitatea-Craiova-1.-FSV-Mainz-05-27112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Å K Slovan Bratislava",
+    "team_b": "Rayo Vallecano",
+    "event_name": "UEFA Conference League",
+    "poster_id": "Å-K-Slovan-Bratislava-Rayo-Vallecano-27112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Finland",
+    "team_b": "Austria",
+    "event_name": "International Friendly Games Women",
+    "poster_id": "Finland-Austria-27112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Go Ahead Eagles",
+    "team_b": "VfB Stuttgart",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Go-Ahead-Eagles-VfB-Stuttgart-27112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bologna",
+    "team_b": "Red Bull Salzburg",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Bologna-Red-Bull-Salzburg-27112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Panathinaikos",
+    "team_b": "SK Sturm Graz",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Panathinaikos-SK-Sturm-Graz-27112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Maccabi Tel Aviv",
+    "team_b": "Olympique Lyonnais",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Maccabi-Tel-Aviv-Olympique-Lyonnais-27112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Nottingham Forest",
+    "team_b": "MalmÃ¶ FF",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Nottingham-Forest-MalmÃ¶-FF-27112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Betis",
+    "team_b": "FC Utrecht",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Real-Betis-FC-Utrecht-27112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Rangers",
+    "team_b": "Sporting Braga",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Rangers-Sporting-Braga-27112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Fiorentina",
+    "team_b": "AEK Athens",
+    "event_name": "UEFA Conference League",
+    "poster_id": "Fiorentina-AEK-Athens-27112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Legia Warszawa",
+    "team_b": "AC Sparta Praha",
+    "event_name": "UEFA Conference League",
+    "poster_id": "Legia-Warszawa-AC-Sparta-Praha-27112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "RC Strasbourg",
+    "team_b": "Crystal Palace",
+    "event_name": "UEFA Conference League",
+    "poster_id": "RC-Strasbourg-Crystal-Palace-27112025.png",
     "match_type": "team_vs_team"
   }
 ]

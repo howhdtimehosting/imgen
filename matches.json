@@ -119,13 +119,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "PAOK",
-    "team_b": "SK Brann",
-    "event_name": "UEFA Europa League",
-    "poster_id": "PAOK-SK-Brann-27112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Ludogorets",
     "team_b": "Celta Vigo",
     "event_name": "UEFA Europa League",
@@ -137,41 +130,6 @@
     "team_b": "FC Midtjylland",
     "event_name": "UEFA Europa League",
     "poster_id": "Roma-FC-Midtjylland-27112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "AZ Alkmaar",
-    "team_b": "Shelbourne",
-    "event_name": "UEFA Conference League",
-    "poster_id": "AZ-Alkmaar-Shelbourne-27112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Viktoria PlzeÅ",
-    "team_b": "SC Freiburg",
-    "event_name": "UEFA Europa League",
-    "poster_id": "Viktoria-PlzeÅ-SC-Freiburg-27112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Universitatea Craiova",
-    "team_b": "1. FSV Mainz 05",
-    "event_name": "UEFA Conference League",
-    "poster_id": "Universitatea-Craiova-1.-FSV-Mainz-05-27112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Å K Slovan Bratislava",
-    "team_b": "Rayo Vallecano",
-    "event_name": "UEFA Conference League",
-    "poster_id": "Å-K-Slovan-Bratislava-Rayo-Vallecano-27112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Finland",
-    "team_b": "Austria",
-    "event_name": "International Friendly Games Women",
-    "poster_id": "Finland-Austria-27112025.png",
     "match_type": "team_vs_team"
   },
   {

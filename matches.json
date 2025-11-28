@@ -287,20 +287,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "France",
-    "team_b": "Sweden",
-    "event_name": "UEFA Women's Nations League",
-    "poster_id": "France-Sweden-28112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Portugal",
-    "team_b": "Netherlands",
-    "event_name": "International Friendly Games Women",
-    "poster_id": "Portugal-Netherlands-28112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Oxford United",
     "team_b": "Ipswich Town",
     "event_name": "Championship",
@@ -410,13 +396,6 @@
     "team_b": "Tampa Bay Lightning",
     "event_name": "NHL",
     "poster_id": "Detroit-Red-Wings-Tampa-Bay-Lightning-28112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Northeastern Huskies",
-    "team_b": "Penn State Nittany Lions",
-    "event_name": "NCAA Women",
-    "poster_id": "Northeastern-Huskies-Penn-State-Nittany-Lions-28112025.png",
     "match_type": "team_vs_team"
   },
   {

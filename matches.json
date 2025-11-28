@@ -448,13 +448,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Vegas Golden Knights",
-    "team_b": "MontrÃ©al Canadiens",
-    "event_name": "NHL",
-    "poster_id": "Vegas-Golden-Knights-MontrÃ©al-Canadiens-28112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Carolina Hurricanes",
     "team_b": "Winnipeg Jets",
     "event_name": "NHL",

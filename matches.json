@@ -509,5 +509,12 @@
     "event_name": "NHL",
     "poster_id": "Chicago-Blackhawks-Nashville-Predators-29112025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Adelaide Strikers Women",
+    "team_b": "Sydney Thunder Women",
+    "event_name": "Women's Big Bash League",
+    "poster_id": "Adelaide-Strikers-Women-Sydney-Thunder-Women-28112025.png",
+    "match_type": "team_vs_team"
   }
 ]

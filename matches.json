@@ -56,20 +56,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Namibia Women",
-    "team_b": "Papua New Guinea Women",
-    "event_name": "Womens Emerging Nations Trophy",
-    "poster_id": "Namibia-Women-Papua-New-Guinea-Women-28112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Scotland Women",
-    "team_b": "Netherlands Women",
-    "event_name": "Womens Emerging Nations Trophy",
-    "poster_id": "Scotland-Women-Netherlands-Women-28112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Brazil U17",
     "team_b": "Italy U17",
     "event_name": "U17 World Championship",
@@ -119,13 +105,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Ludogorets",
-    "team_b": "Celta Vigo",
-    "event_name": "UEFA Europa League",
-    "poster_id": "Ludogorets-Celta-Vigo-27112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Roma",
     "team_b": "FC Midtjylland",
     "event_name": "UEFA Europa League",
@@ -161,24 +140,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Nottingham Forest",
-    "team_b": "MalmÃ¶ FF",
-    "event_name": "UEFA Europa League",
-    "poster_id": "Nottingham-Forest-MalmÃ¶-FF-27112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Real Betis",
     "team_b": "FC Utrecht",
     "event_name": "UEFA Europa League",
     "poster_id": "Real-Betis-FC-Utrecht-27112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Rangers",
-    "team_b": "Sporting Braga",
-    "event_name": "UEFA Europa League",
-    "poster_id": "Rangers-Sporting-Braga-27112025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -189,31 +154,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "RC Strasbourg",
-    "team_b": "Crystal Palace",
-    "event_name": "UEFA Conference League",
-    "poster_id": "RC-Strasbourg-Crystal-Palace-27112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Dallas Cowboys",
     "team_b": "Kansas City Chiefs",
     "event_name": "NFL",
     "poster_id": "Dallas-Cowboys-Kansas-City-Chiefs-27112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Detroit Lions",
-    "team_b": "Green Bay Packers",
-    "event_name": "NFL",
-    "poster_id": "Detroit-Lions-Green-Bay-Packers-27112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Baltimore Ravens",
-    "team_b": "Cincinnati Bengals",
-    "event_name": "NFL",
-    "poster_id": "Baltimore-Ravens-Cincinnati-Bengals-28112025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -382,13 +326,6 @@
     "team_b": "Memphis Grizzlies",
     "event_name": "NBA",
     "poster_id": "Los-Angeles-Clippers-Memphis-Grizzlies-29112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Adelaide Strikers Women",
-    "team_b": "Sydney Thunder Women",
-    "event_name": "Women's Big Bash League",
-    "poster_id": "Adelaide-Strikers-Women-Sydney-Thunder-Women-28112025.png",
     "match_type": "team_vs_team"
   },
   {

@@ -245,20 +245,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Switzerland",
-    "team_b": "Belgium",
-    "event_name": "International Friendly Games Women",
-    "poster_id": "Switzerland-Belgium-28112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Norway",
-    "team_b": "Brazil",
-    "event_name": "International Friendly Games Women",
-    "poster_id": "Norway-Brazil-28112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Borussia M'gladbach",
     "team_b": "RB Leipzig",
     "event_name": "Bundesliga",
@@ -413,13 +399,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Boston Bruins",
-    "team_b": "New York Rangers",
-    "event_name": "NHL",
-    "poster_id": "Boston-Bruins-New-York-Rangers-28112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Anaheim Ducks",
     "team_b": "Los Angeles Kings",
     "event_name": "NHL",
@@ -431,13 +410,6 @@
     "team_b": "New Jersey Devils",
     "event_name": "NHL",
     "poster_id": "Buffalo-Sabres-New-Jersey-Devils-28112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Minnesota Wild",
-    "team_b": "Colorado Avalanche",
-    "event_name": "NHL",
-    "poster_id": "Minnesota-Wild-Colorado-Avalanche-28112025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -490,13 +462,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Dallas Stars",
-    "team_b": "Utah Mammoth",
-    "event_name": "NHL",
-    "poster_id": "Dallas-Stars-Utah-Mammoth-29112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Chicago Blackhawks",
     "team_b": "Nashville Predators",
     "event_name": "NHL",
@@ -511,24 +476,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Boston Bruins",
-    "team_b": "New York Rangers",
-    "event_name": "NHL",
-    "poster_id": "Boston-Bruins-New-York-Rangers-28112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Detroit Red Wings",
     "team_b": "Tampa Bay Lightning",
     "event_name": "NHL",
     "poster_id": "Detroit-Red-Wings-Tampa-Bay-Lightning-28112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Minnesota Wild",
-    "team_b": "Colorado Avalanche",
-    "event_name": "NHL",
-    "poster_id": "Minnesota-Wild-Colorado-Avalanche-28112025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -613,13 +564,6 @@
     "team_b": "Utah Mammoth",
     "event_name": "NHL",
     "poster_id": "Dallas-Stars-Utah-Mammoth-29112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Chicago Blackhawks",
-    "team_b": "Nashville Predators",
-    "event_name": "NHL",
-    "poster_id": "Chicago-Blackhawks-Nashville-Predators-29112025.png",
     "match_type": "team_vs_team"
   }
 ]

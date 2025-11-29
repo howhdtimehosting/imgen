@@ -10,7 +10,7 @@
     "team_a": "Abu Dhabi T10 League",
     "team_b": "",
     "event_name": "Abu Dhabi T10 League",
-    "poster_id": "Abu-Dhabi-T10-League-28112025.png",
+    "poster_id": "Abu-Dhabi-T10-League-29112025.png",
     "match_type": "single_event"
   },
   {
@@ -39,111 +39,6 @@
     "team_b": "Tsubasa  Horii",
     "event_name": "K-1",
     "poster_id": "Yutaka-Egawa-Tsubasa-Horii-29112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Borussia M'gladbach",
-    "team_b": "RB Leipzig",
-    "event_name": "Bundesliga",
-    "poster_id": "Borussia-M'gladbach-RB-Leipzig-28112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sporting GijÃ³n",
-    "team_b": "FC Andorra",
-    "event_name": "LaLiga 2",
-    "poster_id": "Sporting-GijÃ³n-FC-Andorra-28112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Germany",
-    "team_b": "Spain",
-    "event_name": "UEFA Women's Nations League",
-    "poster_id": "Germany-Spain-28112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Metz",
-    "team_b": "Stade Rennais",
-    "event_name": "Ligue 1",
-    "poster_id": "Metz-Stade-Rennais-28112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Como",
-    "team_b": "Sassuolo",
-    "event_name": "Serie A",
-    "poster_id": "Como-Sassuolo-28112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Getafe",
-    "team_b": "Elche",
-    "event_name": "LaLiga",
-    "poster_id": "Getafe-Elche-28112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Oxford United",
-    "team_b": "Ipswich Town",
-    "event_name": "Championship",
-    "poster_id": "Oxford-United-Ipswich-Town-28112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Vasco da Gama",
-    "team_b": "Internacional",
-    "event_name": "BrasileirÃ£o Betano",
-    "poster_id": "Vasco-da-Gama-Internacional-28112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Santos",
-    "team_b": "Sport Recife",
-    "event_name": "BrasileirÃ£o Betano",
-    "poster_id": "Santos-Sport-Recife-29112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Brooklyn Nets",
-    "team_b": "Philadelphia 76ers",
-    "event_name": "NBA",
-    "poster_id": "Brooklyn-Nets-Philadelphia-76ers-29112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Atlanta Hawks",
-    "team_b": "Cleveland Cavaliers",
-    "event_name": "NBA",
-    "poster_id": "Atlanta-Hawks-Cleveland-Cavaliers-29112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Detroit Pistons",
-    "team_b": "Orlando Magic",
-    "event_name": "NBA",
-    "poster_id": "Detroit-Pistons-Orlando-Magic-29112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Charlotte Hornets",
-    "team_b": "Chicago Bulls",
-    "event_name": "NBA",
-    "poster_id": "Charlotte-Hornets-Chicago-Bulls-29112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Indiana Pacers",
-    "team_b": "Washington Wizards",
-    "event_name": "NBA",
-    "poster_id": "Indiana-Pacers-Washington-Wizards-29112025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "New York Knicks",
-    "team_b": "Milwaukee Bucks",
-    "event_name": "NBA",
-    "poster_id": "New-York-Knicks-Milwaukee-Bucks-29112025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -182,87 +77,276 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Buffalo Sabres",
-    "team_b": "New Jersey Devils",
-    "event_name": "NHL",
-    "poster_id": "Buffalo-Sabres-New-Jersey-Devils-28112025.png",
+    "team_a": "Pakistan",
+    "team_b": "Sri Lanka",
+    "event_name": "T20I Tri-series in Pakistan",
+    "poster_id": "Pakistan-Sri-Lanka-29112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Florida Panthers",
-    "team_b": "Calgary Flames",
-    "event_name": "NHL",
-    "poster_id": "Florida-Panthers-Calgary-Flames-28112025.png",
+    "team_a": "Bangladesh",
+    "team_b": "Ireland",
+    "event_name": "T20 International",
+    "poster_id": "Bangladesh-Ireland-29112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Anaheim Ducks",
-    "team_b": "Los Angeles Kings",
-    "event_name": "NHL",
-    "poster_id": "Anaheim-Ducks-Los-Angeles-Kings-28112025.png",
+    "team_a": "India",
+    "team_b": "South Africa",
+    "event_name": "One Day International",
+    "poster_id": "India-South-Africa-30112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Minnesota Wild",
-    "team_b": "Colorado Avalanche",
-    "event_name": "NHL",
-    "poster_id": "Minnesota-Wild-Colorado-Avalanche-28112025.png",
+    "team_a": "SpVgg Greuther FÃ¼rth",
+    "team_b": "VfL Bochum 1848",
+    "event_name": "2. Bundesliga",
+    "poster_id": "SpVgg-Greuther-FÃ¼rth-VfL-Bochum-1848-29112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "St. Louis Blues",
-    "team_b": "Ottawa Senators",
-    "event_name": "NHL",
-    "poster_id": "St.-Louis-Blues-Ottawa-Senators-28112025.png",
+    "team_a": "Eintracht Braunschweig",
+    "team_b": "1. FC Kaiserslautern",
+    "event_name": "2. Bundesliga",
+    "poster_id": "Eintracht-Braunschweig-1.-FC-Kaiserslautern-29112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "New York Islanders",
-    "team_b": "Philadelphia Flyers",
-    "event_name": "NHL",
-    "poster_id": "New-York-Islanders-Philadelphia-Flyers-28112025.png",
+    "team_a": "Holstein Kiel",
+    "team_b": "Hertha BSC",
+    "event_name": "2. Bundesliga",
+    "poster_id": "Holstein-Kiel-Hertha-BSC-29112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "San Jose Sharks",
-    "team_b": "Vancouver Canucks",
-    "event_name": "NHL",
-    "poster_id": "San-Jose-Sharks-Vancouver-Canucks-28112025.png",
+    "team_a": "Leicester City",
+    "team_b": "Sheffield United",
+    "event_name": "Championship",
+    "poster_id": "Leicester-City-Sheffield-United-29112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Carolina Hurricanes",
-    "team_b": "Winnipeg Jets",
-    "event_name": "NHL",
-    "poster_id": "Carolina-Hurricanes-Winnipeg-Jets-28112025.png",
+    "team_a": "Mallorca",
+    "team_b": "Osasuna",
+    "event_name": "LaLiga",
+    "poster_id": "Mallorca-Osasuna-29112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Washington Capitals",
-    "team_b": "Toronto Maple Leafs",
-    "event_name": "NHL",
-    "poster_id": "Washington-Capitals-Toronto-Maple-Leafs-28112025.png",
+    "team_a": "AD Ceuta",
+    "team_b": "Burgos Club de FÃºtbol",
+    "event_name": "LaLiga 2",
+    "poster_id": "AD-Ceuta-Burgos-Club-de-FÃºtbol-29112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Columbus Blue Jackets",
-    "team_b": "Pittsburgh Penguins",
-    "event_name": "NHL",
-    "poster_id": "Columbus-Blue-Jackets-Pittsburgh-Penguins-29112025.png",
+    "team_a": "Parma",
+    "team_b": "Udinese",
+    "event_name": "Serie A",
+    "poster_id": "Parma-Udinese-29112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Dallas Stars",
-    "team_b": "Utah Mammoth",
-    "event_name": "NHL",
-    "poster_id": "Dallas-Stars-Utah-Mammoth-29112025.png",
+    "team_a": "Genoa",
+    "team_b": "Hellas Verona",
+    "event_name": "Serie A",
+    "poster_id": "Genoa-Hellas-Verona-29112025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Chicago Blackhawks",
-    "team_b": "Nashville Predators",
-    "event_name": "NHL",
-    "poster_id": "Chicago-Blackhawks-Nashville-Predators-29112025.png",
+    "team_a": "SV Werder Bremen",
+    "team_b": "1. FC KÃ¶ln",
+    "event_name": "Bundesliga",
+    "poster_id": "SV-Werder-Bremen-1.-FC-KÃ¶ln-29112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "1. FC Union Berlin",
+    "team_b": "1. FC Heidenheim",
+    "event_name": "Bundesliga",
+    "poster_id": "1.-FC-Union-Berlin-1.-FC-Heidenheim-29112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Bayern MÃ¼nchen",
+    "team_b": "FC St. Pauli",
+    "event_name": "Bundesliga",
+    "poster_id": "FC-Bayern-MÃ¼nchen-FC-St.-Pauli-29112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "TSG Hoffenheim",
+    "team_b": "FC Augsburg",
+    "event_name": "Bundesliga",
+    "poster_id": "TSG-Hoffenheim-FC-Augsburg-29112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sunderland",
+    "team_b": "Bournemouth",
+    "event_name": "Premier League",
+    "poster_id": "Sunderland-Bournemouth-29112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Hilal",
+    "team_b": "Al-Fateh",
+    "event_name": "King's Cup",
+    "poster_id": "Al-Hilal-Al-Fateh-29112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Brentford",
+    "team_b": "Burnley",
+    "event_name": "Premier League",
+    "poster_id": "Brentford-Burnley-29112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Manchester City",
+    "team_b": "Leeds United",
+    "event_name": "Premier League",
+    "poster_id": "Manchester-City-Leeds-United-29112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cultural Leonesa",
+    "team_b": "Granada",
+    "event_name": "LaLiga 2",
+    "poster_id": "Cultural-Leonesa-Granada-29112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Barcelona",
+    "team_b": "Deportivo AlavÃ©s",
+    "event_name": "LaLiga",
+    "poster_id": "Barcelona-Deportivo-AlavÃ©s-29112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "AS Monaco",
+    "team_b": "Paris Saint-Germain",
+    "event_name": "Ligue 1",
+    "poster_id": "AS-Monaco-Paris-Saint-Germain-29112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bayer 04 Leverkusen",
+    "team_b": "Borussia Dortmund",
+    "event_name": "Bundesliga",
+    "poster_id": "Bayer-04-Leverkusen-Borussia-Dortmund-29112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Everton",
+    "team_b": "Newcastle United",
+    "event_name": "Premier League",
+    "poster_id": "Everton-Newcastle-United-29112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Levante UD",
+    "team_b": "Athletic Club",
+    "event_name": "LaLiga",
+    "poster_id": "Levante-UD-Athletic-Club-29112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "AlmerÃ­a",
+    "team_b": "Huesca",
+    "event_name": "LaLiga 2",
+    "poster_id": "AlmerÃ­a-Huesca-29112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Albacete BalompiÃ©",
+    "team_b": "Deportivo La CoruÃ±a",
+    "event_name": "LaLiga 2",
+    "poster_id": "Albacete-BalompiÃ©-Deportivo-La-CoruÃ±a-29112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Ittihad",
+    "team_b": "Al-Shabab",
+    "event_name": "King's Cup",
+    "poster_id": "Al-Ittihad-Al-Shabab-29112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Paris FC",
+    "team_b": "Auxerre",
+    "event_name": "Ligue 1",
+    "poster_id": "Paris-FC-Auxerre-29112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "1. FC Magdeburg",
+    "team_b": "1. FC NÃ¼rnberg",
+    "event_name": "2. Bundesliga",
+    "poster_id": "1.-FC-Magdeburg-1.-FC-NÃ¼rnberg-29112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Milan",
+    "team_b": "Lazio",
+    "event_name": "Serie A",
+    "poster_id": "Milan-Lazio-29112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Tottenham Hotspur",
+    "team_b": "Fulham",
+    "event_name": "Premier League",
+    "poster_id": "Tottenham-Hotspur-Fulham-29112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Olympique de Marseille",
+    "team_b": "Toulouse",
+    "event_name": "Ligue 1",
+    "poster_id": "Olympique-de-Marseille-Toulouse-29112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Valladolid",
+    "team_b": "MÃ¡laga",
+    "event_name": "LaLiga 2",
+    "poster_id": "Real-Valladolid-MÃ¡laga-29112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "AtlÃ©tico Madrid",
+    "team_b": "Real Oviedo",
+    "event_name": "LaLiga",
+    "poster_id": "AtlÃ©tico-Madrid-Real-Oviedo-29112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Palmeiras",
+    "team_b": "Flamengo",
+    "event_name": "CONMEBOL Libertadores",
+    "poster_id": "Palmeiras-Flamengo-29112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "CearÃ¡",
+    "team_b": "Cruzeiro",
+    "event_name": "BrasileirÃ£o Betano",
+    "poster_id": "CearÃ¡-Cruzeiro-30112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Inter Miami CF",
+    "team_b": "New York City FC",
+    "event_name": "MLS",
+    "poster_id": "Inter-Miami-CF-New-York-City-FC-29112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Lecce",
+    "team_b": "Torino",
+    "event_name": "Serie A",
+    "poster_id": "Lecce-Torino-30112025.png",
     "match_type": "team_vs_team"
   }
 ]

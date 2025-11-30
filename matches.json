@@ -341,5 +341,201 @@
     "event_name": "Serie A",
     "poster_id": "Lecce-Torino-30112025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Crystal Palace",
+    "team_b": "Manchester United",
+    "event_name": "Premier League",
+    "poster_id": "Crystal-Palace-Manchester-United-30112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Arminia Bielefeld",
+    "team_b": "PreuÃen MÃ¼nster",
+    "event_name": "2. Bundesliga",
+    "poster_id": "Arminia-Bielefeld-PreuÃen-MÃ¼nster-30112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "SV 07 Elversberg",
+    "team_b": "Darmstadt 98",
+    "event_name": "2. Bundesliga",
+    "poster_id": "SV-07-Elversberg-Darmstadt-98-30112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "SG Dynamo Dresden",
+    "team_b": "Fortuna DÃ¼sseldorf",
+    "event_name": "2. Bundesliga",
+    "poster_id": "SG-Dynamo-Dresden-Fortuna-DÃ¼sseldorf-30112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Zaragoza",
+    "team_b": "LeganÃ©s",
+    "event_name": "LaLiga 2",
+    "poster_id": "Real-Zaragoza-LeganÃ©s-30112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Sociedad",
+    "team_b": "Villarreal",
+    "event_name": "LaLiga",
+    "poster_id": "Real-Sociedad-Villarreal-30112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pisa",
+    "team_b": "Inter",
+    "event_name": "Serie A",
+    "poster_id": "Pisa-Inter-30112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "RC Strasbourg",
+    "team_b": "Stade Brestois",
+    "event_name": "Ligue 1",
+    "poster_id": "RC-Strasbourg-Stade-Brestois-30112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Aston Villa",
+    "team_b": "Wolverhampton",
+    "event_name": "Premier League",
+    "poster_id": "Aston-Villa-Wolverhampton-30112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "West Ham United",
+    "team_b": "Liverpool",
+    "event_name": "Premier League",
+    "poster_id": "West-Ham-United-Liverpool-30112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Hamburger SV",
+    "team_b": "VfB Stuttgart",
+    "event_name": "Bundesliga",
+    "poster_id": "Hamburger-SV-VfB-Stuttgart-30112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Nottingham Forest",
+    "team_b": "Brighton & Hove Albion",
+    "event_name": "Premier League",
+    "poster_id": "Nottingham-Forest-Brighton-&-Hove-Albion-30112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sevilla",
+    "team_b": "Real Betis",
+    "event_name": "LaLiga",
+    "poster_id": "Sevilla-Real-Betis-30112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Racing Club",
+    "team_b": "Eibar",
+    "event_name": "LaLiga 2",
+    "poster_id": "Real-Racing-Club-Eibar-30112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Le Havre",
+    "team_b": "Lille",
+    "event_name": "Ligue 1",
+    "poster_id": "Le-Havre-Lille-30112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Lorient",
+    "team_b": "Nice",
+    "event_name": "Ligue 1",
+    "poster_id": "Lorient-Nice-30112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Angers",
+    "team_b": "RC Lens",
+    "event_name": "Ligue 1",
+    "poster_id": "Angers-RC-Lens-30112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Eintracht Frankfurt",
+    "team_b": "VfL Wolfsburg",
+    "event_name": "Bundesliga",
+    "poster_id": "Eintracht-Frankfurt-VfL-Wolfsburg-30112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Chelsea",
+    "team_b": "Arsenal",
+    "event_name": "Premier League",
+    "poster_id": "Chelsea-Arsenal-30112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Atalanta",
+    "team_b": "Fiorentina",
+    "event_name": "Serie A",
+    "poster_id": "Atalanta-Fiorentina-30112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Celta Vigo",
+    "team_b": "Espanyol",
+    "event_name": "LaLiga",
+    "poster_id": "Celta-Vigo-Espanyol-30112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "CÃ³rdoba",
+    "team_b": "CÃ¡diz",
+    "event_name": "LaLiga 2",
+    "poster_id": "CÃ³rdoba-CÃ¡diz-30112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "MirandÃ©s",
+    "team_b": "Real Sociedad B U21",
+    "event_name": "LaLiga 2",
+    "poster_id": "MirandÃ©s-Real-Sociedad-B-U21-30112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "SC Freiburg",
+    "team_b": "1. FSV Mainz 05",
+    "event_name": "Bundesliga",
+    "poster_id": "SC-Freiburg-1.-FSV-Mainz-05-30112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "CD CastellÃ³n",
+    "team_b": "Las Palmas",
+    "event_name": "LaLiga 2",
+    "poster_id": "CD-CastellÃ³n-Las-Palmas-30112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Olympique Lyonnais",
+    "team_b": "Nantes",
+    "event_name": "Ligue 1",
+    "poster_id": "Olympique-Lyonnais-Nantes-30112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Girona FC",
+    "team_b": "Real Madrid",
+    "event_name": "LaLiga",
+    "poster_id": "Girona-FC-Real-Madrid-30112025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Roma",
+    "team_b": "Napoli",
+    "event_name": "Serie A",
+    "poster_id": "Roma-Napoli-30112025.png",
+    "match_type": "team_vs_team"
   }
 ]

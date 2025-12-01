@@ -14,20 +14,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "FenerbahÃ§e",
-    "team_b": "Galatasaray",
-    "event_name": "Trendyol SÃ¼per Lig",
-    "poster_id": "FenerbahÃ§e-Galatasaray-01122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Samsunspor",
-    "team_b": "Alanyaspor",
-    "event_name": "Trendyol SÃ¼per Lig",
-    "poster_id": "Samsunspor-Alanyaspor-01122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Birmingham City",
     "team_b": "Watford",
     "event_name": "Championship",
@@ -60,13 +46,6 @@
     "team_b": "West Indies",
     "event_name": "ICC World Test Championship",
     "poster_id": "New-Zealand-West-Indies-01122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Hobart Hurricanes Women",
-    "team_b": "Melbourne Stars Women",
-    "event_name": "Women's Big Bash League",
-    "poster_id": "Hobart-Hurricanes-Women-Melbourne-Stars-Women-01122025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -165,13 +144,6 @@
     "team_b": "Columbus Blue Jackets",
     "event_name": "NHL",
     "poster_id": "New-Jersey-Devils-Columbus-Blue-Jackets-02122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Carolina Hurricanes",
-    "team_b": "Calgary Flames",
-    "event_name": "NHL",
-    "poster_id": "Carolina-Hurricanes-Calgary-Flames-30112025.png",
     "match_type": "team_vs_team"
   }
 ]

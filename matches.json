@@ -35,13 +35,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "USA",
-    "team_b": "Italy",
-    "event_name": "International Friendly Games Women",
-    "poster_id": "USA-Italy-02122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "New Zealand",
     "team_b": "West Indies",
     "event_name": "ICC World Test Championship",

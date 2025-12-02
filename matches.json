@@ -119,20 +119,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Newcastle United",
-    "team_b": "Tottenham Hotspur",
-    "event_name": "Premier League",
-    "poster_id": "Newcastle-United-Tottenham-Hotspur-02122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "RB Leipzig",
-    "team_b": "1. FC Magdeburg",
-    "event_name": "DFB Pokal",
-    "poster_id": "RB-Leipzig-1.-FC-Magdeburg-02122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Borussia Dortmund",
     "team_b": "Bayer 04 Leverkusen",
     "event_name": "DFB Pokal",

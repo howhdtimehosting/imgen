@@ -119,13 +119,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Borussia Dortmund",
-    "team_b": "Bayer 04 Leverkusen",
-    "event_name": "DFB Pokal",
-    "poster_id": "Borussia-Dortmund-Bayer-04-Leverkusen-02122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Los Angeles Kings",
     "team_b": "Washington Capitals",
     "event_name": "NHL",

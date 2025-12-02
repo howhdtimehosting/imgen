@@ -119,13 +119,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Racing de Ferrol",
-    "team_b": "Huesca",
-    "event_name": "Copa del Rey",
-    "poster_id": "Racing-de-Ferrol-Huesca-02122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Newcastle United",
     "team_b": "Tottenham Hotspur",
     "event_name": "Premier League",

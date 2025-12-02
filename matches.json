@@ -42,13 +42,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Washington Wizards",
-    "team_b": "Milwaukee Bucks",
-    "event_name": "NBA",
-    "poster_id": "Washington-Wizards-Milwaukee-Bucks-02122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Indiana Pacers",
     "team_b": "Cleveland Cavaliers",
     "event_name": "NBA",
@@ -56,24 +49,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Detroit Pistons",
-    "team_b": "Atlanta Hawks",
-    "event_name": "NBA",
-    "poster_id": "Detroit-Pistons-Atlanta-Hawks-02122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Brooklyn Nets",
     "team_b": "Charlotte Hornets",
     "event_name": "NBA",
     "poster_id": "Brooklyn-Nets-Charlotte-Hornets-02122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Orlando Magic",
-    "team_b": "Chicago Bulls",
-    "event_name": "NBA",
-    "poster_id": "Orlando-Magic-Chicago-Bulls-02122025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -91,13 +70,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Denver Nuggets",
-    "team_b": "Dallas Mavericks",
-    "event_name": "NBA",
-    "poster_id": "Denver-Nuggets-Dallas-Mavericks-02122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Los Angeles Lakers",
     "team_b": "Phoenix Suns",
     "event_name": "NBA",
@@ -109,20 +81,6 @@
     "team_b": "Winnipeg Jets",
     "event_name": "NHL",
     "poster_id": "Buffalo-Sabres-Winnipeg-Jets-02122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "San Jose Sharks",
-    "team_b": "Utah Mammoth",
-    "event_name": "NHL",
-    "poster_id": "San-Jose-Sharks-Utah-Mammoth-02122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "St. Louis Blues",
-    "team_b": "Anaheim Ducks",
-    "event_name": "NHL",
-    "poster_id": "St.-Louis-Blues-Anaheim-Ducks-02122025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -140,10 +98,80 @@
     "match_type": "team_vs_team"
   },
   {
+    "team_a": "Sydney Thunder Women",
+    "team_b": "Brisbane Heat Women",
+    "event_name": "Women's Big Bash League",
+    "poster_id": "Sydney-Thunder-Women-Brisbane-Heat-Women-03122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India",
+    "team_b": "South Africa",
+    "event_name": "One Day International",
+    "poster_id": "India-South-Africa-03122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Mountaineers",
+    "team_b": "Mashonaland Eagles",
+    "event_name": "Pro50 Championship (Faithwear Metbank One-day Competition)",
+    "poster_id": "Mountaineers-Mashonaland-Eagles-03122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
     "team_a": "Bangladesh",
     "team_b": "Ireland",
     "event_name": "T20 International",
     "poster_id": "Bangladesh-Ireland-02122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bournemouth",
+    "team_b": "Everton",
+    "event_name": "Premier League",
+    "poster_id": "Bournemouth-Everton-02122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Fulham",
+    "team_b": "Manchester City",
+    "event_name": "Premier League",
+    "poster_id": "Fulham-Manchester-City-02122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Portugal",
+    "team_b": "Brazil",
+    "event_name": "International Friendly Games Women",
+    "poster_id": "Portugal-Brazil-02122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Barcelona",
+    "team_b": "AtlÃ©tico Madrid",
+    "event_name": "LaLiga",
+    "poster_id": "Barcelona-AtlÃ©tico-Madrid-02122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Borussia Dortmund",
+    "team_b": "Bayer 04 Leverkusen",
+    "event_name": "DFB Pokal",
+    "poster_id": "Borussia-Dortmund-Bayer-04-Leverkusen-02122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Newcastle United",
+    "team_b": "Tottenham Hotspur",
+    "event_name": "Premier League",
+    "poster_id": "Newcastle-United-Tottenham-Hotspur-02122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "RB Leipzig",
+    "team_b": "1. FC Magdeburg",
+    "event_name": "DFB Pokal",
+    "poster_id": "RB-Leipzig-1.-FC-Magdeburg-02122025.png",
     "match_type": "team_vs_team"
   }
 ]

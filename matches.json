@@ -320,5 +320,12 @@
     "event_name": "NBA",
     "poster_id": "Milwaukee-Bucks-Detroit-Pistons-04122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Algeria",
+    "team_b": "Sudan",
+    "event_name": "Arab Cup",
+    "poster_id": "Algeria-Sudan-03122025.png",
+    "match_type": "team_vs_team"
   }
 ]

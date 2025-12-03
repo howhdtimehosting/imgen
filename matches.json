@@ -35,13 +35,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Mountaineers",
-    "team_b": "Mashonaland Eagles",
-    "event_name": "Pro50 Championship (Faithwear Metbank One-day Competition)",
-    "poster_id": "Mountaineers-Mashonaland-Eagles-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Bangladesh",
     "team_b": "Ireland",
     "event_name": "T20 International",
@@ -119,20 +112,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Los Angeles Kings",
-    "team_b": "Washington Capitals",
-    "event_name": "NHL",
-    "poster_id": "Los-Angeles-Kings-Washington-Capitals-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Nashville Predators",
-    "team_b": "Calgary Flames",
-    "event_name": "NHL",
-    "poster_id": "Nashville-Predators-Calgary-Flames-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Edmonton Oilers",
     "team_b": "Minnesota Wild",
     "event_name": "NHL",
@@ -203,13 +182,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "San Antonio Spurs",
-    "team_b": "Memphis Grizzlies",
-    "event_name": "NBA",
-    "poster_id": "San-Antonio-Spurs-Memphis-Grizzlies-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "New Orleans Pelicans",
     "team_b": "Minnesota Timberwolves",
     "event_name": "NBA",
@@ -222,5 +194,12 @@
     "event_name": "NBA",
     "poster_id": "Golden-State-Warriors-Oklahoma-City-Thunder-03122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Tram A",
+    "team_b": "",
+    "event_name": "Nepal Premier League ",
+    "poster_id": "Tram-A-03122025.png",
+    "match_type": "single_event"
   }
 ]

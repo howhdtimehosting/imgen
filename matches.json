@@ -42,13 +42,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "VfL Bochum 1848",
-    "team_b": "VfB Stuttgart",
-    "event_name": "DFB Pokal",
-    "poster_id": "VfL-Bochum-1848-VfB-Stuttgart-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Napoli",
     "team_b": "Cagliari",
     "event_name": "Coppa Italia",
@@ -56,24 +49,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Jordan",
-    "team_b": "United Arab Emirates",
-    "event_name": "Arab Cup",
-    "poster_id": "Jordan-United-Arab-Emirates-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Athletic Club",
     "team_b": "Real Madrid",
     "event_name": "LaLiga",
     "poster_id": "Athletic-Club-Real-Madrid-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "CF Talavera",
-    "team_b": "MÃ¡laga",
-    "event_name": "Copa del Rey",
-    "poster_id": "CF-Talavera-MÃ¡laga-03122025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -105,27 +84,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Royale Union Saint-Gilloise",
-    "team_b": "SV Zulte Waregem",
-    "event_name": "Belgian Cup",
-    "poster_id": "Royale-Union-Saint-Gilloise-SV-Zulte-Waregem-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Celtic",
-    "team_b": "Dundee FC",
-    "event_name": "Scottish Premiership",
-    "poster_id": "Celtic-Dundee-FC-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Dundee United",
-    "team_b": "Rangers",
-    "event_name": "Scottish Premiership",
-    "poster_id": "Dundee-United-Rangers-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "CD Cieza",
     "team_b": "Levante UD",
     "event_name": "Copa del Rey",
@@ -137,13 +95,6 @@
     "team_b": "Holstein Kiel",
     "event_name": "DFB Pokal",
     "poster_id": "Hamburger-SV-Holstein-Kiel-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "1. FC Union Berlin",
-    "team_b": "FC Bayern MÃ¼nchen",
-    "event_name": "DFB Pokal",
-    "poster_id": "1.-FC-Union-Berlin-FC-Bayern-MÃ¼nchen-03122025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -313,5 +264,12 @@
     "event_name": "International League T20",
     "poster_id": "International-League-T20-03122025.png",
     "match_type": "single_event"
+  },
+  {
+    "team_a": "1. FC Union Berlin",
+    "team_b": "FC Bayern MÃ¼nchen",
+    "event_name": "DFB Pokal",
+    "poster_id": "1.-FC-Union-Berlin-FC-Bayern-MÃ¼nchen-03122025.png",
+    "match_type": "team_vs_team"
   }
 ]

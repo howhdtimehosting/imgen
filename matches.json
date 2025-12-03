@@ -70,24 +70,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "CD Eldense",
-    "team_b": "AlmerÃ­a",
-    "event_name": "Copa del Rey",
-    "poster_id": "CD-Eldense-AlmerÃ­a-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "CF Talavera",
     "team_b": "MÃ¡laga",
     "event_name": "Copa del Rey",
     "poster_id": "CF-Talavera-MÃ¡laga-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Murcia",
-    "team_b": "CÃ¡diz",
-    "event_name": "Copa del Rey",
-    "poster_id": "Real-Murcia-CÃ¡diz-03122025.png",
     "match_type": "team_vs_team"
   },
   {

@@ -35,10 +35,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "SC Freiburg",
-    "team_b": "Darmstadt 98",
+    "team_a": "VfL Bochum 1848",
+    "team_b": "VfB Stuttgart",
     "event_name": "DFB Pokal",
-    "poster_id": "SC-Freiburg-Darmstadt-98-03122025.png",
+    "poster_id": "VfL-Bochum-1848-VfB-Stuttgart-03122025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -98,31 +98,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "CD Quintanar Del Rey",
-    "team_b": "Elche",
-    "event_name": "Copa del Rey",
-    "poster_id": "CD-Quintanar-Del-Rey-Elche-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Ourense CF",
     "team_b": "Girona FC",
     "event_name": "Copa del Rey",
     "poster_id": "Ourense-CF-Girona-FC-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Reus FC Reddis",
-    "team_b": "Real Sociedad",
-    "event_name": "Copa del Rey",
-    "poster_id": "Reus-FC-Reddis-Real-Sociedad-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Torrent CF",
-    "team_b": "Real Betis",
-    "event_name": "Copa del Rey",
-    "poster_id": "Torrent-CF-Real-Betis-03122025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -259,17 +238,17 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "International League T20",
-    "team_b": "",
-    "event_name": "International League T20",
-    "poster_id": "International-League-T20-03122025.png",
-    "match_type": "single_event"
-  },
-  {
     "team_a": "1. FC Union Berlin",
     "team_b": "FC Bayern MÃ¼nchen",
     "event_name": "DFB Pokal",
     "poster_id": "1.-FC-Union-Berlin-FC-Bayern-MÃ¼nchen-03122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Inter",
+    "team_b": "Venezia",
+    "event_name": "Coppa Italia",
+    "poster_id": "Inter-Venezia-03122025.png",
     "match_type": "team_vs_team"
   }
 ]

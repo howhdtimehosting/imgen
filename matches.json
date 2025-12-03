@@ -14,13 +14,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "India",
-    "team_b": "South Africa",
-    "event_name": "One Day International",
-    "poster_id": "India-South-Africa-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Barcelona",
     "team_b": "AtlÃ©tico Madrid",
     "event_name": "LaLiga",
@@ -31,7 +24,7 @@
     "team_a": "Nepal Premier League",
     "team_b": "",
     "event_name": "Nepal Premier League ",
-    "poster_id": "Nepal-Premier-League-03122025.png",
+    "poster_id": "Nepal-Premier-League-04122025.png",
     "match_type": "single_event"
   },
   {

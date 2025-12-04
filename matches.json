@@ -61,5 +61,194 @@
     "event_name": "ICC World Test Championship",
     "poster_id": "New-Zealand-West-Indies-03122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Palestine",
+    "team_b": "Tunisia",
+    "event_name": "Arab Cup",
+    "poster_id": "Palestine-Tunisia-04122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bologna",
+    "team_b": "Parma",
+    "event_name": "Coppa Italia",
+    "poster_id": "Bologna-Parma-04122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Syria",
+    "team_b": "Qatar",
+    "event_name": "Arab Cup",
+    "poster_id": "Syria-Qatar-04122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "LeganÃ©s",
+    "team_b": "Albacete BalompiÃ©",
+    "event_name": "Copa del Rey",
+    "poster_id": "LeganÃ©s-Albacete-BalompiÃ©-04122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "CD AtlÃ©tico Baleares",
+    "team_b": "Espanyol",
+    "event_name": "Copa del Rey",
+    "poster_id": "CD-AtlÃ©tico-Baleares-Espanyol-04122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Ãvila CF",
+    "team_b": "Rayo Vallecano",
+    "event_name": "Copa del Rey",
+    "poster_id": "Real-Ãvila-CF-Rayo-Vallecano-04122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Cartagena",
+    "team_b": "Valencia",
+    "event_name": "Copa del Rey",
+    "poster_id": "FC-Cartagena-Valencia-04122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "CD Extremadura",
+    "team_b": "Sevilla",
+    "event_name": "Copa del Rey",
+    "poster_id": "CD-Extremadura-Sevilla-04122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Manchester United",
+    "team_b": "West Ham United",
+    "event_name": "Premier League",
+    "poster_id": "Manchester-United-West-Ham-United-04122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Lazio",
+    "team_b": "Milan",
+    "event_name": "Coppa Italia",
+    "poster_id": "Lazio-Milan-04122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Porto",
+    "team_b": "VitÃ³ria SC",
+    "event_name": "TaÃ§a da Liga",
+    "poster_id": "FC-Porto-VitÃ³ria-SC-04122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cruzeiro",
+    "team_b": "Botafogo",
+    "event_name": "BrasileirÃ£o Betano",
+    "poster_id": "Cruzeiro-Botafogo-04122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Boston Bruins",
+    "team_b": "St. Louis Blues",
+    "event_name": "NHL",
+    "poster_id": "Boston-Bruins-St.-Louis-Blues-05122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Florida Panthers",
+    "team_b": "Nashville Predators",
+    "event_name": "NHL",
+    "poster_id": "Florida-Panthers-Nashville-Predators-05122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Carolina Hurricanes",
+    "team_b": "Toronto Maple Leafs",
+    "event_name": "NHL",
+    "poster_id": "Carolina-Hurricanes-Toronto-Maple-Leafs-05122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New York Islanders",
+    "team_b": "Colorado Avalanche",
+    "event_name": "NHL",
+    "poster_id": "New-York-Islanders-Colorado-Avalanche-05122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Ottawa Senators",
+    "team_b": "New York Rangers",
+    "event_name": "NHL",
+    "poster_id": "Ottawa-Senators-New-York-Rangers-05122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Tampa Bay Lightning",
+    "team_b": "Pittsburgh Penguins",
+    "event_name": "NHL",
+    "poster_id": "Tampa-Bay-Lightning-Pittsburgh-Penguins-05122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Columbus Blue Jackets",
+    "team_b": "Detroit Red Wings",
+    "event_name": "NHL",
+    "poster_id": "Columbus-Blue-Jackets-Detroit-Red-Wings-05122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Los Angeles Kings",
+    "team_b": "Chicago Blackhawks",
+    "event_name": "NHL",
+    "poster_id": "Los-Angeles-Kings-Chicago-Blackhawks-05122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Calgary Flames",
+    "team_b": "Minnesota Wild",
+    "event_name": "NHL",
+    "poster_id": "Calgary-Flames-Minnesota-Wild-05122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Edmonton Oilers",
+    "team_b": "Seattle Kraken",
+    "event_name": "NHL",
+    "poster_id": "Edmonton-Oilers-Seattle-Kraken-05122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Washington Wizards",
+    "team_b": "Boston Celtics",
+    "event_name": "NBA",
+    "poster_id": "Washington-Wizards-Boston-Celtics-05122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Philadelphia 76ers",
+    "team_b": "Golden State Warriors",
+    "event_name": "NBA",
+    "poster_id": "Philadelphia-76ers-Golden-State-Warriors-05122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Brooklyn Nets",
+    "team_b": "Utah Jazz",
+    "event_name": "NBA",
+    "poster_id": "Brooklyn-Nets-Utah-Jazz-05122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Toronto Raptors",
+    "team_b": "Los Angeles Lakers",
+    "event_name": "NBA",
+    "poster_id": "Toronto-Raptors-Los-Angeles-Lakers-05122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New Orleans Pelicans",
+    "team_b": "Minnesota Timberwolves",
+    "event_name": "NBA",
+    "poster_id": "New-Orleans-Pelicans-Minnesota-Timberwolves-05122025.png",
+    "match_type": "team_vs_team"
   }
 ]

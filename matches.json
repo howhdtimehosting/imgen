@@ -126,20 +126,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "FC Porto",
-    "team_b": "VitÃ³ria SC",
-    "event_name": "TaÃ§a da Liga",
-    "poster_id": "FC-Porto-VitÃ³ria-SC-04122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Cruzeiro",
-    "team_b": "Botafogo",
-    "event_name": "BrasileirÃ£o Betano",
-    "poster_id": "Cruzeiro-Botafogo-04122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Boston Bruins",
     "team_b": "St. Louis Blues",
     "event_name": "NHL",
@@ -242,6 +228,13 @@
     "team_b": "Minnesota Timberwolves",
     "event_name": "NBA",
     "poster_id": "New-Orleans-Pelicans-Minnesota-Timberwolves-05122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Detroit Lions",
+    "team_b": "Dallas Cowboys",
+    "event_name": "NFL",
+    "poster_id": "Detroit-Lions-Dallas-Cowboys-05122025.png",
     "match_type": "team_vs_team"
   }
 ]

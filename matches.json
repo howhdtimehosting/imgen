@@ -3,7 +3,7 @@
     "team_a": "ONE Championship|Friday Fight",
     "team_b": "",
     "event_name": "ONE Fight Championship",
-    "poster_id": "ONE-ChampionshipFriday-Fight-28112025.png",
+    "poster_id": "ONE-ChampionshipFriday-Fight-05122025.png",
     "match_type": "single_event"
   },
   {
@@ -12,13 +12,6 @@
     "event_name": "AEW Full Gear 2025",
     "poster_id": "AEW-Full-Gear-2025-23112025.png",
     "match_type": "single_event"
-  },
-  {
-    "team_a": "Barcelona",
-    "team_b": "AtlÃ©tico Madrid",
-    "event_name": "LaLiga",
-    "poster_id": "Barcelona-AtlÃ©tico-Madrid-02122025.png",
-    "match_type": "team_vs_team"
   },
   {
     "team_a": "Nepal Premier League",
@@ -35,108 +28,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "VfL Bochum 1848",
-    "team_b": "VfB Stuttgart",
-    "event_name": "DFB Pokal",
-    "poster_id": "VfL-Bochum-1848-VfB-Stuttgart-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Napoli",
-    "team_b": "Cagliari",
-    "event_name": "Coppa Italia",
-    "poster_id": "Napoli-Cagliari-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Athletic Club",
-    "team_b": "Real Madrid",
-    "event_name": "LaLiga",
-    "poster_id": "Athletic-Club-Real-Madrid-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Burnley",
-    "team_b": "Crystal Palace",
-    "event_name": "Premier League",
-    "poster_id": "Burnley-Crystal-Palace-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Arsenal",
-    "team_b": "Brentford",
-    "event_name": "Premier League",
-    "poster_id": "Arsenal-Brentford-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Brighton & Hove Albion",
-    "team_b": "Aston Villa",
-    "event_name": "Premier League",
-    "poster_id": "Brighton-&-Hove-Albion-Aston-Villa-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Wolverhampton",
-    "team_b": "Nottingham Forest",
-    "event_name": "Premier League",
-    "poster_id": "Wolverhampton-Nottingham-Forest-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "CD Cieza",
-    "team_b": "Levante UD",
-    "event_name": "Copa del Rey",
-    "poster_id": "CD-Cieza-Levante-UD-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Hamburger SV",
-    "team_b": "Holstein Kiel",
-    "event_name": "DFB Pokal",
-    "poster_id": "Hamburger-SV-Holstein-Kiel-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Ourense CF",
-    "team_b": "Girona FC",
-    "event_name": "Copa del Rey",
-    "poster_id": "Ourense-CF-Girona-FC-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Leeds United",
-    "team_b": "Chelsea",
-    "event_name": "Premier League",
-    "poster_id": "Leeds-United-Chelsea-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Liverpool",
-    "team_b": "Sunderland",
-    "event_name": "Premier League",
-    "poster_id": "Liverpool-Sunderland-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Red Bull Bragantino",
     "team_b": "VitÃ³ria",
     "event_name": "BrasileirÃ£o Betano",
     "poster_id": "Red-Bull-Bragantino-VitÃ³ria-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Flamengo",
-    "team_b": "CearÃ¡",
-    "event_name": "BrasileirÃ£o Betano",
-    "poster_id": "Flamengo-CearÃ¡-04122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "AtlÃ©tico Mineiro",
-    "team_b": "Palmeiras",
-    "event_name": "BrasileirÃ£o Betano",
-    "poster_id": "AtlÃ©tico-Mineiro-Palmeiras-04122025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -151,97 +46,6 @@
     "team_b": "Washington Capitals",
     "event_name": "NHL",
     "poster_id": "San-Jose-Sharks-Washington-Capitals-04122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "MontrÃ©al Canadiens",
-    "team_b": "Winnipeg Jets",
-    "event_name": "NHL",
-    "poster_id": "MontrÃ©al-Canadiens-Winnipeg-Jets-04122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Philadelphia Flyers",
-    "team_b": "Buffalo Sabres",
-    "event_name": "NHL",
-    "poster_id": "Philadelphia-Flyers-Buffalo-Sabres-04122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "New Jersey Devils",
-    "team_b": "Dallas Stars",
-    "event_name": "NHL",
-    "poster_id": "New-Jersey-Devils-Dallas-Stars-04122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Cleveland Cavaliers",
-    "team_b": "Portland Trail Blazers",
-    "event_name": "NBA",
-    "poster_id": "Cleveland-Cavaliers-Portland-Trail-Blazers-04122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Indiana Pacers",
-    "team_b": "Denver Nuggets",
-    "event_name": "NBA",
-    "poster_id": "Indiana-Pacers-Denver-Nuggets-04122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Orlando Magic",
-    "team_b": "San Antonio Spurs",
-    "event_name": "NBA",
-    "poster_id": "Orlando-Magic-San-Antonio-Spurs-04122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Atlanta Hawks",
-    "team_b": "Los Angeles Clippers",
-    "event_name": "NBA",
-    "poster_id": "Atlanta-Hawks-Los-Angeles-Clippers-04122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "New York Knicks",
-    "team_b": "Charlotte Hornets",
-    "event_name": "NBA",
-    "poster_id": "New-York-Knicks-Charlotte-Hornets-04122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Chicago Bulls",
-    "team_b": "Brooklyn Nets",
-    "event_name": "NBA",
-    "poster_id": "Chicago-Bulls-Brooklyn-Nets-04122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Houston Rockets",
-    "team_b": "Sacramento Kings",
-    "event_name": "NBA",
-    "poster_id": "Houston-Rockets-Sacramento-Kings-04122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Milwaukee Bucks",
-    "team_b": "Detroit Pistons",
-    "event_name": "NBA",
-    "poster_id": "Milwaukee-Bucks-Detroit-Pistons-04122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Atalanta",
-    "team_b": "Genoa",
-    "event_name": "Coppa Italia",
-    "poster_id": "Atalanta-Genoa-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "1. FC Union Berlin",
-    "team_b": "FC Bayern MÃ¼nchen",
-    "event_name": "DFB Pokal",
-    "poster_id": "1.-FC-Union-Berlin-FC-Bayern-MÃ¼nchen-03122025.png",
     "match_type": "team_vs_team"
   },
   {

@@ -250,5 +250,12 @@
     "event_name": "Coppa Italia",
     "poster_id": "Inter-Venezia-03122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New Zealand",
+    "team_b": "West Indies",
+    "event_name": "ICC World Test Championship",
+    "poster_id": "New-Zealand-West-Indies-03122025.png",
+    "match_type": "team_vs_team"
   }
 ]

@@ -229,5 +229,12 @@
     "event_name": "MotoSporrs",
     "poster_id": "F1-05122025.png",
     "match_type": "single_event"
+  },
+  {
+    "team_a": "Fifa World cuo Drow 2026",
+    "team_b": "",
+    "event_name": "Fifa World Cup Drow",
+    "poster_id": "Fifa-World-cuo-Drow-2026-05122025.png",
+    "match_type": "single_event"
   }
 ]

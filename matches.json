@@ -42,81 +42,11 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "San Jose Sharks",
-    "team_b": "Washington Capitals",
-    "event_name": "NHL",
-    "poster_id": "San-Jose-Sharks-Washington-Capitals-04122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "International League T20",
     "team_b": "",
     "event_name": "International League T20",
     "poster_id": "International-League-T20-05122025.png",
     "match_type": "single_event"
-  },
-  {
-    "team_a": "Inter",
-    "team_b": "Venezia",
-    "event_name": "Coppa Italia",
-    "poster_id": "Inter-Venezia-03122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "New Zealand",
-    "team_b": "West Indies",
-    "event_name": "ICC World Test Championship",
-    "poster_id": "New-Zealand-West-Indies-04122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Palestine",
-    "team_b": "Tunisia",
-    "event_name": "Arab Cup",
-    "poster_id": "Palestine-Tunisia-04122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bologna",
-    "team_b": "Parma",
-    "event_name": "Coppa Italia",
-    "poster_id": "Bologna-Parma-04122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Syria",
-    "team_b": "Qatar",
-    "event_name": "Arab Cup",
-    "poster_id": "Syria-Qatar-04122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "CD AtlÃ©tico Baleares",
-    "team_b": "Espanyol",
-    "event_name": "Copa del Rey",
-    "poster_id": "CD-AtlÃ©tico-Baleares-Espanyol-04122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Ãvila CF",
-    "team_b": "Rayo Vallecano",
-    "event_name": "Copa del Rey",
-    "poster_id": "Real-Ãvila-CF-Rayo-Vallecano-04122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FC Cartagena",
-    "team_b": "Valencia",
-    "event_name": "Copa del Rey",
-    "poster_id": "FC-Cartagena-Valencia-04122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "CD Extremadura",
-    "team_b": "Sevilla",
-    "event_name": "Copa del Rey",
-    "poster_id": "CD-Extremadura-Sevilla-04122025.png",
-    "match_type": "team_vs_team"
   },
   {
     "team_a": "Manchester United",
@@ -126,31 +56,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Lazio",
-    "team_b": "Milan",
-    "event_name": "Coppa Italia",
-    "poster_id": "Lazio-Milan-04122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Boston Bruins",
     "team_b": "St. Louis Blues",
     "event_name": "NHL",
     "poster_id": "Boston-Bruins-St.-Louis-Blues-05122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Florida Panthers",
-    "team_b": "Nashville Predators",
-    "event_name": "NHL",
-    "poster_id": "Florida-Panthers-Nashville-Predators-05122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Carolina Hurricanes",
-    "team_b": "Toronto Maple Leafs",
-    "event_name": "NHL",
-    "poster_id": "Carolina-Hurricanes-Toronto-Maple-Leafs-05122025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -207,13 +116,6 @@
     "team_b": "Golden State Warriors",
     "event_name": "NBA",
     "poster_id": "Philadelphia-76ers-Golden-State-Warriors-05122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Brooklyn Nets",
-    "team_b": "Utah Jazz",
-    "event_name": "NBA",
-    "poster_id": "Brooklyn-Nets-Utah-Jazz-05122025.png",
     "match_type": "team_vs_team"
   },
   {

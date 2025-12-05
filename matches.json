@@ -222,5 +222,12 @@
     "event_name": "NHL",
     "poster_id": "Anaheim-Ducks-Washington-Capitals-06122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "F1",
+    "team_b": "",
+    "event_name": "MotoSporrs",
+    "poster_id": "F1-05122025.png",
+    "match_type": "single_event"
   }
 ]

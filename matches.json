@@ -14,6 +14,13 @@
     "match_type": "single_event"
   },
   {
+    "team_a": "Nepal Premier League",
+    "team_b": "",
+    "event_name": "Nepal Premier League ",
+    "poster_id": "Nepal-Premier-League-05122025.png",
+    "match_type": "single_event"
+  },
+  {
     "team_a": "Australia",
     "team_b": "England",
     "event_name": "Ashes Series",
@@ -45,7 +52,7 @@
     "team_a": "International League T20",
     "team_b": "",
     "event_name": "International League T20",
-    "poster_id": "International-League-T20-04122025.png",
+    "poster_id": "International-League-T20-05122025.png",
     "match_type": "single_event"
   },
   {

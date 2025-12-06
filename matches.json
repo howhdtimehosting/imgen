@@ -222,5 +222,12 @@
     "event_name": "Fifa World Cup Drow",
     "poster_id": "Fifa-World-cuo-Drow-2026-05122025.png",
     "match_type": "single_event"
+  },
+  {
+    "team_a": "India",
+    "team_b": "South Africa",
+    "event_name": "One Day International",
+    "poster_id": "India-South-Africa-06122025.png",
+    "match_type": "team_vs_team"
   }
 ]

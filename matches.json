@@ -10,7 +10,7 @@
     "team_a": "Nepal Premier League",
     "team_b": "",
     "event_name": "Nepal Premier League ",
-    "poster_id": "Nepal-Premier-League-06122025.png",
+    "poster_id": "Nepal-Premier-League-07122025.png",
     "match_type": "single_event"
   },
   {
@@ -81,13 +81,6 @@
     "team_b": "Mallorca",
     "event_name": "LaLiga",
     "poster_id": "Real-Oviedo-Mallorca-05122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Kuwait",
-    "team_b": "Jordan",
-    "event_name": "Arab Cup",
-    "poster_id": "Kuwait-Jordan-06122025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -208,13 +201,6 @@
     "event_name": "NHL",
     "poster_id": "Anaheim-Ducks-Washington-Capitals-06122025.png",
     "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "F1",
-    "team_b": "",
-    "event_name": "MotoSporrs",
-    "poster_id": "F1-06122025.png",
-    "match_type": "single_event"
   },
   {
     "team_a": "Fifa World cuo Drow 2026",

@@ -343,20 +343,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Huesca",
-    "team_b": "Real Valladolid",
-    "event_name": "LaLiga 2",
-    "poster_id": "Huesca-Real-Valladolid-06122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Deportivo AlavÃ©s",
-    "team_b": "Real Sociedad",
-    "event_name": "LaLiga",
-    "poster_id": "Deportivo-AlavÃ©s-Real-Sociedad-06122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Nantes",
     "team_b": "RC Lens",
     "event_name": "Ligue 1",
@@ -459,6 +445,20 @@
     "team_b": "Stade Rennais",
     "event_name": "Ligue 1",
     "poster_id": "Paris-Saint-Germain-Stade-Rennais-06122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Huesca",
+    "team_b": "Real Valladolid",
+    "event_name": "LaLiga 2",
+    "poster_id": "Huesca-Real-Valladolid-06122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Deportivo AlavÃ©s",
+    "team_b": "Real Sociedad",
+    "event_name": "LaLiga",
+    "poster_id": "Deportivo-AlavÃ©s-Real-Sociedad-06122025.png",
     "match_type": "team_vs_team"
   }
 ]

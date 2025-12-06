@@ -460,5 +460,12 @@
     "event_name": "LaLiga",
     "poster_id": "Deportivo-AlavÃ©s-Real-Sociedad-06122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Shabaz Masoud and Peter McGrail",
+    "team_b": "",
+    "event_name": "MMA",
+    "poster_id": "Shabaz-Masoud-and-Peter-McGrail-06122025.png",
+    "match_type": "single_event"
   }
 ]

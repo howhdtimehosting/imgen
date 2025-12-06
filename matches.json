@@ -467,5 +467,117 @@
     "event_name": "MMA",
     "poster_id": "Shabaz-Masoud-and-Peter-McGrail-06122025.png",
     "match_type": "single_event"
+  },
+  {
+    "team_a": "Washington Wizards",
+    "team_b": "Atlanta Hawks",
+    "event_name": "NBA",
+    "poster_id": "Washington-Wizards-Atlanta-Hawks-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cleveland Cavaliers",
+    "team_b": "Golden State Warriors",
+    "event_name": "NBA",
+    "poster_id": "Cleveland-Cavaliers-Golden-State-Warriors-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Detroit Pistons",
+    "team_b": "Milwaukee Bucks",
+    "event_name": "NBA",
+    "poster_id": "Detroit-Pistons-Milwaukee-Bucks-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Minnesota Timberwolves",
+    "team_b": "Los Angeles Clippers",
+    "event_name": "NBA",
+    "poster_id": "Minnesota-Timberwolves-Los-Angeles-Clippers-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Miami Heat",
+    "team_b": "Sacramento Kings",
+    "event_name": "NBA",
+    "poster_id": "Miami-Heat-Sacramento-Kings-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Dallas Mavericks",
+    "team_b": "Houston Rockets",
+    "event_name": "NBA",
+    "poster_id": "Dallas-Mavericks-Houston-Rockets-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Calgary Flames",
+    "team_b": "Utah Mammoth",
+    "event_name": "NHL",
+    "poster_id": "Calgary-Flames-Utah-Mammoth-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Boston Bruins",
+    "team_b": "New Jersey Devils",
+    "event_name": "NHL",
+    "poster_id": "Boston-Bruins-New-Jersey-Devils-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Carolina Hurricanes",
+    "team_b": "Nashville Predators",
+    "event_name": "NHL",
+    "poster_id": "Carolina-Hurricanes-Nashville-Predators-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Toronto Maple Leafs",
+    "team_b": "MontrÃ©al Canadiens",
+    "event_name": "NHL",
+    "poster_id": "Toronto-Maple-Leafs-MontrÃ©al-Canadiens-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Ottawa Senators",
+    "team_b": "St. Louis Blues",
+    "event_name": "NHL",
+    "poster_id": "Ottawa-Senators-St.-Louis-Blues-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Tampa Bay Lightning",
+    "team_b": "New York Islanders",
+    "event_name": "NHL",
+    "poster_id": "Tampa-Bay-Lightning-New-York-Islanders-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Los Angeles Kings",
+    "team_b": "Chicago Blackhawks",
+    "event_name": "NHL",
+    "poster_id": "Los-Angeles-Kings-Chicago-Blackhawks-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Seattle Kraken",
+    "team_b": "Detroit Red Wings",
+    "event_name": "NHL",
+    "poster_id": "Seattle-Kraken-Detroit-Red-Wings-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Vancouver Canucks",
+    "team_b": "Minnesota Wild",
+    "event_name": "NHL",
+    "poster_id": "Vancouver-Canucks-Minnesota-Wild-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Edmonton Oilers",
+    "team_b": "Winnipeg Jets",
+    "event_name": "NHL",
+    "poster_id": "Edmonton-Oilers-Winnipeg-Jets-07122025.png",
+    "match_type": "team_vs_team"
   }
 ]

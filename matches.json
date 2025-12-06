@@ -7,6 +7,13 @@
     "match_type": "single_event"
   },
   {
+    "team_a": "Nepal Premier League",
+    "team_b": "",
+    "event_name": "Nepal Premier League ",
+    "poster_id": "Nepal-Premier-League-06122025.png",
+    "match_type": "single_event"
+  },
+  {
     "team_a": "Australia",
     "team_b": "England",
     "event_name": "Ashes Series",

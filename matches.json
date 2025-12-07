@@ -371,13 +371,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Toronto Raptors",
-    "team_b": "Boston Celtics",
-    "event_name": "NBA",
-    "poster_id": "Toronto-Raptors-Boston-Celtics-07122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Charlotte Hornets",
     "team_b": "Denver Nuggets",
     "event_name": "NBA",

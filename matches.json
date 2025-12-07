@@ -257,5 +257,159 @@
     "event_name": "NFL",
     "poster_id": "New-York-Jets-Miami-Dolphins-07122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Madrid",
+    "team_b": "Celta Vigo",
+    "event_name": "LaLiga",
+    "poster_id": "Real-Madrid-Celta-Vigo-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Lorient",
+    "team_b": "Olympique Lyonnais",
+    "event_name": "Ligue 1",
+    "poster_id": "Lorient-Olympique-Lyonnais-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Granada",
+    "team_b": "AD Ceuta",
+    "event_name": "LaLiga 2",
+    "poster_id": "Granada-AD-Ceuta-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Napoli",
+    "team_b": "Juventus",
+    "event_name": "Serie A",
+    "poster_id": "Napoli-Juventus-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Vancouver Canucks",
+    "team_b": "Detroit Red Wings",
+    "event_name": "NHL",
+    "poster_id": "Vancouver-Canucks-Detroit-Red-Wings-09122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Utah Mammoth",
+    "team_b": "Los Angeles Kings",
+    "event_name": "NHL",
+    "poster_id": "Utah-Mammoth-Los-Angeles-Kings-09122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Calgary Flames",
+    "team_b": "Buffalo Sabres",
+    "event_name": "NHL",
+    "poster_id": "Calgary-Flames-Buffalo-Sabres-09122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Seattle Kraken",
+    "team_b": "Minnesota Wild",
+    "event_name": "NHL",
+    "poster_id": "Seattle-Kraken-Minnesota-Wild-09122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Toronto Maple Leafs",
+    "team_b": "Tampa Bay Lightning",
+    "event_name": "NHL",
+    "poster_id": "Toronto-Maple-Leafs-Tampa-Bay-Lightning-09122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Anaheim Ducks",
+    "team_b": "Chicago Blackhawks",
+    "event_name": "NHL",
+    "poster_id": "Anaheim-Ducks-Chicago-Blackhawks-08122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Washington Capitals",
+    "team_b": "Columbus Blue Jackets",
+    "event_name": "NHL",
+    "poster_id": "Washington-Capitals-Columbus-Blue-Jackets-08122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New York Rangers",
+    "team_b": "Vegas Golden Knights",
+    "event_name": "NHL",
+    "poster_id": "New-York-Rangers-Vegas-Golden-Knights-08122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "MontrÃ©al Canadiens",
+    "team_b": "St. Louis Blues",
+    "event_name": "NHL",
+    "poster_id": "MontrÃ©al-Canadiens-St.-Louis-Blues-08122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Dallas Stars",
+    "team_b": "Pittsburgh Penguins",
+    "event_name": "NHL",
+    "poster_id": "Dallas-Stars-Pittsburgh-Penguins-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Carolina Hurricanes",
+    "team_b": "San Jose Sharks",
+    "event_name": "NHL",
+    "poster_id": "Carolina-Hurricanes-San-Jose-Sharks-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Florida Panthers",
+    "team_b": "New York Islanders",
+    "event_name": "NHL",
+    "poster_id": "Florida-Panthers-New-York-Islanders-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Toronto Raptors",
+    "team_b": "Boston Celtics",
+    "event_name": "NBA",
+    "poster_id": "Toronto-Raptors-Boston-Celtics-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Charlotte Hornets",
+    "team_b": "Denver Nuggets",
+    "event_name": "NBA",
+    "poster_id": "Charlotte-Hornets-Denver-Nuggets-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Memphis Grizzlies",
+    "team_b": "Portland Trail Blazers",
+    "event_name": "NBA",
+    "poster_id": "Memphis-Grizzlies-Portland-Trail-Blazers-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Chicago Bulls",
+    "team_b": "Golden State Warriors",
+    "event_name": "NBA",
+    "poster_id": "Chicago-Bulls-Golden-State-Warriors-08122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Philadelphia 76ers",
+    "team_b": "Los Angeles Lakers",
+    "event_name": "NBA",
+    "poster_id": "Philadelphia-76ers-Los-Angeles-Lakers-08122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Utah Jazz",
+    "team_b": "Oklahoma City Thunder",
+    "event_name": "NBA",
+    "poster_id": "Utah-Jazz-Oklahoma-City-Thunder-08122025.png",
+    "match_type": "team_vs_team"
   }
 ]

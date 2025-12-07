@@ -579,5 +579,47 @@
     "event_name": "NHL",
     "poster_id": "Edmonton-Oilers-Winnipeg-Jets-07122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "CÃ¡diz",
+    "team_b": "Real Racing Club",
+    "event_name": "LaLiga 2",
+    "poster_id": "CÃ¡diz-Real-Racing-Club-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Elche",
+    "team_b": "Girona FC",
+    "event_name": "LaLiga",
+    "poster_id": "Elche-Girona-FC-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Kocaelispor",
+    "team_b": "KasÄ±mpaÅa",
+    "event_name": "Trendyol SÃ¼per Lig",
+    "poster_id": "Kocaelispor-KasÄ±mpaÅa-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Brighton & Hove Albion",
+    "team_b": "West Ham United",
+    "event_name": "Premier League",
+    "poster_id": "Brighton-&-Hove-Albion-West-Ham-United-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cagliari",
+    "team_b": "Roma",
+    "event_name": "Serie A",
+    "poster_id": "Cagliari-Roma-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Nice",
+    "team_b": "Angers",
+    "event_name": "Ligue 1",
+    "poster_id": "Nice-Angers-07122025.png",
+    "match_type": "team_vs_team"
   }
 ]

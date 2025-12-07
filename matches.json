@@ -301,13 +301,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Calgary Flames",
-    "team_b": "Buffalo Sabres",
-    "event_name": "NHL",
-    "poster_id": "Calgary-Flames-Buffalo-Sabres-09122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Seattle Kraken",
     "team_b": "Minnesota Wild",
     "event_name": "NHL",

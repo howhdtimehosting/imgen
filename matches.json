@@ -217,38 +217,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Tampa Bay Buccaneers",
-    "team_b": "New Orleans Saints",
-    "event_name": "NFL",
-    "poster_id": "Tampa-Bay-Buccaneers-New-Orleans-Saints-07122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Minnesota Vikings",
-    "team_b": "Washington Commanders",
-    "event_name": "NFL",
-    "poster_id": "Minnesota-Vikings-Washington-Commanders-07122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "New York Jets",
-    "team_b": "Miami Dolphins",
-    "event_name": "NFL",
-    "poster_id": "New-York-Jets-Miami-Dolphins-07122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Cleveland Browns",
     "team_b": "Tennessee Titans",
     "event_name": "NFL",
     "poster_id": "Cleveland-Browns-Tennessee-Titans-07122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Atlanta Falcons",
-    "team_b": "Seattle Seahawks",
-    "event_name": "NFL",
-    "poster_id": "Atlanta-Falcons-Seattle-Seahawks-07122025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -263,6 +235,27 @@
     "team_b": "Cincinnati Bengals",
     "event_name": "NFL",
     "poster_id": "Buffalo-Bills-Cincinnati-Bengals-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Atlanta Falcons",
+    "team_b": "Seattle Seahawks",
+    "event_name": "NFL",
+    "poster_id": "Atlanta-Falcons-Seattle-Seahawks-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Minnesota Vikings",
+    "team_b": "Washington Commanders",
+    "event_name": "NFL",
+    "poster_id": "Minnesota-Vikings-Washington-Commanders-07122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New York Jets",
+    "team_b": "Miami Dolphins",
+    "event_name": "NFL",
+    "poster_id": "New-York-Jets-Miami-Dolphins-07122025.png",
     "match_type": "team_vs_team"
   }
 ]

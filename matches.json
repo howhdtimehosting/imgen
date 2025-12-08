@@ -140,20 +140,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "MÃ¡laga",
-    "team_b": "Real Zaragoza",
-    "event_name": "LaLiga 2",
-    "poster_id": "MÃ¡laga-Real-Zaragoza-08122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Torino",
-    "team_b": "Milan",
-    "event_name": "Serie A",
-    "poster_id": "Torino-Milan-08122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Indiana Pacers",
     "team_b": "Sacramento Kings",
     "event_name": "NBA",

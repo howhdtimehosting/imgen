@@ -35,13 +35,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Seattle Kraken",
-    "team_b": "Minnesota Wild",
-    "event_name": "NHL",
-    "poster_id": "Seattle-Kraken-Minnesota-Wild-09122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Toronto Maple Leafs",
     "team_b": "Tampa Bay Lightning",
     "event_name": "NHL",
@@ -84,20 +77,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Osasuna",
-    "team_b": "Levante UD",
-    "event_name": "LaLiga",
-    "poster_id": "Osasuna-Levante-UD-08122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Wolverhampton",
-    "team_b": "Manchester United",
-    "event_name": "Premier League",
-    "poster_id": "Wolverhampton-Manchester-United-08122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Indiana Pacers",
     "team_b": "Sacramento Kings",
     "event_name": "NBA",
@@ -123,6 +102,125 @@
     "team_b": "Argentina",
     "event_name": "Football | AFB Latin-Bangla Super Cup",
     "poster_id": "Bangladesh-Argentina-08122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "SKN St. PÃ¶lten",
+    "team_b": "Juventus",
+    "event_name": "UEFA Women's Champions League",
+    "poster_id": "SKN-St.-PÃ¶lten-Juventus-09122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Algeria",
+    "team_b": "Iraq",
+    "event_name": "Arab Cup",
+    "poster_id": "Algeria-Iraq-09122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bahrain",
+    "team_b": "Sudan",
+    "event_name": "Arab Cup",
+    "poster_id": "Bahrain-Sudan-09122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Bayern MÃ¼nchen",
+    "team_b": "Sporting CP",
+    "event_name": "UEFA Champions League",
+    "poster_id": "FC-Bayern-MÃ¼nchen-Sporting-CP-09122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sheffield United",
+    "team_b": "Norwich City",
+    "event_name": "Championship",
+    "poster_id": "Sheffield-United-Norwich-City-09122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Inter",
+    "team_b": "Liverpool",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Inter-Liverpool-09122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "AS Monaco",
+    "team_b": "Galatasaray",
+    "event_name": "UEFA Champions League",
+    "poster_id": "AS-Monaco-Galatasaray-09122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Barcelona",
+    "team_b": "Eintracht Frankfurt",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Barcelona-Eintracht-Frankfurt-09122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Atalanta",
+    "team_b": "Chelsea",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Atalanta-Chelsea-09122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "PSV Eindhoven",
+    "team_b": "AtlÃ©tico Madrid",
+    "event_name": "UEFA Champions League",
+    "poster_id": "PSV-Eindhoven-AtlÃ©tico-Madrid-09122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Tottenham Hotspur",
+    "team_b": "SK Slavia Praha",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Tottenham-Hotspur-SK-Slavia-Praha-09122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Royale Union Saint-Gilloise",
+    "team_b": "Olympique de Marseille",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Royale-Union-Saint-Gilloise-Olympique-de-Marseille-09122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Madrid",
+    "team_b": "VfL Wolfsburg",
+    "event_name": "UEFA Women's Champions League",
+    "poster_id": "Real-Madrid-VfL-Wolfsburg-09122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Arsenal",
+    "team_b": "FC Twente Vrouwen",
+    "event_name": "UEFA Women's Champions League",
+    "poster_id": "Arsenal-FC-Twente-Vrouwen-09122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Paris Saint-Germain",
+    "team_b": "Oud-Heverlee Leuven",
+    "event_name": "UEFA Women's Champions League",
+    "poster_id": "Paris-Saint-Germain-Oud-Heverlee-Leuven-09122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India",
+    "team_b": "South Africa",
+    "event_name": "T20 International",
+    "poster_id": "India-South-Africa-09122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New Zealand",
+    "team_b": "West Indies",
+    "event_name": "ICC World Test Championship",
+    "poster_id": "New-Zealand-West-Indies-09122025.png",
     "match_type": "team_vs_team"
   }
 ]

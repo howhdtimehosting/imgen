@@ -61,5 +61,124 @@
     "event_name": "Women's Big Bash League",
     "poster_id": "Perth-Scorchers-Women-Melbourne-Stars-Women-09122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pisa",
+    "team_b": "Parma",
+    "event_name": "Serie A",
+    "poster_id": "Pisa-Parma-08122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Burgos Club de FÃºtbol",
+    "team_b": "Albacete BalompiÃ©",
+    "event_name": "LaLiga 2",
+    "poster_id": "Burgos-Club-de-FÃºtbol-Albacete-BalompiÃ©-08122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Udinese",
+    "team_b": "Genoa",
+    "event_name": "Serie A",
+    "poster_id": "Udinese-Genoa-08122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Alanyaspor",
+    "team_b": "Antalyaspor",
+    "event_name": "Trendyol SÃ¼per Lig",
+    "poster_id": "Alanyaspor-Antalyaspor-08122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "BeÅiktaÅ JK",
+    "team_b": "Gaziantep FK",
+    "event_name": "Trendyol SÃ¼per Lig",
+    "poster_id": "BeÅiktaÅ-JK-Gaziantep-FK-08122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Morocco",
+    "team_b": "Saudi Arabia",
+    "event_name": "Arab Cup",
+    "poster_id": "Morocco-Saudi-Arabia-08122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Oman",
+    "team_b": "Comoros",
+    "event_name": "Arab Cup",
+    "poster_id": "Oman-Comoros-08122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Las Palmas",
+    "team_b": "MirandÃ©s",
+    "event_name": "LaLiga 2",
+    "poster_id": "Las-Palmas-MirandÃ©s-08122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "MÃ¡laga",
+    "team_b": "Real Zaragoza",
+    "event_name": "LaLiga 2",
+    "poster_id": "MÃ¡laga-Real-Zaragoza-08122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Torino",
+    "team_b": "Milan",
+    "event_name": "Serie A",
+    "poster_id": "Torino-Milan-08122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Osasuna",
+    "team_b": "Levante UD",
+    "event_name": "LaLiga",
+    "poster_id": "Osasuna-Levante-UD-08122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Wolverhampton",
+    "team_b": "Manchester United",
+    "event_name": "Premier League",
+    "poster_id": "Wolverhampton-Manchester-United-08122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "MÃ¡laga",
+    "team_b": "Real Zaragoza",
+    "event_name": "LaLiga 2",
+    "poster_id": "MÃ¡laga-Real-Zaragoza-08122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Torino",
+    "team_b": "Milan",
+    "event_name": "Serie A",
+    "poster_id": "Torino-Milan-08122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Indiana Pacers",
+    "team_b": "Sacramento Kings",
+    "event_name": "NBA",
+    "poster_id": "Indiana-Pacers-Sacramento-Kings-09122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Minnesota Timberwolves",
+    "team_b": "Phoenix Suns",
+    "event_name": "NBA",
+    "poster_id": "Minnesota-Timberwolves-Phoenix-Suns-09122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New Orleans Pelicans",
+    "team_b": "San Antonio Spurs",
+    "event_name": "NBA",
+    "poster_id": "New-Orleans-Pelicans-San-Antonio-Spurs-09122025.png",
+    "match_type": "team_vs_team"
   }
 ]

@@ -180,5 +180,12 @@
     "event_name": "NBA",
     "poster_id": "New-Orleans-Pelicans-San-Antonio-Spurs-09122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bangladesh",
+    "team_b": "Argentina",
+    "event_name": "Football | AFB Latin-Bangla Super Cup",
+    "poster_id": "Bangladesh-Argentina-08122025.png",
+    "match_type": "team_vs_team"
   }
 ]

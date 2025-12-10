@@ -222,5 +222,110 @@
     "event_name": "ICC World Test Championship",
     "poster_id": "New-Zealand-West-Indies-09122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Villarreal",
+    "team_b": "FC KÃ¸benhavn",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Villarreal-FC-KÃ¸benhavn-10122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "QarabaÄ FK",
+    "team_b": "AFC Ajax",
+    "event_name": "UEFA Champions League",
+    "poster_id": "QarabaÄ-FK-AFC-Ajax-10122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Athletic Club",
+    "team_b": "Paris Saint-Germain",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Athletic-Club-Paris-Saint-Germain-10122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bayer 04 Leverkusen",
+    "team_b": "Newcastle United",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Bayer-04-Leverkusen-Newcastle-United-10122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Benfica",
+    "team_b": "Napoli",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Benfica-Napoli-10122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Borussia Dortmund",
+    "team_b": "BodÃ¸/Glimt",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Borussia-Dortmund-BodÃ¸Glimt-10122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Club Brugge KV",
+    "team_b": "Arsenal",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Club-Brugge-KV-Arsenal-10122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Juventus",
+    "team_b": "Pafos FC",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Juventus-Pafos-FC-10122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Madrid",
+    "team_b": "Manchester City",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Real-Madrid-Manchester-City-10122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Oklahoma City Thunder",
+    "team_b": "Phoenix Suns",
+    "event_name": "NBA",
+    "poster_id": "Oklahoma-City-Thunder-Phoenix-Suns-11122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Los Angeles Lakers",
+    "team_b": "San Antonio Spurs",
+    "event_name": "NBA",
+    "poster_id": "Los-Angeles-Lakers-San-Antonio-Spurs-11122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Chicago Blackhawks",
+    "team_b": "New York Rangers",
+    "event_name": "NHL",
+    "poster_id": "Chicago-Blackhawks-New-York-Rangers-11122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Calgary Flames",
+    "team_b": "Detroit Red Wings",
+    "event_name": "NHL",
+    "poster_id": "Calgary-Flames-Detroit-Red-Wings-11122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Utah Mammoth",
+    "team_b": "Florida Panthers",
+    "event_name": "NHL",
+    "poster_id": "Utah-Mammoth-Florida-Panthers-11122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Seattle Kraken",
+    "team_b": "Los Angeles Kings",
+    "event_name": "NHL",
+    "poster_id": "Seattle-Kraken-Los-Angeles-Kings-11122025.png",
+    "match_type": "team_vs_team"
   }
 ]

@@ -294,13 +294,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Oklahoma City Thunder",
-    "team_b": "Phoenix Suns",
-    "event_name": "NBA",
-    "poster_id": "Oklahoma-City-Thunder-Phoenix-Suns-11122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Los Angeles Lakers",
     "team_b": "San Antonio Spurs",
     "event_name": "NBA",

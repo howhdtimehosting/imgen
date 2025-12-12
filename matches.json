@@ -201,5 +201,33 @@
     "event_name": "T20 International",
     "poster_id": "India-South-Africa-11122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pakistan Under-19",
+    "team_b": "Malaysia Under-19",
+    "event_name": "U19 Asia Cup",
+    "poster_id": "Pakistan-Under-19-Malaysia-Under-19-12122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India Under-19",
+    "team_b": "United Arab Emirates Under-19",
+    "event_name": "U19 Asia Cup",
+    "poster_id": "India-Under-19-United-Arab-Emirates-Under-19-12122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sri Lanka Under-19",
+    "team_b": "Nepal Under-19",
+    "event_name": "U19 Asia Cup",
+    "poster_id": "Sri-Lanka-Under-19-Nepal-Under-19-13122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Afghanistan Under-19",
+    "team_b": "Bangladesh Under-19",
+    "event_name": "U19 Asia Cup",
+    "poster_id": "Afghanistan-Under-19-Bangladesh-Under-19-13122025.png",
+    "match_type": "team_vs_team"
   }
 ]

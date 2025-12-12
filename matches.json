@@ -42,181 +42,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "New Zealand",
-    "team_b": "West Indies",
-    "event_name": "ICC World Test Championship",
-    "poster_id": "New-Zealand-West-Indies-10122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Palestine",
-    "team_b": "Saudi Arabia",
-    "event_name": "Arab Cup",
-    "poster_id": "Palestine-Saudi-Arabia-11122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Morocco",
-    "team_b": "Syria",
-    "event_name": "Arab Cup",
-    "poster_id": "Morocco-Syria-11122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FerencvÃ¡ros TC",
-    "team_b": "Rangers",
-    "event_name": "UEFA Europa League",
-    "poster_id": "FerencvÃ¡ros-TC-Rangers-11122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FC Utrecht",
-    "team_b": "Nottingham Forest",
-    "event_name": "UEFA Europa League",
-    "poster_id": "FC-Utrecht-Nottingham-Forest-11122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "GNK Dinamo Zagreb",
-    "team_b": "Real Betis",
-    "event_name": "UEFA Europa League",
-    "poster_id": "GNK-Dinamo-Zagreb-Real-Betis-11122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Nice",
-    "team_b": "Sporting Braga",
-    "event_name": "UEFA Europa League",
-    "poster_id": "Nice-Sporting-Braga-11122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Young Boys",
-    "team_b": "Lille",
-    "event_name": "UEFA Europa League",
-    "poster_id": "Young-Boys-Lille-11122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "VfB Stuttgart",
-    "team_b": "Maccabi Tel Aviv",
-    "event_name": "UEFA Europa League",
-    "poster_id": "VfB-Stuttgart-Maccabi-Tel-Aviv-11122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Jagiellonia BiaÅystok",
-    "team_b": "Rayo Vallecano",
-    "event_name": "UEFA Conference League",
-    "poster_id": "Jagiellonia-BiaÅystok-Rayo-Vallecano-11122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Fiorentina",
-    "team_b": "Dynamo Kyiv",
-    "event_name": "UEFA Conference League",
-    "poster_id": "Fiorentina-Dynamo-Kyiv-11122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Basel",
-    "team_b": "Aston Villa",
-    "event_name": "UEFA Europa League",
-    "poster_id": "Basel-Aston-Villa-11122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FC Porto",
-    "team_b": "MalmÃ¶ FF",
-    "event_name": "UEFA Europa League",
-    "poster_id": "FC-Porto-MalmÃ¶-FF-11122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Celtic",
-    "team_b": "Roma",
-    "event_name": "UEFA Europa League",
-    "poster_id": "Celtic-Roma-11122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FCSB",
-    "team_b": "Feyenoord",
-    "event_name": "UEFA Europa League",
-    "poster_id": "FCSB-Feyenoord-11122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Celta Vigo",
-    "team_b": "Bologna",
-    "event_name": "UEFA Europa League",
-    "poster_id": "Celta-Vigo-Bologna-11122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Olympique Lyonnais",
-    "team_b": "Go Ahead Eagles",
-    "event_name": "UEFA Europa League",
-    "poster_id": "Olympique-Lyonnais-Go-Ahead-Eagles-11122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "SC Freiburg",
-    "team_b": "Red Bull Salzburg",
-    "event_name": "UEFA Europa League",
-    "poster_id": "SC-Freiburg-Red-Bull-Salzburg-11122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "SK Brann",
-    "team_b": "FenerbahÃ§e",
-    "event_name": "UEFA Europa League",
-    "poster_id": "SK-Brann-FenerbahÃ§e-11122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Lech PoznaÅ",
-    "team_b": "1. FSV Mainz 05",
-    "event_name": "UEFA Conference League",
-    "poster_id": "Lech-PoznaÅ-1.-FSV-Mainz-05-11122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Shelbourne",
-    "team_b": "Crystal Palace",
-    "event_name": "UEFA Conference League",
-    "poster_id": "Shelbourne-Crystal-Palace-11122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Vasco da Gama",
-    "team_b": "Fluminense",
-    "event_name": "Copa Betano do Brasil",
-    "poster_id": "Vasco-da-Gama-Fluminense-11122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "India",
-    "team_b": "South Africa",
-    "event_name": "T20 International",
-    "poster_id": "India-South-Africa-11122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Pakistan Under-19",
-    "team_b": "Malaysia Under-19",
-    "event_name": "U19 Asia Cup",
-    "poster_id": "Pakistan-Under-19-Malaysia-Under-19-12122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "India Under-19",
-    "team_b": "United Arab Emirates Under-19",
-    "event_name": "U19 Asia Cup",
-    "poster_id": "India-Under-19-United-Arab-Emirates-Under-19-12122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Sri Lanka Under-19",
     "team_b": "Nepal Under-19",
     "event_name": "U19 Asia Cup",
@@ -298,6 +123,48 @@
     "team_b": "Girona FC",
     "event_name": "LaLiga",
     "poster_id": "Real-Sociedad-Girona-FC-12122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "St. Louis Blues",
+    "team_b": "Chicago Blackhawks",
+    "event_name": "NHL",
+    "poster_id": "St.-Louis-Blues-Chicago-Blackhawks-13122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Utah Mammoth",
+    "team_b": "Seattle Kraken",
+    "event_name": "NHL",
+    "poster_id": "Utah-Mammoth-Seattle-Kraken-13122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New Orleans Pelicans",
+    "team_b": "Portland Trail Blazers",
+    "event_name": "NBA",
+    "poster_id": "New-Orleans-Pelicans-Portland-Trail-Blazers-12122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Houston Rockets",
+    "team_b": "Los Angeles Clippers",
+    "event_name": "NBA",
+    "poster_id": "Houston-Rockets-Los-Angeles-Clippers-12122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Milwaukee Bucks",
+    "team_b": "Boston Celtics",
+    "event_name": "NBA",
+    "poster_id": "Milwaukee-Bucks-Boston-Celtics-12122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sacramento Kings",
+    "team_b": "Denver Nuggets",
+    "event_name": "NBA",
+    "poster_id": "Sacramento-Kings-Denver-Nuggets-12122025.png",
     "match_type": "team_vs_team"
   }
 ]

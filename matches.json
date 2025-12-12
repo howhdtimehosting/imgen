@@ -229,5 +229,75 @@
     "event_name": "U19 Asia Cup",
     "poster_id": "Afghanistan-Under-19-Bangladesh-Under-19-13122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Jordan",
+    "team_b": "Iraq",
+    "event_name": "Arab Cup",
+    "poster_id": "Jordan-Iraq-12122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "SpVgg Greuther FÃ¼rth",
+    "team_b": "Hertha BSC",
+    "event_name": "2. Bundesliga",
+    "poster_id": "SpVgg-Greuther-FÃ¼rth-Hertha-BSC-12122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "SG Dynamo Dresden",
+    "team_b": "Eintracht Braunschweig",
+    "event_name": "2. Bundesliga",
+    "poster_id": "SG-Dynamo-Dresden-Eintracht-Braunschweig-12122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Algeria",
+    "team_b": "United Arab Emirates",
+    "event_name": "Arab Cup",
+    "poster_id": "Algeria-United-Arab-Emirates-12122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "1. FC Union Berlin",
+    "team_b": "RB Leipzig",
+    "event_name": "Bundesliga",
+    "poster_id": "1.-FC-Union-Berlin-RB-Leipzig-12122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cultural Leonesa",
+    "team_b": "Huesca",
+    "event_name": "LaLiga 2",
+    "poster_id": "Cultural-Leonesa-Huesca-12122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Angers",
+    "team_b": "Nantes",
+    "event_name": "Ligue 1",
+    "poster_id": "Angers-Nantes-12122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Lecce",
+    "team_b": "Pisa",
+    "event_name": "Serie A",
+    "poster_id": "Lecce-Pisa-12122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "West Bromwich Albion",
+    "team_b": "Sheffield United",
+    "event_name": "Championship",
+    "poster_id": "West-Bromwich-Albion-Sheffield-United-12122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Sociedad",
+    "team_b": "Girona FC",
+    "event_name": "LaLiga",
+    "poster_id": "Real-Sociedad-Girona-FC-12122025.png",
+    "match_type": "team_vs_team"
   }
 ]

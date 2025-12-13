@@ -271,5 +271,89 @@
     "event_name": "Serie A",
     "poster_id": "Milan-Sassuolo-14122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New Jersey Devils",
+    "team_b": "Anaheim Ducks",
+    "event_name": "NHL",
+    "poster_id": "New-Jersey-Devils-Anaheim-Ducks-13122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Minnesota Wild",
+    "team_b": "Ottawa Senators",
+    "event_name": "NHL",
+    "poster_id": "Minnesota-Wild-Ottawa-Senators-13122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pittsburgh Penguins",
+    "team_b": "San Jose Sharks",
+    "event_name": "NHL",
+    "poster_id": "Pittsburgh-Penguins-San-Jose-Sharks-13122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New York Islanders",
+    "team_b": "Tampa Bay Lightning",
+    "event_name": "NHL",
+    "poster_id": "New-York-Islanders-Tampa-Bay-Lightning-13122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Philadelphia Flyers",
+    "team_b": "Carolina Hurricanes",
+    "event_name": "NHL",
+    "poster_id": "Philadelphia-Flyers-Carolina-Hurricanes-14122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New York Rangers",
+    "team_b": "MontrÃ©al Canadiens",
+    "event_name": "NHL",
+    "poster_id": "New-York-Rangers-MontrÃ©al-Canadiens-14122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Columbus Blue Jackets",
+    "team_b": "Vegas Golden Knights",
+    "event_name": "NHL",
+    "poster_id": "Columbus-Blue-Jackets-Vegas-Golden-Knights-14122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Toronto Maple Leafs",
+    "team_b": "Edmonton Oilers",
+    "event_name": "NHL",
+    "poster_id": "Toronto-Maple-Leafs-Edmonton-Oilers-14122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Winnipeg Jets",
+    "team_b": "Washington Capitals",
+    "event_name": "NHL",
+    "poster_id": "Winnipeg-Jets-Washington-Capitals-14122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Chicago Blackhawks",
+    "team_b": "Detroit Red Wings",
+    "event_name": "NHL",
+    "poster_id": "Chicago-Blackhawks-Detroit-Red-Wings-14122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Dallas Stars",
+    "team_b": "Florida Panthers",
+    "event_name": "NHL",
+    "poster_id": "Dallas-Stars-Florida-Panthers-14122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Colorado Avalanche",
+    "team_b": "Nashville Predators",
+    "event_name": "NHL",
+    "poster_id": "Colorado-Avalanche-Nashville-Predators-14122025.png",
+    "match_type": "team_vs_team"
   }
 ]

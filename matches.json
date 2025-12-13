@@ -140,20 +140,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Real Valladolid",
-    "team_b": "FC Andorra",
-    "event_name": "LaLiga 2",
-    "poster_id": "Real-Valladolid-FC-Andorra-13122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sporting GijÃ³n",
-    "team_b": "Granada",
-    "event_name": "LaLiga 2",
-    "poster_id": "Sporting-GijÃ³n-Granada-13122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Stade Rennais",
     "team_b": "Stade Brestois",
     "event_name": "Ligue 1",

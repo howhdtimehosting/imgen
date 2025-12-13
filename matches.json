@@ -341,5 +341,12 @@
     "event_name": "NHL",
     "poster_id": "Colorado-Avalanche-Nashville-Predators-14122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cooke vs. Holmes\nv",
+    "team_b": "",
+    "event_name": "Cooke vs. Holmes\nv",
+    "poster_id": "Cooke-vs.-Holmes-v-13122025.png",
+    "match_type": "single_event"
   }
 ]

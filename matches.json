@@ -376,5 +376,19 @@
     "event_name": "Big Bash League",
     "poster_id": "Melbourne-Renegades-Brisbane-Heat-15122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "KAA Gent",
+    "team_b": "Royal Antwerp FC",
+    "event_name": "Pro League",
+    "poster_id": "KAA-Gent-Royal-Antwerp-FC-14122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Schalke 04",
+    "team_b": "1. FC NÃ¼rnberg",
+    "event_name": "2. Bundesliga",
+    "poster_id": "FC-Schalke-04-1.-FC-NÃ¼rnberg-14122025.png",
+    "match_type": "team_vs_team"
   }
 ]

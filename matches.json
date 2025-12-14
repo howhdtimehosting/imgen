@@ -161,13 +161,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Cleveland Cavaliers",
-    "team_b": "Charlotte Hornets",
-    "event_name": "NBA",
-    "poster_id": "Cleveland-Cavaliers-Charlotte-Hornets-14122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Brooklyn Nets",
     "team_b": "Milwaukee Bucks",
     "event_name": "NBA",

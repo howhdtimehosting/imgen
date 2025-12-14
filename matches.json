@@ -49,13 +49,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Olympique de Marseille",
-    "team_b": "AS Monaco",
-    "event_name": "Ligue 1",
-    "poster_id": "Olympique-de-Marseille-AS-Monaco-14122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Deportivo AlavÃ©s",
     "team_b": "Real Madrid",
     "event_name": "LaLiga",

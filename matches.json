@@ -341,5 +341,47 @@
     "event_name": "Cooke vs. Holmes\nv",
     "poster_id": "Cooke-vs.-Holmes-v-13122025.png",
     "match_type": "single_event"
+  },
+  {
+    "team_a": "India Under-19",
+    "team_b": "Pakistan Under-19",
+    "event_name": "U19 Asia Cup",
+    "poster_id": "India-Under-19-Pakistan-Under-19-14122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Perth Scorchers",
+    "team_b": "Sydney Sixers",
+    "event_name": "Big Bash League",
+    "poster_id": "Perth-Scorchers-Sydney-Sixers-14122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Afghanistan Under-19",
+    "team_b": "Sri Lanka Under-19",
+    "event_name": "U19 Asia Cup",
+    "poster_id": "Afghanistan-Under-19-Sri-Lanka-Under-19-15122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India",
+    "team_b": "South Africa",
+    "event_name": "T20 International",
+    "poster_id": "India-South-Africa-14122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bangladesh Under-19",
+    "team_b": "Nepal Under-19",
+    "event_name": "U19 Asia Cup",
+    "poster_id": "Bangladesh-Under-19-Nepal-Under-19-15122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Melbourne Renegades",
+    "team_b": "Brisbane Heat",
+    "event_name": "Big Bash League",
+    "poster_id": "Melbourne-Renegades-Brisbane-Heat-15122025.png",
+    "match_type": "team_vs_team"
   }
 ]

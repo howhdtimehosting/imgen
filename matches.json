@@ -35,17 +35,17 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Bologna",
-    "team_b": "Juventus",
-    "event_name": "Serie A",
-    "poster_id": "Bologna-Juventus-14122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Melbourne Renegades",
     "team_b": "Brisbane Heat",
     "event_name": "Big Bash League",
     "poster_id": "Melbourne-Renegades-Brisbane-Heat-15122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Minnesota Timberwolves",
+    "team_b": "Sacramento Kings",
+    "event_name": "NBA",
+    "poster_id": "Minnesota-Timberwolves-Sacramento-Kings-15122025.png",
     "match_type": "team_vs_team"
   },
   {

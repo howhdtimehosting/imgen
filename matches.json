@@ -63,20 +63,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Egypt",
-    "team_b": "Nigeria",
-    "event_name": "International Friendly Games",
-    "poster_id": "Egypt-Nigeria-16122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Eibar",
-    "team_b": "Elche",
-    "event_name": "Copa del Rey",
-    "poster_id": "Eibar-Elche-16122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Deportivo La CoruÃ±a",
     "team_b": "Mallorca",
     "event_name": "Copa del Rey",

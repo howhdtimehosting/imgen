@@ -10,7 +10,7 @@
     "team_a": "International League T20",
     "team_b": "",
     "event_name": "International League T20",
-    "poster_id": "International-League-T20-12122025.png",
+    "poster_id": "International-League-T20-16122025.png",
     "match_type": "single_event"
   },
   {
@@ -21,32 +21,11 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Fifa World cuo Drow 2026",
-    "team_b": "",
-    "event_name": "Fifa World Cup Drow",
-    "poster_id": "Fifa-World-cuo-Drow-2026-05122025.png",
-    "match_type": "single_event"
-  },
-  {
     "team_a": "Shabaz Masoud and Peter McGrail",
     "team_b": "",
     "event_name": "MMA",
     "poster_id": "Shabaz-Masoud-and-Peter-McGrail-06122025.png",
     "match_type": "single_event"
-  },
-  {
-    "team_a": "Minnesota Timberwolves",
-    "team_b": "Sacramento Kings",
-    "event_name": "NBA",
-    "poster_id": "Minnesota-Timberwolves-Sacramento-Kings-15122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Los Angeles Clippers",
-    "team_b": "Memphis Grizzlies",
-    "event_name": "NBA",
-    "poster_id": "Los-Angeles-Clippers-Memphis-Grizzlies-16122025.png",
-    "match_type": "team_vs_team"
   },
   {
     "team_a": "Morocco",

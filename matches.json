@@ -35,45 +35,10 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Melbourne Renegades",
-    "team_b": "Brisbane Heat",
-    "event_name": "Big Bash League",
-    "poster_id": "Melbourne-Renegades-Brisbane-Heat-15122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Minnesota Timberwolves",
     "team_b": "Sacramento Kings",
     "event_name": "NBA",
     "poster_id": "Minnesota-Timberwolves-Sacramento-Kings-15122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Boston Celtics",
-    "team_b": "Detroit Pistons",
-    "event_name": "NBA",
-    "poster_id": "Boston-Celtics-Detroit-Pistons-16122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Miami Heat",
-    "team_b": "Toronto Raptors",
-    "event_name": "NBA",
-    "poster_id": "Miami-Heat-Toronto-Raptors-16122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Utah Jazz",
-    "team_b": "Dallas Mavericks",
-    "event_name": "NBA",
-    "poster_id": "Utah-Jazz-Dallas-Mavericks-16122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Denver Nuggets",
-    "team_b": "Houston Rockets",
-    "event_name": "NBA",
-    "poster_id": "Denver-Nuggets-Houston-Rockets-16122025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -84,13 +49,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "FenerbahÃ§e",
-    "team_b": "Konyaspor",
-    "event_name": "Trendyol SÃ¼per Lig",
-    "poster_id": "FenerbahÃ§e-Konyaspor-15122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Morocco",
     "team_b": "United Arab Emirates",
     "event_name": "Arab Cup",
@@ -98,45 +56,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Saudi Arabia",
-    "team_b": "Jordan",
-    "event_name": "Arab Cup",
-    "poster_id": "Saudi-Arabia-Jordan-15122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "CD CastellÃ³n",
     "team_b": "MirandÃ©s",
     "event_name": "LaLiga 2",
     "poster_id": "CD-CastellÃ³n-MirandÃ©s-15122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Rangers",
-    "team_b": "Hibernian",
-    "event_name": "Scottish Premiership",
-    "poster_id": "Rangers-Hibernian-15122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Manchester United",
-    "team_b": "Bournemouth",
-    "event_name": "Premier League",
-    "poster_id": "Manchester-United-Bournemouth-15122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Roma",
-    "team_b": "Como",
-    "event_name": "Serie A",
-    "poster_id": "Roma-Como-15122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Rayo Vallecano",
-    "team_b": "Real Betis",
-    "event_name": "LaLiga",
-    "poster_id": "Rayo-Vallecano-Real-Betis-15122025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -165,41 +88,6 @@
     "team_b": "Malaysia Under-19",
     "event_name": "U19 Asia Cup",
     "poster_id": "India-Under-19-Malaysia-Under-19-16122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Dallas Stars",
-    "team_b": "Los Angeles Kings",
-    "event_name": "NHL",
-    "poster_id": "Dallas-Stars-Los-Angeles-Kings-16122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "St. Louis Blues",
-    "team_b": "Nashville Predators",
-    "event_name": "NHL",
-    "poster_id": "St.-Louis-Blues-Nashville-Predators-16122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Winnipeg Jets",
-    "team_b": "Ottawa Senators",
-    "event_name": "NHL",
-    "poster_id": "Winnipeg-Jets-Ottawa-Senators-16122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Tampa Bay Lightning",
-    "team_b": "Florida Panthers",
-    "event_name": "NHL",
-    "poster_id": "Tampa-Bay-Lightning-Florida-Panthers-16122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "New York Rangers",
-    "team_b": "Anaheim Ducks",
-    "event_name": "NHL",
-    "poster_id": "New-York-Rangers-Anaheim-Ducks-16122025.png",
     "match_type": "team_vs_team"
   }
 ]

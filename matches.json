@@ -96,5 +96,40 @@
     "event_name": "EFL Cup",
     "poster_id": "Cardiff-City-Chelsea-16122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New Zealand",
+    "team_b": "West Indies",
+    "event_name": "ICC World Test Championship",
+    "poster_id": "New-Zealand-West-Indies-17122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India",
+    "team_b": "South Africa",
+    "event_name": "T20 International",
+    "poster_id": "India-South-Africa-17122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Australia",
+    "team_b": "England",
+    "event_name": "Ashes Series",
+    "poster_id": "Australia-England-16122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Afghanistan Under-19",
+    "team_b": "Nepal Under-19",
+    "event_name": "U19 Asia Cup",
+    "poster_id": "Afghanistan-Under-19-Nepal-Under-19-17122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bangladesh Under-19",
+    "team_b": "Sri Lanka Under-19",
+    "event_name": "U19 Asia Cup",
+    "poster_id": "Bangladesh-Under-19-Sri-Lanka-Under-19-17122025.png",
+    "match_type": "team_vs_team"
   }
 ]

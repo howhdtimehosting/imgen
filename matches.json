@@ -68,5 +68,54 @@
     "event_name": "U19 Asia Cup",
     "poster_id": "India-Under-19-Malaysia-Under-19-16122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Egypt",
+    "team_b": "Nigeria",
+    "event_name": "International Friendly Games",
+    "poster_id": "Egypt-Nigeria-16122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Eibar",
+    "team_b": "Elche",
+    "event_name": "Copa del Rey",
+    "poster_id": "Eibar-Elche-16122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Deportivo La CoruÃ±a",
+    "team_b": "Mallorca",
+    "event_name": "Copa del Rey",
+    "poster_id": "Deportivo-La-CoruÃ±a-Mallorca-16122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sporting GijÃ³n",
+    "team_b": "Valencia",
+    "event_name": "Copa del Rey",
+    "poster_id": "Sporting-GijÃ³n-Valencia-16122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "CD Eldense",
+    "team_b": "Real Sociedad",
+    "event_name": "Copa del Rey",
+    "poster_id": "CD-Eldense-Real-Sociedad-16122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Guadalajara",
+    "team_b": "Barcelona",
+    "event_name": "Copa del Rey",
+    "poster_id": "Guadalajara-Barcelona-16122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cardiff City",
+    "team_b": "Chelsea",
+    "event_name": "EFL Cup",
+    "poster_id": "Cardiff-City-Chelsea-16122025.png",
+    "match_type": "team_vs_team"
   }
 ]

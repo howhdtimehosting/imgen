@@ -131,5 +131,89 @@
     "event_name": "U19 Asia Cup",
     "poster_id": "Bangladesh-Under-19-Sri-Lanka-Under-19-17122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Albacete BalompiÃ©",
+    "team_b": "Celta Vigo",
+    "event_name": "Copa del Rey",
+    "poster_id": "Albacete-BalompiÃ©-Celta-Vigo-17122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Huesca",
+    "team_b": "Osasuna",
+    "event_name": "Copa del Rey",
+    "poster_id": "Huesca-Osasuna-17122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "CD AtlÃ©tico Baleares",
+    "team_b": "AtlÃ©tico Madrid",
+    "event_name": "Copa del Rey",
+    "poster_id": "CD-AtlÃ©tico-Baleares-AtlÃ©tico-Madrid-17122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Racing Club",
+    "team_b": "Villarreal",
+    "event_name": "Copa del Rey",
+    "poster_id": "Real-Racing-Club-Villarreal-17122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Manchester City",
+    "team_b": "Brentford",
+    "event_name": "EFL Cup",
+    "poster_id": "Manchester-City-Brentford-17122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "CF Talavera",
+    "team_b": "Real Madrid",
+    "event_name": "Copa del Rey",
+    "poster_id": "CF-Talavera-Real-Madrid-17122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Deportivo AlavÃ©s",
+    "team_b": "Sevilla",
+    "event_name": "Copa del Rey",
+    "poster_id": "Deportivo-AlavÃ©s-Sevilla-17122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Dundee United",
+    "team_b": "Celtic",
+    "event_name": "Scottish Premiership",
+    "poster_id": "Dundee-United-Celtic-17122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Newcastle United",
+    "team_b": "Fulham",
+    "event_name": "EFL Cup",
+    "poster_id": "Newcastle-United-Fulham-17122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Corinthians",
+    "team_b": "Vasco da Gama",
+    "event_name": "Copa Betano do Brasil",
+    "poster_id": "Corinthians-Vasco-da-Gama-18122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Saudi Arabia",
+    "team_b": "United Arab Emirates",
+    "event_name": "Arab Cup",
+    "poster_id": "Saudi-Arabia-United-Arab-Emirates-18122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "HoÃ ng Anh Gia Lai",
+    "team_b": "CÃ´ng An HÃ  Ná»i",
+    "event_name": "V-League 1",
+    "poster_id": "HoÃ-ng-Anh-Gia-Lai-CÃ´ng-An-HÃ-Ná»i-18122025.png",
+    "match_type": "team_vs_team"
   }
 ]

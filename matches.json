@@ -215,5 +215,19 @@
     "event_name": "V-League 1",
     "poster_id": "HoÃ-ng-Anh-Gia-Lai-CÃ´ng-An-HÃ-Ná»i-18122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Paris Saint-Germain",
+    "team_b": "Flamengo",
+    "event_name": "FIFA Intercontinental Cup",
+    "poster_id": "Paris-Saint-Germain-Flamengo-17122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cultural Leonesa",
+    "team_b": "Levante UD",
+    "event_name": "Copa del Rey",
+    "poster_id": "Cultural-Leonesa-Levante-UD-17122025.png",
+    "match_type": "team_vs_team"
   }
 ]

@@ -161,13 +161,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Milwaukee Bucks",
-    "team_b": "Toronto Raptors",
-    "event_name": "NBA",
-    "poster_id": "Milwaukee-Bucks-Toronto-Raptors-19122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "San Antonio Spurs",
     "team_b": "Washington Wizards",
     "event_name": "NBA",
@@ -189,20 +182,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Dallas Mavericks",
-    "team_b": "Detroit Pistons",
-    "event_name": "NBA",
-    "poster_id": "Dallas-Mavericks-Detroit-Pistons-19122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Milwaukee Bucks",
-    "team_b": "Toronto Raptors",
-    "event_name": "NBA",
-    "poster_id": "Milwaukee-Bucks-Toronto-Raptors-19122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "San Antonio Spurs",
     "team_b": "Washington Wizards",
     "event_name": "NBA",
@@ -221,13 +200,6 @@
     "team_b": "Los Angeles Clippers",
     "event_name": "NBA",
     "poster_id": "Oklahoma-City-Thunder-Los-Angeles-Clippers-19122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Dallas Mavericks",
-    "team_b": "Detroit Pistons",
-    "event_name": "NBA",
-    "poster_id": "Dallas-Mavericks-Detroit-Pistons-19122025.png",
     "match_type": "team_vs_team"
   },
   {

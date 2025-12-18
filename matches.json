@@ -70,13 +70,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "AZ Alkmaar",
-    "team_b": "Jagiellonia BiaÅystok",
-    "event_name": "UEFA Conference League",
-    "poster_id": "AZ-Alkmaar-Jagiellonia-BiaÅystok-18122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "FC Lausanne-Sport",
     "team_b": "Fiorentina",
     "event_name": "UEFA Conference League",
@@ -98,31 +91,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Omonia Nicosia",
-    "team_b": "RakÃ³w CzÄstochowa",
-    "event_name": "UEFA Conference League",
-    "poster_id": "Omonia-Nicosia-RakÃ³w-CzÄstochowa-18122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Legia Warszawa",
-    "team_b": "Lincoln Red Imps",
-    "event_name": "UEFA Conference League",
-    "poster_id": "Legia-Warszawa-Lincoln-Red-Imps-18122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "NK Celje",
     "team_b": "Shelbourne",
     "event_name": "UEFA Conference League",
     "poster_id": "NK-Celje-Shelbourne-18122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "HÅ K Zrinjski Mostar",
-    "team_b": "SK Rapid Wien",
-    "event_name": "UEFA Conference League",
-    "poster_id": "HÅ-K-Zrinjski-Mostar-SK-Rapid-Wien-18122025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -137,27 +109,6 @@
     "team_b": "Breidablik KÃ³pavogur",
     "event_name": "UEFA Conference League",
     "poster_id": "RC-Strasbourg-Breidablik-KÃ³pavogur-18122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Shakhtar Donetsk",
-    "team_b": "HNK Rijeka",
-    "event_name": "UEFA Conference League",
-    "poster_id": "Shakhtar-Donetsk-HNK-Rijeka-18122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Shamrock Rovers",
-    "team_b": "Ä¦amrun Spartans FC",
-    "event_name": "UEFA Conference League",
-    "poster_id": "Shamrock-Rovers-Ä¦amrun-Spartans-FC-18122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "SK Sigma Olomouc",
-    "team_b": "Lech PoznaÅ",
-    "event_name": "UEFA Conference League",
-    "poster_id": "SK-Sigma-Olomouc-Lech-PoznaÅ-18122025.png",
     "match_type": "team_vs_team"
   },
   {

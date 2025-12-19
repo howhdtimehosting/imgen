@@ -222,5 +222,89 @@
     "event_name": "NBA",
     "poster_id": "Denver-Nuggets-Orlando-Magic-19122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Qadsiah",
+    "team_b": "Al-Ettifaq",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Qadsiah-Al-Ettifaq-19122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Damac FC",
+    "team_b": "Al-Ahli",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Damac-FC-Al-Ahli-19122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "SC Paderborn 07",
+    "team_b": "Darmstadt 98",
+    "event_name": "2. Bundesliga",
+    "poster_id": "SC-Paderborn-07-Darmstadt-98-19122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Hertha BSC",
+    "team_b": "Arminia Bielefeld",
+    "event_name": "2. Bundesliga",
+    "poster_id": "Hertha-BSC-Arminia-Bielefeld-19122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Taawoun",
+    "team_b": "Al-Hilal",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Taawoun-Al-Hilal-19122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "SC Paderborn 07",
+    "team_b": "Darmstadt 98",
+    "event_name": "2. Bundesliga",
+    "poster_id": "SC-Paderborn-07-Darmstadt-98-19122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Hertha BSC",
+    "team_b": "Arminia Bielefeld",
+    "event_name": "2. Bundesliga",
+    "poster_id": "Hertha-BSC-Arminia-Bielefeld-19122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Taawoun",
+    "team_b": "Al-Hilal",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Taawoun-Al-Hilal-19122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bologna",
+    "team_b": "Inter",
+    "event_name": "Supercoppa Italiana",
+    "poster_id": "Bologna-Inter-19122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Borussia Dortmund",
+    "team_b": "Borussia M'gladbach",
+    "event_name": "Bundesliga",
+    "poster_id": "Borussia-Dortmund-Borussia-M'gladbach-19122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Eibar",
+    "team_b": "Real Valladolid",
+    "event_name": "LaLiga 2",
+    "poster_id": "Eibar-Real-Valladolid-19122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Valencia",
+    "team_b": "Mallorca",
+    "event_name": "LaLiga",
+    "poster_id": "Valencia-Mallorca-19122025.png",
+    "match_type": "team_vs_team"
   }
 ]

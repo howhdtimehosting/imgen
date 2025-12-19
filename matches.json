@@ -168,13 +168,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "New Orleans Pelicans",
-    "team_b": "Houston Rockets",
-    "event_name": "NBA",
-    "poster_id": "New-Orleans-Pelicans-Houston-Rockets-19122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Oklahoma City Thunder",
     "team_b": "Los Angeles Clippers",
     "event_name": "NBA",
@@ -182,24 +175,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "San Antonio Spurs",
-    "team_b": "Washington Wizards",
-    "event_name": "NBA",
-    "poster_id": "San-Antonio-Spurs-Washington-Wizards-19122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "New Orleans Pelicans",
     "team_b": "Houston Rockets",
     "event_name": "NBA",
     "poster_id": "New-Orleans-Pelicans-Houston-Rockets-19122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Oklahoma City Thunder",
-    "team_b": "Los Angeles Clippers",
-    "event_name": "NBA",
-    "poster_id": "Oklahoma-City-Thunder-Los-Angeles-Clippers-19122025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -207,13 +186,6 @@
     "team_b": "Golden State Warriors",
     "event_name": "NBA",
     "poster_id": "Phoenix-Suns-Golden-State-Warriors-19122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Utah Jazz",
-    "team_b": "Los Angeles Lakers",
-    "event_name": "NBA",
-    "poster_id": "Utah-Jazz-Los-Angeles-Lakers-19122025.png",
     "match_type": "team_vs_team"
   },
   {

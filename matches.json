@@ -35,101 +35,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Newcastle United",
-    "team_b": "Chelsea",
-    "event_name": "Premier League",
-    "poster_id": "Newcastle-United-Chelsea-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "FC Andorra",
     "team_b": "Deportivo La CoruÃ±a",
     "event_name": "LaLiga 2",
     "poster_id": "FC-Andorra-Deportivo-La-CoruÃ±a-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Oviedo",
-    "team_b": "Celta Vigo",
-    "event_name": "LaLiga",
-    "poster_id": "Real-Oviedo-Celta-Vigo-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FC Augsburg",
-    "team_b": "SV Werder Bremen",
-    "event_name": "Bundesliga",
-    "poster_id": "FC-Augsburg-SV-Werder-Bremen-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "1. FC KÃ¶ln",
-    "team_b": "1. FC Union Berlin",
-    "event_name": "Bundesliga",
-    "poster_id": "1.-FC-KÃ¶ln-1.-FC-Union-Berlin-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Hamburger SV",
-    "team_b": "Eintracht Frankfurt",
-    "event_name": "Bundesliga",
-    "poster_id": "Hamburger-SV-Eintracht-Frankfurt-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "VfL Wolfsburg",
-    "team_b": "SC Freiburg",
-    "event_name": "Bundesliga",
-    "poster_id": "VfL-Wolfsburg-SC-Freiburg-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "VfB Stuttgart",
-    "team_b": "TSG Hoffenheim",
-    "event_name": "Bundesliga",
-    "poster_id": "VfB-Stuttgart-TSG-Hoffenheim-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bournemouth",
-    "team_b": "Burnley",
-    "event_name": "Premier League",
-    "poster_id": "Bournemouth-Burnley-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Brighton & Hove Albion",
-    "team_b": "Sunderland",
-    "event_name": "Premier League",
-    "poster_id": "Brighton-&-Hove-Albion-Sunderland-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Manchester City",
-    "team_b": "West Ham United",
-    "event_name": "Premier League",
-    "poster_id": "Manchester-City-West-Ham-United-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Wolverhampton",
-    "team_b": "Brentford",
-    "event_name": "Premier League",
-    "poster_id": "Wolverhampton-Brentford-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Huesca",
-    "team_b": "Real Racing Club",
-    "event_name": "LaLiga 2",
-    "poster_id": "Huesca-Real-Racing-Club-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Levante UD",
-    "team_b": "Real Sociedad",
-    "event_name": "LaLiga",
-    "poster_id": "Levante-UD-Real-Sociedad-20122025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -269,21 +178,14 @@
     "team_a": "Australia",
     "team_b": "England",
     "event_name": "Ashes Series",
-    "poster_id": "Australia-England-19122025.png",
+    "poster_id": "Australia-England-20122025.png",
     "match_type": "team_vs_team"
   },
   {
     "team_a": "New Zealand",
     "team_b": "West Indies",
     "event_name": "ICC World Test Championship",
-    "poster_id": "New-Zealand-West-Indies-19122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sydney Thunder",
-    "team_b": "Sydney Sixers",
-    "event_name": "Big Bash League",
-    "poster_id": "Sydney-Thunder-Sydney-Sixers-20122025.png",
+    "poster_id": "New-Zealand-West-Indies-20122025.png",
     "match_type": "team_vs_team"
   }
 ]

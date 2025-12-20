@@ -35,34 +35,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "VfL Bochum 1848",
-    "team_b": "Karlsruher SC",
-    "event_name": "2. Bundesliga",
-    "poster_id": "VfL-Bochum-1848-Karlsruher-SC-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Fortuna DÃ¼sseldorf",
-    "team_b": "SpVgg Greuther FÃ¼rth",
-    "event_name": "2. Bundesliga",
-    "poster_id": "Fortuna-DÃ¼sseldorf-SpVgg-Greuther-FÃ¼rth-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "1. FC Kaiserslautern",
-    "team_b": "1. FC Magdeburg",
-    "event_name": "2. Bundesliga",
-    "poster_id": "1.-FC-Kaiserslautern-1.-FC-Magdeburg-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Blackburn Rovers",
-    "team_b": "Millwall",
-    "event_name": "Championship",
-    "poster_id": "Blackburn-Rovers-Millwall-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Newcastle United",
     "team_b": "Chelsea",
     "event_name": "Premier League",

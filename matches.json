@@ -105,13 +105,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Juventus",
-    "team_b": "Roma",
-    "event_name": "Serie A",
-    "poster_id": "Juventus-Roma-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Real Madrid",
     "team_b": "Sevilla",
     "event_name": "LaLiga",

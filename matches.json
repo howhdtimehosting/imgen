@@ -10,7 +10,7 @@
     "team_a": "International League T20",
     "team_b": "",
     "event_name": "International League T20",
-    "poster_id": "International-League-T20-16122025.png",
+    "poster_id": "International-League-T20-20122025.png",
     "match_type": "single_event"
   },
   {
@@ -26,27 +26,6 @@
     "event_name": "MMA",
     "poster_id": "Shabaz-Masoud-and-Peter-McGrail-06122025.png",
     "match_type": "single_event"
-  },
-  {
-    "team_a": "Bologna",
-    "team_b": "Inter",
-    "event_name": "Supercoppa Italiana",
-    "poster_id": "Bologna-Inter-19122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Borussia Dortmund",
-    "team_b": "Borussia M'gladbach",
-    "event_name": "Bundesliga",
-    "poster_id": "Borussia-Dortmund-Borussia-M'gladbach-19122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Eibar",
-    "team_b": "Real Valladolid",
-    "event_name": "LaLiga 2",
-    "poster_id": "Eibar-Real-Valladolid-19122025.png",
-    "match_type": "team_vs_team"
   },
   {
     "team_a": "Valencia",
@@ -340,6 +319,13 @@
     "team_b": "West Indies",
     "event_name": "ICC World Test Championship",
     "poster_id": "New-Zealand-West-Indies-19122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sydney Thunder",
+    "team_b": "Sydney Sixers",
+    "event_name": "Big Bash League",
+    "poster_id": "Sydney-Thunder-Sydney-Sixers-20122025.png",
     "match_type": "team_vs_team"
   }
 ]

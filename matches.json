@@ -42,20 +42,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Preston North End",
-    "team_b": "Norwich City",
-    "event_name": "Championship",
-    "poster_id": "Preston-North-End-Norwich-City-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Southampton",
-    "team_b": "Coventry City",
-    "event_name": "Championship",
-    "poster_id": "Southampton-Coventry-City-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "FC Andorra",
     "team_b": "Deportivo La CoruÃ±a",
     "event_name": "LaLiga 2",

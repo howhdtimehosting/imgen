@@ -126,13 +126,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Celtic",
-    "team_b": "Aberdeen",
-    "event_name": "Scottish Premiership",
-    "poster_id": "Celtic-Aberdeen-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Villarreal",
     "team_b": "Barcelona",
     "event_name": "LaLiga",

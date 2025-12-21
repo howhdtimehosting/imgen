@@ -7,13 +7,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "International League T20",
-    "team_b": "",
-    "event_name": "International League T20",
-    "poster_id": "International-League-T20-20122025.png",
-    "match_type": "single_event"
-  },
-  {
     "team_a": "F1",
     "team_b": "",
     "event_name": "MotoSporrs",
@@ -28,24 +21,10 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Valencia",
-    "team_b": "Mallorca",
-    "event_name": "LaLiga",
-    "poster_id": "Valencia-Mallorca-19122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "FC Andorra",
     "team_b": "Deportivo La CoruÃ±a",
     "event_name": "LaLiga 2",
     "poster_id": "FC-Andorra-Deportivo-La-CoruÃ±a-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Lazio",
-    "team_b": "Cremonese",
-    "event_name": "Serie A",
-    "poster_id": "Lazio-Cremonese-20122025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -56,59 +35,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "RB Leipzig",
-    "team_b": "Bayer 04 Leverkusen",
-    "event_name": "Bundesliga",
-    "poster_id": "RB-Leipzig-Bayer-04-Leverkusen-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Osasuna",
-    "team_b": "Deportivo AlavÃ©s",
-    "event_name": "LaLiga",
-    "poster_id": "Osasuna-Deportivo-AlavÃ©s-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "LeganÃ©s",
     "team_b": "Sporting GijÃ³n",
     "event_name": "LaLiga 2",
     "poster_id": "LeganÃ©s-Sporting-GijÃ³n-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Tottenham Hotspur",
-    "team_b": "Liverpool",
-    "event_name": "Premier League",
-    "poster_id": "Tottenham-Hotspur-Liverpool-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Holstein Kiel",
-    "team_b": "SG Dynamo Dresden",
-    "event_name": "2. Bundesliga",
-    "poster_id": "Holstein-Kiel-SG-Dynamo-Dresden-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Juventus",
-    "team_b": "Roma",
-    "event_name": "Serie A",
-    "poster_id": "Juventus-Roma-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Holstein Kiel",
-    "team_b": "SG Dynamo Dresden",
-    "event_name": "2. Bundesliga",
-    "poster_id": "Holstein-Kiel-SG-Dynamo-Dresden-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Madrid",
-    "team_b": "Sevilla",
-    "event_name": "LaLiga",
-    "poster_id": "Real-Madrid-Sevilla-20122025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -119,52 +49,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Leeds United",
-    "team_b": "Crystal Palace",
-    "event_name": "Premier League",
-    "poster_id": "Leeds-United-Crystal-Palace-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Las Palmas",
     "team_b": "Cultural Leonesa",
     "event_name": "LaLiga 2",
     "poster_id": "Las-Palmas-Cultural-Leonesa-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Fontenay",
-    "team_b": "Paris Saint-Germain",
-    "event_name": "Coupe de France",
-    "poster_id": "Fontenay-Paris-Saint-Germain-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Cagliari",
-    "team_b": "Pisa",
-    "event_name": "Serie A",
-    "poster_id": "Cagliari-Pisa-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Alanyaspor",
-    "team_b": "Fatih KaragÃ¼mrÃ¼k",
-    "event_name": "Trendyol SÃ¼per Lig",
-    "poster_id": "Alanyaspor-Fatih-KaragÃ¼mrÃ¼k-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "India Under-19",
-    "team_b": "Pakistan Under-19",
-    "event_name": "U19 Asia Cup",
-    "poster_id": "India-Under-19-Pakistan-Under-19-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Melbourne Renegades",
-    "team_b": "Hobart Hurricanes",
-    "event_name": "Big Bash League",
-    "poster_id": "Melbourne-Renegades-Hobart-Hurricanes-21122025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -228,6 +116,139 @@
     "team_b": "Lecce",
     "event_name": "Serie A",
     "poster_id": "Inter-Lecce-21122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "1. FSV Mainz 05",
+    "team_b": "FC St. Pauli",
+    "event_name": "Bundesliga",
+    "poster_id": "1.-FSV-Mainz-05-FC-St.-Pauli-21122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Celtic",
+    "team_b": "Aberdeen",
+    "event_name": "Scottish Premiership",
+    "poster_id": "Celtic-Aberdeen-21122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Villarreal",
+    "team_b": "Barcelona",
+    "event_name": "LaLiga",
+    "poster_id": "Villarreal-Barcelona-21122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Sociedad B U21",
+    "team_b": "AD Ceuta",
+    "event_name": "LaLiga 2",
+    "poster_id": "Real-Sociedad-B-U21-AD-Ceuta-21122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "MirandÃ©s",
+    "team_b": "CÃ³rdoba",
+    "event_name": "LaLiga 2",
+    "poster_id": "MirandÃ©s-CÃ³rdoba-21122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Aston Villa",
+    "team_b": "Manchester United",
+    "event_name": "Premier League",
+    "poster_id": "Aston-Villa-Manchester-United-21122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "1. FC Heidenheim",
+    "team_b": "FC Bayern MÃ¼nchen",
+    "event_name": "Bundesliga",
+    "poster_id": "1.-FC-Heidenheim-FC-Bayern-MÃ¼nchen-21122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Fiorentina",
+    "team_b": "Udinese",
+    "event_name": "Serie A",
+    "poster_id": "Fiorentina-Udinese-21122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Galatasaray",
+    "team_b": "KasÄ±mpaÅa",
+    "event_name": "Trendyol SÃ¼per Lig",
+    "poster_id": "Galatasaray-KasÄ±mpaÅa-21122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Elche",
+    "team_b": "Rayo Vallecano",
+    "event_name": "LaLiga",
+    "poster_id": "Elche-Rayo-Vallecano-21122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Granada",
+    "team_b": "Albacete BalompiÃ©",
+    "event_name": "LaLiga 2",
+    "poster_id": "Granada-Albacete-BalompiÃ©-21122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Burgos Club de FÃºtbol",
+    "team_b": "Real Zaragoza",
+    "event_name": "LaLiga 2",
+    "poster_id": "Burgos-Club-de-FÃºtbol-Real-Zaragoza-21122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Khaleej",
+    "team_b": "Al-Kholood",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Khaleej-Al-Kholood-21122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Najma SC",
+    "team_b": "Al-Nassr",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Najma-SC-Al-Nassr-21122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Morocco",
+    "team_b": "Comoros",
+    "event_name": "Africa Cup of Nations",
+    "poster_id": "Morocco-Comoros-21122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "CÃ¡diz",
+    "team_b": "CD CastellÃ³n",
+    "event_name": "LaLiga 2",
+    "poster_id": "CÃ¡diz-CD-CastellÃ³n-21122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Betis",
+    "team_b": "Getafe",
+    "event_name": "LaLiga",
+    "poster_id": "Real-Betis-Getafe-21122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Genoa",
+    "team_b": "Atalanta",
+    "event_name": "Serie A",
+    "poster_id": "Genoa-Atalanta-21122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Vasco da Gama",
+    "team_b": "Corinthians",
+    "event_name": "Copa Betano do Brasil",
+    "poster_id": "Vasco-da-Gama-Corinthians-21122025.png",
     "match_type": "team_vs_team"
   }
 ]

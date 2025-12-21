@@ -243,5 +243,89 @@
     "event_name": "Copa Betano do Brasil",
     "poster_id": "Vasco-da-Gama-Corinthians-21122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Detroit Lions",
+    "team_b": "Pittsburgh Steelers",
+    "event_name": "NFL",
+    "poster_id": "Detroit-Lions-Pittsburgh-Steelers-21122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Baltimore Ravens",
+    "team_b": "New England Patriots",
+    "event_name": "NFL",
+    "poster_id": "Baltimore-Ravens-New-England-Patriots-22122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Houston Texans",
+    "team_b": "Las Vegas Raiders",
+    "event_name": "NFL",
+    "poster_id": "Houston-Texans-Las-Vegas-Raiders-21122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Denver Broncos",
+    "team_b": "Jacksonville Jaguars",
+    "event_name": "NFL",
+    "poster_id": "Denver-Broncos-Jacksonville-Jaguars-21122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Arizona Cardinals",
+    "team_b": "Atlanta Falcons",
+    "event_name": "NFL",
+    "poster_id": "Arizona-Cardinals-Atlanta-Falcons-21122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Tennessee Titans",
+    "team_b": "Kansas City Chiefs",
+    "event_name": "NFL",
+    "poster_id": "Tennessee-Titans-Kansas-City-Chiefs-21122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New York Giants",
+    "team_b": "Minnesota Vikings",
+    "event_name": "NFL",
+    "poster_id": "New-York-Giants-Minnesota-Vikings-21122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New Orleans Saints",
+    "team_b": "New York Jets",
+    "event_name": "NFL",
+    "poster_id": "New-Orleans-Saints-New-York-Jets-21122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Dallas Cowboys",
+    "team_b": "Los Angeles Chargers",
+    "event_name": "NFL",
+    "poster_id": "Dallas-Cowboys-Los-Angeles-Chargers-21122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Carolina Panthers",
+    "team_b": "Tampa Bay Buccaneers",
+    "event_name": "NFL",
+    "poster_id": "Carolina-Panthers-Tampa-Bay-Buccaneers-21122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cleveland Browns",
+    "team_b": "Buffalo Bills",
+    "event_name": "NFL",
+    "poster_id": "Cleveland-Browns-Buffalo-Bills-21122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Miami Dolphins",
+    "team_b": "Cincinnati Bengals",
+    "event_name": "NFL",
+    "poster_id": "Miami-Dolphins-Cincinnati-Bengals-21122025.png",
+    "match_type": "team_vs_team"
   }
 ]

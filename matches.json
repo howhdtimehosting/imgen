@@ -98,13 +98,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Hellas Verona",
-    "team_b": "Bologna",
-    "event_name": "Serie A",
-    "poster_id": "Hellas-Verona-Bologna-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Napoli",
     "team_b": "Parma",
     "event_name": "Serie A",
@@ -327,5 +320,12 @@
     "event_name": "NFL",
     "poster_id": "Miami-Dolphins-Cincinnati-Bengals-21122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "International League T20",
+    "team_b": "",
+    "event_name": "International League T20",
+    "poster_id": "International-League-T20-21122025.png",
+    "match_type": "single_event"
   }
 ]

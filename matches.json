@@ -98,13 +98,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Denver Broncos",
-    "team_b": "Jacksonville Jaguars",
-    "event_name": "NFL",
-    "poster_id": "Denver-Broncos-Jacksonville-Jaguars-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Dallas Cowboys",
     "team_b": "Los Angeles Chargers",
     "event_name": "NFL",
@@ -256,6 +249,13 @@
     "team_b": "San Francisco 49ers",
     "event_name": "NFL",
     "poster_id": "Indianapolis-Colts-San-Francisco-49ers-23122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Mali",
+    "team_b": "Zambia",
+    "event_name": "Africa Cup of Nations",
+    "poster_id": "Mali-Zambia-22122025.png",
     "match_type": "team_vs_team"
   }
 ]

@@ -49,13 +49,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Aston Villa",
-    "team_b": "Manchester United",
-    "event_name": "Premier League",
-    "poster_id": "Aston-Villa-Manchester-United-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Fiorentina",
     "team_b": "Udinese",
     "event_name": "Serie A",
@@ -70,45 +63,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Burgos Club de FÃºtbol",
-    "team_b": "Real Zaragoza",
-    "event_name": "LaLiga 2",
-    "poster_id": "Burgos-Club-de-FÃºtbol-Real-Zaragoza-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Najma SC",
-    "team_b": "Al-Nassr",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Najma-SC-Al-Nassr-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Baltimore Ravens",
-    "team_b": "New England Patriots",
-    "event_name": "NFL",
-    "poster_id": "Baltimore-Ravens-New-England-Patriots-22122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Houston Texans",
     "team_b": "Las Vegas Raiders",
     "event_name": "NFL",
     "poster_id": "Houston-Texans-Las-Vegas-Raiders-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Dallas Cowboys",
-    "team_b": "Los Angeles Chargers",
-    "event_name": "NFL",
-    "poster_id": "Dallas-Cowboys-Los-Angeles-Chargers-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Cleveland Browns",
-    "team_b": "Buffalo Bills",
-    "event_name": "NFL",
-    "poster_id": "Cleveland-Browns-Buffalo-Bills-21122025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -126,24 +84,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Sydney Thunder",
-    "team_b": "Brisbane Heat",
-    "event_name": "Big Bash League",
-    "poster_id": "Sydney-Thunder-Brisbane-Heat-22122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Al-Sharjah",
     "team_b": "Al-Hilal",
     "event_name": "AFC Champions League Elite",
     "poster_id": "Al-Sharjah-Al-Hilal-22122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Tractor FC",
-    "team_b": "Al Duhail",
-    "event_name": "AFC Champions League Elite",
-    "poster_id": "Tractor-FC-Al-Duhail-22122025.png",
     "match_type": "team_vs_team"
   },
   {

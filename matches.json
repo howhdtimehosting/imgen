@@ -28,13 +28,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "BeÅiktaÅ JK",
-    "team_b": "Ãaykur Rizespor",
-    "event_name": "Trendyol SÃ¼per Lig",
-    "poster_id": "BeÅiktaÅ-JK-Ãaykur-Rizespor-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "LeganÃ©s",
     "team_b": "Sporting GijÃ³n",
     "event_name": "LaLiga 2",
@@ -42,94 +35,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Everton",
-    "team_b": "Arsenal",
-    "event_name": "Premier League",
-    "poster_id": "Everton-Arsenal-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Las Palmas",
-    "team_b": "Cultural Leonesa",
-    "event_name": "LaLiga 2",
-    "poster_id": "Las-Palmas-Cultural-Leonesa-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Australia",
-    "team_b": "England",
-    "event_name": "Ashes Series",
-    "poster_id": "Australia-England-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "New Zealand",
     "team_b": "West Indies",
     "event_name": "ICC World Test Championship",
     "poster_id": "New-Zealand-West-Indies-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Girona FC",
-    "team_b": "AtlÃ©tico Madrid",
-    "event_name": "LaLiga",
-    "poster_id": "Girona-FC-AtlÃ©tico-Madrid-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "MÃ¡laga",
-    "team_b": "AlmerÃ­a",
-    "event_name": "LaLiga 2",
-    "poster_id": "MÃ¡laga-AlmerÃ­a-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Como",
-    "team_b": "Milan",
-    "event_name": "Serie A",
-    "poster_id": "Como-Milan-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sassuolo",
-    "team_b": "Torino",
-    "event_name": "Serie A",
-    "poster_id": "Sassuolo-Torino-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Napoli",
-    "team_b": "Parma",
-    "event_name": "Serie A",
-    "poster_id": "Napoli-Parma-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Inter",
-    "team_b": "Lecce",
-    "event_name": "Serie A",
-    "poster_id": "Inter-Lecce-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "1. FSV Mainz 05",
-    "team_b": "FC St. Pauli",
-    "event_name": "Bundesliga",
-    "poster_id": "1.-FSV-Mainz-05-FC-St.-Pauli-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Villarreal",
-    "team_b": "Barcelona",
-    "event_name": "LaLiga",
-    "poster_id": "Villarreal-Barcelona-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Sociedad B U21",
-    "team_b": "AD Ceuta",
-    "event_name": "LaLiga 2",
-    "poster_id": "Real-Sociedad-B-U21-AD-Ceuta-21122025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -147,24 +56,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "1. FC Heidenheim",
-    "team_b": "FC Bayern MÃ¼nchen",
-    "event_name": "Bundesliga",
-    "poster_id": "1.-FC-Heidenheim-FC-Bayern-MÃ¼nchen-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Fiorentina",
     "team_b": "Udinese",
     "event_name": "Serie A",
     "poster_id": "Fiorentina-Udinese-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Galatasaray",
-    "team_b": "KasÄ±mpaÅa",
-    "event_name": "Trendyol SÃ¼per Lig",
-    "poster_id": "Galatasaray-KasÄ±mpaÅa-21122025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -175,13 +70,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Granada",
-    "team_b": "Albacete BalompiÃ©",
-    "event_name": "LaLiga 2",
-    "poster_id": "Granada-Albacete-BalompiÃ©-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Burgos Club de FÃºtbol",
     "team_b": "Real Zaragoza",
     "event_name": "LaLiga 2",
@@ -189,59 +77,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Al-Khaleej",
-    "team_b": "Al-Kholood",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Khaleej-Al-Kholood-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Al-Najma SC",
     "team_b": "Al-Nassr",
     "event_name": "Saudi Pro League",
     "poster_id": "Al-Najma-SC-Al-Nassr-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Morocco",
-    "team_b": "Comoros",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "Morocco-Comoros-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "CÃ¡diz",
-    "team_b": "CD CastellÃ³n",
-    "event_name": "LaLiga 2",
-    "poster_id": "CÃ¡diz-CD-CastellÃ³n-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Betis",
-    "team_b": "Getafe",
-    "event_name": "LaLiga",
-    "poster_id": "Real-Betis-Getafe-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Genoa",
-    "team_b": "Atalanta",
-    "event_name": "Serie A",
-    "poster_id": "Genoa-Atalanta-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Vasco da Gama",
-    "team_b": "Corinthians",
-    "event_name": "Copa Betano do Brasil",
-    "poster_id": "Vasco-da-Gama-Corinthians-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Detroit Lions",
-    "team_b": "Pittsburgh Steelers",
-    "event_name": "NFL",
-    "poster_id": "Detroit-Lions-Pittsburgh-Steelers-21122025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -266,34 +105,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Arizona Cardinals",
-    "team_b": "Atlanta Falcons",
-    "event_name": "NFL",
-    "poster_id": "Arizona-Cardinals-Atlanta-Falcons-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Tennessee Titans",
-    "team_b": "Kansas City Chiefs",
-    "event_name": "NFL",
-    "poster_id": "Tennessee-Titans-Kansas-City-Chiefs-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "New York Giants",
-    "team_b": "Minnesota Vikings",
-    "event_name": "NFL",
-    "poster_id": "New-York-Giants-Minnesota-Vikings-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "New Orleans Saints",
-    "team_b": "New York Jets",
-    "event_name": "NFL",
-    "poster_id": "New-Orleans-Saints-New-York-Jets-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Dallas Cowboys",
     "team_b": "Los Angeles Chargers",
     "event_name": "NFL",
@@ -301,24 +112,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Carolina Panthers",
-    "team_b": "Tampa Bay Buccaneers",
-    "event_name": "NFL",
-    "poster_id": "Carolina-Panthers-Tampa-Bay-Buccaneers-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Cleveland Browns",
     "team_b": "Buffalo Bills",
     "event_name": "NFL",
     "poster_id": "Cleveland-Browns-Buffalo-Bills-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Miami Dolphins",
-    "team_b": "Cincinnati Bengals",
-    "event_name": "NFL",
-    "poster_id": "Miami-Dolphins-Cincinnati-Bengals-21122025.png",
     "match_type": "team_vs_team"
   },
   {

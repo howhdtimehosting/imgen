@@ -327,5 +327,138 @@
     "event_name": "International League T20",
     "poster_id": "International-League-T20-21122025.png",
     "match_type": "single_event"
+  },
+  {
+    "team_a": "Adelaide Strikers",
+    "team_b": "Melbourne Stars",
+    "event_name": "Big Bash League",
+    "poster_id": "Adelaide-Strikers-Melbourne-Stars-23122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sydney Thunder",
+    "team_b": "Brisbane Heat",
+    "event_name": "Big Bash League",
+    "poster_id": "Sydney-Thunder-Brisbane-Heat-22122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Sharjah",
+    "team_b": "Al-Hilal",
+    "event_name": "AFC Champions League Elite",
+    "poster_id": "Al-Sharjah-Al-Hilal-22122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Tractor FC",
+    "team_b": "Al Duhail",
+    "event_name": "AFC Champions League Elite",
+    "poster_id": "Tractor-FC-Al-Duhail-22122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "South Africa",
+    "team_b": "Angola",
+    "event_name": "Africa Cup of Nations",
+    "poster_id": "South-Africa-Angola-22122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "GenÃ§lerbirliÄi",
+    "team_b": "Trabzonspor",
+    "event_name": "Trendyol SÃ¼per Lig",
+    "poster_id": "GenÃ§lerbirliÄi-Trabzonspor-22122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Shorta",
+    "team_b": "Al-Ahli",
+    "event_name": "AFC Champions League Elite",
+    "poster_id": "Al-Shorta-Al-Ahli-22122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Gharafa",
+    "team_b": "Al-Wahda FC",
+    "event_name": "AFC Champions League Elite",
+    "poster_id": "Al-Gharafa-Al-Wahda-FC-22122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Jong Ajax",
+    "team_b": "RKC Waalwijk",
+    "event_name": "Eerste Divisie",
+    "poster_id": "Jong-Ajax-RKC-Waalwijk-22122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Napoli",
+    "team_b": "Bologna",
+    "event_name": "Supercoppa Italiana",
+    "poster_id": "Napoli-Bologna-22122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Alverca",
+    "team_b": "FC Porto",
+    "event_name": "Liga Portugal Betclic",
+    "poster_id": "FC-Alverca-FC-Porto-22122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Athletic Club",
+    "team_b": "Espanyol",
+    "event_name": "LaLiga",
+    "poster_id": "Athletic-Club-Espanyol-22122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Egypt",
+    "team_b": "Zimbabwe",
+    "event_name": "Africa Cup of Nations",
+    "poster_id": "Egypt-Zimbabwe-22122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Fulham",
+    "team_b": "Nottingham Forest",
+    "event_name": "Premier League",
+    "poster_id": "Fulham-Nottingham-Forest-22122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Los Angeles Kings",
+    "team_b": "Columbus Blue Jackets",
+    "event_name": "NHL",
+    "poster_id": "Los-Angeles-Kings-Columbus-Blue-Jackets-23122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Anaheim Ducks",
+    "team_b": "Seattle Kraken",
+    "event_name": "NHL",
+    "poster_id": "Anaheim-Ducks-Seattle-Kraken-23122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Tampa Bay Lightning",
+    "team_b": "St. Louis Blues",
+    "event_name": "NHL",
+    "poster_id": "Tampa-Bay-Lightning-St.-Louis-Blues-23122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Philadelphia Flyers",
+    "team_b": "Vancouver Canucks",
+    "event_name": "NHL",
+    "poster_id": "Philadelphia-Flyers-Vancouver-Canucks-23122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Indianapolis Colts",
+    "team_b": "San Francisco 49ers",
+    "event_name": "NFL",
+    "poster_id": "Indianapolis-Colts-San-Francisco-49ers-23122025.png",
+    "match_type": "team_vs_team"
   }
 ]

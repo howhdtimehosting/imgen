@@ -49,6 +49,13 @@
     "match_type": "team_vs_team"
   },
   {
+    "team_a": "Aston Villa",
+    "team_b": "Manchester United",
+    "event_name": "Premier League",
+    "poster_id": "Aston-Villa-Manchester-United-21122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
     "team_a": "Fiorentina",
     "team_b": "Udinese",
     "event_name": "Serie A",
@@ -73,7 +80,7 @@
     "team_a": "International League T20",
     "team_b": "",
     "event_name": "International League T20",
-    "poster_id": "International-League-T20-21122025.png",
+    "poster_id": "International-League-T20-22122025.png",
     "match_type": "single_event"
   },
   {

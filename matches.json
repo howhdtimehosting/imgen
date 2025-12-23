@@ -208,5 +208,152 @@
     "event_name": "Africa Cup of Nations",
     "poster_id": "Mali-Zambia-22122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Tunisia",
+    "team_b": "Uganda",
+    "event_name": "Africa Cup of Nations",
+    "poster_id": "Tunisia-Uganda-23122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Arsenal",
+    "team_b": "Crystal Palace",
+    "event_name": "EFL Cup",
+    "poster_id": "Arsenal-Crystal-Palace-23122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FenerbahÃ§e",
+    "team_b": "BeÅiktaÅ JK",
+    "event_name": "TÃ¼rkiye KupasÄ±",
+    "poster_id": "FenerbahÃ§e-BeÅiktaÅ-JK-23122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Ittihad",
+    "team_b": "Nasaf Qarshi",
+    "event_name": "AFC Champions League Elite",
+    "poster_id": "Al-Ittihad-Nasaf-Qarshi-23122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Sadd",
+    "team_b": "Shabab Al-Ahli Dubai",
+    "event_name": "AFC Champions League Elite",
+    "poster_id": "Al-Sadd-Shabab-Al-Ahli-Dubai-23122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Nigeria",
+    "team_b": "Tanzania",
+    "event_name": "Africa Cup of Nations",
+    "poster_id": "Nigeria-Tanzania-23122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Senegal",
+    "team_b": "Botswana",
+    "event_name": "Africa Cup of Nations",
+    "poster_id": "Senegal-Botswana-23122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "DR Congo",
+    "team_b": "Benin",
+    "event_name": "Africa Cup of Nations",
+    "poster_id": "DR-Congo-Benin-23122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bhutan",
+    "team_b": "Myanmar",
+    "event_name": "T20 International",
+    "poster_id": "Bhutan-Myanmar-24122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Indiana Pacers",
+    "team_b": "Milwaukee Bucks",
+    "event_name": "NBA",
+    "poster_id": "Indiana-Pacers-Milwaukee-Bucks-24122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cleveland Cavaliers",
+    "team_b": "New Orleans Pelicans",
+    "event_name": "NBA",
+    "poster_id": "Cleveland-Cavaliers-New-Orleans-Pelicans-24122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Atlanta Hawks",
+    "team_b": "Chicago Bulls",
+    "event_name": "NBA",
+    "poster_id": "Atlanta-Hawks-Chicago-Bulls-24122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Miami Heat",
+    "team_b": "Toronto Raptors",
+    "event_name": "NBA",
+    "poster_id": "Miami-Heat-Toronto-Raptors-24122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "San Antonio Spurs",
+    "team_b": "Oklahoma City Thunder",
+    "event_name": "NBA",
+    "poster_id": "San-Antonio-Spurs-Oklahoma-City-Thunder-24122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Minnesota Timberwolves",
+    "team_b": "New York Knicks",
+    "event_name": "NBA",
+    "poster_id": "Minnesota-Timberwolves-New-York-Knicks-24122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Dallas Mavericks",
+    "team_b": "Denver Nuggets",
+    "event_name": "NBA",
+    "poster_id": "Dallas-Mavericks-Denver-Nuggets-24122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Phoenix Suns",
+    "team_b": "Los Angeles Lakers",
+    "event_name": "NBA",
+    "poster_id": "Phoenix-Suns-Los-Angeles-Lakers-24122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Utah Jazz",
+    "team_b": "Memphis Grizzlies",
+    "event_name": "NBA",
+    "poster_id": "Utah-Jazz-Memphis-Grizzlies-24122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sacramento Kings",
+    "team_b": "Detroit Pistons",
+    "event_name": "NBA",
+    "poster_id": "Sacramento-Kings-Detroit-Pistons-24122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Los Angeles Clippers",
+    "team_b": "Houston Rockets",
+    "event_name": "NBA",
+    "poster_id": "Los-Angeles-Clippers-Houston-Rockets-24122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Portland Trail Blazers",
+    "team_b": "Orlando Magic",
+    "event_name": "NBA",
+    "poster_id": "Portland-Trail-Blazers-Orlando-Magic-24122025.png",
+    "match_type": "team_vs_team"
   }
 ]

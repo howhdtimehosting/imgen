@@ -187,5 +187,19 @@
     "event_name": "U19 Tri-Series in Zimbabwe",
     "poster_id": "Zimbabwe-Under-19-Afghanistan-Under-19-25122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al Wasl",
+    "team_b": "Al-Wehdat",
+    "event_name": "AFC Champions League Two",
+    "poster_id": "Al-Wasl-Al-Wehdat-24122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Nassr",
+    "team_b": "Al-Zawraa",
+    "event_name": "AFC Champions League Two",
+    "poster_id": "Al-Nassr-Al-Zawraa-24122025.png",
+    "match_type": "team_vs_team"
   }
 ]

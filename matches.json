@@ -355,5 +355,47 @@
     "event_name": "NBA",
     "poster_id": "Portland-Trail-Blazers-Orlando-Magic-24122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Arsenal",
+    "team_b": "Crystal Palace",
+    "event_name": "EFL Cup",
+    "poster_id": "Arsenal-Crystal-Palace-23122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Burkina Faso",
+    "team_b": "Equatorial Guinea",
+    "event_name": "Africa Cup of Nations",
+    "poster_id": "Burkina-Faso-Equatorial-Guinea-24122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Algeria",
+    "team_b": "Sudan",
+    "event_name": "Africa Cup of Nations",
+    "poster_id": "Algeria-Sudan-24122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cameroon",
+    "team_b": "Gabon",
+    "event_name": "Africa Cup of Nations",
+    "poster_id": "Cameroon-Gabon-24122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "CÃ´te d'Ivoire",
+    "team_b": "Mozambique",
+    "event_name": "Africa Cup of Nations",
+    "poster_id": "CÃ´te-d'Ivoire-Mozambique-24122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Zimbabwe Under-19",
+    "team_b": "Afghanistan Under-19",
+    "event_name": "U19 Tri-Series in Zimbabwe",
+    "poster_id": "Zimbabwe-Under-19-Afghanistan-Under-19-25122025.png",
+    "match_type": "team_vs_team"
   }
 ]

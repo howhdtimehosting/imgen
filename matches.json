@@ -21,24 +21,10 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "FC Andorra",
-    "team_b": "Deportivo La CoruÃ±a",
-    "event_name": "LaLiga 2",
-    "poster_id": "FC-Andorra-Deportivo-La-CoruÃ±a-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "LeganÃ©s",
     "team_b": "Sporting GijÃ³n",
     "event_name": "LaLiga 2",
     "poster_id": "LeganÃ©s-Sporting-GijÃ³n-20122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "New Zealand",
-    "team_b": "West Indies",
-    "event_name": "ICC World Test Championship",
-    "poster_id": "New-Zealand-West-Indies-20122025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -53,13 +39,6 @@
     "team_b": "Manchester United",
     "event_name": "Premier League",
     "poster_id": "Aston-Villa-Manchester-United-21122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Fiorentina",
-    "team_b": "Udinese",
-    "event_name": "Serie A",
-    "poster_id": "Fiorentina-Udinese-21122025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -84,13 +63,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Adelaide Strikers",
-    "team_b": "Melbourne Stars",
-    "event_name": "Big Bash League",
-    "poster_id": "Adelaide-Strikers-Melbourne-Stars-23122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Al-Sharjah",
     "team_b": "Al-Hilal",
     "event_name": "AFC Champions League Elite",
@@ -112,31 +84,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Al-Shorta",
-    "team_b": "Al-Ahli",
-    "event_name": "AFC Champions League Elite",
-    "poster_id": "Al-Shorta-Al-Ahli-22122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Gharafa",
-    "team_b": "Al-Wahda FC",
-    "event_name": "AFC Champions League Elite",
-    "poster_id": "Al-Gharafa-Al-Wahda-FC-22122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Jong Ajax",
     "team_b": "RKC Waalwijk",
     "event_name": "Eerste Divisie",
     "poster_id": "Jong-Ajax-RKC-Waalwijk-22122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Napoli",
-    "team_b": "Bologna",
-    "event_name": "Supercoppa Italiana",
-    "poster_id": "Napoli-Bologna-22122025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -151,13 +102,6 @@
     "team_b": "Espanyol",
     "event_name": "LaLiga",
     "poster_id": "Athletic-Club-Espanyol-22122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Egypt",
-    "team_b": "Zimbabwe",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "Egypt-Zimbabwe-22122025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -189,27 +133,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Philadelphia Flyers",
-    "team_b": "Vancouver Canucks",
-    "event_name": "NHL",
-    "poster_id": "Philadelphia-Flyers-Vancouver-Canucks-23122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Indianapolis Colts",
-    "team_b": "San Francisco 49ers",
-    "event_name": "NFL",
-    "poster_id": "Indianapolis-Colts-San-Francisco-49ers-23122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Mali",
-    "team_b": "Zambia",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "Mali-Zambia-22122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Tunisia",
     "team_b": "Uganda",
     "event_name": "Africa Cup of Nations",
@@ -217,143 +140,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Arsenal",
-    "team_b": "Crystal Palace",
-    "event_name": "EFL Cup",
-    "poster_id": "Arsenal-Crystal-Palace-23122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FenerbahÃ§e",
-    "team_b": "BeÅiktaÅ JK",
-    "event_name": "TÃ¼rkiye KupasÄ±",
-    "poster_id": "FenerbahÃ§e-BeÅiktaÅ-JK-23122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Ittihad",
-    "team_b": "Nasaf Qarshi",
-    "event_name": "AFC Champions League Elite",
-    "poster_id": "Al-Ittihad-Nasaf-Qarshi-23122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Sadd",
-    "team_b": "Shabab Al-Ahli Dubai",
-    "event_name": "AFC Champions League Elite",
-    "poster_id": "Al-Sadd-Shabab-Al-Ahli-Dubai-23122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Nigeria",
-    "team_b": "Tanzania",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "Nigeria-Tanzania-23122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Senegal",
-    "team_b": "Botswana",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "Senegal-Botswana-23122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "DR Congo",
-    "team_b": "Benin",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "DR-Congo-Benin-23122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bhutan",
-    "team_b": "Myanmar",
-    "event_name": "T20 International",
-    "poster_id": "Bhutan-Myanmar-24122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Indiana Pacers",
-    "team_b": "Milwaukee Bucks",
-    "event_name": "NBA",
-    "poster_id": "Indiana-Pacers-Milwaukee-Bucks-24122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Cleveland Cavaliers",
-    "team_b": "New Orleans Pelicans",
-    "event_name": "NBA",
-    "poster_id": "Cleveland-Cavaliers-New-Orleans-Pelicans-24122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Atlanta Hawks",
-    "team_b": "Chicago Bulls",
-    "event_name": "NBA",
-    "poster_id": "Atlanta-Hawks-Chicago-Bulls-24122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Miami Heat",
     "team_b": "Toronto Raptors",
     "event_name": "NBA",
     "poster_id": "Miami-Heat-Toronto-Raptors-24122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "San Antonio Spurs",
-    "team_b": "Oklahoma City Thunder",
-    "event_name": "NBA",
-    "poster_id": "San-Antonio-Spurs-Oklahoma-City-Thunder-24122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Minnesota Timberwolves",
-    "team_b": "New York Knicks",
-    "event_name": "NBA",
-    "poster_id": "Minnesota-Timberwolves-New-York-Knicks-24122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Dallas Mavericks",
-    "team_b": "Denver Nuggets",
-    "event_name": "NBA",
-    "poster_id": "Dallas-Mavericks-Denver-Nuggets-24122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Phoenix Suns",
-    "team_b": "Los Angeles Lakers",
-    "event_name": "NBA",
-    "poster_id": "Phoenix-Suns-Los-Angeles-Lakers-24122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Utah Jazz",
-    "team_b": "Memphis Grizzlies",
-    "event_name": "NBA",
-    "poster_id": "Utah-Jazz-Memphis-Grizzlies-24122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sacramento Kings",
-    "team_b": "Detroit Pistons",
-    "event_name": "NBA",
-    "poster_id": "Sacramento-Kings-Detroit-Pistons-24122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Los Angeles Clippers",
-    "team_b": "Houston Rockets",
-    "event_name": "NBA",
-    "poster_id": "Los-Angeles-Clippers-Houston-Rockets-24122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Portland Trail Blazers",
-    "team_b": "Orlando Magic",
-    "event_name": "NBA",
-    "poster_id": "Portland-Trail-Blazers-Orlando-Magic-24122025.png",
     "match_type": "team_vs_team"
   },
   {

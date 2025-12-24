@@ -201,5 +201,103 @@
     "event_name": "AFC Champions League Two",
     "poster_id": "Al-Nassr-Al-Zawraa-24122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Zimbabwe Under-19",
+    "team_b": "Afghanistan Under-19",
+    "event_name": "U19 Tri-Series in Zimbabwe",
+    "poster_id": "Zimbabwe-Under-19-Afghanistan-Under-19-25122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pakistan Television",
+    "team_b": "Khan Research Laboratories",
+    "event_name": "President's Trophy Grade-I",
+    "poster_id": "Pakistan-Television-Khan-Research-Laboratories-25122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cambodia",
+    "team_b": "Indonesia",
+    "event_name": "T20 International",
+    "poster_id": "Cambodia-Indonesia-25122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bars Kazan",
+    "team_b": "Sokol Krasnoyarsk",
+    "event_name": "VHL",
+    "poster_id": "Bars-Kazan-Sokol-Krasnoyarsk-25122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Kuznetskie Medvedi U20",
+    "team_b": "Irbis Kazan U20",
+    "event_name": "MHL",
+    "poster_id": "Kuznetskie-Medvedi-U20-Irbis-Kazan-U20-25122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Shanghai Sharks",
+    "team_b": "Jiangsu Dragons",
+    "event_name": "China CBA",
+    "poster_id": "Shanghai-Sharks-Jiangsu-Dragons-25122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Zhejiang Guangsha Lions",
+    "team_b": "Liaoning Flying Leopards",
+    "event_name": "China CBA",
+    "poster_id": "Zhejiang-Guangsha-Lions-Liaoning-Flying-Leopards-25122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Barangay Ginebra San Miguel",
+    "team_b": "Converge Fiberxers",
+    "event_name": "PBA Philippine Cup",
+    "poster_id": "Barangay-Ginebra-San-Miguel-Converge-Fiberxers-25122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Shanxi Xing Rui Flame",
+    "team_b": "Guangdong Vermilion Birds",
+    "event_name": "WCBA",
+    "poster_id": "Shanxi-Xing-Rui-Flame-Guangdong-Vermilion-Birds-25122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Naft Zagros Jonoubi",
+    "team_b": "Shahrdari Gorgan",
+    "event_name": "Iranian Basketball Super League",
+    "poster_id": "Naft-Zagros-Jonoubi-Shahrdari-Gorgan-25122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Anhui Wenyi",
+    "team_b": "Shandong Honey Badger",
+    "event_name": "NBL",
+    "poster_id": "Anhui-Wenyi-Shandong-Honey-Badger-25122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Naoya Inoue",
+    "team_b": "David Picasso",
+    "event_name": "Matchroom Boxing",
+    "poster_id": "Naoya-Inoue-David-Picasso-27122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Taiga Imanaga",
+    "team_b": "Eridson Garcia",
+    "event_name": "Matchroom Boxing",
+    "poster_id": "Taiga-Imanaga-Eridson-Garcia-27122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Reito Tsutsumi",
+    "team_b": "Leobardo  Quintana",
+    "event_name": "Matchroom Boxing",
+    "poster_id": "Reito-Tsutsumi-Leobardo-Quintana-27122025.png",
+    "match_type": "team_vs_team"
   }
 ]

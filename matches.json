@@ -299,5 +299,40 @@
     "event_name": "Matchroom Boxing",
     "poster_id": "Reito-Tsutsumi-Leobardo-Quintana-27122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New York Knicks",
+    "team_b": "Cleveland Cavaliers",
+    "event_name": "NBA",
+    "poster_id": "New-York-Knicks-Cleveland-Cavaliers-25122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Oklahoma City Thunder",
+    "team_b": "San Antonio Spurs",
+    "event_name": "NBA",
+    "poster_id": "Oklahoma-City-Thunder-San-Antonio-Spurs-25122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Denver Nuggets",
+    "team_b": "Minnesota Timberwolves",
+    "event_name": "NBA",
+    "poster_id": "Denver-Nuggets-Minnesota-Timberwolves-26122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Los Angeles Lakers",
+    "team_b": "Houston Rockets",
+    "event_name": "NBA",
+    "poster_id": "Los-Angeles-Lakers-Houston-Rockets-26122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Golden State Warriors",
+    "team_b": "Dallas Mavericks",
+    "event_name": "NBA",
+    "poster_id": "Golden-State-Warriors-Dallas-Mavericks-25122025.png",
+    "match_type": "team_vs_team"
   }
 ]

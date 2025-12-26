@@ -24,7 +24,7 @@
     "team_a": "International League T20",
     "team_b": "",
     "event_name": "International League T20",
-    "poster_id": "International-League-T20-24122025.png",
+    "poster_id": "International-League-T20-26122025.png",
     "match_type": "single_event"
   },
   {
@@ -74,6 +74,27 @@
     "team_b": "Rajshahi Warriors",
     "event_name": "Bangladesh Premier League",
     "poster_id": "Sylhet-Titans-Rajshahi-Warriors-26122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Kansas City Chiefs",
+    "team_b": "Denver Broncos",
+    "event_name": "NFL",
+    "poster_id": "Kansas-City-Chiefs-Denver-Broncos-26122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Minnesota Vikings",
+    "team_b": "Detroit Lions",
+    "event_name": "NFL",
+    "poster_id": "Minnesota-Vikings-Detroit-Lions-25122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Washington Commanders",
+    "team_b": "Dallas Cowboys",
+    "event_name": "NFL",
+    "poster_id": "Washington-Commanders-Dallas-Cowboys-25122025.png",
     "match_type": "team_vs_team"
   }
 ]

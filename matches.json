@@ -320,5 +320,201 @@
     "event_name": "Africa Cup of Nations",
     "poster_id": "Zimbabwe-South-Africa-29122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Australia",
+    "team_b": "England",
+    "event_name": "Ashes Series",
+    "poster_id": "Australia-England-25122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Dhaka Capitals",
+    "team_b": "Rajshahi Warriors",
+    "event_name": "Bangladesh Premier League",
+    "poster_id": "Dhaka-Capitals-Rajshahi-Warriors-27122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Brisbane Heat",
+    "team_b": "Adelaide Strikers",
+    "event_name": "Big Bash League",
+    "poster_id": "Brisbane-Heat-Adelaide-Strikers-27122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sylhet Titans",
+    "team_b": "Noakhali Express",
+    "event_name": "Bangladesh Premier League",
+    "poster_id": "Sylhet-Titans-Noakhali-Express-27122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Melbourne Stars",
+    "team_b": "Sydney Thunder",
+    "event_name": "Big Bash League",
+    "poster_id": "Melbourne-Stars-Sydney-Thunder-28122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India Women",
+    "team_b": "Sri Lanka Women",
+    "event_name": "Twenty20 International Women",
+    "poster_id": "India-Women-Sri-Lanka-Women-28122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Rangpur Riders",
+    "team_b": "Chattogram Royals",
+    "event_name": "Bangladesh Premier League",
+    "poster_id": "Rangpur-Riders-Chattogram-Royals-29122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Hobart Hurricanes",
+    "team_b": "Melbourne Renegades",
+    "event_name": "Big Bash League",
+    "poster_id": "Hobart-Hurricanes-Melbourne-Renegades-29122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Zimbabwe Under-19",
+    "team_b": "Pakistan Under-19",
+    "event_name": "U19 Tri-Series in Zimbabwe",
+    "poster_id": "Zimbabwe-Under-19-Pakistan-Under-19-29122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Los Angeles Chargers",
+    "team_b": "Houston Texans",
+    "event_name": "NFL",
+    "poster_id": "Los-Angeles-Chargers-Houston-Texans-27122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Green Bay Packers",
+    "team_b": "Baltimore Ravens",
+    "event_name": "NFL",
+    "poster_id": "Green-Bay-Packers-Baltimore-Ravens-28122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Buffalo Sabres",
+    "team_b": "Boston Bruins",
+    "event_name": "NHL",
+    "poster_id": "Buffalo-Sabres-Boston-Bruins-28122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Carolina Hurricanes",
+    "team_b": "Detroit Red Wings",
+    "event_name": "NHL",
+    "poster_id": "Carolina-Hurricanes-Detroit-Red-Wings-28122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Florida Panthers",
+    "team_b": "Tampa Bay Lightning",
+    "event_name": "NHL",
+    "poster_id": "Florida-Panthers-Tampa-Bay-Lightning-28122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Winnipeg Jets",
+    "team_b": "Minnesota Wild",
+    "event_name": "NHL",
+    "poster_id": "Winnipeg-Jets-Minnesota-Wild-28122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New Jersey Devils",
+    "team_b": "Washington Capitals",
+    "event_name": "NHL",
+    "poster_id": "New-Jersey-Devils-Washington-Capitals-28122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Toronto Maple Leafs",
+    "team_b": "Ottawa Senators",
+    "event_name": "NHL",
+    "poster_id": "Toronto-Maple-Leafs-Ottawa-Senators-28122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "St. Louis Blues",
+    "team_b": "Nashville Predators",
+    "event_name": "NHL",
+    "poster_id": "St.-Louis-Blues-Nashville-Predators-28122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Dallas Stars",
+    "team_b": "Chicago Blackhawks",
+    "event_name": "NHL",
+    "poster_id": "Dallas-Stars-Chicago-Blackhawks-28122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Los Angeles Kings",
+    "team_b": "Anaheim Ducks",
+    "event_name": "NHL",
+    "poster_id": "Los-Angeles-Kings-Anaheim-Ducks-28122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Vancouver Canucks",
+    "team_b": "San Jose Sharks",
+    "event_name": "NHL",
+    "poster_id": "Vancouver-Canucks-San-Jose-Sharks-28122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Vegas Golden Knights",
+    "team_b": "Colorado Avalanche",
+    "event_name": "NHL",
+    "poster_id": "Vegas-Golden-Knights-Colorado-Avalanche-28122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Calgary Flames",
+    "team_b": "Edmonton Oilers",
+    "event_name": "NHL",
+    "poster_id": "Calgary-Flames-Edmonton-Oilers-28122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Tampa Bay Lightning",
+    "team_b": "MontrÃ©al Canadiens",
+    "event_name": "NHL",
+    "poster_id": "Tampa-Bay-Lightning-MontrÃ©al-Canadiens-28122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Columbus Blue Jackets",
+    "team_b": "New York Islanders",
+    "event_name": "NHL",
+    "poster_id": "Columbus-Blue-Jackets-New-York-Islanders-28122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Chicago Blackhawks",
+    "team_b": "Pittsburgh Penguins",
+    "event_name": "NHL",
+    "poster_id": "Chicago-Blackhawks-Pittsburgh-Penguins-29122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Detroit Red Wings",
+    "team_b": "Toronto Maple Leafs",
+    "event_name": "NHL",
+    "poster_id": "Detroit-Red-Wings-Toronto-Maple-Leafs-29122025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Seattle Kraken",
+    "team_b": "Philadelphia Flyers",
+    "event_name": "NHL",
+    "poster_id": "Seattle-Kraken-Philadelphia-Flyers-29122025.png",
+    "match_type": "team_vs_team"
   }
 ]

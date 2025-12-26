@@ -35,24 +35,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Australia",
-    "team_b": "England",
-    "event_name": "Ashes Series",
-    "poster_id": "Australia-England-25122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Noakhali Express",
     "team_b": "Chattogram Royals",
     "event_name": "Bangladesh Premier League",
     "poster_id": "Noakhali-Express-Chattogram-Royals-26122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "India Women",
-    "team_b": "Sri Lanka Women",
-    "event_name": "Twenty20 International Women",
-    "poster_id": "India-Women-Sri-Lanka-Women-26122025.png",
     "match_type": "team_vs_team"
   },
   {

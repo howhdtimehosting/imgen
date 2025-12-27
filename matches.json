@@ -460,5 +460,12 @@
     "event_name": "NHL",
     "poster_id": "Seattle-Kraken-Philadelphia-Flyers-29122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Naoya Inoue",
+    "team_b": "David Picasso",
+    "event_name": "Matchroom Boxing",
+    "poster_id": "Naoya-Inoue-David-Picasso-27122025.png",
+    "match_type": "team_vs_team"
   }
 ]

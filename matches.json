@@ -35,111 +35,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Parma",
-    "team_b": "Fiorentina",
-    "event_name": "Serie A",
-    "poster_id": "Parma-Fiorentina-27122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Nottingham Forest",
-    "team_b": "Manchester City",
-    "event_name": "Premier League",
-    "poster_id": "Nottingham-Forest-Manchester-City-27122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Benin",
-    "team_b": "Botswana",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "Benin-Botswana-27122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Qadsiah",
-    "team_b": "Damac FC",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Qadsiah-Damac-FC-27122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Lecce",
-    "team_b": "Como",
-    "event_name": "Serie A",
-    "poster_id": "Lecce-Como-27122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Torino",
-    "team_b": "Cagliari",
-    "event_name": "Serie A",
-    "poster_id": "Torino-Cagliari-27122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Brentford",
-    "team_b": "Bournemouth",
-    "event_name": "Premier League",
-    "poster_id": "Brentford-Bournemouth-27122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Nassr",
-    "team_b": "Al-Okhdood",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Nassr-Al-Okhdood-27122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Senegal",
-    "team_b": "DR Congo",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "Senegal-DR-Congo-27122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Burnley",
-    "team_b": "Everton",
-    "event_name": "Premier League",
-    "poster_id": "Burnley-Everton-27122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Arsenal",
-    "team_b": "Brighton & Hove Albion",
-    "event_name": "Premier League",
-    "poster_id": "Arsenal-Brighton-&-Hove-Albion-27122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "West Ham United",
-    "team_b": "Fulham",
-    "event_name": "Premier League",
-    "poster_id": "West-Ham-United-Fulham-27122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Liverpool",
-    "team_b": "Wolverhampton",
-    "event_name": "Premier League",
-    "poster_id": "Liverpool-Wolverhampton-27122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Livingston",
-    "team_b": "Celtic",
-    "event_name": "Scottish Premiership",
-    "poster_id": "Livingston-Celtic-27122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Rangers",
-    "team_b": "Motherwell",
-    "event_name": "Scottish Premiership",
-    "poster_id": "Rangers-Motherwell-27122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Uganda",
     "team_b": "Tanzania",
     "event_name": "Africa Cup of Nations",
@@ -151,20 +46,6 @@
     "team_b": "Aston Villa",
     "event_name": "Premier League",
     "poster_id": "Chelsea-Aston-Villa-27122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Udinese",
-    "team_b": "Lazio",
-    "event_name": "Serie A",
-    "poster_id": "Udinese-Lazio-27122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Ittihad",
-    "team_b": "Al-Shabab",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Ittihad-Al-Shabab-27122025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -270,13 +151,6 @@
     "team_b": "Rajshahi Warriors",
     "event_name": "Bangladesh Premier League",
     "poster_id": "Dhaka-Capitals-Rajshahi-Warriors-27122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Brisbane Heat",
-    "team_b": "Adelaide Strikers",
-    "event_name": "Big Bash League",
-    "poster_id": "Brisbane-Heat-Adelaide-Strikers-27122025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -452,13 +326,6 @@
     "team_b": "Philadelphia Flyers",
     "event_name": "NHL",
     "poster_id": "Seattle-Kraken-Philadelphia-Flyers-29122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Naoya Inoue",
-    "team_b": "David Picasso",
-    "event_name": "Matchroom Boxing",
-    "poster_id": "Naoya-Inoue-David-Picasso-27122025.png",
     "match_type": "team_vs_team"
   }
 ]

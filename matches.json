@@ -42,48 +42,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Egypt",
-    "team_b": "South Africa",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "Egypt-South-Africa-26122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Leicester City",
-    "team_b": "Watford",
-    "event_name": "Championship",
-    "poster_id": "Leicester-City-Watford-26122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Zambia",
-    "team_b": "Comoros",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "Zambia-Comoros-26122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Hilal",
-    "team_b": "Al-Khaleej",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Hilal-Al-Khaleej-26122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Manchester United",
-    "team_b": "Newcastle United",
-    "event_name": "Premier League",
-    "poster_id": "Manchester-United-Newcastle-United-26122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Morocco",
-    "team_b": "Mali",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "Morocco-Mali-26122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Parma",
     "team_b": "Fiorentina",
     "event_name": "Serie A",
@@ -319,13 +277,6 @@
     "team_b": "South Africa",
     "event_name": "Africa Cup of Nations",
     "poster_id": "Zimbabwe-South-Africa-29122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Australia",
-    "team_b": "England",
-    "event_name": "Ashes Series",
-    "poster_id": "Australia-England-25122025.png",
     "match_type": "team_vs_team"
   },
   {

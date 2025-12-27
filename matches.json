@@ -154,13 +154,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "KV Mechelen",
-    "team_b": "FCV Dender",
-    "event_name": "Pro League",
-    "poster_id": "KV-Mechelen-FCV-Dender-27122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Udinese",
     "team_b": "Lazio",
     "event_name": "Serie A",

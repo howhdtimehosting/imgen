@@ -124,5 +124,12 @@
     "event_name": "U19 Tri-Series in Zimbabwe",
     "poster_id": "Zimbabwe-Under-19-Pakistan-Under-19-29122025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Rajshahi Warriors",
+    "team_b": "Noakhali Express",
+    "event_name": "Bangladesh Premier League",
+    "poster_id": "Rajshahi-Warriors-Noakhali-Express-29122025.png",
+    "match_type": "team_vs_team"
   }
 ]

@@ -70,69 +70,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Gabon",
-    "team_b": "Mozambique",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "Gabon-Mozambique-28122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Cremonese",
-    "team_b": "Napoli",
-    "event_name": "Serie A",
-    "poster_id": "Cremonese-Napoli-28122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sunderland",
-    "team_b": "Leeds United",
-    "event_name": "Premier League",
-    "poster_id": "Sunderland-Leeds-United-28122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Equatorial Guinea",
-    "team_b": "Sudan",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "Equatorial-Guinea-Sudan-28122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Crystal Palace",
-    "team_b": "Tottenham Hotspur",
-    "event_name": "Premier League",
-    "poster_id": "Crystal-Palace-Tottenham-Hotspur-28122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Algeria",
-    "team_b": "Burkina Faso",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "Algeria-Burkina-Faso-28122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bologna",
-    "team_b": "Sassuolo",
-    "event_name": "Serie A",
-    "poster_id": "Bologna-Sassuolo-28122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "CÃ´te d'Ivoire",
-    "team_b": "Cameroon",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "CÃ´te-d'Ivoire-Cameroon-28122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Atalanta",
-    "team_b": "Inter",
-    "event_name": "Serie A",
-    "poster_id": "Atalanta-Inter-28122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Angola",
     "team_b": "Egypt",
     "event_name": "Africa Cup of Nations",
@@ -168,13 +105,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "India Women",
-    "team_b": "Sri Lanka Women",
-    "event_name": "Twenty20 International Women",
-    "poster_id": "India-Women-Sri-Lanka-Women-28122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Rangpur Riders",
     "team_b": "Chattogram Royals",
     "event_name": "Bangladesh Premier League",
@@ -193,41 +123,6 @@
     "team_b": "Pakistan Under-19",
     "event_name": "U19 Tri-Series in Zimbabwe",
     "poster_id": "Zimbabwe-Under-19-Pakistan-Under-19-29122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Tampa Bay Lightning",
-    "team_b": "MontrÃ©al Canadiens",
-    "event_name": "NHL",
-    "poster_id": "Tampa-Bay-Lightning-MontrÃ©al-Canadiens-28122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Columbus Blue Jackets",
-    "team_b": "New York Islanders",
-    "event_name": "NHL",
-    "poster_id": "Columbus-Blue-Jackets-New-York-Islanders-28122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Chicago Blackhawks",
-    "team_b": "Pittsburgh Penguins",
-    "event_name": "NHL",
-    "poster_id": "Chicago-Blackhawks-Pittsburgh-Penguins-29122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Detroit Red Wings",
-    "team_b": "Toronto Maple Leafs",
-    "event_name": "NHL",
-    "poster_id": "Detroit-Red-Wings-Toronto-Maple-Leafs-29122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Seattle Kraken",
-    "team_b": "Philadelphia Flyers",
-    "event_name": "NHL",
-    "poster_id": "Seattle-Kraken-Philadelphia-Flyers-29122025.png",
     "match_type": "team_vs_team"
   }
 ]

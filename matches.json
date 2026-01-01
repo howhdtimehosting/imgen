@@ -105,20 +105,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Sylhet Titans",
-    "team_b": "Dhaka Capitals",
-    "event_name": "Bangladesh Premier League",
-    "poster_id": "Sylhet-Titans-Dhaka-Capitals-01012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Hobart Hurricanes",
-    "team_b": "Perth Scorchers",
-    "event_name": "Big Bash League",
-    "poster_id": "Hobart-Hurricanes-Perth-Scorchers-01012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Joburg Super Kings",
     "team_b": "Durban's Super Giants",
     "event_name": "SA20 league",

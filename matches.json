@@ -112,13 +112,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Hobart Hurricanes",
-    "team_b": "Perth Scorchers",
-    "event_name": "Big Bash League",
-    "poster_id": "Hobart-Hurricanes-Perth-Scorchers-01012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Joburg Super Kings",
     "team_b": "Durban's Super Giants",
     "event_name": "SA20 league",
@@ -137,13 +130,6 @@
     "team_b": "Fulham",
     "event_name": "Premier League",
     "poster_id": "Crystal-Palace-Fulham-01012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Liverpool",
-    "team_b": "Leeds United",
-    "event_name": "Premier League",
-    "poster_id": "Liverpool-Leeds-United-01012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -389,6 +375,13 @@
     "team_b": "Muku  Hashimoto",
     "event_name": "Japan Boxing Commission",
     "poster_id": "Seiya-Iwamoto-Muku-Hashimoto-13012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Liverpool",
+    "team_b": "Leeds United",
+    "event_name": "Premier League",
+    "poster_id": "Liverpool-Leeds-United-01012026.png",
     "match_type": "team_vs_team"
   }
 ]

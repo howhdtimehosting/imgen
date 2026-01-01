@@ -98,80 +98,297 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Zimbabwe Under-19",
-    "team_b": "Pakistan Under-19",
-    "event_name": "U19 Tri-Series in Zimbabwe",
-    "poster_id": "Zimbabwe-Under-19-Pakistan-Under-19-29122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Rajshahi Warriors",
-    "team_b": "Noakhali Express",
+    "team_a": "Rangpur Riders",
+    "team_b": "Rajshahi Warriors",
     "event_name": "Bangladesh Premier League",
-    "poster_id": "Rajshahi-Warriors-Noakhali-Express-29122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Dhaka Capitals",
-    "team_b": "Rangpur Riders",
-    "event_name": "Bangladesh Premier League",
-    "poster_id": "Dhaka-Capitals-Rangpur-Riders-30122025.png",
+    "poster_id": "Rangpur-Riders-Rajshahi-Warriors-01012026.png",
     "match_type": "team_vs_team"
   },
   {
     "team_a": "Sylhet Titans",
-    "team_b": "Chattogram Royals",
+    "team_b": "Dhaka Capitals",
     "event_name": "Bangladesh Premier League",
-    "poster_id": "Sylhet-Titans-Chattogram-Royals-30122025.png",
+    "poster_id": "Sylhet-Titans-Dhaka-Capitals-01012026.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Sydney Thunder",
+    "team_a": "Hobart Hurricanes",
     "team_b": "Perth Scorchers",
     "event_name": "Big Bash League",
-    "poster_id": "Sydney-Thunder-Perth-Scorchers-30122025.png",
+    "poster_id": "Hobart-Hurricanes-Perth-Scorchers-01012026.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "India Women",
-    "team_b": "Sri Lanka Women",
-    "event_name": "Twenty20 International Women",
-    "poster_id": "India-Women-Sri-Lanka-Women-30122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Durban's Super Giants",
-    "team_b": "Joburg Super Kings",
+    "team_a": "Joburg Super Kings",
+    "team_b": "Durban's Super Giants",
     "event_name": "SA20 league",
-    "poster_id": "Durban's-Super-Giants-Joburg-Super-Kings-30122025.png",
+    "poster_id": "Joburg-Super-Kings-Durban's-Super-Giants-01012026.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Northern Brave Women",
+    "team_a": "Auckland Hearts",
     "team_b": "Wellington Blaze",
     "event_name": "Women's Super Smash",
-    "poster_id": "Northern-Brave-Women-Wellington-Blaze-30122025.png",
+    "poster_id": "Auckland-Hearts-Wellington-Blaze-01012026.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Arunachal Pradesh",
-    "team_b": "Meghalaya",
-    "event_name": "Vijay Hazare Trophy",
-    "poster_id": "Arunachal-Pradesh-Meghalaya-31122025.png",
+    "team_a": "Crystal Palace",
+    "team_b": "Fulham",
+    "event_name": "Premier League",
+    "poster_id": "Crystal-Palace-Fulham-01012026.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Sunrisers Eastern Cape",
-    "team_b": "Paarl Royals",
-    "event_name": "SA20 league",
-    "poster_id": "Sunrisers-Eastern-Cape-Paarl-Royals-31122025.png",
+    "team_a": "Liverpool",
+    "team_b": "Leeds United",
+    "event_name": "Premier League",
+    "poster_id": "Liverpool-Leeds-United-01012026.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Adelaide Strikers",
-    "team_b": "Brisbane Heat",
+    "team_a": "Brentford",
+    "team_b": "Tottenham Hotspur",
+    "event_name": "Premier League",
+    "poster_id": "Brentford-Tottenham-Hotspur-01012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Melbourne Victory",
+    "team_b": "Perth Glory",
+    "event_name": "A-League Men",
+    "poster_id": "Melbourne-Victory-Perth-Glory-02012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sunderland",
+    "team_b": "Manchester City",
+    "event_name": "Premier League",
+    "poster_id": "Sunderland-Manchester-City-01012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Najma SC",
+    "team_b": "Al-Khaleej",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Najma-SC-Al-Khaleej-02012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Ettifaq",
+    "team_b": "Al-Okhdood",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Ettifaq-Al-Okhdood-02012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cagliari",
+    "team_b": "Milan",
+    "event_name": "Serie A",
+    "poster_id": "Cagliari-Milan-02012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Eibar",
+    "team_b": "MirandÃ©s",
+    "event_name": "LaLiga 2",
+    "poster_id": "Eibar-MirandÃ©s-02012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Ahli",
+    "team_b": "Al-Nassr",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Ahli-Al-Nassr-02012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Rayo Vallecano",
+    "team_b": "Getafe",
+    "event_name": "LaLiga",
+    "poster_id": "Rayo-Vallecano-Getafe-02012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Toulouse",
+    "team_b": "RC Lens",
+    "event_name": "Ligue 1",
+    "poster_id": "Toulouse-RC-Lens-02012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Feirense",
+    "team_b": "UniÃ£o de Leiria",
+    "event_name": "Liga Portugal 2",
+    "poster_id": "Feirense-UniÃ£o-de-Leiria-03012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Como",
+    "team_b": "Udinese",
+    "event_name": "Serie A",
+    "poster_id": "Como-Udinese-03012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Dhaka Capitals",
+    "team_b": "Chattogram Royals",
+    "event_name": "Bangladesh Premier League",
+    "poster_id": "Dhaka-Capitals-Chattogram-Royals-02012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Brisbane Heat",
+    "team_b": "Melbourne Stars",
     "event_name": "Big Bash League",
-    "poster_id": "Adelaide-Strikers-Brisbane-Heat-31122025.png",
+    "poster_id": "Brisbane-Heat-Melbourne-Stars-02012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Auckland Aces",
+    "team_b": "Wellington Firebirds",
+    "event_name": "Super Smash",
+    "poster_id": "Auckland-Aces-Wellington-Firebirds-02012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Detroit Red Wings",
+    "team_b": "Pittsburgh Penguins",
+    "event_name": "NHL",
+    "poster_id": "Detroit-Red-Wings-Pittsburgh-Penguins-03012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New Jersey Devils",
+    "team_b": "Utah Mammoth",
+    "event_name": "NHL",
+    "poster_id": "New-Jersey-Devils-Utah-Mammoth-03012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Columbus Blue Jackets",
+    "team_b": "Buffalo Sabres",
+    "event_name": "NHL",
+    "poster_id": "Columbus-Blue-Jackets-Buffalo-Sabres-03012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "St. Louis Blues",
+    "team_b": "MontrÃ©al Canadiens",
+    "event_name": "NHL",
+    "poster_id": "St.-Louis-Blues-MontrÃ©al-Canadiens-03012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "San Jose Sharks",
+    "team_b": "Tampa Bay Lightning",
+    "event_name": "NHL",
+    "poster_id": "San-Jose-Sharks-Tampa-Bay-Lightning-03012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Washington Capitals",
+    "team_b": "Chicago Blackhawks",
+    "event_name": "NHL",
+    "poster_id": "Washington-Capitals-Chicago-Blackhawks-04012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Carolina Hurricanes",
+    "team_b": "Colorado Avalanche",
+    "event_name": "NHL",
+    "poster_id": "Carolina-Hurricanes-Colorado-Avalanche-04012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Ottawa Senators",
+    "team_b": "Winnipeg Jets",
+    "event_name": "NHL",
+    "poster_id": "Ottawa-Senators-Winnipeg-Jets-04012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New York Islanders",
+    "team_b": "Toronto Maple Leafs",
+    "event_name": "NHL",
+    "poster_id": "New-York-Islanders-Toronto-Maple-Leafs-04012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Calgary Flames",
+    "team_b": "Nashville Predators",
+    "event_name": "NHL",
+    "poster_id": "Calgary-Flames-Nashville-Predators-04012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Washington Wizards",
+    "team_b": "Brooklyn Nets",
+    "event_name": "NBA",
+    "poster_id": "Washington-Wizards-Brooklyn-Nets-03012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Indiana Pacers",
+    "team_b": "San Antonio Spurs",
+    "event_name": "NBA",
+    "poster_id": "Indiana-Pacers-San-Antonio-Spurs-03012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cleveland Cavaliers",
+    "team_b": "Denver Nuggets",
+    "event_name": "NBA",
+    "poster_id": "Cleveland-Cavaliers-Denver-Nuggets-03012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New York Knicks",
+    "team_b": "Atlanta Hawks",
+    "event_name": "NBA",
+    "poster_id": "New-York-Knicks-Atlanta-Hawks-03012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Chicago Bulls",
+    "team_b": "Orlando Magic",
+    "event_name": "NBA",
+    "poster_id": "Chicago-Bulls-Orlando-Magic-03012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Milwaukee Bucks",
+    "team_b": "Charlotte Hornets",
+    "event_name": "NBA",
+    "poster_id": "Milwaukee-Bucks-Charlotte-Hornets-03012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New Orleans Pelicans",
+    "team_b": "Portland Trail Blazers",
+    "event_name": "NBA",
+    "poster_id": "New-Orleans-Pelicans-Portland-Trail-Blazers-03012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Toshiya Ishii",
+    "team_b": "Jun Ikegawa",
+    "event_name": "Japan Boxing Commission",
+    "poster_id": "Toshiya-Ishii-Jun-Ikegawa-13012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Toshiya Ishii",
+    "team_b": "Jun Ikegawa",
+    "event_name": "Japan Boxing Commission",
+    "poster_id": "Toshiya-Ishii-Jun-Ikegawa-13012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Seiya  Iwamoto",
+    "team_b": "Muku  Hashimoto",
+    "event_name": "Japan Boxing Commission",
+    "poster_id": "Seiya-Iwamoto-Muku-Hashimoto-13012026.png",
     "match_type": "team_vs_team"
   }
 ]

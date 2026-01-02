@@ -341,5 +341,33 @@
     "event_name": "Premier League",
     "poster_id": "Liverpool-Leeds-United-01012026.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sylhet Titans",
+    "team_b": "Rangpur Riders",
+    "event_name": "Bangladesh Premier League",
+    "poster_id": "Sylhet-Titans-Rangpur-Riders-02012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Paarl Royals",
+    "team_b": "MI Cape Town",
+    "event_name": "SA20 league",
+    "poster_id": "Paarl-Royals-MI-Cape-Town-02012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sydney Thunder",
+    "team_b": "Hobart Hurricanes",
+    "event_name": "Big Bash League",
+    "poster_id": "Sydney-Thunder-Hobart-Hurricanes-03012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Joburg Super Kings",
+    "team_b": "Sunrisers Eastern Cape",
+    "event_name": "SA20 league",
+    "poster_id": "Joburg-Super-Kings-Sunrisers-Eastern-Cape-03012026.png",
+    "match_type": "team_vs_team"
   }
 ]

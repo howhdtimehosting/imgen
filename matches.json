@@ -84,13 +84,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Melbourne Stars",
-    "team_b": "Sydney Thunder",
-    "event_name": "Big Bash League",
-    "poster_id": "Melbourne-Stars-Sydney-Thunder-28122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Rangpur Riders",
     "team_b": "Chattogram Royals",
     "event_name": "Bangladesh Premier League",
@@ -109,34 +102,6 @@
     "team_b": "Dhaka Capitals",
     "event_name": "Bangladesh Premier League",
     "poster_id": "Sylhet-Titans-Dhaka-Capitals-01012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Joburg Super Kings",
-    "team_b": "Durban's Super Giants",
-    "event_name": "SA20 league",
-    "poster_id": "Joburg-Super-Kings-Durban's-Super-Giants-01012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Auckland Hearts",
-    "team_b": "Wellington Blaze",
-    "event_name": "Women's Super Smash",
-    "poster_id": "Auckland-Hearts-Wellington-Blaze-01012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Crystal Palace",
-    "team_b": "Fulham",
-    "event_name": "Premier League",
-    "poster_id": "Crystal-Palace-Fulham-01012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Brentford",
-    "team_b": "Tottenham Hotspur",
-    "event_name": "Premier League",
-    "poster_id": "Brentford-Tottenham-Hotspur-01012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -228,13 +193,6 @@
     "team_b": "Melbourne Stars",
     "event_name": "Big Bash League",
     "poster_id": "Brisbane-Heat-Melbourne-Stars-02012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Auckland Aces",
-    "team_b": "Wellington Firebirds",
-    "event_name": "Super Smash",
-    "poster_id": "Auckland-Aces-Wellington-Firebirds-02012026.png",
     "match_type": "team_vs_team"
   },
   {

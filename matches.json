@@ -105,13 +105,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Melbourne Victory",
-    "team_b": "Perth Glory",
-    "event_name": "A-League Men",
-    "poster_id": "Melbourne-Victory-Perth-Glory-02012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Sunderland",
     "team_b": "Manchester City",
     "event_name": "Premier League",

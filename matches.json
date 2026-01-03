@@ -287,13 +287,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Como",
-    "team_b": "Udinese",
-    "event_name": "Serie A",
-    "poster_id": "Como-Udinese-03012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Celtic",
     "team_b": "Rangers",
     "event_name": "Scottish Premiership",

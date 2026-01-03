@@ -161,20 +161,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "New Jersey Devils",
-    "team_b": "Utah Mammoth",
-    "event_name": "NHL",
-    "poster_id": "New-Jersey-Devils-Utah-Mammoth-03012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Columbus Blue Jackets",
-    "team_b": "Buffalo Sabres",
-    "event_name": "NHL",
-    "poster_id": "Columbus-Blue-Jackets-Buffalo-Sabres-03012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "St. Louis Blues",
     "team_b": "MontrÃ©al Canadiens",
     "event_name": "NHL",
@@ -368,13 +354,6 @@
     "team_b": "Burgos Club de FÃºtbol",
     "event_name": "LaLiga 2",
     "poster_id": "CÃ³rdoba-Burgos-Club-de-FÃºtbol-03012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Atalanta",
-    "team_b": "Roma",
-    "event_name": "Serie A",
-    "poster_id": "Atalanta-Roma-03012026.png",
     "match_type": "team_vs_team"
   },
   {

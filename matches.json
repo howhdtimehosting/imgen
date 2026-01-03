@@ -161,13 +161,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Detroit Red Wings",
-    "team_b": "Pittsburgh Penguins",
-    "event_name": "NHL",
-    "poster_id": "Detroit-Red-Wings-Pittsburgh-Penguins-03012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "New Jersey Devils",
     "team_b": "Utah Mammoth",
     "event_name": "NHL",
@@ -329,59 +322,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Wolverhampton",
-    "team_b": "West Ham United",
-    "event_name": "Premier League",
-    "poster_id": "Wolverhampton-West-Ham-United-03012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Brighton & Hove Albion",
-    "team_b": "Burnley",
-    "event_name": "Premier League",
-    "poster_id": "Brighton-&-Hove-Albion-Burnley-03012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "AlmerÃ­a",
-    "team_b": "Granada",
-    "event_name": "LaLiga 2",
-    "poster_id": "AlmerÃ­a-Granada-03012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Osasuna",
-    "team_b": "Athletic Club",
-    "event_name": "LaLiga",
-    "poster_id": "Osasuna-Athletic-Club-03012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Senegal",
-    "team_b": "Sudan",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "Senegal-Sudan-03012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "AS Monaco",
-    "team_b": "Olympique Lyonnais",
-    "event_name": "Ligue 1",
-    "poster_id": "AS-Monaco-Olympique-Lyonnais-03012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Juventus",
     "team_b": "Lecce",
     "event_name": "Serie A",
     "poster_id": "Juventus-Lecce-03012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Valladolid",
-    "team_b": "Real Racing Club",
-    "event_name": "LaLiga 2",
-    "poster_id": "Real-Valladolid-Real-Racing-Club-03012026.png",
     "match_type": "team_vs_team"
   },
   {

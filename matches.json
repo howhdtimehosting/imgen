@@ -273,125 +273,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Leeds United",
-    "team_b": "Manchester United",
-    "event_name": "Premier League",
-    "poster_id": "Leeds-United-Manchester-United-04012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sporting GijÃ³n",
-    "team_b": "MÃ¡laga",
-    "event_name": "LaLiga 2",
-    "poster_id": "Sporting-GijÃ³n-MÃ¡laga-04012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sevilla",
-    "team_b": "Levante UD",
-    "event_name": "LaLiga",
-    "poster_id": "Sevilla-Levante-UD-04012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Olympique de Marseille",
-    "team_b": "Nantes",
-    "event_name": "Ligue 1",
-    "poster_id": "Olympique-de-Marseille-Nantes-04012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Fiorentina",
-    "team_b": "Cremonese",
-    "event_name": "Serie A",
-    "poster_id": "Fiorentina-Cremonese-04012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Everton",
-    "team_b": "Brentford",
-    "event_name": "Premier League",
-    "poster_id": "Everton-Brentford-04012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Tottenham Hotspur",
-    "team_b": "Sunderland",
-    "event_name": "Premier League",
-    "poster_id": "Tottenham-Hotspur-Sunderland-04012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Fulham",
-    "team_b": "Liverpool",
-    "event_name": "Premier League",
-    "poster_id": "Fulham-Liverpool-04012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Newcastle United",
-    "team_b": "Crystal Palace",
-    "event_name": "Premier League",
-    "poster_id": "Newcastle-United-Crystal-Palace-04012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Madrid",
-    "team_b": "Real Betis",
-    "event_name": "LaLiga",
-    "poster_id": "Real-Madrid-Real-Betis-04012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "AD Ceuta",
-    "team_b": "FC Andorra",
-    "event_name": "LaLiga 2",
-    "poster_id": "AD-Ceuta-FC-Andorra-04012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Le Havre",
-    "team_b": "Angers",
-    "event_name": "Ligue 1",
-    "poster_id": "Le-Havre-Angers-04012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Morocco",
-    "team_b": "Tanzania",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "Morocco-Tanzania-04012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Stade Brestois",
-    "team_b": "Auxerre",
-    "event_name": "Ligue 1",
-    "poster_id": "Stade-Brestois-Auxerre-04012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Lorient",
-    "team_b": "Metz",
-    "event_name": "Ligue 1",
-    "poster_id": "Lorient-Metz-04012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Deportivo AlavÃ©s",
-    "team_b": "Real Oviedo",
-    "event_name": "LaLiga",
-    "poster_id": "Deportivo-AlavÃ©s-Real-Oviedo-04012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Hellas Verona",
-    "team_b": "Torino",
-    "event_name": "Serie A",
-    "poster_id": "Hellas-Verona-Torino-04012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Manchester City",
     "team_b": "Chelsea",
     "event_name": "Premier League",
@@ -403,20 +284,6 @@
     "team_b": "Girona FC",
     "event_name": "LaLiga",
     "poster_id": "Mallorca-Girona-FC-04012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Damac FC",
-    "team_b": "Al-Hilal",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Damac-FC-Al-Hilal-04012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Qadsiah",
-    "team_b": "Al-Riyadh",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Qadsiah-Al-Riyadh-04012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -508,13 +375,6 @@
     "team_b": "Aberdeen",
     "event_name": "Scottish Premiership",
     "poster_id": "Rangers-Aberdeen-06012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Dhaka Capitals",
-    "team_b": "Rangpur Riders",
-    "event_name": "Bangladesh Premier League",
-    "poster_id": "Dhaka-Capitals-Rangpur-Riders-04012026.png",
     "match_type": "team_vs_team"
   }
 ]

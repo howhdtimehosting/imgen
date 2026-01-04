@@ -161,55 +161,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "St. Louis Blues",
-    "team_b": "MontrÃ©al Canadiens",
-    "event_name": "NHL",
-    "poster_id": "St.-Louis-Blues-MontrÃ©al-Canadiens-03012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "San Jose Sharks",
-    "team_b": "Tampa Bay Lightning",
-    "event_name": "NHL",
-    "poster_id": "San-Jose-Sharks-Tampa-Bay-Lightning-03012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Washington Capitals",
-    "team_b": "Chicago Blackhawks",
-    "event_name": "NHL",
-    "poster_id": "Washington-Capitals-Chicago-Blackhawks-04012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Carolina Hurricanes",
-    "team_b": "Colorado Avalanche",
-    "event_name": "NHL",
-    "poster_id": "Carolina-Hurricanes-Colorado-Avalanche-04012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Ottawa Senators",
-    "team_b": "Winnipeg Jets",
-    "event_name": "NHL",
-    "poster_id": "Ottawa-Senators-Winnipeg-Jets-04012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "New York Islanders",
-    "team_b": "Toronto Maple Leafs",
-    "event_name": "NHL",
-    "poster_id": "New-York-Islanders-Toronto-Maple-Leafs-04012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Calgary Flames",
-    "team_b": "Nashville Predators",
-    "event_name": "NHL",
-    "poster_id": "Calgary-Flames-Nashville-Predators-04012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Toshiya Ishii",
     "team_b": "Jun Ikegawa",
     "event_name": "Japan Boxing Commission",
@@ -287,27 +238,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Cultural Leonesa",
-    "team_b": "Real Sociedad B U21",
-    "event_name": "LaLiga 2",
-    "poster_id": "Cultural-Leonesa-Real-Sociedad-B-U21-03012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Genoa",
-    "team_b": "Pisa",
-    "event_name": "Serie A",
-    "poster_id": "Genoa-Pisa-03012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sassuolo",
-    "team_b": "Parma",
-    "event_name": "Serie A",
-    "poster_id": "Sassuolo-Parma-03012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Juventus",
     "team_b": "Lecce",
     "event_name": "Serie A",
@@ -333,34 +263,6 @@
     "team_b": "RC Strasbourg",
     "event_name": "Ligue 1",
     "poster_id": "Nice-RC-Strasbourg-03012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Mali",
-    "team_b": "Tunisia",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "Mali-Tunisia-03012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Espanyol",
-    "team_b": "Barcelona",
-    "event_name": "LaLiga",
-    "poster_id": "Espanyol-Barcelona-03012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "CÃ³rdoba",
-    "team_b": "Burgos Club de FÃºtbol",
-    "event_name": "LaLiga 2",
-    "poster_id": "CÃ³rdoba-Burgos-Club-de-FÃºtbol-03012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Lille",
-    "team_b": "Stade Rennais",
-    "event_name": "Ligue 1",
-    "poster_id": "Lille-Stade-Rennais-03012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -606,6 +508,13 @@
     "team_b": "Aberdeen",
     "event_name": "Scottish Premiership",
     "poster_id": "Rangers-Aberdeen-06012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sylhet Titans",
+    "team_b": "Chattogram Royals",
+    "event_name": "Bangladesh Premier League",
+    "poster_id": "Sylhet-Titans-Chattogram-Royals-04012026.png",
     "match_type": "team_vs_team"
   }
 ]

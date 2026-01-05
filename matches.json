@@ -231,13 +231,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Celta Vigo",
-    "team_b": "Valencia",
-    "event_name": "LaLiga",
-    "poster_id": "Celta-Vigo-Valencia-03012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Juventus",
     "team_b": "Lecce",
     "event_name": "Serie A",
@@ -270,48 +263,6 @@
     "team_b": "Napoli",
     "event_name": "Serie A",
     "poster_id": "Lazio-Napoli-04012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Manchester City",
-    "team_b": "Chelsea",
-    "event_name": "Premier League",
-    "poster_id": "Manchester-City-Chelsea-04012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Mallorca",
-    "team_b": "Girona FC",
-    "event_name": "LaLiga",
-    "poster_id": "Mallorca-Girona-FC-04012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Paris Saint-Germain",
-    "team_b": "Paris FC",
-    "event_name": "Ligue 1",
-    "poster_id": "Paris-Saint-Germain-Paris-FC-04012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Inter",
-    "team_b": "Bologna",
-    "event_name": "Serie A",
-    "poster_id": "Inter-Bologna-04012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Sociedad",
-    "team_b": "AtlÃ©tico Madrid",
-    "event_name": "LaLiga",
-    "poster_id": "Real-Sociedad-AtlÃ©tico-Madrid-04012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "South Africa",
-    "team_b": "Cameroon",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "South-Africa-Cameroon-04012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -375,6 +326,20 @@
     "team_b": "Aberdeen",
     "event_name": "Scottish Premiership",
     "poster_id": "Rangers-Aberdeen-06012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pretoria Capitals",
+    "team_b": "Sunrisers Eastern Cape",
+    "event_name": "SA20 league",
+    "poster_id": "Pretoria-Capitals-Sunrisers-Eastern-Cape-05012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Chattogram Royals",
+    "team_b": "Rangpur Riders",
+    "event_name": "Bangladesh Premier League",
+    "poster_id": "Chattogram-Royals-Rangpur-Riders-05012026.png",
     "match_type": "team_vs_team"
   }
 ]

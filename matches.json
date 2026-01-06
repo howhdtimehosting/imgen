@@ -84,20 +84,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Egypt",
-    "team_b": "Benin",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "Egypt-Benin-05012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Nigeria",
-    "team_b": "Mozambique",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "Nigeria-Mozambique-05012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Pisa",
     "team_b": "Como",
     "event_name": "Serie A",
@@ -144,13 +130,6 @@
     "team_b": "Aberdeen",
     "event_name": "Scottish Premiership",
     "poster_id": "Rangers-Aberdeen-06012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Pretoria Capitals",
-    "team_b": "Sunrisers Eastern Cape",
-    "event_name": "SA20 league",
-    "poster_id": "Pretoria-Capitals-Sunrisers-Eastern-Cape-05012026.png",
     "match_type": "team_vs_team"
   },
   {

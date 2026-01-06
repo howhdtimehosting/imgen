@@ -112,13 +112,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Sassuolo",
-    "team_b": "Juventus",
-    "event_name": "Serie A",
-    "poster_id": "Sassuolo-Juventus-06012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "West Ham United",
     "team_b": "Nottingham Forest",
     "event_name": "Premier League",
@@ -137,6 +130,13 @@
     "team_b": "Rangpur Riders",
     "event_name": "Bangladesh Premier League",
     "poster_id": "Chattogram-Royals-Rangpur-Riders-05012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sassuolo",
+    "team_b": "Juventus",
+    "event_name": "Serie A",
+    "poster_id": "Sassuolo-Juventus-06012026.png",
     "match_type": "team_vs_team"
   }
 ]

@@ -35,34 +35,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Dhaka Capitals",
-    "team_b": "Rajshahi Warriors",
-    "event_name": "Bangladesh Premier League",
-    "poster_id": "Dhaka-Capitals-Rajshahi-Warriors-27122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sylhet Titans",
-    "team_b": "Noakhali Express",
-    "event_name": "Bangladesh Premier League",
-    "poster_id": "Sylhet-Titans-Noakhali-Express-27122025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Ahli",
-    "team_b": "Al-Nassr",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Ahli-Al-Nassr-02012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Dhaka Capitals",
-    "team_b": "Chattogram Royals",
-    "event_name": "Bangladesh Premier League",
-    "poster_id": "Dhaka-Capitals-Chattogram-Royals-02012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Toshiya Ishii",
     "team_b": "Jun Ikegawa",
     "event_name": "Japan Boxing Commission",
@@ -81,34 +53,6 @@
     "team_b": "Muku  Hashimoto",
     "event_name": "Japan Boxing Commission",
     "poster_id": "Seiya-Iwamoto-Muku-Hashimoto-13012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Pisa",
-    "team_b": "Como",
-    "event_name": "Serie A",
-    "poster_id": "Pisa-Como-06012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Algeria",
-    "team_b": "DR Congo",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "Algeria-DR-Congo-06012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Lecce",
-    "team_b": "Roma",
-    "event_name": "Serie A",
-    "poster_id": "Lecce-Roma-06012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Chattogram Royals",
-    "team_b": "Rangpur Riders",
-    "event_name": "Bangladesh Premier League",
-    "poster_id": "Chattogram-Royals-Rangpur-Riders-05012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -144,6 +88,223 @@
     "team_b": "Sydney Sixers",
     "event_name": "Big Bash League",
     "poster_id": "Melbourne-Stars-Sydney-Sixers-08012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Brentford",
+    "team_b": "Sunderland",
+    "event_name": "Premier League",
+    "poster_id": "Brentford-Sunderland-07012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bournemouth",
+    "team_b": "Tottenham Hotspur",
+    "event_name": "Premier League",
+    "poster_id": "Bournemouth-Tottenham-Hotspur-07012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Barcelona",
+    "team_b": "Athletic Club",
+    "event_name": "Supercopa de EspaÃ±a",
+    "poster_id": "Barcelona-Athletic-Club-07012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Crystal Palace",
+    "team_b": "Aston Villa",
+    "event_name": "Premier League",
+    "poster_id": "Crystal-Palace-Aston-Villa-07012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Fulham",
+    "team_b": "Chelsea",
+    "event_name": "Premier League",
+    "poster_id": "Fulham-Chelsea-07012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Everton",
+    "team_b": "Wolverhampton",
+    "event_name": "Premier League",
+    "poster_id": "Everton-Wolverhampton-07012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Lazio",
+    "team_b": "Fiorentina",
+    "event_name": "Serie A",
+    "poster_id": "Lazio-Fiorentina-07012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Parma",
+    "team_b": "Inter",
+    "event_name": "Serie A",
+    "poster_id": "Parma-Inter-07012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Manchester City",
+    "team_b": "Brighton & Hove Albion",
+    "event_name": "Premier League",
+    "poster_id": "Manchester-City-Brighton-&-Hove-Albion-07012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Torino",
+    "team_b": "Udinese",
+    "event_name": "Serie A",
+    "poster_id": "Torino-Udinese-07012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Burnley",
+    "team_b": "Manchester United",
+    "event_name": "Premier League",
+    "poster_id": "Burnley-Manchester-United-07012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Benfica",
+    "team_b": "Sporting Braga",
+    "event_name": "TaÃ§a da Liga",
+    "poster_id": "Benfica-Sporting-Braga-07012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Newcastle United",
+    "team_b": "Leeds United",
+    "event_name": "Premier League",
+    "poster_id": "Newcastle-United-Leeds-United-07012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Hilal",
+    "team_b": "Al-Hazem",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Hilal-Al-Hazem-08012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Nassr",
+    "team_b": "Al-Qadsiah",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Nassr-Al-Qadsiah-08012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cremonese",
+    "team_b": "Cagliari",
+    "event_name": "Serie A",
+    "poster_id": "Cremonese-Cagliari-08012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Najma SC",
+    "team_b": "Al-Ettifaq",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Najma-SC-Al-Ettifaq-08012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "AtlÃ©tico Madrid",
+    "team_b": "Real Madrid",
+    "event_name": "Supercopa de EspaÃ±a",
+    "poster_id": "AtlÃ©tico-Madrid-Real-Madrid-08012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Paris Saint-Germain",
+    "team_b": "Olympique de Marseille",
+    "event_name": "TrophÃ©e des Champions",
+    "poster_id": "Paris-Saint-Germain-Olympique-de-Marseille-08012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Milan",
+    "team_b": "Genoa",
+    "event_name": "Serie A",
+    "poster_id": "Milan-Genoa-08012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Arsenal",
+    "team_b": "Liverpool",
+    "event_name": "Premier League",
+    "poster_id": "Arsenal-Liverpool-08012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Khaleej",
+    "team_b": "Damac FC",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Khaleej-Damac-FC-09012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Mali",
+    "team_b": "Senegal",
+    "event_name": "Africa Cup of Nations",
+    "poster_id": "Mali-Senegal-09012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Taawoun",
+    "team_b": "Al-Shabab",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Taawoun-Al-Shabab-09012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Jordan U23",
+    "team_b": "Saudi Arabia U23",
+    "event_name": "U23 AFC Asian Cup",
+    "poster_id": "Jordan-U23-Saudi-Arabia-U23-09012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Kholood",
+    "team_b": "Al-Ittihad",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Kholood-Al-Ittihad-09012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cameroon",
+    "team_b": "Morocco",
+    "event_name": "Africa Cup of Nations",
+    "poster_id": "Cameroon-Morocco-09012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Eintracht Frankfurt",
+    "team_b": "Borussia Dortmund",
+    "event_name": "Bundesliga",
+    "poster_id": "Eintracht-Frankfurt-Borussia-Dortmund-09012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "CÃ¡diz",
+    "team_b": "Sporting GijÃ³n",
+    "event_name": "LaLiga 2",
+    "poster_id": "CÃ¡diz-Sporting-GijÃ³n-09012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Getafe",
+    "team_b": "Real Sociedad",
+    "event_name": "LaLiga",
+    "poster_id": "Getafe-Real-Sociedad-09012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Club AtlÃ©tico de Madrid",
+    "team_b": "Real Sociedad",
+    "event_name": "Liga F Moeve",
+    "poster_id": "Club-AtlÃ©tico-de-Madrid-Real-Sociedad-10012026.png",
     "match_type": "team_vs_team"
   }
 ]

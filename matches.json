@@ -112,20 +112,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Dhaka Capitals",
-    "team_b": "Noakhali Express",
-    "event_name": "Bangladesh Premier League",
-    "poster_id": "Dhaka-Capitals-Noakhali-Express-07012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Perth Scorchers",
-    "team_b": "Melbourne Renegades",
-    "event_name": "Big Bash League",
-    "poster_id": "Perth-Scorchers-Melbourne-Renegades-07012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Sri Lanka",
     "team_b": "Pakistan",
     "event_name": "T20 International",

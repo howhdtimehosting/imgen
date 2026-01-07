@@ -105,27 +105,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "CÃ´te d'Ivoire",
-    "team_b": "Burkina Faso",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "CÃ´te-d'Ivoire-Burkina-Faso-06012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "West Ham United",
-    "team_b": "Nottingham Forest",
-    "event_name": "Premier League",
-    "poster_id": "West-Ham-United-Nottingham-Forest-06012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Rangers",
-    "team_b": "Aberdeen",
-    "event_name": "Scottish Premiership",
-    "poster_id": "Rangers-Aberdeen-06012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Chattogram Royals",
     "team_b": "Rangpur Riders",
     "event_name": "Bangladesh Premier League",
@@ -133,10 +112,52 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Sassuolo",
-    "team_b": "Juventus",
-    "event_name": "Serie A",
-    "poster_id": "Sassuolo-Juventus-06012026.png",
+    "team_a": "Dhaka Capitals",
+    "team_b": "Noakhali Express",
+    "event_name": "Bangladesh Premier League",
+    "poster_id": "Dhaka-Capitals-Noakhali-Express-07012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Perth Scorchers",
+    "team_b": "Melbourne Renegades",
+    "event_name": "Big Bash League",
+    "poster_id": "Perth-Scorchers-Melbourne-Renegades-07012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sri Lanka",
+    "team_b": "Pakistan",
+    "event_name": "T20 International",
+    "poster_id": "Sri-Lanka-Pakistan-07012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Chattogram Royals",
+    "team_b": "Sylhet Titans",
+    "event_name": "Bangladesh Premier League",
+    "poster_id": "Chattogram-Royals-Sylhet-Titans-07012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Durban's Super Giants",
+    "team_b": "Pretoria Capitals",
+    "event_name": "SA20 league",
+    "poster_id": "Durban's-Super-Giants-Pretoria-Capitals-07012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Northern Districts",
+    "team_b": "Canterbury",
+    "event_name": "Super Smash",
+    "poster_id": "Northern-Districts-Canterbury-08012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Melbourne Stars",
+    "team_b": "Sydney Sixers",
+    "event_name": "Big Bash League",
+    "poster_id": "Melbourne-Stars-Sydney-Sixers-08012026.png",
     "match_type": "team_vs_team"
   }
 ]

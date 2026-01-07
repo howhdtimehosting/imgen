@@ -306,5 +306,19 @@
     "event_name": "Liga F Moeve",
     "poster_id": "Club-AtlÃ©tico-de-Madrid-Real-Sociedad-10012026.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bologna",
+    "team_b": "Atalanta",
+    "event_name": "Serie A",
+    "poster_id": "Bologna-Atalanta-07012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Napoli",
+    "team_b": "Hellas Verona",
+    "event_name": "Serie A",
+    "poster_id": "Napoli-Hellas-Verona-07012026.png",
+    "match_type": "team_vs_team"
   }
 ]

@@ -56,129 +56,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Sri Lanka",
-    "team_b": "Pakistan",
-    "event_name": "T20 International",
-    "poster_id": "Sri-Lanka-Pakistan-07012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Chattogram Royals",
     "team_b": "Sylhet Titans",
     "event_name": "Bangladesh Premier League",
     "poster_id": "Chattogram-Royals-Sylhet-Titans-07012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Durban's Super Giants",
-    "team_b": "Pretoria Capitals",
-    "event_name": "SA20 league",
-    "poster_id": "Durban's-Super-Giants-Pretoria-Capitals-07012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Northern Districts",
-    "team_b": "Canterbury",
-    "event_name": "Super Smash",
-    "poster_id": "Northern-Districts-Canterbury-08012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Melbourne Stars",
-    "team_b": "Sydney Sixers",
-    "event_name": "Big Bash League",
-    "poster_id": "Melbourne-Stars-Sydney-Sixers-08012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Brentford",
-    "team_b": "Sunderland",
-    "event_name": "Premier League",
-    "poster_id": "Brentford-Sunderland-07012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bournemouth",
-    "team_b": "Tottenham Hotspur",
-    "event_name": "Premier League",
-    "poster_id": "Bournemouth-Tottenham-Hotspur-07012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Barcelona",
-    "team_b": "Athletic Club",
-    "event_name": "Supercopa de EspaÃ±a",
-    "poster_id": "Barcelona-Athletic-Club-07012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Crystal Palace",
-    "team_b": "Aston Villa",
-    "event_name": "Premier League",
-    "poster_id": "Crystal-Palace-Aston-Villa-07012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Fulham",
-    "team_b": "Chelsea",
-    "event_name": "Premier League",
-    "poster_id": "Fulham-Chelsea-07012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Everton",
-    "team_b": "Wolverhampton",
-    "event_name": "Premier League",
-    "poster_id": "Everton-Wolverhampton-07012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Lazio",
-    "team_b": "Fiorentina",
-    "event_name": "Serie A",
-    "poster_id": "Lazio-Fiorentina-07012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Parma",
-    "team_b": "Inter",
-    "event_name": "Serie A",
-    "poster_id": "Parma-Inter-07012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Manchester City",
-    "team_b": "Brighton & Hove Albion",
-    "event_name": "Premier League",
-    "poster_id": "Manchester-City-Brighton-&-Hove-Albion-07012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Torino",
-    "team_b": "Udinese",
-    "event_name": "Serie A",
-    "poster_id": "Torino-Udinese-07012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Burnley",
-    "team_b": "Manchester United",
-    "event_name": "Premier League",
-    "poster_id": "Burnley-Manchester-United-07012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Benfica",
-    "team_b": "Sporting Braga",
-    "event_name": "TaÃ§a da Liga",
-    "poster_id": "Benfica-Sporting-Braga-07012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Newcastle United",
-    "team_b": "Leeds United",
-    "event_name": "Premier League",
-    "poster_id": "Newcastle-United-Leeds-United-07012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -308,17 +189,31 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Bologna",
-    "team_b": "Atalanta",
-    "event_name": "Serie A",
-    "poster_id": "Bologna-Atalanta-07012026.png",
+    "team_a": "Dhaka Capitals",
+    "team_b": "Sylhet Titans",
+    "event_name": "Bangladesh Premier League",
+    "poster_id": "Dhaka-Capitals-Sylhet-Titans-08012026.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Napoli",
-    "team_b": "Hellas Verona",
-    "event_name": "Serie A",
-    "poster_id": "Napoli-Hellas-Verona-07012026.png",
+    "team_a": "Joburg Super Kings",
+    "team_b": "Paarl Royals",
+    "event_name": "SA20 league",
+    "poster_id": "Joburg-Super-Kings-Paarl-Royals-08012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Rajshahi Warriors",
+    "team_b": "Chattogram Royals",
+    "event_name": "Bangladesh Premier League",
+    "poster_id": "Rajshahi-Warriors-Chattogram-Royals-09012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Hobart Hurricanes",
+    "team_b": "Adelaide Strikers",
+    "event_name": "Big Bash League",
+    "poster_id": "Hobart-Hurricanes-Adelaide-Strikers-09012026.png",
     "match_type": "team_vs_team"
   }
 ]

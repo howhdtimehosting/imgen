@@ -126,20 +126,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Rajshahi Warriors",
-    "team_b": "Chattogram Royals",
-    "event_name": "Bangladesh Premier League",
-    "poster_id": "Rajshahi-Warriors-Chattogram-Royals-09012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Hobart Hurricanes",
-    "team_b": "Adelaide Strikers",
-    "event_name": "Big Bash League",
-    "poster_id": "Hobart-Hurricanes-Adelaide-Strikers-09012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Cheltenham Town",
     "team_b": "Leicester City",
     "event_name": "FA Cup",

@@ -1,19 +1,5 @@
 [
   {
-    "team_a": "MotoGP",
-    "team_b": "",
-    "event_name": "MotoGP",
-    "poster_id": "MotoGP-20072025.png",
-    "match_type": "single_event"
-  },
-  {
-    "team_a": "Raw",
-    "team_b": "Raw",
-    "event_name": "Monday Night Raw",
-    "poster_id": "Raw-Raw-09092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "TNA iMPACT!",
     "team_b": "TNA iMPACT!",
     "event_name": "TNA iMPACT!",
@@ -25,13 +11,6 @@
     "team_b": "NXT",
     "event_name": "WWE NXT",
     "poster_id": "NXT-NXT-10092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "MotoGP",
-    "team_b": "MotoGP",
-    "event_name": "MotoGP",
-    "poster_id": "MotoGP-MotoGP-12092025.png",
     "match_type": "team_vs_team"
   },
   {

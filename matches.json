@@ -56,62 +56,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Chattogram Royals",
-    "team_b": "Sylhet Titans",
-    "event_name": "Bangladesh Premier League",
-    "poster_id": "Chattogram-Royals-Sylhet-Titans-07012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Hilal",
-    "team_b": "Al-Hazem",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Hilal-Al-Hazem-08012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Nassr",
-    "team_b": "Al-Qadsiah",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Nassr-Al-Qadsiah-08012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Cremonese",
-    "team_b": "Cagliari",
-    "event_name": "Serie A",
-    "poster_id": "Cremonese-Cagliari-08012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "AtlÃ©tico Madrid",
-    "team_b": "Real Madrid",
-    "event_name": "Supercopa de EspaÃ±a",
-    "poster_id": "AtlÃ©tico-Madrid-Real-Madrid-08012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Paris Saint-Germain",
-    "team_b": "Olympique de Marseille",
-    "event_name": "TrophÃ©e des Champions",
-    "poster_id": "Paris-Saint-Germain-Olympique-de-Marseille-08012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Milan",
-    "team_b": "Genoa",
-    "event_name": "Serie A",
-    "poster_id": "Milan-Genoa-08012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Arsenal",
-    "team_b": "Liverpool",
-    "event_name": "Premier League",
-    "poster_id": "Arsenal-Liverpool-08012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Al-Khaleej",
     "team_b": "Damac FC",
     "event_name": "Saudi Pro League",
@@ -179,13 +123,6 @@
     "team_b": "Real Sociedad",
     "event_name": "Liga F Moeve",
     "poster_id": "Club-AtlÃ©tico-de-Madrid-Real-Sociedad-10012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Dhaka Capitals",
-    "team_b": "Sylhet Titans",
-    "event_name": "Bangladesh Premier League",
-    "poster_id": "Dhaka-Capitals-Sylhet-Titans-08012026.png",
     "match_type": "team_vs_team"
   },
   {

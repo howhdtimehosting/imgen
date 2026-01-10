@@ -91,20 +91,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Udinese",
-    "team_b": "Pisa",
-    "event_name": "Serie A",
-    "poster_id": "Udinese-Pisa-10012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Como",
-    "team_b": "Bologna",
-    "event_name": "Serie A",
-    "poster_id": "Como-Bologna-10012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Newcastle United",
     "team_b": "Bournemouth",
     "event_name": "FA Cup",
@@ -116,27 +102,6 @@
     "team_b": "Exeter City",
     "event_name": "FA Cup",
     "poster_id": "Manchester-City-Exeter-City-10012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Villarreal",
-    "team_b": "Deportivo AlavÃ©s",
-    "event_name": "LaLiga",
-    "poster_id": "Villarreal-Deportivo-AlavÃ©s-10012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FC Andorra",
-    "team_b": "Cultural Leonesa",
-    "event_name": "LaLiga 2",
-    "poster_id": "FC-Andorra-Cultural-Leonesa-10012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Sociedad B U21",
-    "team_b": "Albacete BalompiÃ©",
-    "event_name": "LaLiga 2",
-    "poster_id": "Real-Sociedad-B-U21-Albacete-BalompiÃ©-10012026.png",
     "match_type": "team_vs_team"
   },
   {

@@ -441,20 +441,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Canterbury Magicians",
-    "team_b": "Auckland Hearts",
-    "event_name": "Women's Super Smash",
-    "poster_id": "Canterbury-Magicians-Auckland-Hearts-10012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Brisbane Heat",
-    "team_b": "Sydney Thunder",
-    "event_name": "Big Bash League",
-    "poster_id": "Brisbane-Heat-Sydney-Thunder-10012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Paarl Royals",
     "team_b": "Pretoria Capitals",
     "event_name": "SA20 league",

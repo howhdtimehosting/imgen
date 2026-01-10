@@ -91,20 +91,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Newcastle United",
-    "team_b": "Bournemouth",
-    "event_name": "FA Cup",
-    "poster_id": "Newcastle-United-Bournemouth-10012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Manchester City",
-    "team_b": "Exeter City",
-    "event_name": "FA Cup",
-    "poster_id": "Manchester-City-Exeter-City-10012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Algeria",
     "team_b": "Nigeria",
     "event_name": "Africa Cup of Nations",
@@ -130,13 +116,6 @@
     "team_b": "VfB Stuttgart",
     "event_name": "Bundesliga",
     "poster_id": "Bayer-04-Leverkusen-VfB-Stuttgart-10012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Okhdood",
-    "team_b": "Al-Ahli",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Okhdood-Al-Ahli-10012026.png",
     "match_type": "team_vs_team"
   },
   {

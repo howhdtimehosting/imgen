@@ -320,5 +320,12 @@
     "event_name": "Women's Premier League",
     "poster_id": "Mumbai-Indians-Delhi-Capitals-10012026.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Charlton Athletic",
+    "team_b": "Chelsea",
+    "event_name": "FA Cup",
+    "poster_id": "Charlton-Athletic-Chelsea-10012026.png",
+    "match_type": "team_vs_team"
   }
 ]

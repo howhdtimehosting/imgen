@@ -98,34 +98,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Roma",
-    "team_b": "Sassuolo",
-    "event_name": "Serie A",
-    "poster_id": "Roma-Sassuolo-10012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Girona FC",
-    "team_b": "Osasuna",
-    "event_name": "LaLiga",
-    "poster_id": "Girona-FC-Osasuna-10012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bayer 04 Leverkusen",
-    "team_b": "VfB Stuttgart",
-    "event_name": "Bundesliga",
-    "poster_id": "Bayer-04-Leverkusen-VfB-Stuttgart-10012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Tottenham Hotspur",
-    "team_b": "Aston Villa",
-    "event_name": "FA Cup",
-    "poster_id": "Tottenham-Hotspur-Aston-Villa-10012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Egypt",
     "team_b": "CÃ´te d'Ivoire",
     "event_name": "Africa Cup of Nations",
@@ -347,13 +319,6 @@
     "team_b": "Delhi Capitals",
     "event_name": "Women's Premier League",
     "poster_id": "Mumbai-Indians-Delhi-Capitals-10012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Joburg Super Kings",
-    "team_b": "MI Cape Town",
-    "event_name": "SA20 league",
-    "poster_id": "Joburg-Super-Kings-MI-Cape-Town-10012026.png",
     "match_type": "team_vs_team"
   }
 ]

@@ -84,41 +84,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Cheltenham Town",
-    "team_b": "Leicester City",
-    "event_name": "FA Cup",
-    "poster_id": "Cheltenham-Town-Leicester-City-10012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Macclesfield FC",
-    "team_b": "Crystal Palace",
-    "event_name": "FA Cup",
-    "poster_id": "Macclesfield-FC-Crystal-Palace-10012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Everton",
-    "team_b": "Sunderland",
-    "event_name": "FA Cup",
-    "poster_id": "Everton-Sunderland-10012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Wolverhampton",
-    "team_b": "Shrewsbury Town",
-    "event_name": "FA Cup",
-    "poster_id": "Wolverhampton-Shrewsbury-Town-10012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "MirandÃ©s",
-    "team_b": "AlmerÃ­a",
-    "event_name": "LaLiga 2",
-    "poster_id": "MirandÃ©s-AlmerÃ­a-10012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Real Oviedo",
     "team_b": "Real Betis",
     "event_name": "LaLiga",
@@ -137,13 +102,6 @@
     "team_b": "Bologna",
     "event_name": "Serie A",
     "poster_id": "Como-Bologna-10012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Neom SC",
-    "team_b": "Al-Fateh",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Neom-SC-Al-Fateh-10012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -434,13 +392,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Paarl Royals",
-    "team_b": "Pretoria Capitals",
-    "event_name": "SA20 league",
-    "poster_id": "Paarl-Royals-Pretoria-Capitals-10012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Melbourne Renegades",
     "team_b": "Melbourne Stars",
     "event_name": "Big Bash League",
@@ -501,6 +452,13 @@
     "team_b": "Melbourne Renegades",
     "event_name": "Big Bash League",
     "poster_id": "Sydney-Thunder-Melbourne-Renegades-12012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Mumbai Indians",
+    "team_b": "Delhi Capitals",
+    "event_name": "Women's Premier League",
+    "poster_id": "Mumbai-Indians-Delhi-Capitals-10012026.png",
     "match_type": "team_vs_team"
   }
 ]

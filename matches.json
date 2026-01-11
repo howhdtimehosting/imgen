@@ -168,13 +168,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Sri Lanka",
-    "team_b": "Pakistan",
-    "event_name": "T20 International",
-    "poster_id": "Sri-Lanka-Pakistan-11012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Otago Volts",
     "team_b": "Auckland Aces",
     "event_name": "Super Smash",
@@ -200,6 +193,13 @@
     "team_b": "Rangpur Riders",
     "event_name": "Bangladesh Premier League",
     "poster_id": "Rajshahi-Warriors-Rangpur-Riders-11012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sri Lanka",
+    "team_b": "Pakistan",
+    "event_name": "T20 International",
+    "poster_id": "Sri-Lanka-Pakistan-11012026.png",
     "match_type": "team_vs_team"
   }
 ]

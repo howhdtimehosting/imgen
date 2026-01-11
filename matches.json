@@ -201,5 +201,12 @@
     "event_name": "T20 International",
     "poster_id": "Sri-Lanka-Pakistan-11012026.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Portsmouth",
+    "team_b": "Arsenal",
+    "event_name": "FA Cup",
+    "poster_id": "Portsmouth-Arsenal-11012026.png",
+    "match_type": "team_vs_team"
   }
 ]

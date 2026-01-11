@@ -49,27 +49,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "FC Bayern MÃ¼nchen",
-    "team_b": "VfL Wolfsburg",
-    "event_name": "Bundesliga",
-    "poster_id": "FC-Bayern-MÃ¼nchen-VfL-Wolfsburg-11012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Manchester United",
-    "team_b": "Brighton & Hove Albion",
-    "event_name": "FA Cup",
-    "poster_id": "Manchester-United-Brighton-&-Hove-Albion-11012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Aberdeen",
-    "team_b": "Rangers",
-    "event_name": "Scottish Premiership",
-    "poster_id": "Aberdeen-Rangers-11012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Hellas Verona",
     "team_b": "Lazio",
     "event_name": "Serie A",
@@ -133,13 +112,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Sunrisers Eastern Cape",
-    "team_b": "Durban's Super Giants",
-    "event_name": "SA20 league",
-    "poster_id": "Sunrisers-Eastern-Cape-Durban's-Super-Giants-11012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Noakhali Express",
     "team_b": "Dhaka Capitals",
     "event_name": "Bangladesh Premier League",
@@ -172,13 +144,6 @@
     "team_b": "Rangpur Riders",
     "event_name": "Bangladesh Premier League",
     "poster_id": "Rajshahi-Warriors-Rangpur-Riders-11012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sri Lanka",
-    "team_b": "Pakistan",
-    "event_name": "T20 International",
-    "poster_id": "Sri-Lanka-Pakistan-11012026.png",
     "match_type": "team_vs_team"
   }
 ]

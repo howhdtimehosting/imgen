@@ -145,5 +145,19 @@
     "event_name": "Bangladesh Premier League",
     "poster_id": "Rajshahi-Warriors-Rangpur-Riders-11012026.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Inter",
+    "team_b": "Napoli",
+    "event_name": "Serie A",
+    "poster_id": "Inter-Napoli-11012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Lille",
+    "team_b": "Olympique Lyonnais",
+    "event_name": "Coupe de France",
+    "poster_id": "Lille-Olympique-Lyonnais-11012026.png",
+    "match_type": "team_vs_team"
   }
 ]

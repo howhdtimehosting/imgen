@@ -35,90 +35,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Al-Khaleej",
-    "team_b": "Damac FC",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Khaleej-Damac-FC-09012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Mali",
-    "team_b": "Senegal",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "Mali-Senegal-09012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Kholood",
-    "team_b": "Al-Ittihad",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Kholood-Al-Ittihad-09012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Cameroon",
-    "team_b": "Morocco",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "Cameroon-Morocco-09012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Eintracht Frankfurt",
-    "team_b": "Borussia Dortmund",
-    "event_name": "Bundesliga",
-    "poster_id": "Eintracht-Frankfurt-Borussia-Dortmund-09012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "CÃ¡diz",
-    "team_b": "Sporting GijÃ³n",
-    "event_name": "LaLiga 2",
-    "poster_id": "CÃ¡diz-Sporting-GijÃ³n-09012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Getafe",
-    "team_b": "Real Sociedad",
-    "event_name": "LaLiga",
-    "poster_id": "Getafe-Real-Sociedad-09012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Oviedo",
-    "team_b": "Real Betis",
-    "event_name": "LaLiga",
-    "poster_id": "Real-Oviedo-Real-Betis-10012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Algeria",
-    "team_b": "Nigeria",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "Algeria-Nigeria-10012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Egypt",
-    "team_b": "CÃ´te d'Ivoire",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "Egypt-CÃ´te-d'Ivoire-10012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Atalanta",
-    "team_b": "Torino",
-    "event_name": "Serie A",
-    "poster_id": "Atalanta-Torino-10012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Valencia",
-    "team_b": "Elche",
-    "event_name": "LaLiga",
-    "poster_id": "Valencia-Elche-10012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Lecce",
     "team_b": "Parma",
     "event_name": "Serie A",
@@ -231,41 +147,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Noakhali Express",
-    "team_b": "Rangpur Riders",
-    "event_name": "Bangladesh Premier League",
-    "poster_id": "Noakhali-Express-Rangpur-Riders-09012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sri Lanka",
-    "team_b": "Pakistan",
-    "event_name": "T20 International",
-    "poster_id": "Sri-Lanka-Pakistan-09012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Durban's Super Giants",
-    "team_b": "Sunrisers Eastern Cape",
-    "event_name": "SA20 league",
-    "poster_id": "Durban's-Super-Giants-Sunrisers-Eastern-Cape-09012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Melbourne Renegades",
-    "team_b": "Melbourne Stars",
-    "event_name": "Big Bash League",
-    "poster_id": "Melbourne-Renegades-Melbourne-Stars-10012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Adelaide Strikers",
-    "team_b": "Perth Scorchers",
-    "event_name": "Big Bash League",
-    "poster_id": "Adelaide-Strikers-Perth-Scorchers-11012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Sunrisers Eastern Cape",
     "team_b": "Durban's Super Giants",
     "event_name": "SA20 league",
@@ -315,17 +196,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Mumbai Indians",
-    "team_b": "Delhi Capitals",
-    "event_name": "Women's Premier League",
-    "poster_id": "Mumbai-Indians-Delhi-Capitals-10012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Charlton Athletic",
-    "team_b": "Chelsea",
-    "event_name": "FA Cup",
-    "poster_id": "Charlton-Athletic-Chelsea-10012026.png",
+    "team_a": "Rajshahi Warriors",
+    "team_b": "Rangpur Riders",
+    "event_name": "Bangladesh Premier League",
+    "poster_id": "Rajshahi-Warriors-Rangpur-Riders-11012026.png",
     "match_type": "team_vs_team"
   }
 ]

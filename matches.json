@@ -56,13 +56,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Al-Ettifaq",
-    "team_b": "Al-Khaleej",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Ettifaq-Al-Khaleej-12012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Al-Hilal",
     "team_b": "Al-Nassr",
     "event_name": "Saudi Pro League",
@@ -109,13 +102,6 @@
     "team_b": "Dhaka Capitals",
     "event_name": "Bangladesh Premier League",
     "poster_id": "Noakhali-Express-Dhaka-Capitals-11012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sydney Thunder",
-    "team_b": "Melbourne Renegades",
-    "event_name": "Big Bash League",
-    "poster_id": "Sydney-Thunder-Melbourne-Renegades-12012026.png",
     "match_type": "team_vs_team"
   },
   {

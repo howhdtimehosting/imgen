@@ -112,13 +112,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Sylhet Titans",
-    "team_b": "Rangpur Riders",
-    "event_name": "Bangladesh Premier League",
-    "poster_id": "Sylhet-Titans-Rangpur-Riders-12012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Sydney Thunder",
     "team_b": "Melbourne Renegades",
     "event_name": "Big Bash League",
@@ -137,6 +130,34 @@
     "team_b": "Napoli",
     "event_name": "Serie A",
     "poster_id": "Inter-Napoli-11012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Rajshahi Warriors",
+    "team_b": "Dhaka Capitals",
+    "event_name": "Bangladesh Premier League",
+    "poster_id": "Rajshahi-Warriors-Dhaka-Capitals-12012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Royal Challengers Bengaluru",
+    "team_b": "UP Warriorz",
+    "event_name": "Women's Premier League",
+    "poster_id": "Royal-Challengers-Bengaluru-UP-Warriorz-12012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pretoria Capitals",
+    "team_b": "MI Cape Town",
+    "event_name": "SA20 league",
+    "poster_id": "Pretoria-Capitals-MI-Cape-Town-12012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Melbourne Stars",
+    "team_b": "Adelaide Strikers",
+    "event_name": "Big Bash League",
+    "poster_id": "Melbourne-Stars-Adelaide-Strikers-13012026.png",
     "match_type": "team_vs_team"
   }
 ]

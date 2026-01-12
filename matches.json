@@ -56,13 +56,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Barcelona",
-    "team_b": "Real Madrid",
-    "event_name": "Supercopa de EspaÃ±a",
-    "poster_id": "Barcelona-Real-Madrid-11012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Al-Ettifaq",
     "team_b": "Al-Khaleej",
     "event_name": "Saudi Pro League",
@@ -119,13 +112,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Otago Volts",
-    "team_b": "Auckland Aces",
-    "event_name": "Super Smash",
-    "poster_id": "Otago-Volts-Auckland-Aces-12012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Sylhet Titans",
     "team_b": "Rangpur Riders",
     "event_name": "Bangladesh Premier League",
@@ -151,13 +137,6 @@
     "team_b": "Napoli",
     "event_name": "Serie A",
     "poster_id": "Inter-Napoli-11012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Lille",
-    "team_b": "Olympique Lyonnais",
-    "event_name": "Coupe de France",
-    "poster_id": "Lille-Olympique-Lyonnais-11012026.png",
     "match_type": "team_vs_team"
   }
 ]

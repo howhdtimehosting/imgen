@@ -56,20 +56,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Al-Hilal",
-    "team_b": "Al-Nassr",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Hilal-Al-Nassr-12012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Genoa",
-    "team_b": "Cagliari",
-    "event_name": "Serie A",
-    "poster_id": "Genoa-Cagliari-12012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Juventus",
     "team_b": "Cremonese",
     "event_name": "Serie A",
@@ -123,20 +109,6 @@
     "team_b": "Dhaka Capitals",
     "event_name": "Bangladesh Premier League",
     "poster_id": "Rajshahi-Warriors-Dhaka-Capitals-12012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Royal Challengers Bengaluru",
-    "team_b": "UP Warriorz",
-    "event_name": "Women's Premier League",
-    "poster_id": "Royal-Challengers-Bengaluru-UP-Warriorz-12012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Pretoria Capitals",
-    "team_b": "MI Cape Town",
-    "event_name": "SA20 league",
-    "poster_id": "Pretoria-Capitals-MI-Cape-Town-12012026.png",
     "match_type": "team_vs_team"
   },
   {

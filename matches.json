@@ -327,5 +327,33 @@
     "event_name": "One Day International",
     "poster_id": "India-New-Zealand-14012026.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "LOUD",
+    "team_b": "Vivo Keyd Stars",
+    "event_name": "CBLOL",
+    "poster_id": "LOUD-Vivo-Keyd-Stars-25012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Fnatic",
+    "team_b": "GIANTX",
+    "event_name": "LEC",
+    "poster_id": "Fnatic-GIANTX-25012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Movistar KOI",
+    "team_b": "Karmine Corp Blue",
+    "event_name": "LEC",
+    "poster_id": "Movistar-KOI-Karmine-Corp-Blue-25012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Indiana Hoosiers",
+    "team_b": "Miami Hurricanes",
+    "event_name": "NCAA Division I, FBS Post Season",
+    "poster_id": "Indiana-Hoosiers-Miami-Hurricanes-20012026.png",
+    "match_type": "team_vs_team"
   }
 ]

@@ -355,5 +355,26 @@
     "event_name": "NCAA Division I, FBS Post Season",
     "poster_id": "Indiana-Hoosiers-Miami-Hurricanes-20012026.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Antonio Figueiredo",
+    "team_b": "Takaya Suzuki",
+    "event_name": "Fury Fighting Championship",
+    "poster_id": "Antonio-Figueiredo-Takaya-Suzuki-18012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Artur  Minev",
+    "team_b": "Derek Campos",
+    "event_name": "Fury Fighting Championship",
+    "poster_id": "Artur-Minev-Derek-Campos-18012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Abdul  Kamara",
+    "team_b": "Matheus Silva",
+    "event_name": "Fury Fighting Championship",
+    "poster_id": "Abdul-Kamara-Matheus-Silva-18012026.png",
+    "match_type": "team_vs_team"
   }
 ]

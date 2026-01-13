@@ -250,5 +250,75 @@
     "event_name": "Scottish Premiership",
     "poster_id": "Falkirk-FC-Celtic-14012026.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Nepal Women",
+    "team_b": "Ireland Women",
+    "event_name": "ICC Women's World T20 Qualifier Warm-up",
+    "poster_id": "Nepal-Women-Ireland-Women-14012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bangladesh Women",
+    "team_b": "Netherlands Women",
+    "event_name": "ICC Women's World T20 Qualifier Warm-up",
+    "poster_id": "Bangladesh-Women-Netherlands-Women-14012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Hobart Hurricanes",
+    "team_b": "Brisbane Heat",
+    "event_name": "Big Bash League",
+    "poster_id": "Hobart-Hurricanes-Brisbane-Heat-14012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India",
+    "team_b": "New Zealand",
+    "event_name": "One Day International",
+    "poster_id": "India-New-Zealand-14012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Mumbai Indians",
+    "team_b": "UP Warriorz",
+    "event_name": "Women's Premier League",
+    "poster_id": "Mumbai-Indians-UP-Warriorz-15012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Rajshahi Warriors",
+    "team_b": "Sylhet Titans",
+    "event_name": "Bangladesh Premier League",
+    "poster_id": "Rajshahi-Warriors-Sylhet-Titans-15012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pretoria Capitals",
+    "team_b": "Paarl Royals",
+    "event_name": "SA20 league",
+    "poster_id": "Pretoria-Capitals-Paarl-Royals-15012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Central Hinds",
+    "team_b": "Auckland Hearts",
+    "event_name": "Women's Super Smash",
+    "poster_id": "Central-Hinds-Auckland-Hearts-16012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Rangpur Riders",
+    "team_b": "Dhaka Capitals",
+    "event_name": "Bangladesh Premier League",
+    "poster_id": "Rangpur-Riders-Dhaka-Capitals-16012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sydney Sixers",
+    "team_b": "Sydney Thunder",
+    "event_name": "Big Bash League",
+    "poster_id": "Sydney-Sixers-Sydney-Thunder-16012026.png",
+    "match_type": "team_vs_team"
   }
 ]

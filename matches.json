@@ -56,24 +56,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Juventus",
-    "team_b": "Cremonese",
-    "event_name": "Serie A",
-    "poster_id": "Juventus-Cremonese-12012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Sevilla",
     "team_b": "Celta Vigo",
     "event_name": "LaLiga",
     "poster_id": "Sevilla-Celta-Vigo-12012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Paris Saint-Germain",
-    "team_b": "Paris FC",
-    "event_name": "Coupe de France",
-    "poster_id": "Paris-Saint-Germain-Paris-FC-12012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -116,6 +102,153 @@
     "team_b": "Adelaide Strikers",
     "event_name": "Big Bash League",
     "poster_id": "Melbourne-Stars-Adelaide-Strikers-13012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "VfB Stuttgart",
+    "team_b": "Eintracht Frankfurt",
+    "event_name": "Bundesliga",
+    "poster_id": "VfB-Stuttgart-Eintracht-Frankfurt-13012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Fateh",
+    "team_b": "Al-Riyadh",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Fateh-Al-Riyadh-13012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Damac FC",
+    "team_b": "Al-Ittihad",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Damac-FC-Al-Ittihad-13012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Borussia Dortmund",
+    "team_b": "SV Werder Bremen",
+    "event_name": "Bundesliga",
+    "poster_id": "Borussia-Dortmund-SV-Werder-Bremen-13012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Hamburger SV",
+    "team_b": "Bayer 04 Leverkusen",
+    "event_name": "Bundesliga",
+    "poster_id": "Hamburger-SV-Bayer-04-Leverkusen-13012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "1. FSV Mainz 05",
+    "team_b": "1. FC Heidenheim",
+    "event_name": "Bundesliga",
+    "poster_id": "1.-FSV-Mainz-05-1.-FC-Heidenheim-13012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Sociedad",
+    "team_b": "Osasuna",
+    "event_name": "Copa del Rey",
+    "poster_id": "Real-Sociedad-Osasuna-13012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cultural Leonesa",
+    "team_b": "Athletic Club",
+    "event_name": "Copa del Rey",
+    "poster_id": "Cultural-Leonesa-Athletic-Club-13012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Deportivo La CoruÃ±a",
+    "team_b": "AtlÃ©tico Madrid",
+    "event_name": "Copa del Rey",
+    "poster_id": "Deportivo-La-CoruÃ±a-AtlÃ©tico-Madrid-13012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Newcastle United",
+    "team_b": "Manchester City",
+    "event_name": "EFL Cup",
+    "poster_id": "Newcastle-United-Manchester-City-13012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Roma",
+    "team_b": "Torino",
+    "event_name": "Coppa Italia",
+    "poster_id": "Roma-Torino-13012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Qadsiah",
+    "team_b": "Al-Fayha",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Qadsiah-Al-Fayha-14012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Senegal",
+    "team_b": "Egypt",
+    "event_name": "Africa Cup of Nations",
+    "poster_id": "Senegal-Egypt-14012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Napoli",
+    "team_b": "Parma",
+    "event_name": "Serie A",
+    "poster_id": "Napoli-Parma-14012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "VfL Wolfsburg",
+    "team_b": "FC St. Pauli",
+    "event_name": "Bundesliga",
+    "poster_id": "VfL-Wolfsburg-FC-St.-Pauli-14012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Ahli",
+    "team_b": "Al-Taawoun",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Ahli-Al-Taawoun-14012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Shabab",
+    "team_b": "Neom SC",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Shabab-Neom-SC-14012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "1. FC KÃ¶ln",
+    "team_b": "FC Bayern MÃ¼nchen",
+    "event_name": "Bundesliga",
+    "poster_id": "1.-FC-KÃ¶ln-FC-Bayern-MÃ¼nchen-14012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "TSG Hoffenheim",
+    "team_b": "Borussia M'gladbach",
+    "event_name": "Bundesliga",
+    "poster_id": "TSG-Hoffenheim-Borussia-M'gladbach-14012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "RB Leipzig",
+    "team_b": "SC Freiburg",
+    "event_name": "Bundesliga",
+    "poster_id": "RB-Leipzig-SC-Freiburg-14012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Falkirk FC",
+    "team_b": "Celtic",
+    "event_name": "Scottish Premiership",
+    "poster_id": "Falkirk-FC-Celtic-14012026.png",
     "match_type": "team_vs_team"
   }
 ]

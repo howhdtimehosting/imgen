@@ -14,27 +14,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Napoli",
-    "team_b": "Parma",
-    "event_name": "Serie A",
-    "poster_id": "Napoli-Parma-14012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Ahli",
-    "team_b": "Al-Taawoun",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Ahli-Al-Taawoun-14012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Shabab",
-    "team_b": "Neom SC",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Shabab-Neom-SC-14012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "1. FC KÃ¶ln",
     "team_b": "FC Bayern MÃ¼nchen",
     "event_name": "Bundesliga",
@@ -165,6 +144,83 @@
     "team_b": "Perth Scorchers",
     "event_name": "Big Bash League",
     "poster_id": "Melbourne-Renegades-Perth-Scorchers-15012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Betis",
+    "team_b": "Elche",
+    "event_name": "Copa del Rey",
+    "poster_id": "Real-Betis-Elche-14012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Deportivo AlavÃ©s",
+    "team_b": "Rayo Vallecano",
+    "event_name": "Copa del Rey",
+    "poster_id": "Deportivo-AlavÃ©s-Rayo-Vallecano-14012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Albacete BalompiÃ©",
+    "team_b": "Real Madrid",
+    "event_name": "Copa del Rey",
+    "poster_id": "Albacete-BalompiÃ©-Real-Madrid-14012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Nigeria",
+    "team_b": "Morocco",
+    "event_name": "Africa Cup of Nations",
+    "poster_id": "Nigeria-Morocco-14012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Chelsea",
+    "team_b": "Arsenal",
+    "event_name": "EFL Cup",
+    "poster_id": "Chelsea-Arsenal-14012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Hellas Verona",
+    "team_b": "Bologna",
+    "event_name": "Serie A",
+    "poster_id": "Hellas-Verona-Bologna-15012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Racing Club",
+    "team_b": "Barcelona",
+    "event_name": "Copa del Rey",
+    "poster_id": "Real-Racing-Club-Barcelona-15012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Como",
+    "team_b": "Milan",
+    "event_name": "Serie A",
+    "poster_id": "Como-Milan-15012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Burgos Club de FÃºtbol",
+    "team_b": "Valencia",
+    "event_name": "Copa del Rey",
+    "poster_id": "Burgos-Club-de-FÃºtbol-Valencia-15012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Augsburg",
+    "team_b": "1. FC Union Berlin",
+    "event_name": "Bundesliga",
+    "poster_id": "FC-Augsburg-1.-FC-Union-Berlin-15012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Inter",
+    "team_b": "Lecce",
+    "event_name": "Serie A",
+    "poster_id": "Inter-Lecce-14012026.png",
     "match_type": "team_vs_team"
   }
 ]

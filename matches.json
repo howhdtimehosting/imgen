@@ -1,100 +1,9 @@
 [
   {
-    "team_a": "TNA iMPACT!",
-    "team_b": "TNA iMPACT!",
-    "event_name": "TNA iMPACT!",
-    "poster_id": "TNA-iMPACT!-TNA-iMPACT!-12092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "NXT",
     "team_b": "NXT",
     "event_name": "WWE NXT",
     "poster_id": "NXT-NXT-10092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Lecce",
-    "team_b": "Parma",
-    "event_name": "Serie A",
-    "poster_id": "Lecce-Parma-11012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Levante UD",
-    "team_b": "Espanyol",
-    "event_name": "LaLiga",
-    "poster_id": "Levante-UD-Espanyol-11012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Hellas Verona",
-    "team_b": "Lazio",
-    "event_name": "Serie A",
-    "poster_id": "Hellas-Verona-Lazio-11012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sevilla",
-    "team_b": "Celta Vigo",
-    "event_name": "LaLiga",
-    "poster_id": "Sevilla-Celta-Vigo-12012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Liverpool",
-    "team_b": "Barnsley",
-    "event_name": "FA Cup",
-    "poster_id": "Liverpool-Barnsley-12012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Noakhali Express",
-    "team_b": "Dhaka Capitals",
-    "event_name": "Bangladesh Premier League",
-    "poster_id": "Noakhali-Express-Dhaka-Capitals-11012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Rajshahi Warriors",
-    "team_b": "Rangpur Riders",
-    "event_name": "Bangladesh Premier League",
-    "poster_id": "Rajshahi-Warriors-Rangpur-Riders-11012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Inter",
-    "team_b": "Napoli",
-    "event_name": "Serie A",
-    "poster_id": "Inter-Napoli-11012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Rajshahi Warriors",
-    "team_b": "Dhaka Capitals",
-    "event_name": "Bangladesh Premier League",
-    "poster_id": "Rajshahi-Warriors-Dhaka-Capitals-12012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Melbourne Stars",
-    "team_b": "Adelaide Strikers",
-    "event_name": "Big Bash League",
-    "poster_id": "Melbourne-Stars-Adelaide-Strikers-13012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "VfB Stuttgart",
-    "team_b": "Eintracht Frankfurt",
-    "event_name": "Bundesliga",
-    "poster_id": "VfB-Stuttgart-Eintracht-Frankfurt-13012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Fateh",
-    "team_b": "Al-Riyadh",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Fateh-Al-Riyadh-13012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -161,13 +70,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "India",
-    "team_b": "New Zealand",
-    "event_name": "One Day International",
-    "poster_id": "India-New-Zealand-14012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Mumbai Indians",
     "team_b": "UP Warriorz",
     "event_name": "Women's Premier League",
@@ -207,20 +109,6 @@
     "team_b": "Sydney Thunder",
     "event_name": "Big Bash League",
     "poster_id": "Sydney-Sixers-Sydney-Thunder-16012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Mumbai Indians",
-    "team_b": "Gujarat Giants",
-    "event_name": "Women's Premier League",
-    "poster_id": "Mumbai-Indians-Gujarat-Giants-13012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Paarl Royals",
-    "team_b": "Durban's Super Giants",
-    "event_name": "SA20 league",
-    "poster_id": "Paarl-Royals-Durban's-Super-Giants-13012026.png",
     "match_type": "team_vs_team"
   },
   {

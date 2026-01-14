@@ -98,13 +98,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Al-Qadsiah",
-    "team_b": "Al-Fayha",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Qadsiah-Al-Fayha-14012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Senegal",
     "team_b": "Egypt",
     "event_name": "Africa Cup of Nations",
@@ -277,6 +270,20 @@
     "team_b": "Matheus Silva",
     "event_name": "Fury Fighting Championship",
     "poster_id": "Abdul-Kamara-Matheus-Silva-18012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sunrisers Eastern Cape",
+    "team_b": "Joburg Super Kings",
+    "event_name": "SA20 league",
+    "poster_id": "Sunrisers-Eastern-Cape-Joburg-Super-Kings-14012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Melbourne Renegades",
+    "team_b": "Perth Scorchers",
+    "event_name": "Big Bash League",
+    "poster_id": "Melbourne-Renegades-Perth-Scorchers-15012026.png",
     "match_type": "team_vs_team"
   }
 ]

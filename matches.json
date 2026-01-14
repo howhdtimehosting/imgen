@@ -98,69 +98,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Damac FC",
-    "team_b": "Al-Ittihad",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Damac-FC-Al-Ittihad-13012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Borussia Dortmund",
-    "team_b": "SV Werder Bremen",
-    "event_name": "Bundesliga",
-    "poster_id": "Borussia-Dortmund-SV-Werder-Bremen-13012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Hamburger SV",
-    "team_b": "Bayer 04 Leverkusen",
-    "event_name": "Bundesliga",
-    "poster_id": "Hamburger-SV-Bayer-04-Leverkusen-13012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "1. FSV Mainz 05",
-    "team_b": "1. FC Heidenheim",
-    "event_name": "Bundesliga",
-    "poster_id": "1.-FSV-Mainz-05-1.-FC-Heidenheim-13012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Sociedad",
-    "team_b": "Osasuna",
-    "event_name": "Copa del Rey",
-    "poster_id": "Real-Sociedad-Osasuna-13012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Cultural Leonesa",
-    "team_b": "Athletic Club",
-    "event_name": "Copa del Rey",
-    "poster_id": "Cultural-Leonesa-Athletic-Club-13012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Deportivo La CoruÃ±a",
-    "team_b": "AtlÃ©tico Madrid",
-    "event_name": "Copa del Rey",
-    "poster_id": "Deportivo-La-CoruÃ±a-AtlÃ©tico-Madrid-13012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Newcastle United",
-    "team_b": "Manchester City",
-    "event_name": "EFL Cup",
-    "poster_id": "Newcastle-United-Manchester-City-13012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Roma",
-    "team_b": "Torino",
-    "event_name": "Coppa Italia",
-    "poster_id": "Roma-Torino-13012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Al-Qadsiah",
     "team_b": "Al-Fayha",
     "event_name": "Saudi Pro League",
@@ -228,13 +165,6 @@
     "team_b": "Celtic",
     "event_name": "Scottish Premiership",
     "poster_id": "Falkirk-FC-Celtic-14012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Nepal Women",
-    "team_b": "Ireland Women",
-    "event_name": "ICC Women's World T20 Qualifier Warm-up",
-    "poster_id": "Nepal-Women-Ireland-Women-14012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -319,13 +249,6 @@
     "team_b": "Brisbane Heat",
     "event_name": "Big Bash League",
     "poster_id": "Hobart-Hurricanes-Brisbane-Heat-14012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "India",
-    "team_b": "New Zealand",
-    "event_name": "One Day International",
-    "poster_id": "India-New-Zealand-14012026.png",
     "match_type": "team_vs_team"
   },
   {

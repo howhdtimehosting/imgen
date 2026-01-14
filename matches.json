@@ -168,20 +168,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Bangladesh Women",
-    "team_b": "Netherlands Women",
-    "event_name": "ICC Women's World T20 Qualifier Warm-up",
-    "poster_id": "Bangladesh-Women-Netherlands-Women-14012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Hobart Hurricanes",
-    "team_b": "Brisbane Heat",
-    "event_name": "Big Bash League",
-    "poster_id": "Hobart-Hurricanes-Brisbane-Heat-14012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "India",
     "team_b": "New Zealand",
     "event_name": "One Day International",
@@ -242,13 +228,6 @@
     "team_b": "Durban's Super Giants",
     "event_name": "SA20 league",
     "poster_id": "Paarl-Royals-Durban's-Super-Giants-13012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Hobart Hurricanes",
-    "team_b": "Brisbane Heat",
-    "event_name": "Big Bash League",
-    "poster_id": "Hobart-Hurricanes-Brisbane-Heat-14012026.png",
     "match_type": "team_vs_team"
   },
   {

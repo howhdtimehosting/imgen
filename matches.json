@@ -21,13 +21,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "VfL Wolfsburg",
-    "team_b": "FC St. Pauli",
-    "event_name": "Bundesliga",
-    "poster_id": "VfL-Wolfsburg-FC-St.-Pauli-14012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Al-Ahli",
     "team_b": "Al-Taawoun",
     "event_name": "Saudi Pro League",

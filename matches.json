@@ -210,20 +210,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Real Racing Club",
-    "team_b": "Barcelona",
-    "event_name": "Copa del Rey",
-    "poster_id": "Real-Racing-Club-Barcelona-15012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Como",
-    "team_b": "Milan",
-    "event_name": "Serie A",
-    "poster_id": "Como-Milan-15012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Al-Khaleej",
     "team_b": "Al-Okhdood",
     "event_name": "Saudi Pro League",

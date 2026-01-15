@@ -474,5 +474,82 @@
     "event_name": "Ligue 1",
     "poster_id": "RC-Lens-Auxerre-17012026.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Napoli",
+    "team_b": "Sassuolo",
+    "event_name": "Serie A",
+    "poster_id": "Napoli-Sassuolo-17012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Galatasaray",
+    "team_b": "Gaziantep FK",
+    "event_name": "Trendyol SÃ¼per Lig",
+    "poster_id": "Galatasaray-Gaziantep-FK-17012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Swansea City",
+    "team_b": "Birmingham City",
+    "event_name": "Championship",
+    "poster_id": "Swansea-City-Birmingham-City-17012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "RB Leipzig",
+    "team_b": "FC Bayern MÃ¼nchen",
+    "event_name": "Bundesliga",
+    "poster_id": "RB-Leipzig-FC-Bayern-MÃ¼nchen-17012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Nottingham Forest",
+    "team_b": "Arsenal",
+    "event_name": "Premier League",
+    "poster_id": "Nottingham-Forest-Arsenal-17012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Osasuna",
+    "team_b": "Real Oviedo",
+    "event_name": "LaLiga",
+    "poster_id": "Osasuna-Real-Oviedo-17012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Zaragoza",
+    "team_b": "Real Sociedad B U21",
+    "event_name": "LaLiga 2",
+    "poster_id": "Real-Zaragoza-Real-Sociedad-B-U21-17012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Nassr",
+    "team_b": "Al-Shabab",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Nassr-Al-Shabab-17012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Toulouse",
+    "team_b": "Nice",
+    "event_name": "Ligue 1",
+    "poster_id": "Toulouse-Nice-17012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Betis",
+    "team_b": "Villarreal",
+    "event_name": "LaLiga",
+    "poster_id": "Real-Betis-Villarreal-17012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Angers",
+    "team_b": "Olympique de Marseille",
+    "event_name": "Ligue 1",
+    "poster_id": "Angers-Olympique-de-Marseille-17012026.png",
+    "match_type": "team_vs_team"
   }
 ]

@@ -140,13 +140,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Melbourne Renegades",
-    "team_b": "Perth Scorchers",
-    "event_name": "Big Bash League",
-    "poster_id": "Melbourne-Renegades-Perth-Scorchers-15012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Real Betis",
     "team_b": "Elche",
     "event_name": "Copa del Rey",

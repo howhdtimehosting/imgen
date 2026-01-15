@@ -551,5 +551,12 @@
     "event_name": "Ligue 1",
     "poster_id": "Angers-Olympique-de-Marseille-17012026.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Chattogram Royals",
+    "team_b": "Noakhali Express",
+    "event_name": "Bangladesh Premier League",
+    "poster_id": "Chattogram-Royals-Noakhali-Express-15012026.png",
+    "match_type": "team_vs_team"
   }
 ]

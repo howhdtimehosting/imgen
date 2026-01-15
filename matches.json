@@ -203,13 +203,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Hellas Verona",
-    "team_b": "Bologna",
-    "event_name": "Serie A",
-    "poster_id": "Hellas-Verona-Bologna-15012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "FC Augsburg",
     "team_b": "1. FC Union Berlin",
     "event_name": "Bundesliga",

@@ -203,13 +203,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "FC Augsburg",
-    "team_b": "1. FC Union Berlin",
-    "event_name": "Bundesliga",
-    "poster_id": "FC-Augsburg-1.-FC-Union-Berlin-15012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Burgos Club de FÃºtbol",
     "team_b": "Valencia",
     "event_name": "Copa del Rey",

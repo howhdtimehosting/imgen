@@ -49,24 +49,17 @@
     "match_type": "team_vs_team"
   },
   {
+    "team_a": "Rajshahi Warriors",
+    "team_b": "Sylhet Titans",
+    "event_name": "Bangladesh Premier League",
+    "poster_id": "Rajshahi-Warriors-Sylhet-Titans-16012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
     "team_a": "Pretoria Capitals",
     "team_b": "Paarl Royals",
     "event_name": "SA20 league",
     "poster_id": "Pretoria-Capitals-Paarl-Royals-15012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Central Hinds",
-    "team_b": "Auckland Hearts",
-    "event_name": "Women's Super Smash",
-    "poster_id": "Central-Hinds-Auckland-Hearts-16012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Rangpur Riders",
-    "team_b": "Dhaka Capitals",
-    "event_name": "Bangladesh Premier League",
-    "poster_id": "Rangpur-Riders-Dhaka-Capitals-16012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -182,13 +175,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Burgos Club de FÃºtbol",
-    "team_b": "Valencia",
-    "event_name": "Copa del Rey",
-    "poster_id": "Burgos-Club-de-FÃºtbol-Valencia-15012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "FC Augsburg",
     "team_b": "1. FC Union Berlin",
     "event_name": "Bundesliga",
@@ -200,13 +186,6 @@
     "team_b": "Lecce",
     "event_name": "Serie A",
     "poster_id": "Inter-Lecce-14012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Burgos Club de FÃºtbol",
-    "team_b": "Valencia",
-    "event_name": "Copa del Rey",
-    "poster_id": "Burgos-Club-de-FÃºtbol-Valencia-15012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -514,7 +493,7 @@
     "team_a": "Chattogram Royals",
     "team_b": "Noakhali Express",
     "event_name": "Bangladesh Premier League",
-    "poster_id": "Chattogram-Royals-Noakhali-Express-15012026.png",
+    "poster_id": "Chattogram-Royals-Noakhali-Express-16012026.png",
     "match_type": "team_vs_team"
   }
 ]

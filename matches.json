@@ -224,13 +224,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Levante UD",
-    "team_b": "Real Madrid",
-    "event_name": "Liga F Moeve",
-    "poster_id": "Levante-UD-Real-Madrid-17012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Watford",
     "team_b": "Millwall",
     "event_name": "Championship",
@@ -466,13 +459,6 @@
     "team_b": "Noakhali Express",
     "event_name": "Bangladesh Premier League",
     "poster_id": "Chattogram-Royals-Noakhali-Express-16012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Rangpur Riders",
-    "team_b": "Dhaka Capitals",
-    "event_name": "Bangladesh Premier League",
-    "poster_id": "Rangpur-Riders-Dhaka-Capitals-17012026.png",
     "match_type": "team_vs_team"
   },
   {

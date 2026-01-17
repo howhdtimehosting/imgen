@@ -77,20 +77,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Galatasaray",
-    "team_b": "Gaziantep FK",
-    "event_name": "Trendyol SÃ¼per Lig",
-    "poster_id": "Galatasaray-Gaziantep-FK-17012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Swansea City",
-    "team_b": "Birmingham City",
-    "event_name": "Championship",
-    "poster_id": "Swansea-City-Birmingham-City-17012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "RB Leipzig",
     "team_b": "FC Bayern MÃ¼nchen",
     "event_name": "Bundesliga",

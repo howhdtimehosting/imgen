@@ -537,5 +537,12 @@
     "event_name": "Big Bash League",
     "poster_id": "Brisbane-Heat-Sydney-Sixers-18012026.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Manchester United",
+    "team_b": "Manchester City",
+    "event_name": "Premier League",
+    "poster_id": "Manchester-United-Manchester-City-17012026.png",
+    "match_type": "team_vs_team"
   }
 ]

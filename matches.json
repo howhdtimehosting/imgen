@@ -173,5 +173,12 @@
     "event_name": "Premier League",
     "poster_id": "Manchester-United-Manchester-City-17012026.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cagliari",
+    "team_b": "Juventus",
+    "event_name": "Serie A",
+    "poster_id": "Cagliari-Juventus-17012026.png",
+    "match_type": "team_vs_team"
   }
 ]

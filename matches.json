@@ -189,20 +189,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Al-Khaleej",
-    "team_b": "Al-Okhdood",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Khaleej-Al-Okhdood-16012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "AS Monaco",
-    "team_b": "Lorient",
-    "event_name": "Ligue 1",
-    "poster_id": "AS-Monaco-Lorient-16012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Al-Ittihad",
     "team_b": "Al-Ettifaq",
     "event_name": "Saudi Pro League",
@@ -221,13 +207,6 @@
     "team_b": "LeganÃ©s",
     "event_name": "LaLiga 2",
     "poster_id": "CD-CastellÃ³n-LeganÃ©s-16012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Pisa",
-    "team_b": "Atalanta",
-    "event_name": "Serie A",
-    "poster_id": "Pisa-Atalanta-16012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -487,6 +466,90 @@
     "team_b": "Noakhali Express",
     "event_name": "Bangladesh Premier League",
     "poster_id": "Chattogram-Royals-Noakhali-Express-16012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Rangpur Riders",
+    "team_b": "Dhaka Capitals",
+    "event_name": "Bangladesh Premier League",
+    "poster_id": "Rangpur-Riders-Dhaka-Capitals-17012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Adelaide Strikers",
+    "team_b": "Melbourne Renegades",
+    "event_name": "Big Bash League",
+    "poster_id": "Adelaide-Strikers-Melbourne-Renegades-17012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Japan Under-19",
+    "team_b": "Sri Lanka Under-19",
+    "event_name": "ICC U19 World Cup",
+    "poster_id": "Japan-Under-19-Sri-Lanka-Under-19-17012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India Under-19",
+    "team_b": "Bangladesh Under-19",
+    "event_name": "ICC U19 World Cup",
+    "poster_id": "India-Under-19-Bangladesh-Under-19-17012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Perth Scorchers",
+    "team_b": "Melbourne Stars",
+    "event_name": "Big Bash League",
+    "poster_id": "Perth-Scorchers-Melbourne-Stars-17012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Durban's Super Giants",
+    "team_b": "Paarl Royals",
+    "event_name": "SA20 league",
+    "poster_id": "Durban's-Super-Giants-Paarl-Royals-17012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Delhi Capitals",
+    "team_b": "Royal Challengers Bengaluru",
+    "event_name": "Women's Premier League",
+    "poster_id": "Delhi-Capitals-Royal-Challengers-Bengaluru-17012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Joburg Super Kings",
+    "team_b": "Pretoria Capitals",
+    "event_name": "SA20 league",
+    "poster_id": "Joburg-Super-Kings-Pretoria-Capitals-17012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Chattogram Royals",
+    "team_b": "Rajshahi Warriors",
+    "event_name": "Bangladesh Premier League",
+    "poster_id": "Chattogram-Royals-Rajshahi-Warriors-17012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Rangpur Riders",
+    "team_b": "Noakhali Express",
+    "event_name": "Bangladesh Premier League",
+    "poster_id": "Rangpur-Riders-Noakhali-Express-18012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India",
+    "team_b": "New Zealand",
+    "event_name": "One Day International",
+    "poster_id": "India-New-Zealand-18012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Brisbane Heat",
+    "team_b": "Sydney Sixers",
+    "event_name": "Big Bash League",
+    "poster_id": "Brisbane-Heat-Sydney-Sixers-18012026.png",
     "match_type": "team_vs_team"
   }
 ]

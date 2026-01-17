@@ -7,69 +7,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Senegal",
-    "team_b": "Egypt",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "Senegal-Egypt-14012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "1. FC KÃ¶ln",
-    "team_b": "FC Bayern MÃ¼nchen",
-    "event_name": "Bundesliga",
-    "poster_id": "1.-FC-KÃ¶ln-FC-Bayern-MÃ¼nchen-14012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "TSG Hoffenheim",
-    "team_b": "Borussia M'gladbach",
-    "event_name": "Bundesliga",
-    "poster_id": "TSG-Hoffenheim-Borussia-M'gladbach-14012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "RB Leipzig",
-    "team_b": "SC Freiburg",
-    "event_name": "Bundesliga",
-    "poster_id": "RB-Leipzig-SC-Freiburg-14012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Falkirk FC",
-    "team_b": "Celtic",
-    "event_name": "Scottish Premiership",
-    "poster_id": "Falkirk-FC-Celtic-14012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Mumbai Indians",
-    "team_b": "UP Warriorz",
-    "event_name": "Women's Premier League",
-    "poster_id": "Mumbai-Indians-UP-Warriorz-15012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Rajshahi Warriors",
-    "team_b": "Sylhet Titans",
-    "event_name": "Bangladesh Premier League",
-    "poster_id": "Rajshahi-Warriors-Sylhet-Titans-16012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Pretoria Capitals",
-    "team_b": "Paarl Royals",
-    "event_name": "SA20 league",
-    "poster_id": "Pretoria-Capitals-Paarl-Royals-15012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sydney Sixers",
-    "team_b": "Sydney Thunder",
-    "event_name": "Big Bash League",
-    "poster_id": "Sydney-Sixers-Sydney-Thunder-16012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "LOUD",
     "team_b": "Vivo Keyd Stars",
     "event_name": "CBLOL",
@@ -116,111 +53,6 @@
     "team_b": "Matheus Silva",
     "event_name": "Fury Fighting Championship",
     "poster_id": "Abdul-Kamara-Matheus-Silva-18012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sunrisers Eastern Cape",
-    "team_b": "Joburg Super Kings",
-    "event_name": "SA20 league",
-    "poster_id": "Sunrisers-Eastern-Cape-Joburg-Super-Kings-14012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Betis",
-    "team_b": "Elche",
-    "event_name": "Copa del Rey",
-    "poster_id": "Real-Betis-Elche-14012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Albacete BalompiÃ©",
-    "team_b": "Real Madrid",
-    "event_name": "Copa del Rey",
-    "poster_id": "Albacete-BalompiÃ©-Real-Madrid-14012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Nigeria",
-    "team_b": "Morocco",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "Nigeria-Morocco-14012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Chelsea",
-    "team_b": "Arsenal",
-    "event_name": "EFL Cup",
-    "poster_id": "Chelsea-Arsenal-14012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Hellas Verona",
-    "team_b": "Bologna",
-    "event_name": "Serie A",
-    "poster_id": "Hellas-Verona-Bologna-15012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Racing Club",
-    "team_b": "Barcelona",
-    "event_name": "Copa del Rey",
-    "poster_id": "Real-Racing-Club-Barcelona-15012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Como",
-    "team_b": "Milan",
-    "event_name": "Serie A",
-    "poster_id": "Como-Milan-15012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FC Augsburg",
-    "team_b": "1. FC Union Berlin",
-    "event_name": "Bundesliga",
-    "poster_id": "FC-Augsburg-1.-FC-Union-Berlin-15012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Inter",
-    "team_b": "Lecce",
-    "event_name": "Serie A",
-    "poster_id": "Inter-Lecce-14012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Ittihad",
-    "team_b": "Al-Ettifaq",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Ittihad-Al-Ettifaq-16012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "SV Werder Bremen",
-    "team_b": "Eintracht Frankfurt",
-    "event_name": "Bundesliga",
-    "poster_id": "SV-Werder-Bremen-Eintracht-Frankfurt-16012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "CD CastellÃ³n",
-    "team_b": "LeganÃ©s",
-    "event_name": "LaLiga 2",
-    "poster_id": "CD-CastellÃ³n-LeganÃ©s-16012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Espanyol",
-    "team_b": "Girona FC",
-    "event_name": "LaLiga",
-    "poster_id": "Espanyol-Girona-FC-16012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Paris Saint-Germain",
-    "team_b": "Lille",
-    "event_name": "Ligue 1",
-    "poster_id": "Paris-Saint-Germain-Lille-16012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -452,20 +284,6 @@
     "team_b": "Olympique de Marseille",
     "event_name": "Ligue 1",
     "poster_id": "Angers-Olympique-de-Marseille-17012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Chattogram Royals",
-    "team_b": "Noakhali Express",
-    "event_name": "Bangladesh Premier League",
-    "poster_id": "Chattogram-Royals-Noakhali-Express-16012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Rangpur Riders",
-    "team_b": "Dhaka Capitals",
-    "event_name": "Bangladesh Premier League",
-    "poster_id": "Rangpur-Riders-Dhaka-Capitals-17012026.png",
     "match_type": "team_vs_team"
   },
   {

@@ -154,13 +154,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Bologna",
-    "team_b": "Fiorentina",
-    "event_name": "Serie A",
-    "poster_id": "Bologna-Fiorentina-18012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Wolverhampton",
     "team_b": "Newcastle United",
     "event_name": "Premier League",

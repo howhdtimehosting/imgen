@@ -56,153 +56,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Watford",
-    "team_b": "Millwall",
-    "event_name": "Championship",
-    "poster_id": "Watford-Millwall-17012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Egypt",
-    "team_b": "Nigeria",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "Egypt-Nigeria-17012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "RB Leipzig",
-    "team_b": "FC Bayern MÃ¼nchen",
-    "event_name": "Bundesliga",
-    "poster_id": "RB-Leipzig-FC-Bayern-MÃ¼nchen-17012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Nottingham Forest",
-    "team_b": "Arsenal",
-    "event_name": "Premier League",
-    "poster_id": "Nottingham-Forest-Arsenal-17012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Osasuna",
-    "team_b": "Real Oviedo",
-    "event_name": "LaLiga",
-    "poster_id": "Osasuna-Real-Oviedo-17012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Nassr",
-    "team_b": "Al-Shabab",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Nassr-Al-Shabab-17012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Toulouse",
-    "team_b": "Nice",
-    "event_name": "Ligue 1",
-    "poster_id": "Toulouse-Nice-17012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Betis",
-    "team_b": "Villarreal",
-    "event_name": "LaLiga",
-    "poster_id": "Real-Betis-Villarreal-17012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Durban's Super Giants",
-    "team_b": "Paarl Royals",
-    "event_name": "SA20 league",
-    "poster_id": "Durban's-Super-Giants-Paarl-Royals-17012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Chattogram Royals",
-    "team_b": "Rajshahi Warriors",
-    "event_name": "Bangladesh Premier League",
-    "poster_id": "Chattogram-Royals-Rajshahi-Warriors-17012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Manchester United",
-    "team_b": "Manchester City",
-    "event_name": "Premier League",
-    "poster_id": "Manchester-United-Manchester-City-17012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Cagliari",
-    "team_b": "Juventus",
-    "event_name": "Serie A",
-    "poster_id": "Cagliari-Juventus-17012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Parma",
-    "team_b": "Genoa",
-    "event_name": "Serie A",
-    "poster_id": "Parma-Genoa-18012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Getafe",
-    "team_b": "Valencia",
-    "event_name": "LaLiga",
-    "poster_id": "Getafe-Valencia-18012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Wolverhampton",
-    "team_b": "Newcastle United",
-    "event_name": "Premier League",
-    "poster_id": "Wolverhampton-Newcastle-United-18012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "RC Strasbourg",
-    "team_b": "Metz",
-    "event_name": "Ligue 1",
-    "poster_id": "RC-Strasbourg-Metz-18012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "VfB Stuttgart",
-    "team_b": "1. FC Union Berlin",
-    "event_name": "Bundesliga",
-    "poster_id": "VfB-Stuttgart-1.-FC-Union-Berlin-18012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Hazem",
-    "team_b": "Al-Qadsiah",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Hazem-Al-Qadsiah-18012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Racing Club",
-    "team_b": "Las Palmas",
-    "event_name": "LaLiga 2",
-    "poster_id": "Real-Racing-Club-Las-Palmas-18012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "AtlÃ©tico Madrid",
-    "team_b": "Deportivo AlavÃ©s",
-    "event_name": "LaLiga",
-    "poster_id": "AtlÃ©tico-Madrid-Deportivo-AlavÃ©s-18012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Aston Villa",
-    "team_b": "Everton",
-    "event_name": "Premier League",
-    "poster_id": "Aston-Villa-Everton-18012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Nantes",
     "team_b": "Paris FC",
     "event_name": "Ligue 1",
@@ -214,20 +67,6 @@
     "team_b": "Le Havre",
     "event_name": "Ligue 1",
     "poster_id": "Stade-Rennais-Le-Havre-18012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FC Augsburg",
-    "team_b": "SC Freiburg",
-    "event_name": "Bundesliga",
-    "poster_id": "FC-Augsburg-SC-Freiburg-18012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Celta Vigo",
-    "team_b": "Rayo Vallecano",
-    "event_name": "LaLiga",
-    "poster_id": "Celta-Vigo-Rayo-Vallecano-18012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -249,13 +88,6 @@
     "team_b": "Morocco",
     "event_name": "Africa Cup of Nations",
     "poster_id": "Senegal-Morocco-18012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Chattogram Royals",
-    "team_b": "Dhaka Capitals",
-    "event_name": "Bangladesh Premier League",
-    "poster_id": "Chattogram-Royals-Dhaka-Capitals-18012026.png",
     "match_type": "team_vs_team"
   }
 ]

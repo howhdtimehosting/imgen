@@ -259,13 +259,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Senegal",
-    "team_b": "Morocco",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "Senegal-Morocco-18012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "India",
     "team_b": "New Zealand",
     "event_name": "One Day International",

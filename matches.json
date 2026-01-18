@@ -259,13 +259,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "India",
-    "team_b": "New Zealand",
-    "event_name": "One Day International",
-    "poster_id": "India-New-Zealand-18012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Chattogram Royals",
     "team_b": "Dhaka Capitals",
     "event_name": "Bangladesh Premier League",

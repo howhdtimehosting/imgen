@@ -98,13 +98,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Real Zaragoza",
-    "team_b": "Real Sociedad B U21",
-    "event_name": "LaLiga 2",
-    "poster_id": "Real-Zaragoza-Real-Sociedad-B-U21-17012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Al-Nassr",
     "team_b": "Al-Shabab",
     "event_name": "Saudi Pro League",
@@ -126,13 +119,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Angers",
-    "team_b": "Olympique de Marseille",
-    "event_name": "Ligue 1",
-    "poster_id": "Angers-Olympique-de-Marseille-17012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Durban's Super Giants",
     "team_b": "Paarl Royals",
     "event_name": "SA20 league",
@@ -147,24 +133,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Rangpur Riders",
-    "team_b": "Noakhali Express",
-    "event_name": "Bangladesh Premier League",
-    "poster_id": "Rangpur-Riders-Noakhali-Express-18012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "India",
     "team_b": "New Zealand",
     "event_name": "One Day International",
     "poster_id": "India-New-Zealand-18012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Brisbane Heat",
-    "team_b": "Sydney Sixers",
-    "event_name": "Big Bash League",
-    "poster_id": "Brisbane-Heat-Sydney-Sixers-18012026.png",
     "match_type": "team_vs_team"
   },
   {

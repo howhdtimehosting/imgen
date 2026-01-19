@@ -35,52 +35,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Antonio Figueiredo",
-    "team_b": "Takaya Suzuki",
-    "event_name": "Fury Fighting Championship",
-    "poster_id": "Antonio-Figueiredo-Takaya-Suzuki-18012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Artur  Minev",
-    "team_b": "Derek Campos",
-    "event_name": "Fury Fighting Championship",
-    "poster_id": "Artur-Minev-Derek-Campos-18012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Abdul  Kamara",
-    "team_b": "Matheus Silva",
-    "event_name": "Fury Fighting Championship",
-    "poster_id": "Abdul-Kamara-Matheus-Silva-18012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Nantes",
     "team_b": "Paris FC",
     "event_name": "Ligue 1",
     "poster_id": "Nantes-Paris-FC-18012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Stade Rennais",
-    "team_b": "Le Havre",
-    "event_name": "Ligue 1",
-    "poster_id": "Stade-Rennais-Le-Havre-18012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Riyadh",
-    "team_b": "Al-Taawoun",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Riyadh-Al-Taawoun-18012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Neom SC",
-    "team_b": "Al-Hilal",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Neom-SC-Al-Hilal-18012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -95,13 +53,6 @@
     "team_b": "Barcelona",
     "event_name": "LaLiga",
     "poster_id": "Real-Sociedad-Barcelona-18012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Olympique Lyonnais",
-    "team_b": "Stade Brestois",
-    "event_name": "Ligue 1",
-    "poster_id": "Olympique-Lyonnais-Stade-Brestois-18012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -277,6 +228,83 @@
     "team_b": "PSV Eindhoven",
     "event_name": "UEFA Champions League",
     "poster_id": "Newcastle-United-PSV-Eindhoven-21012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "South Africa Under-19",
+    "team_b": "Tanzania Under-19",
+    "event_name": "ICC U19 World Cup",
+    "poster_id": "South-Africa-Under-19-Tanzania-Under-19-19012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pakistan Under-19",
+    "team_b": "Scotland Under-19",
+    "event_name": "ICC U19 World Cup",
+    "poster_id": "Pakistan-Under-19-Scotland-Under-19-19012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sri Lanka Under-19",
+    "team_b": "Ireland Under-19",
+    "event_name": "ICC U19 World Cup",
+    "poster_id": "Sri-Lanka-Under-19-Ireland-Under-19-19012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Paarl Royals",
+    "team_b": "Joburg Super Kings",
+    "event_name": "SA20 league",
+    "poster_id": "Paarl-Royals-Joburg-Super-Kings-19012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Gujarat Giants",
+    "team_b": "Royal Challengers Bengaluru",
+    "event_name": "Women's Premier League",
+    "poster_id": "Gujarat-Giants-Royal-Challengers-Bengaluru-19012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Afghanistan",
+    "team_b": "West Indies",
+    "event_name": "T20 International",
+    "poster_id": "Afghanistan-West-Indies-19012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Rangpur Riders",
+    "team_b": "Sylhet Titans",
+    "event_name": "Bangladesh Premier League",
+    "poster_id": "Rangpur-Riders-Sylhet-Titans-20012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Northern Districts",
+    "team_b": "Central Stags",
+    "event_name": "Super Smash",
+    "poster_id": "Northern-Districts-Central-Stags-20012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bangladesh Under-19",
+    "team_b": "New Zealand Under-19",
+    "event_name": "ICC U19 World Cup",
+    "poster_id": "Bangladesh-Under-19-New-Zealand-Under-19-20012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Australia Under-19",
+    "team_b": "Japan Under-19",
+    "event_name": "ICC U19 World Cup",
+    "poster_id": "Australia-Under-19-Japan-Under-19-20012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Perth Scorchers",
+    "team_b": "Sydney Sixers",
+    "event_name": "Big Bash League",
+    "poster_id": "Perth-Scorchers-Sydney-Sixers-20012026.png",
     "match_type": "team_vs_team"
   }
 ]

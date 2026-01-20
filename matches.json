@@ -28,13 +28,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Indiana Hoosiers",
-    "team_b": "Miami Hurricanes",
-    "event_name": "NCAA Division I, FBS Post Season",
-    "poster_id": "Indiana-Hoosiers-Miami-Hurricanes-20012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Nantes",
     "team_b": "Paris FC",
     "event_name": "Ligue 1",
@@ -273,13 +266,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Northern Districts",
-    "team_b": "Central Stags",
-    "event_name": "Super Smash",
-    "poster_id": "Northern-Districts-Central-Stags-20012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Bangladesh Under-19",
     "team_b": "New Zealand Under-19",
     "event_name": "ICC U19 World Cup",
@@ -298,6 +284,20 @@
     "team_b": "Sydney Sixers",
     "event_name": "Big Bash League",
     "poster_id": "Perth-Scorchers-Sydney-Sixers-20012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Delhi Capitals",
+    "team_b": "Mumbai Indians",
+    "event_name": "Women's Premier League",
+    "poster_id": "Delhi-Capitals-Mumbai-Indians-20012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Rajshahi Warriors",
+    "team_b": "Chattogram Royals",
+    "event_name": "Bangladesh Premier League",
+    "poster_id": "Rajshahi-Warriors-Chattogram-Royals-20012026.png",
     "match_type": "team_vs_team"
   }
 ]

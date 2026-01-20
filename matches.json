@@ -273,20 +273,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Australia Under-19",
-    "team_b": "Japan Under-19",
-    "event_name": "ICC U19 World Cup",
-    "poster_id": "Australia-Under-19-Japan-Under-19-20012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Perth Scorchers",
-    "team_b": "Sydney Sixers",
-    "event_name": "Big Bash League",
-    "poster_id": "Perth-Scorchers-Sydney-Sixers-20012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Delhi Capitals",
     "team_b": "Mumbai Indians",
     "event_name": "Women's Premier League",

@@ -266,24 +266,17 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Bangladesh Under-19",
-    "team_b": "New Zealand Under-19",
-    "event_name": "ICC U19 World Cup",
-    "poster_id": "Bangladesh-Under-19-New-Zealand-Under-19-20012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Delhi Capitals",
-    "team_b": "Mumbai Indians",
-    "event_name": "Women's Premier League",
-    "poster_id": "Delhi-Capitals-Mumbai-Indians-20012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Rajshahi Warriors",
     "team_b": "Chattogram Royals",
     "event_name": "Bangladesh Premier League",
     "poster_id": "Rajshahi-Warriors-Chattogram-Royals-20012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "BodÃ¸/Glimt",
+    "team_b": "Manchester City",
+    "event_name": "UEFA Champions League",
+    "poster_id": "BodÃ¸Glimt-Manchester-City-20012026.png",
     "match_type": "team_vs_team"
   }
 ]

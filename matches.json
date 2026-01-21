@@ -35,38 +35,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "QarabaÄ FK",
-    "team_b": "Eintracht Frankfurt",
-    "event_name": "UEFA Champions League",
-    "poster_id": "QarabaÄ-FK-Eintracht-Frankfurt-21012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Juventus",
     "team_b": "Benfica",
     "event_name": "UEFA Champions League",
     "poster_id": "Juventus-Benfica-21012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Chelsea",
-    "team_b": "Pafos FC",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Chelsea-Pafos-FC-21012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Atalanta",
-    "team_b": "Athletic Club",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Atalanta-Athletic-Club-21012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FC Bayern MÃ¼nchen",
-    "team_b": "Royale Union Saint-Gilloise",
-    "event_name": "UEFA Champions League",
-    "poster_id": "FC-Bayern-MÃ¼nchen-Royale-Union-Saint-Gilloise-21012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -445,6 +417,27 @@
     "team_b": "Al-Nassr",
     "event_name": "Saudi Pro League",
     "poster_id": "Damac-FC-Al-Nassr-21012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Chelsea",
+    "team_b": "Pafos FC",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Chelsea-Pafos-FC-21012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Bayern MÃ¼nchen",
+    "team_b": "Royale Union Saint-Gilloise",
+    "event_name": "UEFA Champions League",
+    "poster_id": "FC-Bayern-MÃ¼nchen-Royale-Union-Saint-Gilloise-21012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Atalanta",
+    "team_b": "Athletic Club",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Atalanta-Athletic-Club-21012026.png",
     "match_type": "team_vs_team"
   }
 ]

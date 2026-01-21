@@ -166,5 +166,299 @@
     "event_name": "ICC U19 World Cup",
     "poster_id": "Zimbabwe-Under-19-Pakistan-Under-19-22012026.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FenerbahÃ§e",
+    "team_b": "Aston Villa",
+    "event_name": "UEFA Europa League",
+    "poster_id": "FenerbahÃ§e-Aston-Villa-22012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Qadsiah",
+    "team_b": "Al-Ittihad",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Qadsiah-Al-Ittihad-22012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Hilal",
+    "team_b": "Al-Fayha",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Hilal-Al-Fayha-22012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bologna",
+    "team_b": "Celtic",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Bologna-Celtic-22012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Feyenoord",
+    "team_b": "SK Sturm Graz",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Feyenoord-SK-Sturm-Graz-22012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "PAOK",
+    "team_b": "Real Betis",
+    "event_name": "UEFA Europa League",
+    "poster_id": "PAOK-Real-Betis-22012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "MalmÃ¶ FF",
+    "team_b": "FK Crvena zvezda",
+    "event_name": "UEFA Europa League",
+    "poster_id": "MalmÃ¶-FF-FK-Crvena-zvezda-22012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "SC Freiburg",
+    "team_b": "Maccabi Tel Aviv",
+    "event_name": "UEFA Europa League",
+    "poster_id": "SC-Freiburg-Maccabi-Tel-Aviv-22012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "SK Brann",
+    "team_b": "FC Midtjylland",
+    "event_name": "UEFA Europa League",
+    "poster_id": "SK-Brann-FC-Midtjylland-22012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Viktoria PlzeÅ",
+    "team_b": "FC Porto",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Viktoria-PlzeÅ-FC-Porto-22012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Young Boys",
+    "team_b": "Olympique Lyonnais",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Young-Boys-Olympique-Lyonnais-22012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Utrecht",
+    "team_b": "KRC Genk",
+    "event_name": "UEFA Europa League",
+    "poster_id": "FC-Utrecht-KRC-Genk-22012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FerencvÃ¡ros TC",
+    "team_b": "Panathinaikos",
+    "event_name": "UEFA Europa League",
+    "poster_id": "FerencvÃ¡ros-TC-Panathinaikos-22012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Celta Vigo",
+    "team_b": "Lille",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Celta-Vigo-Lille-22012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "GNK Dinamo Zagreb",
+    "team_b": "FCSB",
+    "event_name": "UEFA Europa League",
+    "poster_id": "GNK-Dinamo-Zagreb-FCSB-22012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Red Bull Salzburg",
+    "team_b": "Basel",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Red-Bull-Salzburg-Basel-22012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Nice",
+    "team_b": "Go Ahead Eagles",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Nice-Go-Ahead-Eagles-22012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Rangers",
+    "team_b": "Ludogorets",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Rangers-Ludogorets-22012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Roma",
+    "team_b": "VfB Stuttgart",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Roma-VfB-Stuttgart-22012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sporting Braga",
+    "team_b": "Nottingham Forest",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Sporting-Braga-Nottingham-Forest-22012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Auxerre",
+    "team_b": "Paris Saint-Germain",
+    "event_name": "Ligue 1",
+    "poster_id": "Auxerre-Paris-Saint-Germain-23012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "MÃ¡laga",
+    "team_b": "Burgos Club de FÃºtbol",
+    "event_name": "LaLiga 2",
+    "poster_id": "MÃ¡laga-Burgos-Club-de-FÃºtbol-23012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC St. Pauli",
+    "team_b": "Hamburger SV",
+    "event_name": "Bundesliga",
+    "poster_id": "FC-St.-Pauli-Hamburger-SV-23012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Inter",
+    "team_b": "Pisa",
+    "event_name": "Serie A",
+    "poster_id": "Inter-Pisa-23012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Levante UD",
+    "team_b": "Elche",
+    "event_name": "LaLiga",
+    "poster_id": "Levante-UD-Elche-23012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Inter",
+    "team_b": "Pisa",
+    "event_name": "Serie A",
+    "poster_id": "Inter-Pisa-23012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Como",
+    "team_b": "Torino",
+    "event_name": "Serie A",
+    "poster_id": "Como-Torino-24012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Samsunspor",
+    "team_b": "Kocaelispor",
+    "event_name": "Trendyol SÃ¼per Lig",
+    "poster_id": "Samsunspor-Kocaelispor-24012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bayer 04 Leverkusen",
+    "team_b": "SV Werder Bremen",
+    "event_name": "Bundesliga",
+    "poster_id": "Bayer-04-Leverkusen-SV-Werder-Bremen-24012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "1. FC Heidenheim",
+    "team_b": "RB Leipzig",
+    "event_name": "Bundesliga",
+    "poster_id": "1.-FC-Heidenheim-RB-Leipzig-24012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "1. FSV Mainz 05",
+    "team_b": "VfL Wolfsburg",
+    "event_name": "Bundesliga",
+    "poster_id": "1.-FSV-Mainz-05-VfL-Wolfsburg-24012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Eintracht Frankfurt",
+    "team_b": "TSG Hoffenheim",
+    "event_name": "Bundesliga",
+    "poster_id": "Eintracht-Frankfurt-TSG-Hoffenheim-24012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Bayern MÃ¼nchen",
+    "team_b": "FC Augsburg",
+    "event_name": "Bundesliga",
+    "poster_id": "FC-Bayern-MÃ¼nchen-FC-Augsburg-24012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Burnley",
+    "team_b": "Tottenham Hotspur",
+    "event_name": "Premier League",
+    "poster_id": "Burnley-Tottenham-Hotspur-24012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Manchester City",
+    "team_b": "Wolverhampton",
+    "event_name": "Premier League",
+    "poster_id": "Manchester-City-Wolverhampton-24012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Fulham",
+    "team_b": "Brighton & Hove Albion",
+    "event_name": "Premier League",
+    "poster_id": "Fulham-Brighton-&-Hove-Albion-24012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "LeganÃ©s",
+    "team_b": "Real Sociedad B U21",
+    "event_name": "LaLiga 2",
+    "poster_id": "LeganÃ©s-Real-Sociedad-B-U21-24012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Valencia",
+    "team_b": "Espanyol",
+    "event_name": "LaLiga",
+    "poster_id": "Valencia-Espanyol-24012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Le Havre",
+    "team_b": "AS Monaco",
+    "event_name": "Ligue 1",
+    "poster_id": "Le-Havre-AS-Monaco-24012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sevilla",
+    "team_b": "Athletic Club",
+    "event_name": "LaLiga",
+    "poster_id": "Sevilla-Athletic-Club-24012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bournemouth",
+    "team_b": "Liverpool",
+    "event_name": "Premier League",
+    "poster_id": "Bournemouth-Liverpool-24012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "1. FC Union Berlin",
+    "team_b": "Borussia Dortmund",
+    "event_name": "Bundesliga",
+    "poster_id": "1.-FC-Union-Berlin-Borussia-Dortmund-24012026.png",
+    "match_type": "team_vs_team"
   }
 ]

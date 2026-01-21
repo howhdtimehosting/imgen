@@ -98,24 +98,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "England Under-19",
-    "team_b": "Scotland Under-19",
-    "event_name": "ICC U19 World Cup",
-    "poster_id": "England-Under-19-Scotland-Under-19-21012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Afghanistan",
     "team_b": "West Indies",
     "event_name": "T20 International",
     "poster_id": "Afghanistan-West-Indies-21012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "India",
-    "team_b": "New Zealand",
-    "event_name": "T20 International",
-    "poster_id": "India-New-Zealand-21012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -452,6 +438,13 @@
     "team_b": "Borussia Dortmund",
     "event_name": "Bundesliga",
     "poster_id": "1.-FC-Union-Berlin-Borussia-Dortmund-24012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Damac FC",
+    "team_b": "Al-Nassr",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Damac-FC-Al-Nassr-21012026.png",
     "match_type": "team_vs_team"
   }
 ]

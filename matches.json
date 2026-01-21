@@ -28,139 +28,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Nantes",
-    "team_b": "Paris FC",
-    "event_name": "Ligue 1",
-    "poster_id": "Nantes-Paris-FC-18012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Senegal",
-    "team_b": "Morocco",
-    "event_name": "Africa Cup of Nations",
-    "poster_id": "Senegal-Morocco-18012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Sociedad",
-    "team_b": "Barcelona",
-    "event_name": "LaLiga",
-    "poster_id": "Real-Sociedad-Barcelona-18012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Milan",
-    "team_b": "Lecce",
-    "event_name": "Serie A",
-    "poster_id": "Milan-Lecce-18012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Cremonese",
-    "team_b": "Hellas Verona",
-    "event_name": "Serie A",
-    "poster_id": "Cremonese-Hellas-Verona-19012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Lazio",
-    "team_b": "Como",
-    "event_name": "Serie A",
-    "poster_id": "Lazio-Como-19012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Elche",
-    "team_b": "Sevilla",
-    "event_name": "LaLiga",
-    "poster_id": "Elche-Sevilla-19012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Brighton & Hove Albion",
-    "team_b": "Bournemouth",
-    "event_name": "Premier League",
-    "poster_id": "Brighton-&-Hove-Albion-Bournemouth-19012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Kairat Almaty",
-    "team_b": "Club Brugge KV",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Kairat-Almaty-Club-Brugge-KV-20012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Inter",
-    "team_b": "Arsenal",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Inter-Arsenal-20012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Alloa Athletic",
-    "team_b": "Montrose",
-    "event_name": "Scottish League One",
-    "poster_id": "Alloa-Athletic-Montrose-20012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FC KÃ¸benhavn",
-    "team_b": "Napoli",
-    "event_name": "UEFA Champions League",
-    "poster_id": "FC-KÃ¸benhavn-Napoli-20012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "East Fife",
-    "team_b": "Inverness Caledonian Thistle",
-    "event_name": "Scottish League One",
-    "poster_id": "East-Fife-Inverness-Caledonian-Thistle-20012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sporting CP",
-    "team_b": "Paris Saint-Germain",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Sporting-CP-Paris-Saint-Germain-20012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Olympiacos FC",
-    "team_b": "Bayer 04 Leverkusen",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Olympiacos-FC-Bayer-04-Leverkusen-20012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Madrid",
-    "team_b": "AS Monaco",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Real-Madrid-AS-Monaco-20012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Tottenham Hotspur",
-    "team_b": "Borussia Dortmund",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Tottenham-Hotspur-Borussia-Dortmund-20012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Villarreal",
-    "team_b": "AFC Ajax",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Villarreal-AFC-Ajax-20012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Wrexham",
-    "team_b": "Leicester City",
-    "event_name": "Championship",
-    "poster_id": "Wrexham-Leicester-City-20012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Galatasaray",
     "team_b": "AtlÃ©tico Madrid",
     "event_name": "UEFA Champions League",
@@ -224,59 +91,80 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "South Africa Under-19",
+    "team_a": "Afghanistan Under-19",
     "team_b": "Tanzania Under-19",
     "event_name": "ICC U19 World Cup",
-    "poster_id": "South-Africa-Under-19-Tanzania-Under-19-19012026.png",
+    "poster_id": "Afghanistan-Under-19-Tanzania-Under-19-21012026.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Pakistan Under-19",
+    "team_a": "Hobart Hurricanes",
+    "team_b": "Melbourne Stars",
+    "event_name": "Big Bash League",
+    "poster_id": "Hobart-Hurricanes-Melbourne-Stars-21012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "England Under-19",
     "team_b": "Scotland Under-19",
     "event_name": "ICC U19 World Cup",
-    "poster_id": "Pakistan-Under-19-Scotland-Under-19-19012026.png",
+    "poster_id": "England-Under-19-Scotland-Under-19-21012026.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Sri Lanka Under-19",
-    "team_b": "Ireland Under-19",
-    "event_name": "ICC U19 World Cup",
-    "poster_id": "Sri-Lanka-Under-19-Ireland-Under-19-19012026.png",
+    "team_a": "Afghanistan",
+    "team_b": "West Indies",
+    "event_name": "T20 International",
+    "poster_id": "Afghanistan-West-Indies-21012026.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Paarl Royals",
-    "team_b": "Joburg Super Kings",
+    "team_a": "India",
+    "team_b": "New Zealand",
+    "event_name": "T20 International",
+    "poster_id": "India-New-Zealand-21012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sunrisers Eastern Cape",
+    "team_b": "Pretoria Capitals",
     "event_name": "SA20 league",
-    "poster_id": "Paarl-Royals-Joburg-Super-Kings-19012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Gujarat Giants",
-    "team_b": "Royal Challengers Bengaluru",
-    "event_name": "Women's Premier League",
-    "poster_id": "Gujarat-Giants-Royal-Challengers-Bengaluru-19012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Rangpur Riders",
-    "team_b": "Sylhet Titans",
-    "event_name": "Bangladesh Premier League",
-    "poster_id": "Rangpur-Riders-Sylhet-Titans-20012026.png",
+    "poster_id": "Sunrisers-Eastern-Cape-Pretoria-Capitals-21012026.png",
     "match_type": "team_vs_team"
   },
   {
     "team_a": "Rajshahi Warriors",
-    "team_b": "Chattogram Royals",
+    "team_b": "Sylhet Titans",
     "event_name": "Bangladesh Premier League",
-    "poster_id": "Rajshahi-Warriors-Chattogram-Royals-20012026.png",
+    "poster_id": "Rajshahi-Warriors-Sylhet-Titans-21012026.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "BodÃ¸/Glimt",
-    "team_b": "Manchester City",
-    "event_name": "UEFA Champions League",
-    "poster_id": "BodÃ¸Glimt-Manchester-City-20012026.png",
+    "team_a": "West Indies Under-19",
+    "team_b": "South Africa Under-19",
+    "event_name": "ICC U19 World Cup",
+    "poster_id": "West-Indies-Under-19-South-Africa-Under-19-22012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sri Lanka",
+    "team_b": "England",
+    "event_name": "One Day International",
+    "poster_id": "Sri-Lanka-England-22012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Ireland Under-19",
+    "team_b": "Japan Under-19",
+    "event_name": "ICC U19 World Cup",
+    "poster_id": "Ireland-Under-19-Japan-Under-19-22012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Zimbabwe Under-19",
+    "team_b": "Pakistan Under-19",
+    "event_name": "ICC U19 World Cup",
+    "poster_id": "Zimbabwe-Under-19-Pakistan-Under-19-22012026.png",
     "match_type": "team_vs_team"
   }
 ]

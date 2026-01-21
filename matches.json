@@ -98,13 +98,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Hobart Hurricanes",
-    "team_b": "Melbourne Stars",
-    "event_name": "Big Bash League",
-    "poster_id": "Hobart-Hurricanes-Melbourne-Stars-21012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "England Under-19",
     "team_b": "Scotland Under-19",
     "event_name": "ICC U19 World Cup",

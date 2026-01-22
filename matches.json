@@ -70,76 +70,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "FenerbahÃ§e",
-    "team_b": "Aston Villa",
-    "event_name": "UEFA Europa League",
-    "poster_id": "FenerbahÃ§e-Aston-Villa-22012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Qadsiah",
-    "team_b": "Al-Ittihad",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Qadsiah-Al-Ittihad-22012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Hilal",
-    "team_b": "Al-Fayha",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Hilal-Al-Fayha-22012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bologna",
-    "team_b": "Celtic",
-    "event_name": "UEFA Europa League",
-    "poster_id": "Bologna-Celtic-22012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Feyenoord",
-    "team_b": "SK Sturm Graz",
-    "event_name": "UEFA Europa League",
-    "poster_id": "Feyenoord-SK-Sturm-Graz-22012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "PAOK",
-    "team_b": "Real Betis",
-    "event_name": "UEFA Europa League",
-    "poster_id": "PAOK-Real-Betis-22012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "MalmÃ¶ FF",
-    "team_b": "FK Crvena zvezda",
-    "event_name": "UEFA Europa League",
-    "poster_id": "MalmÃ¶-FF-FK-Crvena-zvezda-22012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "SC Freiburg",
-    "team_b": "Maccabi Tel Aviv",
-    "event_name": "UEFA Europa League",
-    "poster_id": "SC-Freiburg-Maccabi-Tel-Aviv-22012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "SK Brann",
-    "team_b": "FC Midtjylland",
-    "event_name": "UEFA Europa League",
-    "poster_id": "SK-Brann-FC-Midtjylland-22012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Viktoria PlzeÅ",
-    "team_b": "FC Porto",
-    "event_name": "UEFA Europa League",
-    "poster_id": "Viktoria-PlzeÅ-FC-Porto-22012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Young Boys",
     "team_b": "Olympique Lyonnais",
     "event_name": "UEFA Europa League",
@@ -368,13 +298,6 @@
     "team_b": "Athletic Club",
     "event_name": "UEFA Champions League",
     "poster_id": "Atalanta-Athletic-Club-21012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Afghanistan",
-    "team_b": "West Indies",
-    "event_name": "T20 International",
-    "poster_id": "Afghanistan-West-Indies-22012026.png",
     "match_type": "team_vs_team"
   }
 ]

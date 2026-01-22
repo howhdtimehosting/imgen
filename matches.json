@@ -70,34 +70,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "West Indies Under-19",
-    "team_b": "South Africa Under-19",
-    "event_name": "ICC U19 World Cup",
-    "poster_id": "West-Indies-Under-19-South-Africa-Under-19-22012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sri Lanka",
-    "team_b": "England",
-    "event_name": "One Day International",
-    "poster_id": "Sri-Lanka-England-22012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Ireland Under-19",
-    "team_b": "Japan Under-19",
-    "event_name": "ICC U19 World Cup",
-    "poster_id": "Ireland-Under-19-Japan-Under-19-22012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Zimbabwe Under-19",
-    "team_b": "Pakistan Under-19",
-    "event_name": "ICC U19 World Cup",
-    "poster_id": "Zimbabwe-Under-19-Pakistan-Under-19-22012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "FenerbahÃ§e",
     "team_b": "Aston Villa",
     "event_name": "UEFA Europa League",
@@ -396,6 +368,13 @@
     "team_b": "Athletic Club",
     "event_name": "UEFA Champions League",
     "poster_id": "Atalanta-Athletic-Club-21012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Afghanistan",
+    "team_b": "West Indies",
+    "event_name": "T20 International",
+    "poster_id": "Afghanistan-West-Indies-22012026.png",
     "match_type": "team_vs_team"
   }
 ]

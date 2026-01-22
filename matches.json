@@ -35,13 +35,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Juventus",
-    "team_b": "Benfica",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Juventus-Benfica-21012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Olympique de Marseille",
     "team_b": "Liverpool",
     "event_name": "UEFA Champions League",
@@ -56,13 +49,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Newcastle United",
-    "team_b": "PSV Eindhoven",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Newcastle-United-PSV-Eindhoven-21012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Afghanistan Under-19",
     "team_b": "Tanzania Under-19",
     "event_name": "ICC U19 World Cup",
@@ -74,13 +60,6 @@
     "team_b": "West Indies",
     "event_name": "T20 International",
     "poster_id": "Afghanistan-West-Indies-21012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sunrisers Eastern Cape",
-    "team_b": "Pretoria Capitals",
-    "event_name": "SA20 league",
-    "poster_id": "Sunrisers-Eastern-Cape-Pretoria-Capitals-21012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -410,27 +389,6 @@
     "team_b": "Borussia Dortmund",
     "event_name": "Bundesliga",
     "poster_id": "1.-FC-Union-Berlin-Borussia-Dortmund-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Damac FC",
-    "team_b": "Al-Nassr",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Damac-FC-Al-Nassr-21012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Chelsea",
-    "team_b": "Pafos FC",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Chelsea-Pafos-FC-21012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FC Bayern MÃ¼nchen",
-    "team_b": "Royale Union Saint-Gilloise",
-    "event_name": "UEFA Champions League",
-    "poster_id": "FC-Bayern-MÃ¼nchen-Royale-Union-Saint-Gilloise-21012026.png",
     "match_type": "team_vs_team"
   },
   {

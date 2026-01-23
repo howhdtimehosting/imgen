@@ -238,27 +238,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Sydney Sixers",
-    "team_b": "Hobart Hurricanes",
-    "event_name": "Big Bash League",
-    "poster_id": "Sydney-Sixers-Hobart-Hurricanes-23012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bangladesh Under-19",
-    "team_b": "USA Under-19",
-    "event_name": "ICC U19 World Cup",
-    "poster_id": "Bangladesh-Under-19-USA-Under-19-23012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Chattogram Royals",
-    "team_b": "Rajshahi Warriors",
-    "event_name": "Bangladesh Premier League",
-    "poster_id": "Chattogram-Royals-Rajshahi-Warriors-23012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Sunrisers Eastern Cape",
     "team_b": "Paarl Royals",
     "event_name": "SA20 league",

@@ -70,76 +70,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Young Boys",
-    "team_b": "Olympique Lyonnais",
-    "event_name": "UEFA Europa League",
-    "poster_id": "Young-Boys-Olympique-Lyonnais-22012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FC Utrecht",
-    "team_b": "KRC Genk",
-    "event_name": "UEFA Europa League",
-    "poster_id": "FC-Utrecht-KRC-Genk-22012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FerencvÃ¡ros TC",
-    "team_b": "Panathinaikos",
-    "event_name": "UEFA Europa League",
-    "poster_id": "FerencvÃ¡ros-TC-Panathinaikos-22012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Celta Vigo",
-    "team_b": "Lille",
-    "event_name": "UEFA Europa League",
-    "poster_id": "Celta-Vigo-Lille-22012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "GNK Dinamo Zagreb",
-    "team_b": "FCSB",
-    "event_name": "UEFA Europa League",
-    "poster_id": "GNK-Dinamo-Zagreb-FCSB-22012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Red Bull Salzburg",
-    "team_b": "Basel",
-    "event_name": "UEFA Europa League",
-    "poster_id": "Red-Bull-Salzburg-Basel-22012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Nice",
-    "team_b": "Go Ahead Eagles",
-    "event_name": "UEFA Europa League",
-    "poster_id": "Nice-Go-Ahead-Eagles-22012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Rangers",
-    "team_b": "Ludogorets",
-    "event_name": "UEFA Europa League",
-    "poster_id": "Rangers-Ludogorets-22012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Roma",
-    "team_b": "VfB Stuttgart",
-    "event_name": "UEFA Europa League",
-    "poster_id": "Roma-VfB-Stuttgart-22012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sporting Braga",
-    "team_b": "Nottingham Forest",
-    "event_name": "UEFA Europa League",
-    "poster_id": "Sporting-Braga-Nottingham-Forest-22012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Auxerre",
     "team_b": "Paris Saint-Germain",
     "event_name": "Ligue 1",
@@ -298,6 +228,90 @@
     "team_b": "Athletic Club",
     "event_name": "UEFA Champions League",
     "poster_id": "Atalanta-Athletic-Club-21012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India",
+    "team_b": "New Zealand",
+    "event_name": "T20 International",
+    "poster_id": "India-New-Zealand-23012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sydney Sixers",
+    "team_b": "Hobart Hurricanes",
+    "event_name": "Big Bash League",
+    "poster_id": "Sydney-Sixers-Hobart-Hurricanes-23012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bangladesh Under-19",
+    "team_b": "USA Under-19",
+    "event_name": "ICC U19 World Cup",
+    "poster_id": "Bangladesh-Under-19-USA-Under-19-23012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Chattogram Royals",
+    "team_b": "Rajshahi Warriors",
+    "event_name": "Bangladesh Premier League",
+    "poster_id": "Chattogram-Royals-Rajshahi-Warriors-23012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sunrisers Eastern Cape",
+    "team_b": "Paarl Royals",
+    "event_name": "SA20 league",
+    "poster_id": "Sunrisers-Eastern-Cape-Paarl-Royals-23012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Central Hinds",
+    "team_b": "Otago Sparks",
+    "event_name": "Women's Super Smash",
+    "poster_id": "Central-Hinds-Otago-Sparks-24012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Japan Under-19",
+    "team_b": "Tanzania Under-19",
+    "event_name": "ICC U19 World Cup",
+    "poster_id": "Japan-Under-19-Tanzania-Under-19-24012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sri Lanka",
+    "team_b": "England",
+    "event_name": "One Day International",
+    "poster_id": "Sri-Lanka-England-24012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India Under-19",
+    "team_b": "New Zealand Under-19",
+    "event_name": "ICC U19 World Cup",
+    "poster_id": "India-Under-19-New-Zealand-Under-19-24012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Japan Under-19",
+    "team_b": "Tanzania Under-19",
+    "event_name": "ICC U19 World Cup",
+    "poster_id": "Japan-Under-19-Tanzania-Under-19-24012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sri Lanka",
+    "team_b": "England",
+    "event_name": "One Day International",
+    "poster_id": "Sri-Lanka-England-24012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India Under-19",
+    "team_b": "New Zealand Under-19",
+    "event_name": "ICC U19 World Cup",
+    "poster_id": "India-Under-19-New-Zealand-Under-19-24012026.png",
     "match_type": "team_vs_team"
   }
 ]

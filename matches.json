@@ -35,73 +35,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Samsunspor",
-    "team_b": "Kocaelispor",
-    "event_name": "Trendyol SÃ¼per Lig",
-    "poster_id": "Samsunspor-Kocaelispor-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bayer 04 Leverkusen",
-    "team_b": "SV Werder Bremen",
-    "event_name": "Bundesliga",
-    "poster_id": "Bayer-04-Leverkusen-SV-Werder-Bremen-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "1. FC Heidenheim",
-    "team_b": "RB Leipzig",
-    "event_name": "Bundesliga",
-    "poster_id": "1.-FC-Heidenheim-RB-Leipzig-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "1. FSV Mainz 05",
-    "team_b": "VfL Wolfsburg",
-    "event_name": "Bundesliga",
-    "poster_id": "1.-FSV-Mainz-05-VfL-Wolfsburg-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Eintracht Frankfurt",
-    "team_b": "TSG Hoffenheim",
-    "event_name": "Bundesliga",
-    "poster_id": "Eintracht-Frankfurt-TSG-Hoffenheim-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FC Bayern MÃ¼nchen",
-    "team_b": "FC Augsburg",
-    "event_name": "Bundesliga",
-    "poster_id": "FC-Bayern-MÃ¼nchen-FC-Augsburg-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Burnley",
     "team_b": "Tottenham Hotspur",
     "event_name": "Premier League",
     "poster_id": "Burnley-Tottenham-Hotspur-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Manchester City",
-    "team_b": "Wolverhampton",
-    "event_name": "Premier League",
-    "poster_id": "Manchester-City-Wolverhampton-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Fulham",
-    "team_b": "Brighton & Hove Albion",
-    "event_name": "Premier League",
-    "poster_id": "Fulham-Brighton-&-Hove-Albion-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "LeganÃ©s",
-    "team_b": "Real Sociedad B U21",
-    "event_name": "LaLiga 2",
-    "poster_id": "LeganÃ©s-Real-Sociedad-B-U21-24012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -144,13 +81,6 @@
     "team_b": "Tanzania Under-19",
     "event_name": "ICC U19 World Cup",
     "poster_id": "Japan-Under-19-Tanzania-Under-19-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sri Lanka",
-    "team_b": "England",
-    "event_name": "One Day International",
-    "poster_id": "Sri-Lanka-England-24012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -543,13 +473,6 @@
     "team_b": "Osasuna",
     "event_name": "LaLiga",
     "poster_id": "Rayo-Vallecano-Osasuna-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Valladolid",
-    "team_b": "Albacete BalompiÃ©",
-    "event_name": "LaLiga 2",
-    "poster_id": "Real-Valladolid-Albacete-BalompiÃ©-24012026.png",
     "match_type": "team_vs_team"
   }
 ]

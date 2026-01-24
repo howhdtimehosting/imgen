@@ -161,13 +161,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Sri Lanka",
-    "team_b": "England",
-    "event_name": "One Day International",
-    "poster_id": "Sri-Lanka-England-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Lecce",
     "team_b": "Lazio",
     "event_name": "Serie A",

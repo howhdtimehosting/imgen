@@ -551,26 +551,5 @@
     "event_name": "LaLiga 2",
     "poster_id": "Real-Valladolid-Albacete-BalompiÃ©-24012026.png",
     "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Fulham",
-    "team_b": "Brighton & Hove Albion",
-    "event_name": "Premier League",
-    "poster_id": "Fulham-Brighton-&-Hove-Albion-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Manchester City",
-    "team_b": "Wolverhampton",
-    "event_name": "Premier League",
-    "poster_id": "Manchester-City-Wolverhampton-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Burnley",
-    "team_b": "Tottenham Hotspur",
-    "event_name": "Premier League",
-    "poster_id": "Burnley-Tottenham-Hotspur-24012026.png",
-    "match_type": "team_vs_team"
   }
 ]

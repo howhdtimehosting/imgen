@@ -467,5 +467,12 @@
     "event_name": "LaLiga",
     "poster_id": "Rayo-Vallecano-Osasuna-24012026.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "UFC 324 | Prelims",
+    "team_b": "",
+    "event_name": "UFC 324",
+    "poster_id": "UFC-324-Prelims-24012026.png",
+    "match_type": "single_event"
   }
 ]

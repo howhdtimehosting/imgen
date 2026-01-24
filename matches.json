@@ -553,41 +553,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Eintracht Frankfurt",
-    "team_b": "TSG Hoffenheim",
-    "event_name": "Bundesliga",
-    "poster_id": "Eintracht-Frankfurt-TSG-Hoffenheim-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "1. FC Heidenheim",
-    "team_b": "RB Leipzig",
-    "event_name": "Bundesliga",
-    "poster_id": "1.-FC-Heidenheim-RB-Leipzig-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bayer 04 Leverkusen",
-    "team_b": "SV Werder Bremen",
-    "event_name": "Bundesliga",
-    "poster_id": "Bayer-04-Leverkusen-SV-Werder-Bremen-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "1. FSV Mainz 05",
-    "team_b": "VfL Wolfsburg",
-    "event_name": "Bundesliga",
-    "poster_id": "1.-FSV-Mainz-05-VfL-Wolfsburg-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FC Bayern MÃ¼nchen",
-    "team_b": "FC Augsburg",
-    "event_name": "Bundesliga",
-    "poster_id": "FC-Bayern-MÃ¼nchen-FC-Augsburg-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Fulham",
     "team_b": "Brighton & Hove Albion",
     "event_name": "Premier League",

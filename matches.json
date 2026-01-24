@@ -553,13 +553,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Como",
-    "team_b": "Torino",
-    "event_name": "Serie A",
-    "poster_id": "Como-Torino-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Eintracht Frankfurt",
     "team_b": "TSG Hoffenheim",
     "event_name": "Bundesliga",

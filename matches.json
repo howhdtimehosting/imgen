@@ -35,13 +35,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Burnley",
-    "team_b": "Tottenham Hotspur",
-    "event_name": "Premier League",
-    "poster_id": "Burnley-Tottenham-Hotspur-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Valencia",
     "team_b": "Espanyol",
     "event_name": "LaLiga",

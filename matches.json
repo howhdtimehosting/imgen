@@ -119,83 +119,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "FC Andorra",
-    "team_b": "Huesca",
-    "event_name": "LaLiga 2",
-    "poster_id": "FC-Andorra-Huesca-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Newcastle United",
-    "team_b": "Aston Villa",
-    "event_name": "Premier League",
-    "poster_id": "Newcastle-United-Aston-Villa-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Brentford",
-    "team_b": "Nottingham Forest",
-    "event_name": "Premier League",
-    "poster_id": "Brentford-Nottingham-Forest-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Crystal Palace",
-    "team_b": "Chelsea",
-    "event_name": "Premier League",
-    "poster_id": "Crystal-Palace-Chelsea-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Nantes",
-    "team_b": "Nice",
-    "event_name": "Ligue 1",
-    "poster_id": "Nantes-Nice-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Atalanta",
-    "team_b": "Parma",
-    "event_name": "Serie A",
-    "poster_id": "Atalanta-Parma-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Genoa",
-    "team_b": "Bologna",
-    "event_name": "Serie A",
-    "poster_id": "Genoa-Bologna-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Borussia M'gladbach",
-    "team_b": "VfB Stuttgart",
-    "event_name": "Bundesliga",
-    "poster_id": "Borussia-M'gladbach-VfB-Stuttgart-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Heart of Midlothian",
-    "team_b": "Celtic",
-    "event_name": "Scottish Premiership",
-    "poster_id": "Heart-of-Midlothian-Celtic-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Rangers",
-    "team_b": "Dundee FC",
-    "event_name": "Scottish Premiership",
-    "poster_id": "Rangers-Dundee-FC-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Eibar",
-    "team_b": "AlmerÃ­a",
-    "event_name": "LaLiga 2",
-    "poster_id": "Eibar-AlmerÃ­a-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Barcelona",
     "team_b": "Real Oviedo",
     "event_name": "LaLiga",
@@ -221,20 +144,6 @@
     "team_b": "Olympique Lyonnais",
     "event_name": "Ligue 1",
     "poster_id": "Metz-Olympique-Lyonnais-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Arsenal",
-    "team_b": "Manchester United",
-    "event_name": "Premier League",
-    "poster_id": "Arsenal-Manchester-United-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "SC Freiburg",
-    "team_b": "1. FC KÃ¶ln",
-    "event_name": "Bundesliga",
-    "poster_id": "SC-Freiburg-1.-FC-KÃ¶ln-25012026.png",
     "match_type": "team_vs_team"
   },
   {

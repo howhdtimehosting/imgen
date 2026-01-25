@@ -119,20 +119,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Sassuolo",
-    "team_b": "Cremonese",
-    "event_name": "Serie A",
-    "poster_id": "Sassuolo-Cremonese-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Gaziantep FK",
-    "team_b": "Konyaspor",
-    "event_name": "Trendyol SÃ¼per Lig",
-    "poster_id": "Gaziantep-FK-Konyaspor-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "AtlÃ©tico Madrid",
     "team_b": "Mallorca",
     "event_name": "LaLiga",
@@ -389,13 +375,6 @@
     "team_b": "South Africa Under-19",
     "event_name": "ICC U19 World Cup",
     "poster_id": "Australia-Under-19-South-Africa-Under-19-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Ireland",
-    "team_b": "Italy",
-    "event_name": "T20 International",
-    "poster_id": "Ireland-Italy-25012026.png",
     "match_type": "team_vs_team"
   },
   {

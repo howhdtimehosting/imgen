@@ -7,27 +7,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "LOUD",
-    "team_b": "Vivo Keyd Stars",
-    "event_name": "CBLOL",
-    "poster_id": "LOUD-Vivo-Keyd-Stars-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Fnatic",
-    "team_b": "GIANTX",
-    "event_name": "LEC",
-    "poster_id": "Fnatic-GIANTX-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Movistar KOI",
-    "team_b": "Karmine Corp Blue",
-    "event_name": "LEC",
-    "poster_id": "Movistar-KOI-Karmine-Corp-Blue-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Como",
     "team_b": "Torino",
     "event_name": "Serie A",
@@ -88,90 +67,6 @@
     "team_b": "Mallorca",
     "event_name": "LaLiga",
     "poster_id": "AtlÃ©tico-Madrid-Mallorca-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Paris FC",
-    "team_b": "Angers",
-    "event_name": "Ligue 1",
-    "poster_id": "Paris-FC-Angers-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Stade Brestois",
-    "team_b": "Toulouse",
-    "event_name": "Ligue 1",
-    "poster_id": "Stade-Brestois-Toulouse-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Metz",
-    "team_b": "Olympique Lyonnais",
-    "event_name": "Ligue 1",
-    "poster_id": "Metz-Olympique-Lyonnais-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Arsenal",
-    "team_b": "Manchester United",
-    "event_name": "Premier League",
-    "poster_id": "Arsenal-Manchester-United-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "SC Freiburg",
-    "team_b": "1. FC KÃ¶ln",
-    "event_name": "Bundesliga",
-    "poster_id": "SC-Freiburg-1.-FC-KÃ¶ln-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Juventus",
-    "team_b": "Napoli",
-    "event_name": "Serie A",
-    "poster_id": "Juventus-Napoli-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FenerbahÃ§e",
-    "team_b": "GÃ¶ztepe",
-    "event_name": "Trendyol SÃ¼per Lig",
-    "poster_id": "FenerbahÃ§e-GÃ¶ztepe-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Zaragoza",
-    "team_b": "CD CastellÃ³n",
-    "event_name": "LaLiga 2",
-    "poster_id": "Real-Zaragoza-CD-CastellÃ³n-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Sociedad",
-    "team_b": "Celta Vigo",
-    "event_name": "LaLiga",
-    "poster_id": "Real-Sociedad-Celta-Vigo-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Riyadh",
-    "team_b": "Al-Hilal",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Riyadh-Al-Hilal-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Lille",
-    "team_b": "RC Strasbourg",
-    "event_name": "Ligue 1",
-    "poster_id": "Lille-RC-Strasbourg-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Deportivo La CoruÃ±a",
-    "team_b": "Real Racing Club",
-    "event_name": "LaLiga 2",
-    "poster_id": "Deportivo-La-CoruÃ±a-Real-Racing-Club-25012026.png",
     "match_type": "team_vs_team"
   },
   {

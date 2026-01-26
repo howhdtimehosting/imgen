@@ -133,27 +133,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "USA Under-19",
-    "team_b": "Scotland Under-19",
-    "event_name": "ICC U19 World Cup",
-    "poster_id": "USA-Under-19-Scotland-Under-19-26012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Afghanistan Under-19",
-    "team_b": "Sri Lanka Under-19",
-    "event_name": "ICC U19 World Cup",
-    "poster_id": "Afghanistan-Under-19-Sri-Lanka-Under-19-26012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Royal Challengers Bengaluru",
-    "team_b": "Mumbai Indians",
-    "event_name": "Women's Premier League",
-    "poster_id": "Royal-Challengers-Bengaluru-Mumbai-Indians-26012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Sri Lanka",
     "team_b": "England",
     "event_name": "One Day International",
@@ -221,13 +200,6 @@
     "team_b": "New Zealand Under-19",
     "event_name": "ICC U19 World Cup",
     "poster_id": "Pakistan-Under-19-New-Zealand-Under-19-27012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "England Under-19",
-    "team_b": "Bangladesh Under-19",
-    "event_name": "ICC U19 World Cup",
-    "poster_id": "England-Under-19-Bangladesh-Under-19-26012026.png",
     "match_type": "team_vs_team"
   }
 ]

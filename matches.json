@@ -7,104 +7,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Como",
-    "team_b": "Torino",
-    "event_name": "Serie A",
-    "poster_id": "Como-Torino-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Valencia",
-    "team_b": "Espanyol",
-    "event_name": "LaLiga",
-    "poster_id": "Valencia-Espanyol-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sevilla",
-    "team_b": "Athletic Club",
-    "event_name": "LaLiga",
-    "poster_id": "Sevilla-Athletic-Club-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Japan Under-19",
-    "team_b": "Tanzania Under-19",
-    "event_name": "ICC U19 World Cup",
-    "poster_id": "Japan-Under-19-Tanzania-Under-19-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "India Under-19",
-    "team_b": "New Zealand Under-19",
-    "event_name": "ICC U19 World Cup",
-    "poster_id": "India-Under-19-New-Zealand-Under-19-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Lecce",
-    "team_b": "Lazio",
-    "event_name": "Serie A",
-    "poster_id": "Lecce-Lazio-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Villarreal",
-    "team_b": "Real Madrid",
-    "event_name": "LaLiga",
-    "poster_id": "Villarreal-Real-Madrid-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Olympique de Marseille",
-    "team_b": "RC Lens",
-    "event_name": "Ligue 1",
-    "poster_id": "Olympique-de-Marseille-RC-Lens-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "AtlÃ©tico Madrid",
-    "team_b": "Mallorca",
-    "event_name": "LaLiga",
-    "poster_id": "AtlÃ©tico-Madrid-Mallorca-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Deportivo AlavÃ©s",
-    "team_b": "Real Betis",
-    "event_name": "LaLiga",
-    "poster_id": "Deportivo-AlavÃ©s-Real-Betis-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Roma",
-    "team_b": "Milan",
-    "event_name": "Serie A",
-    "poster_id": "Roma-Milan-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Hellas Verona",
-    "team_b": "Udinese",
-    "event_name": "Serie A",
-    "poster_id": "Hellas-Verona-Udinese-26012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Everton",
-    "team_b": "Leeds United",
-    "event_name": "Premier League",
-    "poster_id": "Everton-Leeds-United-26012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Girona FC",
-    "team_b": "Getafe",
-    "event_name": "LaLiga",
-    "poster_id": "Girona-FC-Getafe-26012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "FC St. Pauli",
     "team_b": "RB Leipzig",
     "event_name": "Bundesliga",
@@ -116,27 +18,6 @@
     "team_b": "TSG Hoffenheim",
     "event_name": "Bundesliga",
     "poster_id": "SV-Werder-Bremen-TSG-Hoffenheim-27012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "West Indies Under-19",
-    "team_b": "Ireland Under-19",
-    "event_name": "ICC U19 World Cup",
-    "poster_id": "West-Indies-Under-19-Ireland-Under-19-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Australia Under-19",
-    "team_b": "South Africa Under-19",
-    "event_name": "ICC U19 World Cup",
-    "poster_id": "Australia-Under-19-South-Africa-Under-19-25012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sri Lanka",
-    "team_b": "England",
-    "event_name": "One Day International",
-    "poster_id": "Sri-Lanka-England-27012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -161,20 +42,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "West Ham United",
-    "team_b": "Sunderland",
-    "event_name": "Premier League",
-    "poster_id": "West-Ham-United-Sunderland-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Rayo Vallecano",
-    "team_b": "Osasuna",
-    "event_name": "LaLiga",
-    "poster_id": "Rayo-Vallecano-Osasuna-24012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "UFC 324 | Prelims",
     "team_b": "",
     "event_name": "UFC 324",
@@ -186,6 +53,139 @@
     "team_b": "New Zealand Under-19",
     "event_name": "ICC U19 World Cup",
     "poster_id": "Pakistan-Under-19-New-Zealand-Under-19-27012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Royal Challengers Bengaluru",
+    "team_b": "Mumbai Indians",
+    "event_name": "Women's Premier League",
+    "poster_id": "Royal-Challengers-Bengaluru-Mumbai-Indians-26012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Athletic Club",
+    "team_b": "Sporting CP",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Athletic-Club-Sporting-CP-28012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "AFC Ajax",
+    "team_b": "Olympiacos FC",
+    "event_name": "UEFA Champions League",
+    "poster_id": "AFC-Ajax-Olympiacos-FC-28012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Arsenal",
+    "team_b": "Kairat Almaty",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Arsenal-Kairat-Almaty-28012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "AS Monaco",
+    "team_b": "Juventus",
+    "event_name": "UEFA Champions League",
+    "poster_id": "AS-Monaco-Juventus-28012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Barcelona",
+    "team_b": "FC KÃ¸benhavn",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Barcelona-FC-KÃ¸benhavn-28012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Benfica",
+    "team_b": "Real Madrid",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Benfica-Real-Madrid-28012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Borussia Dortmund",
+    "team_b": "Inter",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Borussia-Dortmund-Inter-28012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "AtlÃ©tico Madrid",
+    "team_b": "BodÃ¸/Glimt",
+    "event_name": "UEFA Champions League",
+    "poster_id": "AtlÃ©tico-Madrid-BodÃ¸Glimt-28012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bayer 04 Leverkusen",
+    "team_b": "Villarreal",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Bayer-04-Leverkusen-Villarreal-28012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Club Brugge KV",
+    "team_b": "Olympique de Marseille",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Club-Brugge-KV-Olympique-de-Marseille-28012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Manchester City",
+    "team_b": "Galatasaray",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Manchester-City-Galatasaray-28012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Liverpool",
+    "team_b": "QarabaÄ FK",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Liverpool-QarabaÄ-FK-28012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Eintracht Frankfurt",
+    "team_b": "Tottenham Hotspur",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Eintracht-Frankfurt-Tottenham-Hotspur-28012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Royale Union Saint-Gilloise",
+    "team_b": "Atalanta",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Royale-Union-Saint-Gilloise-Atalanta-28012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Napoli",
+    "team_b": "Chelsea",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Napoli-Chelsea-28012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Paris Saint-Germain",
+    "team_b": "Newcastle United",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Paris-Saint-Germain-Newcastle-United-28012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "PSV Eindhoven",
+    "team_b": "FC Bayern MÃ¼nchen",
+    "event_name": "UEFA Champions League",
+    "poster_id": "PSV-Eindhoven-FC-Bayern-MÃ¼nchen-28012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pafos FC",
+    "team_b": "SK Slavia Praha",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Pafos-FC-SK-Slavia-Praha-28012026.png",
     "match_type": "team_vs_team"
   }
 ]

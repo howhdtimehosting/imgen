@@ -182,20 +182,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Zimbabwe Under-19",
-    "team_b": "India Under-19",
-    "event_name": "ICC U19 World Cup",
-    "poster_id": "Zimbabwe-Under-19-India-Under-19-27012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sri Lanka",
-    "team_b": "England",
-    "event_name": "One Day International",
-    "poster_id": "Sri-Lanka-England-27012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Pakistan Under-19",
     "team_b": "New Zealand Under-19",
     "event_name": "ICC U19 World Cup",

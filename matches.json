@@ -7,20 +7,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "FC St. Pauli",
-    "team_b": "RB Leipzig",
-    "event_name": "Bundesliga",
-    "poster_id": "FC-St.-Pauli-RB-Leipzig-27012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "SV Werder Bremen",
-    "team_b": "TSG Hoffenheim",
-    "event_name": "Bundesliga",
-    "poster_id": "SV-Werder-Bremen-TSG-Hoffenheim-27012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "India",
     "team_b": "New Zealand",
     "event_name": "T20 International",
@@ -47,20 +33,6 @@
     "event_name": "UFC 324",
     "poster_id": "UFC-324-Prelims-24012026.png",
     "match_type": "single_event"
-  },
-  {
-    "team_a": "Pakistan Under-19",
-    "team_b": "New Zealand Under-19",
-    "event_name": "ICC U19 World Cup",
-    "poster_id": "Pakistan-Under-19-New-Zealand-Under-19-27012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Royal Challengers Bengaluru",
-    "team_b": "Mumbai Indians",
-    "event_name": "Women's Premier League",
-    "poster_id": "Royal-Challengers-Bengaluru-Mumbai-Indians-26012026.png",
-    "match_type": "team_vs_team"
   },
   {
     "team_a": "Athletic Club",
@@ -186,13 +158,6 @@
     "team_b": "SK Slavia Praha",
     "event_name": "UEFA Champions League",
     "poster_id": "Pafos-FC-SK-Slavia-Praha-28012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "South Africa",
-    "team_b": "West Indies",
-    "event_name": "T20 International",
-    "poster_id": "South-Africa-West-Indies-27012026.png",
     "match_type": "team_vs_team"
   }
 ]

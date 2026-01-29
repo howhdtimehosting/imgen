@@ -7,67 +7,11 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "India",
-    "team_b": "New Zealand",
-    "event_name": "T20 International",
-    "poster_id": "India-New-Zealand-28012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "South Africa Under-19",
-    "team_b": "Sri Lanka Under-19",
-    "event_name": "ICC U19 World Cup",
-    "poster_id": "South-Africa-Under-19-Sri-Lanka-Under-19-29012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "UFC 324 | Prelims",
     "team_b": "",
     "event_name": "UFC 324",
     "poster_id": "UFC-324-Prelims-24012026.png",
     "match_type": "single_event"
-  },
-  {
-    "team_a": "AFC Ajax",
-    "team_b": "Olympiacos FC",
-    "event_name": "UEFA Champions League",
-    "poster_id": "AFC-Ajax-Olympiacos-FC-28012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "AS Monaco",
-    "team_b": "Juventus",
-    "event_name": "UEFA Champions League",
-    "poster_id": "AS-Monaco-Juventus-28012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "AtlÃ©tico Madrid",
-    "team_b": "BodÃ¸/Glimt",
-    "event_name": "UEFA Champions League",
-    "poster_id": "AtlÃ©tico-Madrid-BodÃ¸Glimt-28012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Manchester City",
-    "team_b": "Galatasaray",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Manchester-City-Galatasaray-28012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Paris Saint-Germain",
-    "team_b": "Newcastle United",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Paris-Saint-Germain-Newcastle-United-28012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "PSV Eindhoven",
-    "team_b": "FC Bayern MÃ¼nchen",
-    "event_name": "UEFA Champions League",
-    "poster_id": "PSV-Eindhoven-FC-Bayern-MÃ¼nchen-28012026.png",
-    "match_type": "team_vs_team"
   },
   {
     "team_a": "FC Porto",
@@ -263,6 +207,13 @@
     "team_b": "Young Boys",
     "event_name": "UEFA Europa League",
     "poster_id": "VfB-Stuttgart-Young-Boys-29012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "South Africa",
+    "team_b": "West Indies",
+    "event_name": "T20 International",
+    "poster_id": "South-Africa-West-Indies-29012026.png",
     "match_type": "team_vs_team"
   }
 ]

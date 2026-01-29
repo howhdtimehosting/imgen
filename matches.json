@@ -21,13 +21,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Australia Under-19",
-    "team_b": "West Indies Under-19",
-    "event_name": "ICC U19 World Cup",
-    "poster_id": "Australia-Under-19-West-Indies-Under-19-28012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "UFC 324 | Prelims",
     "team_b": "",
     "event_name": "UFC 324",
@@ -35,24 +28,10 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Athletic Club",
-    "team_b": "Sporting CP",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Athletic-Club-Sporting-CP-28012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "AFC Ajax",
     "team_b": "Olympiacos FC",
     "event_name": "UEFA Champions League",
     "poster_id": "AFC-Ajax-Olympiacos-FC-28012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Arsenal",
-    "team_b": "Kairat Almaty",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Arsenal-Kairat-Almaty-28012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -63,27 +42,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Barcelona",
-    "team_b": "FC KÃ¸benhavn",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Barcelona-FC-KÃ¸benhavn-28012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Benfica",
-    "team_b": "Real Madrid",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Benfica-Real-Madrid-28012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Borussia Dortmund",
-    "team_b": "Inter",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Borussia-Dortmund-Inter-28012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "AtlÃ©tico Madrid",
     "team_b": "BodÃ¸/Glimt",
     "event_name": "UEFA Champions League",
@@ -91,52 +49,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Bayer 04 Leverkusen",
-    "team_b": "Villarreal",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Bayer-04-Leverkusen-Villarreal-28012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Club Brugge KV",
-    "team_b": "Olympique de Marseille",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Club-Brugge-KV-Olympique-de-Marseille-28012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Manchester City",
     "team_b": "Galatasaray",
     "event_name": "UEFA Champions League",
     "poster_id": "Manchester-City-Galatasaray-28012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Liverpool",
-    "team_b": "QarabaÄ FK",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Liverpool-QarabaÄ-FK-28012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Eintracht Frankfurt",
-    "team_b": "Tottenham Hotspur",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Eintracht-Frankfurt-Tottenham-Hotspur-28012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Royale Union Saint-Gilloise",
-    "team_b": "Atalanta",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Royale-Union-Saint-Gilloise-Atalanta-28012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Napoli",
-    "team_b": "Chelsea",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Napoli-Chelsea-28012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -154,10 +70,199 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Pafos FC",
-    "team_b": "SK Slavia Praha",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Pafos-FC-SK-Slavia-Praha-28012026.png",
+    "team_a": "FC Porto",
+    "team_b": "Rangers",
+    "event_name": "UEFA Europa League",
+    "poster_id": "FC-Porto-Rangers-29012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Aston Villa",
+    "team_b": "Red Bull Salzburg",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Aston-Villa-Red-Bull-Salzburg-29012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Celtic",
+    "team_b": "FC Utrecht",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Celtic-FC-Utrecht-29012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Midtjylland",
+    "team_b": "GNK Dinamo Zagreb",
+    "event_name": "UEFA Europa League",
+    "poster_id": "FC-Midtjylland-GNK-Dinamo-Zagreb-29012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Basel",
+    "team_b": "Viktoria PlzeÅ",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Basel-Viktoria-PlzeÅ-29012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Porto",
+    "team_b": "Rangers",
+    "event_name": "UEFA Europa League",
+    "poster_id": "FC-Porto-Rangers-29012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Aston Villa",
+    "team_b": "Red Bull Salzburg",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Aston-Villa-Red-Bull-Salzburg-29012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Celtic",
+    "team_b": "FC Utrecht",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Celtic-FC-Utrecht-29012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Midtjylland",
+    "team_b": "GNK Dinamo Zagreb",
+    "event_name": "UEFA Europa League",
+    "poster_id": "FC-Midtjylland-GNK-Dinamo-Zagreb-29012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Basel",
+    "team_b": "Viktoria PlzeÅ",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Basel-Viktoria-PlzeÅ-29012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Porto",
+    "team_b": "Rangers",
+    "event_name": "UEFA Europa League",
+    "poster_id": "FC-Porto-Rangers-29012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Aston Villa",
+    "team_b": "Red Bull Salzburg",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Aston-Villa-Red-Bull-Salzburg-29012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Celtic",
+    "team_b": "FC Utrecht",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Celtic-FC-Utrecht-29012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Midtjylland",
+    "team_b": "GNK Dinamo Zagreb",
+    "event_name": "UEFA Europa League",
+    "poster_id": "FC-Midtjylland-GNK-Dinamo-Zagreb-29012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Basel",
+    "team_b": "Viktoria PlzeÅ",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Basel-Viktoria-PlzeÅ-29012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FCSB",
+    "team_b": "FenerbahÃ§e",
+    "event_name": "UEFA Europa League",
+    "poster_id": "FCSB-FenerbahÃ§e-29012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "KRC Genk",
+    "team_b": "MalmÃ¶ FF",
+    "event_name": "UEFA Europa League",
+    "poster_id": "KRC-Genk-MalmÃ¶-FF-29012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Go Ahead Eagles",
+    "team_b": "Sporting Braga",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Go-Ahead-Eagles-Sporting-Braga-29012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FK Crvena zvezda",
+    "team_b": "Celta Vigo",
+    "event_name": "UEFA Europa League",
+    "poster_id": "FK-Crvena-zvezda-Celta-Vigo-29012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Lille",
+    "team_b": "SC Freiburg",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Lille-SC-Freiburg-29012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Panathinaikos FC",
+    "team_b": "Roma",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Panathinaikos-FC-Roma-29012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Nottingham Forest",
+    "team_b": "FerencvÃ¡ros TC",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Nottingham-Forest-FerencvÃ¡ros-TC-29012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Maccabi Tel Aviv",
+    "team_b": "Bologna",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Maccabi-Tel-Aviv-Bologna-29012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Olympique Lyonnais",
+    "team_b": "PAOK",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Olympique-Lyonnais-PAOK-29012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Ludogorets",
+    "team_b": "Nice",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Ludogorets-Nice-29012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "SK Sturm Graz",
+    "team_b": "SK Brann",
+    "event_name": "UEFA Europa League",
+    "poster_id": "SK-Sturm-Graz-SK-Brann-29012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Betis",
+    "team_b": "Feyenoord",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Real-Betis-Feyenoord-29012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "VfB Stuttgart",
+    "team_b": "Young Boys",
+    "event_name": "UEFA Europa League",
+    "poster_id": "VfB-Stuttgart-Young-Boys-29012026.png",
     "match_type": "team_vs_team"
   }
 ]

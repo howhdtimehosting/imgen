@@ -77,13 +77,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Real Sociedad B U21",
-    "team_b": "Las Palmas",
-    "event_name": "LaLiga 2",
-    "poster_id": "Real-Sociedad-B-U21-Las-Palmas-30012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "RC Lens",
     "team_b": "Le Havre",
     "event_name": "Ligue 1",
@@ -95,13 +88,6 @@
     "team_b": "Genoa",
     "event_name": "Serie A",
     "poster_id": "Lazio-Genoa-30012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "RAAL La LouviÃ¨re",
-    "team_b": "KAA Gent",
-    "event_name": "Pro League",
-    "poster_id": "RAAL-La-LouviÃ¨re-KAA-Gent-30012026.png",
     "match_type": "team_vs_team"
   },
   {

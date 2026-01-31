@@ -42,13 +42,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Real Oviedo",
-    "team_b": "Girona FC",
-    "event_name": "LaLiga",
-    "poster_id": "Real-Oviedo-Girona-FC-31012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Pisa",
     "team_b": "Sassuolo",
     "event_name": "Serie A",
@@ -88,13 +81,6 @@
     "team_b": "1. FC Union Berlin",
     "event_name": "Bundesliga",
     "poster_id": "TSG-Hoffenheim-1.-FC-Union-Berlin-31012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Albacete BalompiÃ©",
-    "team_b": "Real Zaragoza",
-    "event_name": "LaLiga 2",
-    "poster_id": "Albacete-BalompiÃ©-Real-Zaragoza-31012026.png",
     "match_type": "team_vs_team"
   },
   {

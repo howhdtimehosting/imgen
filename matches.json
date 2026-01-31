@@ -14,13 +14,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Pakistan",
-    "team_b": "Australia",
-    "event_name": "T20 International",
-    "poster_id": "Pakistan-Australia-31012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Al-Kholood",
     "team_b": "Al-Nassr",
     "event_name": "Saudi Pro League",
@@ -63,13 +56,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "BaÅakÅehir FK",
-    "team_b": "Ãaykur Rizespor",
-    "event_name": "Trendyol SÃ¼per Lig",
-    "poster_id": "BaÅakÅehir-FK-Ãaykur-Rizespor-31012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "FC Augsburg",
     "team_b": "FC St. Pauli",
     "event_name": "Bundesliga",
@@ -105,45 +91,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Leeds United",
-    "team_b": "Arsenal",
-    "event_name": "Premier League",
-    "poster_id": "Leeds-United-Arsenal-31012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Wolverhampton",
-    "team_b": "Bournemouth",
-    "event_name": "Premier League",
-    "poster_id": "Wolverhampton-Bournemouth-31012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Brighton & Hove Albion",
-    "team_b": "Everton",
-    "event_name": "Premier League",
-    "poster_id": "Brighton-&-Hove-Albion-Everton-31012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Osasuna",
-    "team_b": "Villarreal",
-    "event_name": "LaLiga",
-    "poster_id": "Osasuna-Villarreal-31012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Albacete BalompiÃ©",
     "team_b": "Real Zaragoza",
     "event_name": "LaLiga 2",
     "poster_id": "Albacete-BalompiÃ©-Real-Zaragoza-31012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Paris FC",
-    "team_b": "Olympique de Marseille",
-    "event_name": "Ligue 1",
-    "poster_id": "Paris-FC-Olympique-de-Marseille-31012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -158,13 +109,6 @@
     "team_b": "AtlÃ©tico Madrid",
     "event_name": "LaLiga",
     "poster_id": "Levante-UD-AtlÃ©tico-Madrid-31012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Cultural Leonesa",
-    "team_b": "Deportivo La CoruÃ±a",
-    "event_name": "LaLiga 2",
-    "poster_id": "Cultural-Leonesa-Deportivo-La-CoruÃ±a-31012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -385,13 +329,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "India",
-    "team_b": "New Zealand",
-    "event_name": "T20 International",
-    "poster_id": "India-New-Zealand-31012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "South Africa",
     "team_b": "West Indies",
     "event_name": "T20 International",
@@ -425,5 +362,12 @@
     "event_name": "T20 International",
     "poster_id": "Pakistan-Australia-01022026.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "WWE Royal Rumble",
+    "team_b": "",
+    "event_name": "WWE Royal Rumble",
+    "poster_id": "WWE-Royal-Rumble-31012026.png",
+    "match_type": "single_event"
   }
 ]

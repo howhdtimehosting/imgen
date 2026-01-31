@@ -14,27 +14,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Northern Districts",
-    "team_b": "Canterbury",
-    "event_name": "Super Smash",
-    "poster_id": "Northern-Districts-Canterbury-31012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "United Arab Emirates",
-    "team_b": "Ireland",
-    "event_name": "T20 International",
-    "poster_id": "United-Arab-Emirates-Ireland-31012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bangladesh Under-19",
-    "team_b": "Zimbabwe Under-19",
-    "event_name": "ICC U19 World Cup",
-    "poster_id": "Bangladesh-Under-19-Zimbabwe-Under-19-31012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Pakistan",
     "team_b": "Australia",
     "event_name": "T20 International",
@@ -42,38 +21,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Sri Lanka",
-    "team_b": "England",
-    "event_name": "T20 International",
-    "poster_id": "Sri-Lanka-England-30012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Gujarat Giants",
-    "team_b": "Mumbai Indians",
-    "event_name": "Women's Premier League",
-    "poster_id": "Gujarat-Giants-Mumbai-Indians-30012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Neom SC",
-    "team_b": "Damac FC",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Neom-SC-Damac-FC-30012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Al-Kholood",
     "team_b": "Al-Nassr",
     "event_name": "Saudi Pro League",
     "poster_id": "Al-Kholood-Al-Nassr-30012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "1. FC KÃ¶ln",
-    "team_b": "VfL Wolfsburg",
-    "event_name": "Bundesliga",
-    "poster_id": "1.-FC-KÃ¶ln-VfL-Wolfsburg-30012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -96,20 +47,6 @@
     "event_name": "Championship",
     "poster_id": "Bristol-City-Derby-County-30012026.png",
     "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Espanyol",
-    "team_b": "Deportivo AlavÃ©s",
-    "event_name": "LaLiga",
-    "poster_id": "Espanyol-Deportivo-AlavÃ©s-30012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "WWE Friday Night Smackdown",
-    "team_b": "",
-    "event_name": "WWE Friday Night Smackdown",
-    "poster_id": "WWE-Friday-Night-Smackdown-30012026.png",
-    "match_type": "single_event"
   },
   {
     "team_a": "Real Oviedo",

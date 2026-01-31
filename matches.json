@@ -91,34 +91,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Levante UD",
-    "team_b": "AtlÃ©tico Madrid",
-    "event_name": "LaLiga",
-    "poster_id": "Levante-UD-AtlÃ©tico-Madrid-31012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Chelsea",
-    "team_b": "West Ham United",
-    "event_name": "Premier League",
-    "poster_id": "Chelsea-West-Ham-United-31012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Hamburger SV",
-    "team_b": "FC Bayern MÃ¼nchen",
-    "event_name": "Bundesliga",
-    "poster_id": "Hamburger-SV-FC-Bayern-MÃ¼nchen-31012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Lorient",
-    "team_b": "Nantes",
-    "event_name": "Ligue 1",
-    "poster_id": "Lorient-Nantes-31012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Elche",
     "team_b": "Barcelona",
     "event_name": "LaLiga",

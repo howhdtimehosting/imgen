@@ -327,5 +327,12 @@
     "event_name": "WWE Royal Rumble",
     "poster_id": "WWE-Royal-Rumble-31012026.png",
     "match_type": "single_event"
+  },
+  {
+    "team_a": "UFC 325: Volkanovski vs. Lopes 2",
+    "team_b": "",
+    "event_name": "UFC 325",
+    "poster_id": "UFC-325-Volkanovski-vs.-Lopes-2-01022026.png",
+    "match_type": "single_event"
   }
 ]

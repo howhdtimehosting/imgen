@@ -383,5 +383,47 @@
     "event_name": "Ligue 1",
     "poster_id": "RC-Strasbourg-Paris-Saint-Germain-01022026.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India",
+    "team_b": "New Zealand",
+    "event_name": "T20 International",
+    "poster_id": "India-New-Zealand-31012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "South Africa",
+    "team_b": "West Indies",
+    "event_name": "T20 International",
+    "poster_id": "South-Africa-West-Indies-31012026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Ireland Women",
+    "team_b": "Thailand Women",
+    "event_name": "ICC Women's World Twenty20 Qualifier",
+    "poster_id": "Ireland-Women-Thailand-Women-01022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India Under-19",
+    "team_b": "Pakistan Under-19",
+    "event_name": "ICC U19 World Cup",
+    "poster_id": "India-Under-19-Pakistan-Under-19-01022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bangladesh Women",
+    "team_b": "Netherlands Women",
+    "event_name": "ICC Women's World Twenty20 Qualifier",
+    "poster_id": "Bangladesh-Women-Netherlands-Women-01022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pakistan",
+    "team_b": "Australia",
+    "event_name": "T20 International",
+    "poster_id": "Pakistan-Australia-01022026.png",
+    "match_type": "team_vs_team"
   }
 ]

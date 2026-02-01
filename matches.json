@@ -327,5 +327,12 @@
     "event_name": "Supercross Rd. 4: Houston",
     "poster_id": "Supercross-Rd.-4-Houston-01022026.png",
     "match_type": "single_event"
+  },
+  {
+    "team_a": "Sri Lanka",
+    "team_b": "England",
+    "event_name": "T20 International",
+    "poster_id": "Sri-Lanka-England-01022026.png",
+    "match_type": "team_vs_team"
   }
 ]

@@ -21,31 +21,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "RC Lens",
-    "team_b": "Le Havre",
-    "event_name": "Ligue 1",
-    "poster_id": "RC-Lens-Le-Havre-30012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Lazio",
     "team_b": "Genoa",
     "event_name": "Serie A",
     "poster_id": "Lazio-Genoa-30012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bristol City",
-    "team_b": "Derby County",
-    "event_name": "Championship",
-    "poster_id": "Bristol-City-Derby-County-30012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Pisa",
-    "team_b": "Sassuolo",
-    "event_name": "Serie A",
-    "poster_id": "Pisa-Sassuolo-31012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -56,38 +35,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Eintracht Frankfurt",
-    "team_b": "Bayer 04 Leverkusen",
-    "event_name": "Bundesliga",
-    "poster_id": "Eintracht-Frankfurt-Bayer-04-Leverkusen-31012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "RB Leipzig",
-    "team_b": "1. FSV Mainz 05",
-    "event_name": "Bundesliga",
-    "poster_id": "RB-Leipzig-1.-FSV-Mainz-05-31012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "SV Werder Bremen",
     "team_b": "Borussia M'gladbach",
     "event_name": "Bundesliga",
     "poster_id": "SV-Werder-Bremen-Borussia-M'gladbach-31012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "TSG Hoffenheim",
-    "team_b": "1. FC Union Berlin",
-    "event_name": "Bundesliga",
-    "poster_id": "TSG-Hoffenheim-1.-FC-Union-Berlin-31012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Napoli",
-    "team_b": "Fiorentina",
-    "event_name": "Serie A",
-    "poster_id": "Napoli-Fiorentina-31012026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -217,13 +168,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Toulouse",
-    "team_b": "Auxerre",
-    "event_name": "Ligue 1",
-    "poster_id": "Toulouse-Auxerre-01022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Borussia Dortmund",
     "team_b": "1. FC Heidenheim",
     "event_name": "Bundesliga",
@@ -238,73 +182,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Galatasaray",
-    "team_b": "Kayserispor",
-    "event_name": "Trendyol SÃ¼per Lig",
-    "poster_id": "Galatasaray-Kayserispor-01022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Cremonese",
-    "team_b": "Inter",
-    "event_name": "Serie A",
-    "poster_id": "Cremonese-Inter-01022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Getafe",
-    "team_b": "Celta Vigo",
-    "event_name": "LaLiga",
-    "poster_id": "Getafe-Celta-Vigo-01022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Granada",
-    "team_b": "Real Racing Club",
-    "event_name": "LaLiga 2",
-    "poster_id": "Granada-Real-Racing-Club-01022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Athletic Club",
     "team_b": "Real Sociedad",
     "event_name": "LaLiga",
     "poster_id": "Athletic-Club-Real-Sociedad-01022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Parma",
-    "team_b": "Juventus",
-    "event_name": "Serie A",
-    "poster_id": "Parma-Juventus-01022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "RC Strasbourg",
-    "team_b": "Paris Saint-Germain",
-    "event_name": "Ligue 1",
-    "poster_id": "RC-Strasbourg-Paris-Saint-Germain-01022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "South Africa",
-    "team_b": "West Indies",
-    "event_name": "T20 International",
-    "poster_id": "South-Africa-West-Indies-31012026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "India Under-19",
-    "team_b": "Pakistan Under-19",
-    "event_name": "ICC U19 World Cup",
-    "poster_id": "India-Under-19-Pakistan-Under-19-01022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Pakistan",
-    "team_b": "Australia",
-    "event_name": "T20 International",
-    "poster_id": "Pakistan-Australia-01022026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -327,12 +208,5 @@
     "event_name": "Supercross Rd. 4: Houston",
     "poster_id": "Supercross-Rd.-4-Houston-01022026.png",
     "match_type": "single_event"
-  },
-  {
-    "team_a": "Sri Lanka",
-    "team_b": "England",
-    "event_name": "T20 International",
-    "poster_id": "Sri-Lanka-England-01022026.png",
-    "match_type": "team_vs_team"
   }
 ]

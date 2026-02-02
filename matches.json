@@ -441,27 +441,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Afghanistan",
-    "team_b": "Scotland",
-    "event_name": "ICC T20 World Cup Warm-up",
-    "poster_id": "Afghanistan-Scotland-02022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Canada",
-    "team_b": "Italy",
-    "event_name": "ICC T20 World Cup Warm-up",
-    "poster_id": "Canada-Italy-02022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "USA",
-    "team_b": "India A",
-    "event_name": "ICC T20 World Cup Warm-up",
-    "poster_id": "USA-India-A-02022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Australia Under-19",
     "team_b": "England Under-19",
     "event_name": "ICC U19 World Cup",

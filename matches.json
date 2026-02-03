@@ -460,12 +460,5 @@
     "event_name": "ICC T20 World Cup Warm-up",
     "poster_id": "Netherlands-Zimbabwe-03022026.png",
     "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Oman",
-    "team_b": "Sri Lanka A",
-    "event_name": "ICC T20 World Cup Warm-up",
-    "poster_id": "Oman-Sri-Lanka-A-03022026.png",
-    "match_type": "team_vs_team"
   }
 ]

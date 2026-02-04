@@ -28,94 +28,10 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Sunderland",
-    "team_b": "Burnley",
-    "event_name": "Premier League",
-    "poster_id": "Sunderland-Burnley-02022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Udinese",
     "team_b": "Roma",
     "event_name": "Serie A",
     "poster_id": "Udinese-Roma-02022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Mallorca",
-    "team_b": "Sevilla",
-    "event_name": "LaLiga",
-    "poster_id": "Mallorca-Sevilla-02022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bayer 04 Leverkusen",
-    "team_b": "FC St. Pauli",
-    "event_name": "DFB Pokal",
-    "poster_id": "Bayer-04-Leverkusen-FC-St.-Pauli-03022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bologna",
-    "team_b": "Milan",
-    "event_name": "Serie A",
-    "poster_id": "Bologna-Milan-03022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Hull City",
-    "team_b": "Watford",
-    "event_name": "Championship",
-    "poster_id": "Hull-City-Watford-03022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Blackburn Rovers",
-    "team_b": "Sheffield Wednesday",
-    "event_name": "Championship",
-    "poster_id": "Blackburn-Rovers-Sheffield-Wednesday-03022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Albacete BalompiÃ©",
-    "team_b": "Barcelona",
-    "event_name": "Copa del Rey",
-    "poster_id": "Albacete-BalompiÃ©-Barcelona-03022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Arsenal",
-    "team_b": "Chelsea",
-    "event_name": "EFL Cup",
-    "poster_id": "Arsenal-Chelsea-03022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bologna",
-    "team_b": "Milan",
-    "event_name": "Serie A",
-    "poster_id": "Bologna-Milan-03022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bayer 04 Leverkusen",
-    "team_b": "FC St. Pauli",
-    "event_name": "DFB Pokal",
-    "poster_id": "Bayer-04-Leverkusen-FC-St.-Pauli-03022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Albacete BalompiÃ©",
-    "team_b": "Barcelona",
-    "event_name": "Copa del Rey",
-    "poster_id": "Albacete-BalompiÃ©-Barcelona-03022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Arsenal",
-    "team_b": "Chelsea",
-    "event_name": "EFL Cup",
-    "poster_id": "Arsenal-Chelsea-03022026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -158,20 +74,6 @@
     "team_b": "Real Sociedad",
     "event_name": "Copa del Rey",
     "poster_id": "Deportivo-AlavÃ©s-Real-Sociedad-04022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Manchester City",
-    "team_b": "Newcastle United",
-    "event_name": "EFL Cup",
-    "poster_id": "Manchester-City-Newcastle-United-04022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Inter",
-    "team_b": "Torino",
-    "event_name": "Coppa Italia",
-    "poster_id": "Inter-Torino-04022026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -445,20 +347,6 @@
     "team_b": "England Under-19",
     "event_name": "ICC U19 World Cup",
     "poster_id": "Australia-Under-19-England-Under-19-03022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Nepal",
-    "team_b": "United Arab Emirates",
-    "event_name": "ICC T20 World Cup Warm-up",
-    "poster_id": "Nepal-United-Arab-Emirates-03022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Netherlands",
-    "team_b": "Zimbabwe",
-    "event_name": "ICC T20 World Cup Warm-up",
-    "poster_id": "Netherlands-Zimbabwe-03022026.png",
     "match_type": "team_vs_team"
   }
 ]

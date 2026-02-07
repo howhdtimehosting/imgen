@@ -320,5 +320,12 @@
     "event_name": "ICC U19 World Cup",
     "poster_id": "Australia-Under-19-England-Under-19-03022026.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India",
+    "team_b": "USA",
+    "event_name": "ICC T20 World Cup",
+    "poster_id": "India-USA-07022026.png",
+    "match_type": "team_vs_team"
   }
 ]

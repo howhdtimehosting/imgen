@@ -98,13 +98,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "FenerbahÃ§e",
-    "team_b": "Erzurumspor FK",
-    "event_name": "TÃ¼rkiye KupasÄ±",
-    "poster_id": "FenerbahÃ§e-Erzurumspor-FK-05022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Al-Ahli",
     "team_b": "Al-Hazem",
     "event_name": "Saudi Pro League",
@@ -116,27 +109,6 @@
     "team_b": "Pisa",
     "event_name": "Serie A",
     "poster_id": "Hellas-Verona-Pisa-06022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Metz",
-    "team_b": "Lille",
-    "event_name": "Ligue 1",
-    "poster_id": "Metz-Lille-06022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Celta Vigo",
-    "team_b": "Osasuna",
-    "event_name": "LaLiga",
-    "poster_id": "Celta-Vigo-Osasuna-06022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Leeds United",
-    "team_b": "Nottingham Forest",
-    "event_name": "Premier League",
-    "poster_id": "Leeds-United-Nottingham-Forest-06022026.png",
     "match_type": "team_vs_team"
   },
   {

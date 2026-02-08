@@ -91,20 +91,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Sri Lanka",
-    "team_b": "Ireland",
-    "event_name": "ICC T20 World Cup",
-    "poster_id": "Sri-Lanka-Ireland-08022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Scotland",
-    "team_b": "Italy",
-    "event_name": "ICC T20 World Cup",
-    "poster_id": "Scotland-Italy-09022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "England",
     "team_b": "Nepal",
     "event_name": "ICC T20 World Cup",

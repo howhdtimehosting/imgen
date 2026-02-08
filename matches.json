@@ -56,262 +56,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Aberdeen",
-    "team_b": "Celtic",
-    "event_name": "Scottish Premiership",
-    "poster_id": "Aberdeen-Celtic-04022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Rangers",
     "team_b": "Kilmarnock",
     "event_name": "Scottish Premiership",
     "poster_id": "Rangers-Kilmarnock-04022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Deportivo AlavÃ©s",
-    "team_b": "Real Sociedad",
-    "event_name": "Copa del Rey",
-    "poster_id": "Deportivo-AlavÃ©s-Real-Sociedad-04022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Manchester City",
-    "team_b": "Newcastle United",
-    "event_name": "EFL Cup",
-    "poster_id": "Manchester-City-Newcastle-United-04022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Inter",
-    "team_b": "Torino",
-    "event_name": "Coppa Italia",
-    "poster_id": "Inter-Torino-04022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Okhdood",
-    "team_b": "Al-Hilal",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Okhdood-Al-Hilal-05022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Ahli",
-    "team_b": "Al-Hazem",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Ahli-Al-Hazem-05022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Hellas Verona",
-    "team_b": "Pisa",
-    "event_name": "Serie A",
-    "poster_id": "Hellas-Verona-Pisa-06022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Manchester United",
-    "team_b": "Tottenham Hotspur",
-    "event_name": "Premier League",
-    "poster_id": "Manchester-United-Tottenham-Hotspur-07022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Southampton",
-    "team_b": "Watford",
-    "event_name": "Championship",
-    "poster_id": "Southampton-Watford-07022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Derby County",
-    "team_b": "Ipswich Town",
-    "event_name": "Championship",
-    "poster_id": "Derby-County-Ipswich-Town-07022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Luton Town",
-    "team_b": "Bradford City",
-    "event_name": "League One",
-    "poster_id": "Luton-Town-Bradford-City-07022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Norwich City",
-    "team_b": "Blackburn Rovers",
-    "event_name": "Championship",
-    "poster_id": "Norwich-City-Blackburn-Rovers-07022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Rayo Vallecano",
-    "team_b": "Real Oviedo",
-    "event_name": "LaLiga",
-    "poster_id": "Rayo-Vallecano-Real-Oviedo-07022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FC Andorra",
-    "team_b": "Real Sociedad B U21",
-    "event_name": "LaLiga 2",
-    "poster_id": "FC-Andorra-Real-Sociedad-B-U21-07022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "1. FC Heidenheim",
-    "team_b": "Hamburger SV",
-    "event_name": "Bundesliga",
-    "poster_id": "1.-FC-Heidenheim-Hamburger-SV-07022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "VfL Wolfsburg",
-    "team_b": "Borussia Dortmund",
-    "event_name": "Bundesliga",
-    "poster_id": "VfL-Wolfsburg-Borussia-Dortmund-07022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "1. FSV Mainz 05",
-    "team_b": "FC Augsburg",
-    "event_name": "Bundesliga",
-    "poster_id": "1.-FSV-Mainz-05-FC-Augsburg-07022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "SC Freiburg",
-    "team_b": "SV Werder Bremen",
-    "event_name": "Bundesliga",
-    "poster_id": "SC-Freiburg-SV-Werder-Bremen-07022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FC St. Pauli",
-    "team_b": "VfB Stuttgart",
-    "event_name": "Bundesliga",
-    "poster_id": "FC-St.-Pauli-VfB-Stuttgart-07022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bournemouth",
-    "team_b": "Aston Villa",
-    "event_name": "Premier League",
-    "poster_id": "Bournemouth-Aston-Villa-07022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Burnley",
-    "team_b": "West Ham United",
-    "event_name": "Premier League",
-    "poster_id": "Burnley-West-Ham-United-07022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Fulham",
-    "team_b": "Everton",
-    "event_name": "Premier League",
-    "poster_id": "Fulham-Everton-07022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Wolverhampton",
-    "team_b": "Chelsea",
-    "event_name": "Premier League",
-    "poster_id": "Wolverhampton-Chelsea-07022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Arsenal",
-    "team_b": "Sunderland",
-    "event_name": "Premier League",
-    "poster_id": "Arsenal-Sunderland-07022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Barcelona",
-    "team_b": "Mallorca",
-    "event_name": "LaLiga",
-    "poster_id": "Barcelona-Mallorca-07022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Las Palmas",
-    "team_b": "Burgos Club de FÃºtbol",
-    "event_name": "LaLiga 2",
-    "poster_id": "Las-Palmas-Burgos-Club-de-FÃºtbol-07022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Taawoun",
-    "team_b": "Al-Khaleej",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Taawoun-Al-Khaleej-07022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "RC Lens",
-    "team_b": "Stade Rennais",
-    "event_name": "Ligue 1",
-    "poster_id": "RC-Lens-Stade-Rennais-07022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Genoa",
-    "team_b": "Napoli",
-    "event_name": "Serie A",
-    "poster_id": "Genoa-Napoli-07022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Borussia M'gladbach",
-    "team_b": "Bayer 04 Leverkusen",
-    "event_name": "Bundesliga",
-    "poster_id": "Borussia-M'gladbach-Bayer-04-Leverkusen-07022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Zaragoza",
-    "team_b": "Eibar",
-    "event_name": "LaLiga 2",
-    "poster_id": "Real-Zaragoza-Eibar-07022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Newcastle United",
-    "team_b": "Brentford",
-    "event_name": "Premier League",
-    "poster_id": "Newcastle-United-Brentford-07022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sevilla",
-    "team_b": "Girona FC",
-    "event_name": "LaLiga",
-    "poster_id": "Sevilla-Girona-FC-07022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Stade Brestois",
-    "team_b": "Lorient",
-    "event_name": "Ligue 1",
-    "poster_id": "Stade-Brestois-Lorient-07022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Sociedad",
-    "team_b": "Elche",
-    "event_name": "LaLiga",
-    "poster_id": "Real-Sociedad-Elche-07022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Fiorentina",
-    "team_b": "Torino",
-    "event_name": "Serie A",
-    "poster_id": "Fiorentina-Torino-07022026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -322,10 +70,38 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "India",
-    "team_b": "USA",
+    "team_a": "Sri Lanka",
+    "team_b": "Ireland",
     "event_name": "ICC T20 World Cup",
-    "poster_id": "India-USA-07022026.png",
+    "poster_id": "Sri-Lanka-Ireland-08022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Zimbabwe",
+    "team_b": "Oman",
+    "event_name": "ICC T20 World Cup",
+    "poster_id": "Zimbabwe-Oman-09022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New Zealand",
+    "team_b": "Afghanistan",
+    "event_name": "ICC T20 World Cup",
+    "poster_id": "New-Zealand-Afghanistan-08022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Scotland",
+    "team_b": "Italy",
+    "event_name": "ICC T20 World Cup",
+    "poster_id": "Scotland-Italy-09022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "England",
+    "team_b": "Nepal",
+    "event_name": "ICC T20 World Cup",
+    "poster_id": "England-Nepal-08022026.png",
     "match_type": "team_vs_team"
   }
 ]

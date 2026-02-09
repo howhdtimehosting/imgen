@@ -63,24 +63,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Sri Lanka",
-    "team_b": "Ireland",
-    "event_name": "ICC T20 World Cup",
-    "poster_id": "Sri-Lanka-Ireland-08022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Zimbabwe",
     "team_b": "Oman",
     "event_name": "ICC T20 World Cup",
     "poster_id": "Zimbabwe-Oman-09022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "New Zealand",
-    "team_b": "Afghanistan",
-    "event_name": "ICC T20 World Cup",
-    "poster_id": "New-Zealand-Afghanistan-08022026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -91,10 +77,59 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "England",
-    "team_b": "Nepal",
+    "team_a": "South Africa",
+    "team_b": "Canada",
     "event_name": "ICC T20 World Cup",
-    "poster_id": "England-Nepal-08022026.png",
+    "poster_id": "South-Africa-Canada-09022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New Zealand",
+    "team_b": "United Arab Emirates",
+    "event_name": "ICC T20 World Cup",
+    "poster_id": "New-Zealand-United-Arab-Emirates-10022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Netherlands",
+    "team_b": "Namibia",
+    "event_name": "ICC T20 World Cup",
+    "poster_id": "Netherlands-Namibia-10022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sri Lanka",
+    "team_b": "Oman",
+    "event_name": "ICC T20 World Cup",
+    "poster_id": "Sri-Lanka-Oman-12022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Australia",
+    "team_b": "Ireland",
+    "event_name": "ICC T20 World Cup",
+    "poster_id": "Australia-Ireland-11022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "South Africa",
+    "team_b": "Afghanistan",
+    "event_name": "ICC T20 World Cup",
+    "poster_id": "South-Africa-Afghanistan-11022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Nepal",
+    "team_b": "Italy",
+    "event_name": "ICC T20 World Cup",
+    "poster_id": "Nepal-Italy-12022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "England",
+    "team_b": "West Indies",
+    "event_name": "ICC T20 World Cup",
+    "poster_id": "England-West-Indies-11022026.png",
     "match_type": "team_vs_team"
   }
 ]

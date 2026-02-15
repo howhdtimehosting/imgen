@@ -252,31 +252,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "RB Leipzig",
-    "team_b": "VfL Wolfsburg",
-    "event_name": "Bundesliga",
-    "poster_id": "RB-Leipzig-VfL-Wolfsburg-15022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Rangers",
     "team_b": "Heart of Midlothian",
     "event_name": "Scottish Premiership",
     "poster_id": "Rangers-Heart-of-Midlothian-15022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "BaÅakÅehir FK",
-    "team_b": "BeÅiktaÅ JK",
-    "event_name": "Trendyol SÃ¼per Lig",
-    "poster_id": "BaÅakÅehir-FK-BeÅiktaÅ-JK-15022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Torino",
-    "team_b": "Bologna",
-    "event_name": "Serie A",
-    "poster_id": "Torino-Bologna-15022026.png",
     "match_type": "team_vs_team"
   },
   {

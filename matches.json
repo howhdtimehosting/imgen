@@ -189,24 +189,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "GÃ¶ztepe",
-    "team_b": "Kayserispor",
-    "event_name": "Trendyol SÃ¼per Lig",
-    "poster_id": "GÃ¶ztepe-Kayserispor-15022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Cremonese",
     "team_b": "Genoa",
     "event_name": "Serie A",
     "poster_id": "Cremonese-Genoa-15022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Le Havre",
-    "team_b": "Toulouse",
-    "event_name": "Ligue 1",
-    "poster_id": "Le-Havre-Toulouse-15022026.png",
     "match_type": "team_vs_team"
   },
   {

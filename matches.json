@@ -196,13 +196,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Oxford United",
-    "team_b": "Sunderland",
-    "event_name": "FA Cup",
-    "poster_id": "Oxford-United-Sunderland-15022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Stoke City",
     "team_b": "Fulham",
     "event_name": "FA Cup",

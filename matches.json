@@ -35,13 +35,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Olympique Lyonnais",
-    "team_b": "Stade Lavallois",
-    "event_name": "Coupe de France",
-    "poster_id": "Olympique-Lyonnais-Stade-Lavallois-04022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Holstein Kiel",
     "team_b": "VfB Stuttgart",
     "event_name": "DFB Pokal",

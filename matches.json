@@ -85,13 +85,6 @@
   },
   {
     "team_a": "Sri Lanka",
-    "team_b": "Australia",
-    "event_name": "ICC T20 World Cup",
-    "poster_id": "Sri-Lanka-Australia-16022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sri Lanka",
     "team_b": "Zimbabwe",
     "event_name": "ICC T20 World Cup",
     "poster_id": "Sri-Lanka-Zimbabwe-19022026.png",
@@ -228,6 +221,69 @@
     "team_b": "Nice",
     "event_name": "Ligue 1",
     "poster_id": "Olympique-Lyonnais-Nice-15022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Girona FC",
+    "team_b": "Barcelona",
+    "event_name": "LaLiga",
+    "poster_id": "Girona-FC-Barcelona-16022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cagliari",
+    "team_b": "Lecce",
+    "event_name": "Serie A",
+    "poster_id": "Cagliari-Lecce-16022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Sadd",
+    "team_b": "Al-Ittihad",
+    "event_name": "AFC Champions League Elite",
+    "poster_id": "Al-Sadd-Al-Ittihad-17022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Galatasaray",
+    "team_b": "Juventus",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Galatasaray-Juventus-17022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Borussia Dortmund",
+    "team_b": "Atalanta",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Borussia-Dortmund-Atalanta-17022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "AS Monaco",
+    "team_b": "Paris Saint-Germain",
+    "event_name": "UEFA Champions League",
+    "poster_id": "AS-Monaco-Paris-Saint-Germain-17022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Benfica",
+    "team_b": "Real Madrid",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Benfica-Real-Madrid-17022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Melbourne City",
+    "team_b": "Gangwon FC",
+    "event_name": "AFC Champions League Elite",
+    "poster_id": "Melbourne-City-Gangwon-FC-18022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Shanghai Port",
+    "team_b": "Ulsan HD",
+    "event_name": "AFC Champions League Elite",
+    "poster_id": "Shanghai-Port-Ulsan-HD-18022026.png",
     "match_type": "team_vs_team"
   }
 ]

@@ -224,13 +224,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Mallorca",
-    "team_b": "Real Betis",
-    "event_name": "LaLiga",
-    "poster_id": "Mallorca-Real-Betis-15022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Napoli",
     "team_b": "Roma",
     "event_name": "Serie A",
@@ -242,13 +235,6 @@
     "team_b": "Nice",
     "event_name": "Ligue 1",
     "poster_id": "Olympique-Lyonnais-Nice-15022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "CD CastellÃ³n",
-    "team_b": "Deportivo La CoruÃ±a",
-    "event_name": "LaLiga 2",
-    "poster_id": "CD-CastellÃ³n-Deportivo-La-CoruÃ±a-15022026.png",
     "match_type": "team_vs_team"
   }
 ]

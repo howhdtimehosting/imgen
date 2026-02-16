@@ -203,45 +203,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Motherwell",
-    "team_b": "Aberdeen",
-    "event_name": "Scottish Premiership",
-    "poster_id": "Motherwell-Aberdeen-15022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FC Augsburg",
-    "team_b": "1. FC Heidenheim",
-    "event_name": "Bundesliga",
-    "poster_id": "FC-Augsburg-1.-FC-Heidenheim-15022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Rayo Vallecano",
     "team_b": "AtlÃ©tico Madrid",
     "event_name": "LaLiga",
     "poster_id": "Rayo-Vallecano-AtlÃ©tico-Madrid-15022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Eibar",
-    "team_b": "Real Racing Club",
-    "event_name": "LaLiga 2",
-    "poster_id": "Eibar-Real-Racing-Club-15022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Metz",
-    "team_b": "Auxerre",
-    "event_name": "Ligue 1",
-    "poster_id": "Metz-Auxerre-15022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Lorient",
-    "team_b": "Angers",
-    "event_name": "Ligue 1",
-    "poster_id": "Lorient-Angers-15022026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -256,20 +221,6 @@
     "team_b": "Heart of Midlothian",
     "event_name": "Scottish Premiership",
     "poster_id": "Rangers-Heart-of-Midlothian-15022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Albacete BalompiÃ©",
-    "team_b": "Sporting GijÃ³n",
-    "event_name": "LaLiga 2",
-    "poster_id": "Albacete-BalompiÃ©-Sporting-GijÃ³n-15022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Levante UD",
-    "team_b": "Valencia",
-    "event_name": "LaLiga",
-    "poster_id": "Levante-UD-Valencia-15022026.png",
     "match_type": "team_vs_team"
   },
   {

@@ -71,10 +71,10 @@
   },
   {
     "team_a": "Ireland",
-    "team_b": "Zimbabwe",
+    "team_b": "",
     "event_name": "ICC T20 World Cup",
-    "poster_id": "Ireland-Zimbabwe-17022026.png",
-    "match_type": "team_vs_team"
+    "poster_id": "Ireland-17022026.png",
+    "match_type": "single_event"
   },
   {
     "team_a": "New Zealand",

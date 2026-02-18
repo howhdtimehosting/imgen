@@ -238,13 +238,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Al-Sadd",
-    "team_b": "Al-Ittihad",
-    "event_name": "AFC Champions League Elite",
-    "poster_id": "Al-Sadd-Al-Ittihad-17022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Galatasaray",
     "team_b": "Juventus",
     "event_name": "UEFA Champions League",

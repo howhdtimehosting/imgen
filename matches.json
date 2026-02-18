@@ -70,13 +70,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Ireland",
-    "team_b": "",
-    "event_name": "ICC T20 World Cup",
-    "poster_id": "Ireland-17022026.png",
-    "match_type": "single_event"
-  },
-  {
     "team_a": "New Zealand",
     "team_b": "Canada",
     "event_name": "ICC T20 World Cup",

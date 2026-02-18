@@ -47,5 +47,180 @@
     "event_name": "ICC T20 World Cup",
     "poster_id": "West-Indies-Italy-19022026.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Milan",
+    "team_b": "Como",
+    "event_name": "Serie A",
+    "poster_id": "Milan-Como-18022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "BodÃ¸/Glimt",
+    "team_b": "Inter",
+    "event_name": "UEFA Champions League",
+    "poster_id": "BodÃ¸Glimt-Inter-18022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Olympiacos FC",
+    "team_b": "Bayer 04 Leverkusen",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Olympiacos-FC-Bayer-04-Leverkusen-18022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Club Brugge KV",
+    "team_b": "AtlÃ©tico Madrid",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Club-Brugge-KV-AtlÃ©tico-Madrid-18022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Wolverhampton",
+    "team_b": "Arsenal",
+    "event_name": "Premier League",
+    "poster_id": "Wolverhampton-Arsenal-18022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "PAOK",
+    "team_b": "Celta Vigo",
+    "event_name": "UEFA Europa League",
+    "poster_id": "PAOK-Celta-Vigo-19022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "SK Brann",
+    "team_b": "Bologna",
+    "event_name": "UEFA Europa League",
+    "poster_id": "SK-Brann-Bologna-19022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FenerbahÃ§e",
+    "team_b": "Nottingham Forest",
+    "event_name": "UEFA Europa League",
+    "poster_id": "FenerbahÃ§e-Nottingham-Forest-19022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "GNK Dinamo Zagreb",
+    "team_b": "KRC Genk",
+    "event_name": "UEFA Europa League",
+    "poster_id": "GNK-Dinamo-Zagreb-KRC-Genk-19022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "SK Sigma Olomouc",
+    "team_b": "FC Lausanne-Sport",
+    "event_name": "UEFA Conference League",
+    "poster_id": "SK-Sigma-Olomouc-FC-Lausanne-Sport-19022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Noah",
+    "team_b": "AZ Alkmaar",
+    "event_name": "UEFA Conference League",
+    "poster_id": "FC-Noah-AZ-Alkmaar-19022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "HÅ K Zrinjski Mostar",
+    "team_b": "Crystal Palace",
+    "event_name": "UEFA Conference League",
+    "poster_id": "HÅ-K-Zrinjski-Mostar-Crystal-Palace-19022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "KuPS",
+    "team_b": "Lech PoznaÅ",
+    "event_name": "UEFA Conference League",
+    "poster_id": "KuPS-Lech-PoznaÅ-19022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Juventus",
+    "team_b": "VfL Wolfsburg",
+    "event_name": "UEFA Women's Champions League",
+    "poster_id": "Juventus-VfL-Wolfsburg-19022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Ahli",
+    "team_b": "Al-Najma SC",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Ahli-Al-Najma-SC-19022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Ettifaq",
+    "team_b": "Al-Fateh",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Ettifaq-Al-Fateh-19022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Kholood",
+    "team_b": "Al-Riyadh",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Kholood-Al-Riyadh-19022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Omonia Nicosia",
+    "team_b": "HNK Rijeka",
+    "event_name": "UEFA Conference League",
+    "poster_id": "Omonia-Nicosia-HNK-Rijeka-19022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Drita",
+    "team_b": "NK Celje",
+    "event_name": "UEFA Conference League",
+    "poster_id": "FC-Drita-NK-Celje-19022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Jagiellonia BiaÅystok",
+    "team_b": "Fiorentina",
+    "event_name": "UEFA Conference League",
+    "poster_id": "Jagiellonia-BiaÅystok-Fiorentina-19022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Celtic",
+    "team_b": "VfB Stuttgart",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Celtic-VfB-Stuttgart-19022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Ludogorets",
+    "team_b": "FerencvÃ¡ros TC",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Ludogorets-FerencvÃ¡ros-TC-19022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "KF ShkÃ«ndija",
+    "team_b": "Samsunspor",
+    "event_name": "UEFA Conference League",
+    "poster_id": "KF-ShkÃ«ndija-Samsunspor-19022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Panathinaikos FC",
+    "team_b": "Viktoria PlzeÅ",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Panathinaikos-FC-Viktoria-PlzeÅ-19022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Lille",
+    "team_b": "FK Crvena zvezda",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Lille-FK-Crvena-zvezda-19022026.png",
+    "match_type": "team_vs_team"
   }
 ]

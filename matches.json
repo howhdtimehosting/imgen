@@ -201,5 +201,12 @@
     "event_name": "UEFA Europa League",
     "poster_id": "Lille-FK-Crvena-zvezda-19022026.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Afghanistan",
+    "team_b": "Canada",
+    "event_name": "ICC T20 World Cup",
+    "poster_id": "Afghanistan-Canada-19022026.png",
+    "match_type": "team_vs_team"
   }
 ]

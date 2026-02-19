@@ -70,20 +70,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Club Brugge KV",
-    "team_b": "AtlÃ©tico Madrid",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Club-Brugge-KV-AtlÃ©tico-Madrid-18022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Wolverhampton",
-    "team_b": "Arsenal",
-    "event_name": "Premier League",
-    "poster_id": "Wolverhampton-Arsenal-18022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "PAOK",
     "team_b": "Celta Vigo",
     "event_name": "UEFA Europa League",

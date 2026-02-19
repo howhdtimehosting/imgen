@@ -35,13 +35,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Australia Women",
-    "team_b": "India Women",
-    "event_name": "Twenty20 International Women",
-    "poster_id": "Australia-Women-India-Women-19022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "West Indies",
     "team_b": "Italy",
     "event_name": "ICC T20 World Cup",

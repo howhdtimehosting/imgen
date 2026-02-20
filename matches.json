@@ -98,13 +98,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "FC Noah",
-    "team_b": "AZ Alkmaar",
-    "event_name": "UEFA Conference League",
-    "poster_id": "FC-Noah-AZ-Alkmaar-19022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "HÅ K Zrinjski Mostar",
     "team_b": "Crystal Palace",
     "event_name": "UEFA Conference League",
@@ -207,6 +200,34 @@
     "team_b": "Canada",
     "event_name": "ICC T20 World Cup",
     "poster_id": "Afghanistan-Canada-19022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Australia",
+    "team_b": "Oman",
+    "event_name": "ICC T20 World Cup",
+    "poster_id": "Australia-Oman-20022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sri Lanka",
+    "team_b": "England",
+    "event_name": "ICC T20 World Cup",
+    "poster_id": "Sri-Lanka-England-22022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India",
+    "team_b": "South Africa",
+    "event_name": "ICC T20 World Cup",
+    "poster_id": "India-South-Africa-22022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Zimbabwe",
+    "team_b": "West Indies",
+    "event_name": "ICC T20 World Cup",
+    "poster_id": "Zimbabwe-West-Indies-23022026.png",
     "match_type": "team_vs_team"
   }
 ]

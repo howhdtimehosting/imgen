@@ -49,13 +49,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "New Zealand",
-    "team_b": "Pakistan",
-    "event_name": "ICC T20 World Cup",
-    "poster_id": "New-Zealand-Pakistan-21022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Hull City",
     "team_b": "Queens Park Rangers",
     "event_name": "Championship",
@@ -119,13 +112,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "FC Bayern MÃ¼nchen",
-    "team_b": "Eintracht Frankfurt",
-    "event_name": "Bundesliga",
-    "poster_id": "FC-Bayern-MÃ¼nchen-Eintracht-Frankfurt-21022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "VfL Wolfsburg",
     "team_b": "FC Augsburg",
     "event_name": "Bundesliga",
@@ -133,59 +119,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Brentford",
-    "team_b": "Brighton & Hove Albion",
-    "event_name": "Premier League",
-    "poster_id": "Brentford-Brighton-&-Hove-Albion-21022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Chelsea",
     "team_b": "Burnley",
     "event_name": "Premier League",
     "poster_id": "Chelsea-Burnley-21022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Aston Villa",
-    "team_b": "Leeds United",
-    "event_name": "Premier League",
-    "poster_id": "Aston-Villa-Leeds-United-21022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Southampton",
-    "team_b": "Charlton Athletic",
-    "event_name": "Championship",
-    "poster_id": "Southampton-Charlton-Athletic-21022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Wrexham",
-    "team_b": "Ipswich Town",
-    "event_name": "Championship",
-    "poster_id": "Wrexham-Ipswich-Town-21022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Watford",
-    "team_b": "Derby County",
-    "event_name": "Championship",
-    "poster_id": "Watford-Derby-County-21022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Norwich City",
-    "team_b": "Birmingham City",
-    "event_name": "Championship",
-    "poster_id": "Norwich-City-Birmingham-City-21022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Millwall",
-    "team_b": "Portsmouth",
-    "event_name": "Championship",
-    "poster_id": "Millwall-Portsmouth-21022026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -200,13 +137,6 @@
     "team_b": "Rayo Vallecano",
     "event_name": "LaLiga",
     "poster_id": "Real-Betis-Rayo-Vallecano-21022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "RC Lens",
-    "team_b": "AS Monaco",
-    "event_name": "Ligue 1",
-    "poster_id": "RC-Lens-AS-Monaco-21022026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -228,13 +158,6 @@
     "team_b": "Bournemouth",
     "event_name": "Premier League",
     "poster_id": "West-Ham-United-Bournemouth-21022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "AlmerÃ­a",
-    "team_b": "CÃ³rdoba",
-    "event_name": "LaLiga 2",
-    "poster_id": "AlmerÃ­a-CÃ³rdoba-21022026.png",
     "match_type": "team_vs_team"
   },
   {

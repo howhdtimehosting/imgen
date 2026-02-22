@@ -70,55 +70,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Nottingham Forest",
-    "team_b": "Liverpool",
-    "event_name": "Premier League",
-    "poster_id": "Nottingham-Forest-Liverpool-22022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sunderland",
-    "team_b": "Fulham",
-    "event_name": "Premier League",
-    "poster_id": "Sunderland-Fulham-22022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Auxerre",
-    "team_b": "Stade Rennais",
-    "event_name": "Ligue 1",
-    "poster_id": "Auxerre-Stade-Rennais-22022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Atalanta",
-    "team_b": "Napoli",
-    "event_name": "Serie A",
-    "poster_id": "Atalanta-Napoli-22022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Crystal Palace",
-    "team_b": "Wolverhampton",
-    "event_name": "Premier League",
-    "poster_id": "Crystal-Palace-Wolverhampton-22022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "SC Freiburg",
-    "team_b": "Borussia M'gladbach",
-    "event_name": "Bundesliga",
-    "poster_id": "SC-Freiburg-Borussia-M'gladbach-22022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Celtic",
-    "team_b": "Hibernian",
-    "event_name": "Scottish Premiership",
-    "poster_id": "Celtic-Hibernian-22022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Livingston",
     "team_b": "Rangers",
     "event_name": "Scottish Premiership",

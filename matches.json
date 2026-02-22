@@ -63,20 +63,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Genoa",
-    "team_b": "Torino",
-    "event_name": "Serie A",
-    "poster_id": "Genoa-Torino-22022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sheffield United",
-    "team_b": "Sheffield Wednesday",
-    "event_name": "Championship",
-    "poster_id": "Sheffield-United-Sheffield-Wednesday-22022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Getafe",
     "team_b": "Sevilla",
     "event_name": "LaLiga",

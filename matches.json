@@ -49,115 +49,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Hull City",
-    "team_b": "Queens Park Rangers",
-    "event_name": "Championship",
-    "poster_id": "Hull-City-Queens-Park-Rangers-21022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Swansea City",
-    "team_b": "Bristol City",
-    "event_name": "Championship",
-    "poster_id": "Swansea-City-Bristol-City-21022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Stoke City",
-    "team_b": "Leicester City",
-    "event_name": "Championship",
-    "poster_id": "Stoke-City-Leicester-City-21022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Alanyaspor",
-    "team_b": "BaÅakÅehir FK",
-    "event_name": "Trendyol SÃ¼per Lig",
-    "poster_id": "Alanyaspor-BaÅakÅehir-FK-21022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Sociedad",
-    "team_b": "Real Oviedo",
-    "event_name": "LaLiga",
-    "poster_id": "Real-Sociedad-Real-Oviedo-21022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "LeganÃ©s",
-    "team_b": "Cultural Leonesa",
-    "event_name": "LaLiga 2",
-    "poster_id": "LeganÃ©s-Cultural-Leonesa-21022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Juventus",
-    "team_b": "Como",
-    "event_name": "Serie A",
-    "poster_id": "Juventus-Como-21022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "1. FC Union Berlin",
-    "team_b": "Bayer 04 Leverkusen",
-    "event_name": "Bundesliga",
-    "poster_id": "1.-FC-Union-Berlin-Bayer-04-Leverkusen-21022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "1. FC KÃ¶ln",
-    "team_b": "TSG Hoffenheim",
-    "event_name": "Bundesliga",
-    "poster_id": "1.-FC-KÃ¶ln-TSG-Hoffenheim-21022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "VfL Wolfsburg",
-    "team_b": "FC Augsburg",
-    "event_name": "Bundesliga",
-    "poster_id": "VfL-Wolfsburg-FC-Augsburg-21022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Chelsea",
-    "team_b": "Burnley",
-    "event_name": "Premier League",
-    "poster_id": "Chelsea-Burnley-21022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Middlesbrough",
-    "team_b": "Oxford United",
-    "event_name": "Championship",
-    "poster_id": "Middlesbrough-Oxford-United-21022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Betis",
-    "team_b": "Rayo Vallecano",
-    "event_name": "LaLiga",
-    "poster_id": "Real-Betis-Rayo-Vallecano-21022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Lecce",
-    "team_b": "Inter",
-    "event_name": "Serie A",
-    "poster_id": "Lecce-Inter-21022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "RB Leipzig",
     "team_b": "Borussia Dortmund",
     "event_name": "Bundesliga",
     "poster_id": "RB-Leipzig-Borussia-Dortmund-21022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "West Ham United",
-    "team_b": "Bournemouth",
-    "event_name": "Premier League",
-    "poster_id": "West-Ham-United-Bournemouth-21022026.png",
     "match_type": "team_vs_team"
   },
   {
@@ -168,59 +63,213 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Toulouse",
-    "team_b": "Paris FC",
-    "event_name": "Ligue 1",
-    "poster_id": "Toulouse-Paris-FC-21022026.png",
+    "team_a": "Genoa",
+    "team_b": "Torino",
+    "event_name": "Serie A",
+    "poster_id": "Genoa-Torino-22022026.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Al-Khaleej",
-    "team_b": "Neom SC",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Khaleej-Neom-SC-21022026.png",
+    "team_a": "Sheffield United",
+    "team_b": "Sheffield Wednesday",
+    "event_name": "Championship",
+    "poster_id": "Sheffield-United-Sheffield-Wednesday-22022026.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Al-Hilal",
-    "team_b": "Al-Ittihad",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Hilal-Al-Ittihad-21022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Nassr",
-    "team_b": "Al-Hazem",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Nassr-Al-Hazem-21022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "AtlÃ©tico Madrid",
-    "team_b": "Espanyol",
+    "team_a": "Getafe",
+    "team_b": "Sevilla",
     "event_name": "LaLiga",
-    "poster_id": "AtlÃ©tico-Madrid-Espanyol-21022026.png",
+    "poster_id": "Getafe-Sevilla-22022026.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Manchester City",
-    "team_b": "Newcastle United",
+    "team_a": "Nottingham Forest",
+    "team_b": "Liverpool",
     "event_name": "Premier League",
-    "poster_id": "Manchester-City-Newcastle-United-21022026.png",
+    "poster_id": "Nottingham-Forest-Liverpool-22022026.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Las Palmas",
-    "team_b": "CD CastellÃ³n",
+    "team_a": "Sunderland",
+    "team_b": "Fulham",
+    "event_name": "Premier League",
+    "poster_id": "Sunderland-Fulham-22022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Auxerre",
+    "team_b": "Stade Rennais",
+    "event_name": "Ligue 1",
+    "poster_id": "Auxerre-Stade-Rennais-22022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Atalanta",
+    "team_b": "Napoli",
+    "event_name": "Serie A",
+    "poster_id": "Atalanta-Napoli-22022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Crystal Palace",
+    "team_b": "Wolverhampton",
+    "event_name": "Premier League",
+    "poster_id": "Crystal-Palace-Wolverhampton-22022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "SC Freiburg",
+    "team_b": "Borussia M'gladbach",
+    "event_name": "Bundesliga",
+    "poster_id": "SC-Freiburg-Borussia-M'gladbach-22022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Celtic",
+    "team_b": "Hibernian",
+    "event_name": "Scottish Premiership",
+    "poster_id": "Celtic-Hibernian-22022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Livingston",
+    "team_b": "Rangers",
+    "event_name": "Scottish Premiership",
+    "poster_id": "Livingston-Rangers-22022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Barcelona",
+    "team_b": "Levante UD",
+    "event_name": "LaLiga",
+    "poster_id": "Barcelona-Levante-UD-22022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Andorra",
+    "team_b": "Real Zaragoza",
     "event_name": "LaLiga 2",
-    "poster_id": "Las-Palmas-CD-CastellÃ³n-21022026.png",
+    "poster_id": "FC-Andorra-Real-Zaragoza-22022026.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Los Angeles FC",
-    "team_b": "Inter Miami CF",
-    "event_name": "MLS",
-    "poster_id": "Los-Angeles-FC-Inter-Miami-CF-22022026.png",
+    "team_a": "Angers",
+    "team_b": "Lille",
+    "event_name": "Ligue 1",
+    "poster_id": "Angers-Lille-22022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Nantes",
+    "team_b": "Le Havre",
+    "event_name": "Ligue 1",
+    "poster_id": "Nantes-Le-Havre-22022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Nice",
+    "team_b": "Lorient",
+    "event_name": "Ligue 1",
+    "poster_id": "Nice-Lorient-22022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC St. Pauli",
+    "team_b": "SV Werder Bremen",
+    "event_name": "Bundesliga",
+    "poster_id": "FC-St.-Pauli-SV-Werder-Bremen-22022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Tottenham Hotspur",
+    "team_b": "Arsenal",
+    "event_name": "Premier League",
+    "poster_id": "Tottenham-Hotspur-Arsenal-22022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Milan",
+    "team_b": "Parma",
+    "event_name": "Serie A",
+    "poster_id": "Milan-Parma-22022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Racing Club",
+    "team_b": "Burgos Club de FÃºtbol",
+    "event_name": "LaLiga 2",
+    "poster_id": "Real-Racing-Club-Burgos-Club-de-FÃºtbol-22022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Celta Vigo",
+    "team_b": "Mallorca",
+    "event_name": "LaLiga",
+    "poster_id": "Celta-Vigo-Mallorca-22022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "1. FC Heidenheim",
+    "team_b": "VfB Stuttgart",
+    "event_name": "Bundesliga",
+    "poster_id": "1.-FC-Heidenheim-VfB-Stuttgart-22022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "RC Strasbourg",
+    "team_b": "Olympique Lyonnais",
+    "event_name": "Ligue 1",
+    "poster_id": "RC-Strasbourg-Olympique-Lyonnais-22022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "MÃ¡laga",
+    "team_b": "Albacete BalompiÃ©",
+    "event_name": "LaLiga 2",
+    "poster_id": "MÃ¡laga-Albacete-BalompiÃ©-22022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Villarreal",
+    "team_b": "Valencia",
+    "event_name": "LaLiga",
+    "poster_id": "Villarreal-Valencia-22022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Roma",
+    "team_b": "Cremonese",
+    "event_name": "Serie A",
+    "poster_id": "Roma-Cremonese-22022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Deportivo AlavÃ©s",
+    "team_b": "Girona FC",
+    "event_name": "LaLiga",
+    "poster_id": "Deportivo-AlavÃ©s-Girona-FC-23022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Everton",
+    "team_b": "Manchester United",
+    "event_name": "Premier League",
+    "poster_id": "Everton-Manchester-United-23022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Le Mans",
+    "team_b": "Guingamp",
+    "event_name": "Ligue 2",
+    "poster_id": "Le-Mans-Guingamp-23022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bologna",
+    "team_b": "Udinese",
+    "event_name": "Serie A",
+    "poster_id": "Bologna-Udinese-23022026.png",
     "match_type": "team_vs_team"
   }
 ]

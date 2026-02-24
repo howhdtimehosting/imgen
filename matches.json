@@ -28,13 +28,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "England",
-    "team_b": "Pakistan",
-    "event_name": "ICC T20 World Cup",
-    "poster_id": "England-Pakistan-24022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "South Africa Women",
     "team_b": "Pakistan Women",
     "event_name": "ICC Women's Championship",
@@ -207,6 +200,13 @@
     "team_b": "SK Sigma Olomouc",
     "event_name": "UEFA Conference League",
     "poster_id": "FC-Lausanne-Sport-SK-Sigma-Olomouc-26022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "AtlÃ©tico Madrid",
+    "team_b": "Club Brugge KV",
+    "event_name": "UEFA Champions League",
+    "poster_id": "AtlÃ©tico-Madrid-Club-Brugge-KV-24022026.png",
     "match_type": "team_vs_team"
   }
 ]

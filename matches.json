@@ -61,5 +61,152 @@
     "event_name": "UEFA Champions League",
     "poster_id": "Newcastle-United-QarabaÄ-FK-24022026.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Juventus",
+    "team_b": "Galatasaray",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Juventus-Galatasaray-25022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Madrid",
+    "team_b": "Benfica",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Real-Madrid-Benfica-25022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Paris Saint-Germain",
+    "team_b": "AS Monaco",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Paris-Saint-Germain-AS-Monaco-25022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FerencvÃ¡ros TC",
+    "team_b": "Ludogorets",
+    "event_name": "UEFA Europa League",
+    "poster_id": "FerencvÃ¡ros-TC-Ludogorets-26022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Viktoria PlzeÅ",
+    "team_b": "Panathinaikos FC",
+    "event_name": "UEFA Europa League",
+    "poster_id": "FC-Viktoria-PlzeÅ-Panathinaikos-FC-26022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FK Crvena zvezda",
+    "team_b": "Lille",
+    "event_name": "UEFA Europa League",
+    "poster_id": "FK-Crvena-zvezda-Lille-26022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "VfB Stuttgart",
+    "team_b": "Celtic",
+    "event_name": "UEFA Europa League",
+    "poster_id": "VfB-Stuttgart-Celtic-26022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Samsunspor",
+    "team_b": "KF ShkÃ«ndija",
+    "event_name": "UEFA Conference League",
+    "poster_id": "Samsunspor-KF-ShkÃ«ndija-26022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Fiorentina",
+    "team_b": "Jagiellonia BiaÅystok",
+    "event_name": "UEFA Conference League",
+    "poster_id": "Fiorentina-Jagiellonia-BiaÅystok-26022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "HNK Rijeka",
+    "team_b": "Omonia Nicosia",
+    "event_name": "UEFA Conference League",
+    "poster_id": "HNK-Rijeka-Omonia-Nicosia-26022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "NK Celje",
+    "team_b": "FC Drita",
+    "event_name": "UEFA Conference League",
+    "poster_id": "NK-Celje-FC-Drita-26022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bologna",
+    "team_b": "SK Brann",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Bologna-SK-Brann-26022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Riyadh",
+    "team_b": "Al-Ahli",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Riyadh-Al-Ahli-26022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Celta Vigo",
+    "team_b": "PAOK",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Celta-Vigo-PAOK-26022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Fateh",
+    "team_b": "Damac FC",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Fateh-Damac-FC-26022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "KRC Genk",
+    "team_b": "GNK Dinamo Zagreb",
+    "event_name": "UEFA Europa League",
+    "poster_id": "KRC-Genk-GNK-Dinamo-Zagreb-26022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Nottingham Forest",
+    "team_b": "FenerbahÃ§e",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Nottingham-Forest-FenerbahÃ§e-26022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Lech PoznaÅ",
+    "team_b": "Kuopion Palloseura",
+    "event_name": "UEFA Conference League",
+    "poster_id": "Lech-PoznaÅ-Kuopion-Palloseura-26022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Crystal Palace",
+    "team_b": "HÅ K Zrinjski Mostar",
+    "event_name": "UEFA Conference League",
+    "poster_id": "Crystal-Palace-HÅ-K-Zrinjski-Mostar-26022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "AZ Alkmaar",
+    "team_b": "FC Noah",
+    "event_name": "UEFA Conference League",
+    "poster_id": "AZ-Alkmaar-FC-Noah-26022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Lausanne-Sport",
+    "team_b": "SK Sigma Olomouc",
+    "event_name": "UEFA Conference League",
+    "poster_id": "FC-Lausanne-Sport-SK-Sigma-Olomouc-26022026.png",
+    "match_type": "team_vs_team"
   }
 ]

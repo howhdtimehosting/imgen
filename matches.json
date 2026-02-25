@@ -215,5 +215,12 @@
     "event_name": "ICC T20 World Cup",
     "poster_id": "West-Indies-South-Africa-26022026.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Atalanta",
+    "team_b": "Borussia Dortmund",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Atalanta-Borussia-Dortmund-25022026.png",
+    "match_type": "team_vs_team"
   }
 ]

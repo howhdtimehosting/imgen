@@ -28,13 +28,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "South Africa Women",
-    "team_b": "Pakistan Women",
-    "event_name": "ICC Women's Championship",
-    "poster_id": "South-Africa-Women-Pakistan-Women-25022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Bayer 04 Leverkusen",
     "team_b": "Olympiacos FC",
     "event_name": "UEFA Champions League",
@@ -207,6 +200,20 @@
     "team_b": "Club Brugge KV",
     "event_name": "UEFA Champions League",
     "poster_id": "AtlÃ©tico-Madrid-Club-Brugge-KV-24022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sri Lanka",
+    "team_b": "New Zealand",
+    "event_name": "ICC T20 World Cup",
+    "poster_id": "Sri-Lanka-New-Zealand-25022026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "West Indies",
+    "team_b": "South Africa",
+    "event_name": "ICC T20 World Cup",
+    "poster_id": "West-Indies-South-Africa-26022026.png",
     "match_type": "team_vs_team"
   }
 ]

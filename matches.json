@@ -28,90 +28,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Bayer 04 Leverkusen",
-    "team_b": "Olympiacos FC",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Bayer-04-Leverkusen-Olympiacos-FC-24022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Inter",
-    "team_b": "BodÃ¸/Glimt",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Inter-BodÃ¸Glimt-24022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Newcastle United",
-    "team_b": "QarabaÄ FK",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Newcastle-United-QarabaÄ-FK-24022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Juventus",
-    "team_b": "Galatasaray",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Juventus-Galatasaray-25022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Madrid",
-    "team_b": "Benfica",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Real-Madrid-Benfica-25022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Paris Saint-Germain",
-    "team_b": "AS Monaco",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Paris-Saint-Germain-AS-Monaco-25022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "AtlÃ©tico Madrid",
-    "team_b": "Club Brugge KV",
-    "event_name": "UEFA Champions League",
-    "poster_id": "AtlÃ©tico-Madrid-Club-Brugge-KV-24022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sri Lanka",
-    "team_b": "New Zealand",
-    "event_name": "ICC T20 World Cup",
-    "poster_id": "Sri-Lanka-New-Zealand-25022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "West Indies",
-    "team_b": "South Africa",
-    "event_name": "ICC T20 World Cup",
-    "poster_id": "West-Indies-South-Africa-26022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Atalanta",
-    "team_b": "Borussia Dortmund",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Atalanta-Borussia-Dortmund-25022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "India",
-    "team_b": "Zimbabwe",
-    "event_name": "ICC T20 World Cup",
-    "poster_id": "India-Zimbabwe-26022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "England",
-    "team_b": "New Zealand",
-    "event_name": "ICC T20 World Cup",
-    "poster_id": "England-New-Zealand-27022026.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Zimbabwe",
     "team_b": "South Africa",
     "event_name": "ICC T20 World Cup",
@@ -119,10 +35,206 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Sri Lanka",
-    "team_b": "Pakistan",
+    "team_a": "India",
+    "team_b": "West Indies",
     "event_name": "ICC T20 World Cup",
-    "poster_id": "Sri-Lanka-Pakistan-28022026.png",
+    "poster_id": "India-West-Indies-01032026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cremonese",
+    "team_b": "Milan",
+    "event_name": "Serie A",
+    "poster_id": "Cremonese-Milan-01032026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Rangers",
+    "team_b": "Celtic",
+    "event_name": "Scottish Premiership",
+    "poster_id": "Rangers-Celtic-01032026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Sociedad B U21",
+    "team_b": "Deportivo La CoruÃ±a",
+    "event_name": "LaLiga 2",
+    "poster_id": "Real-Sociedad-B-U21-Deportivo-La-CoruÃ±a-01032026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Elche",
+    "team_b": "Espanyol",
+    "event_name": "LaLiga",
+    "poster_id": "Elche-Espanyol-01032026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "GenÃ§lerbirliÄi",
+    "team_b": "Kayserispor",
+    "event_name": "Trendyol SÃ¼per Lig",
+    "poster_id": "GenÃ§lerbirliÄi-Kayserispor-01032026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Manchester United",
+    "team_b": "Crystal Palace",
+    "event_name": "Premier League",
+    "poster_id": "Manchester-United-Crystal-Palace-01032026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Paris FC",
+    "team_b": "Nice",
+    "event_name": "Ligue 1",
+    "poster_id": "Paris-FC-Nice-01032026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Brighton & Hove Albion",
+    "team_b": "Nottingham Forest",
+    "event_name": "Premier League",
+    "poster_id": "Brighton-&-Hove-Albion-Nottingham-Forest-01032026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Fulham",
+    "team_b": "Tottenham Hotspur",
+    "event_name": "Premier League",
+    "poster_id": "Fulham-Tottenham-Hotspur-01032026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sassuolo",
+    "team_b": "Atalanta",
+    "event_name": "Serie A",
+    "poster_id": "Sassuolo-Atalanta-01032026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "MirandÃ©s",
+    "team_b": "AD Ceuta",
+    "event_name": "LaLiga 2",
+    "poster_id": "MirandÃ©s-AD-Ceuta-01032026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Valencia",
+    "team_b": "Osasuna",
+    "event_name": "LaLiga",
+    "poster_id": "Valencia-Osasuna-01032026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "GNK Dinamo Zagreb",
+    "team_b": "HNK Gorica",
+    "event_name": "HNL",
+    "poster_id": "GNK-Dinamo-Zagreb-HNK-Gorica-01032026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Metz",
+    "team_b": "Stade Brestois",
+    "event_name": "Ligue 1",
+    "poster_id": "Metz-Stade-Brestois-01032026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Lorient",
+    "team_b": "Auxerre",
+    "event_name": "Ligue 1",
+    "poster_id": "Lorient-Auxerre-01032026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Lille",
+    "team_b": "Nantes",
+    "event_name": "Ligue 1",
+    "poster_id": "Lille-Nantes-01032026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Arsenal",
+    "team_b": "Chelsea",
+    "event_name": "Premier League",
+    "poster_id": "Arsenal-Chelsea-01032026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Eintracht Frankfurt",
+    "team_b": "SC Freiburg",
+    "event_name": "Bundesliga",
+    "poster_id": "Eintracht-Frankfurt-SC-Freiburg-01032026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Torino",
+    "team_b": "Lazio",
+    "event_name": "Serie A",
+    "poster_id": "Torino-Lazio-01032026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Betis",
+    "team_b": "Sevilla",
+    "event_name": "LaLiga",
+    "poster_id": "Real-Betis-Sevilla-01032026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cultural Leonesa",
+    "team_b": "Las Palmas",
+    "event_name": "LaLiga 2",
+    "poster_id": "Cultural-Leonesa-Las-Palmas-01032026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Eibar",
+    "team_b": "CÃ¡diz",
+    "event_name": "LaLiga 2",
+    "poster_id": "Eibar-CÃ¡diz-01032026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Roma",
+    "team_b": "Juventus",
+    "event_name": "Serie A",
+    "poster_id": "Roma-Juventus-01032026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Olympique de Marseille",
+    "team_b": "Olympique Lyonnais",
+    "event_name": "Ligue 1",
+    "poster_id": "Olympique-de-Marseille-Olympique-Lyonnais-01032026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Girona FC",
+    "team_b": "Celta Vigo",
+    "event_name": "LaLiga",
+    "poster_id": "Girona-FC-Celta-Vigo-01032026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pisa",
+    "team_b": "Bologna",
+    "event_name": "Serie A",
+    "poster_id": "Pisa-Bologna-02032026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Udinese",
+    "team_b": "Fiorentina",
+    "event_name": "Serie A",
+    "poster_id": "Udinese-Fiorentina-02032026.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Madrid",
+    "team_b": "Getafe",
+    "event_name": "LaLiga",
+    "poster_id": "Real-Madrid-Getafe-02032026.png",
     "match_type": "team_vs_team"
   }
 ]

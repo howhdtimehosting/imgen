@@ -61,5 +61,12 @@
     "event_name": "AFC Women's Asian Cup",
     "poster_id": "Bangladesh-North-Korea-06032026.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India",
+    "team_b": "New Zealand",
+    "event_name": "ICC T20 World Cup",
+    "poster_id": "India-New-Zealand-08032026.png",
+    "match_type": "team_vs_team"
   }
 ]
